@@ -1,0 +1,50 @@
+1::What is the study of fluids in motion called?::Fluid statics::Fluid dynamics::Hydrostatics::Thermodynamics::B::Fluid dynamics is the study of fluids (liquids and gases) in motion.
+2::The SI unit of viscosity is::Pascal::Newton::Poise::Pascal-second::D::The SI unit of viscosity is pascal-second (Pa·s), equivalent to kg·m⁻¹·s⁻¹.
+3::Which of the following is an example of streamline flow?::Turbulent flow::River rapids::Flow in a pipe at low speed::Waterfall::C::Streamline (laminar) flow occurs at low speeds, as in a pipe with smooth flow.
+4::Bernoulli’s equation relates::Pressure, velocity, and height::Force, mass, and acceleration::Viscosity and density::Volume and temperature::A::Bernoulli’s equation relates pressure, fluid velocity, and elevation in a flowing fluid.
+5::According to Bernoulli’s principle, where fluid velocity increases, pressure::Increases::Decreases::Remains constant::Becomes zero::B::Bernoulli’s principle states that an increase in fluid velocity decreases pressure.
+6::The dimension of viscosity is::[ML⁻¹T⁻¹]::[MLT⁻²]::[ML⁻¹T⁻²]::[ML²T⁻¹]::A::Viscosity η = F/(A·dv/dx) = [MLT⁻²]/[L²·LT⁻¹/L] = [ML⁻¹T⁻¹].
+7::The equation of continuity is based on the conservation of::Energy::Momentum::Mass::Charge::C::The equation of continuity (A₁v₁ = A₂v₂) is based on the conservation of mass.
+8::What is the formula for the equation of continuity?::A₁v₁ = A₂v₂::P₁A₁ = P₂A₂::v₁/A₁ = v₂/A₂::P₁v₁ = P₂v₂::A::A₁v₁ = A₂v₂ ensures constant mass flow rate in an incompressible fluid.
+9::The SI unit of pressure is::Newton::Joule::Pascal::Watt::C::Pascal (Pa) is the SI unit of pressure, equal to N/m² or kg·m⁻¹·s⁻².
+10::What is the pressure at a depth h in a fluid of density ρ (g = 10 m/s²)?::P = ρgh::P = ρg/h::P = h/ρg::P = ρ/hg::A::Pressure at depth h is P = ρgh, derived from the weight of the fluid column.
+11::If the cross-sectional area of a pipe decreases, the fluid velocity::Decreases::Increases::Remains constant::Becomes zero::B::By the equation of continuity (A₁v₁ = A₂v₂), velocity increases as area decreases.
+12::What is the unit of flow rate in SI?::m³/s::m²/s::m/s::kg/s::A::Flow rate Q = A·v, with units m²·m/s = m³/s.
+13::Turbulent flow occurs at::Low velocity::High velocity::Constant velocity::Zero velocity::B::Turbulent flow occurs at high velocities, causing irregular motion.
+14::The viscosity of a liquid generally::Increases with temperature::Decreases with temperature::Remains constant::Becomes zero::B::For most liquids, viscosity decreases as temperature increases due to increased molecular motion.
+15::What is the terminal velocity of an object falling through a fluid?::Maximum velocity::Minimum velocity::Constant velocity::Zero velocity::C::Terminal velocity is the constant velocity reached when drag equals gravitational force.
+16::Stoke’s law applies to::Large objects::Spherical objects in viscous fluid::Non-spherical objects::Objects in vacuum::B::Stoke’s law describes the drag force on small spherical objects in a viscous fluid.
+17::The drag force according to Stoke’s law is proportional to::Radius::Radius squared::Velocity squared::Density::A::Drag force F = 6πηrv, proportional to radius (r) and velocity (v).
+18::What is the dimension of pressure?::[ML⁻¹T⁻²]::[MLT⁻²]::[ML⁻¹T⁻¹]::[ML²T⁻²]::A::Pressure = force/area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²].
+19::Bernoulli’s equation is a statement of conservation of::Mass::Momentum::Energy::Charge::C::Bernoulli’s equation represents the conservation of mechanical energy per unit volume.
+20::The pressure in a fluid at rest is called::Dynamic pressure::Static pressure::Total pressure::Kinetic pressure::B::Static pressure is the pressure in a fluid at rest, as in hydrostatics.
+21::What is the flow rate if a pipe of area 0.01 m² has a velocity of 2 m/s?::0.02 m³/s::0.01 m³/s::0.04 m³/s::0.005 m³/s::A::Flow rate Q = A·v = 0.01 × 2 = 0.02 m³/s.
+22::The force exerted by a fluid on an object is called::Thrust::Drag::Lift::Torque::C::Lift is the force exerted by a fluid (e.g., air) perpendicular to the flow, as in airplane wings.
+23::What is the pressure at a depth of 10 m in water (ρ = 1000 kg/m³, g = 10 m/s²)?::10⁵ P::a10⁴ P::a10³ P::a10⁶ P::aA::P = ρgh = 1000 × 10 × 10 = 10⁵ Pa.
+24::The terminal velocity depends on::Radius of object::Viscosity of fluid::Density of fluid::All of these::D::Terminal velocity depends on radius, viscosity, and densities, as per Stoke’s law.
+25::Which of the following is a vector quantity?::Pressure::Density::Velocity::Viscosity::C::Velocity is a vector quantity, having both magnitude and direction.
+26::The equation P + ρgh + (1/2)ρv² = constant is::Equation of continuity::Bernoulli’s equation::Stoke’s law::Poiseuille’s law::B::Bernoulli’s equation includes pressure, potential energy, and kinetic energy terms.
+27::The viscosity of gases generally::Increases with temperature::Decreases with temperature::Remains constant::Becomes zero::A::Gas viscosity increases with temperature due to increased molecular collisions.
+28::What is the drag force on a sphere of radius 0.01 m moving at 2 m/s in a fluid with η = 0.1 Pa·s?::0.0377 N::0.0754 N::0.1885 N::0.377 N::A::F = 6πηrv = 6 × 3.14 × 0.1 × 0.01 × 2 = 0.0377 N.
+29::The flow of a fluid is laminar if the Reynolds number is::High::Low::Zero::Infinite::B::Low Reynolds number (<2000) indicates laminar flow; high (>4000) indicates turbulent flow.
+30::What is the velocity in a pipe of area 0.02 m² if the flow rate is 0.04 m³/s?::1 m/s::2 m/s::3 m/s::4 m/s::B::v = Q/A = 0.04/0.02 = 2 m/s.
+31::The principle used in the working of an airplane wing is::Equation of continuity::Bernoulli’s principle::Stoke’s law::Archimedes’ principle::B::Bernoulli’s principle explains lift:: higher velocity over the wing reduces pressure.
+32::The dimension of flow rate is::[L³T⁻¹]::[L²T⁻¹]::[LT⁻¹]::[L³T⁻²]::A::Flow rate Q = volume/time = [L³]/[T] = [L³T⁻¹].
+33::What is the pressure difference in a fluid flowing through a pipe if v = 4 m/s and ρ = 1000 kg/m³?::8000 P::a4000 P::a2000 P::a16000 P::aA::Dynamic pressure = (1/2)ρv² = (1/2) × 1000 × 4² = 8000 Pa.
+34::The upthrust on an object in a fluid is given by::Archimedes’ principle::Bernoulli’s principle::Stoke’s law::Poiseuille’s law::A::Archimedes’ principle states that upthrust equals the weight of displaced fluid.
+35::What is the unit of dynamic viscosity in terms of base units?::kg·m⁻¹·s⁻¹::kg·m·s⁻²::kg·m²·s⁻¹::kg·m⁻¹·s⁻²::A::Viscosity η = Pa·s = (N/m²)·s = (kg·m·s⁻²/m²)·s = kg·m⁻¹·s⁻¹.
+36::The flow rate through a pipe depends on::Are::aVelocity::Both::Neither::C::Flow rate Q = A·v, depending on both cross-sectional area and velocity.
+37::What is the density of water in SI units?::100 kg/m³::1000 kg/m³::10 kg/m³::10000 kg/m³::B::The density of water is approximately 1000 kg/m³.
+38::The pressure exerted by a fluid column increases with::Depth::Density::Both::Neither::C::Pressure P = ρgh increases with both depth (h) and density (ρ).
+39::What is the terminal velocity of a sphere if F = 6πηrv balances mg?::v = mg/6πηr::v = 6πηr/mg::v = mgη/6πr::v = 6πr/mgη::A::At terminal velocity, mg = 6πηrv, so v = mg/(6πηr).
+40::The Reynolds number is dimensionless because it is a ratio of::Forces::Velocities::Densities::Viscosities::A::Reynolds number Re = ρvL/η compares inertial to viscous forces, making it dimensionless.
+41::What is the upthrust on an object of volume 0.01 m³ in water (ρ = 1000 kg/m³, g = 10 m/s²)?::10 N::100 N::1000 N::0.1 N::B::Upthrust = ρVg = 1000 × 0.01 × 10 = 100 N.
+42::The velocity of a fluid increases when the pipe’s diameter::Increases::Decreases::Remains constant::Becomes zero::B::By A₁v₁ = A₂v₂, velocity increases as diameter (and area) decreases.
+43::What is the pressure at 5 m depth in a fluid with ρ = 800 kg/m³ (g = 10 m/s²)?::40000 P::a80000 P::a20000 P::a50000 P::aA::P = ρgh = 800 × 10 × 5 = 40000 Pa.
+44::The working of a venturi meter is based on::Bernoulli’s principle::Stoke’s law::Archimedes’ principle::Poiseuille’s law::A::A venturi meter uses Bernoulli’s principle to measure flow rate via pressure differences.
+45::The drag force on an object in a fluid depends on::Velocity::Viscosity::Radius::All of these::D::Drag force (per Stoke’s law) depends on velocity, viscosity, and radius.
+46::What is the flow rate if a pipe of radius 0.05 m has a velocity of 3 m/s?::0.0236 m³/s::0.0471 m³/s::0.0707 m³/s::0.0942 m³/s::A::Q = A·v = πr²·v = 3.14 × (0.05)² × 3 = 0.0236 m³/s.
+47::The pressure difference across a wing causes::Drag::Lift::Thrust::Torque::B::Lift is caused by the pressure difference (lower pressure above the wing) per Bernoulli’s principle.
+48::What is the viscosity if a sphere of radius 0.02 m falls at 0.5 m/s with F = 0.0942 N?::0.1 Pa·s::0.2 Pa·s::0.3 Pa·s::0.4 Pa·s::A::F = 6πηrv, η = F/(6πrv) = 0.0942/(6 × 3.14 × 0.02 × 0.5) = 0.1 Pa·s.
+49::The equation of continuity applies to::Compressible fluids only::Incompressible fluids only::All fluids::Gases only::B::The equation of continuity A₁v₁ = A₂v₂ assumes constant density (incompressible fluids).
+50::The principle behind the spray gun is::Bernoulli’s principle::Archimedes’ principle::Stoke’s law::Poiseuille’s law::A::A spray gun uses Bernoulli’s principle:: high velocity creates low pressure, drawing fluid out.

@@ -1,0 +1,202 @@
+1::The term data refers to::Raw facts and figures::Processed information::Program instructions::Hardware components::A::Data is unprocessed facts.
+2::Information is::Processed dat::aRaw dat::aHardware::Software::A::Information is data that has been organized.
+3::A bit is a::Binary digit::Byte::Kilobyte::Megabyte::A::Bit is 0 or 1.
+4::One byte equals::8 bits::16 bits::4 bits::32 bits::A::1 byte = 8 bits.
+5::The smallest unit of data in a computer is::Bit::Byte::Nibble::Word::A::Bit is the smallest unit.
+6::ASCII stands for::American Standard Code for Information Interchange::Advanced System Code for Integration::American System Code for Interface::None::A::Standard for character encoding.
+7::The number of characters in ASCII-7 is::128::256::64::512::A::2^7 = 128 characters.
+8::Data type used for storing text is::Character::Integer::Float::Boolean::A::Stores letters, symbols, etc.
+9::The binary equivalent of decimal 10 is::1010::1100::1000::1110::A::10 = 8 + 2 = 2^3 + 2^1.
+10::EBCDIC is used primarily by::IBM mainframes::Personal computers::Mobile devices::None::A::Extended Binary Coded Decimal Interchange Code.
+11::Unicode supports how many characters::65,536::128::256::1,024::A::2^16 = 65,536.
+12::The size of a double data type in C is typically::8 bytes::4 bytes::2 bytes::16 bytes::A::Double precision floating-point.
+13::Data redundancy means::Duplicate dat::aMissing dat::aCorrupted dat::aEncrypted dat::aA::Unnecessary repetition of data.
+14::The base of the hexadecimal system is::16::8::2::10::A::Uses 0–9 and A–F.
+15::The octal number 17 in decimal is::15::17::13::19::A::1*8^1 + 7*8^0 = 8 + 7 = 15.
+16::A database is::A collection of organized dat::aA programming language::A hardware device::None::A::Stores data systematically.
+17::DBMS stands for::Database Management System::Data Backup Management System::Database Manipulation System::None::A::Software to manage databases.
+18::An example of a DBMS is::Microsoft Access::C++::Windows::Notepad::A::A relational DBMS.
+19::A record in a database is::A row::A column::A table::A field::A::Represents one entity.
+20::A field in a database is::A column::A row::A table::A query::A::Represents an attribute.
+21::The primary key in a table::Uniquely identifies each record::Can be null::Is always numeric::None::A::Ensures uniqueness.
+22::A candidate key is::A potential primary key::A foreign key::A composite key::None::A::Can uniquely identify records.
+23::The relationship between tables is established by::Foreign key::Primary key::Index::View::A::Links records between tables.
+24::A tuple in a relational database is::A record::A field::A table::A query::A::Synonym for a row.
+25::The number of fields in a table defines its::Degree::Cardinality::Arity::None::A::Number of attributes.
+26::The number of records in a table defines its::Cardinality::Degree::Arity::None::A::Number of tuples.
+27::An example of a non-relational database is::MongoDB::Oracle::MySQL::Access::A::Stores data in JSON-like documents.
+28::The schema of a database defines its::Structure::Dat::aQueries::Reports::A::Tables, fields, relationships.
+29::A relational database organizes data in::Tables::Files::Arrays::Stacks::A::Based on relational model.
+30::SQL stands for::Structured Query Language::Simple Query Language::System Query Language::None::A::Used to interact with databases.
+31::The first step in database design is::Requirement analysis::Normalization::Implementation::Testing::A::Gathering user needs.
+32::An entity in ER diagram represents::A table::A field::A relationship::A query::A::Real-world object.
+33::An attribute in ER diagram represents::A field::A table::A relationship::A record::A::Property of an entity.
+34::A relationship in ER diagram is shown by::Diamond shape::Rectangle::Oval::Line::A::Connects entities.
+35::The cardinality of a one-to-many relationship means::One record relates to multiple records::One record to one record::Many to many::None::A::E.g., one department, many employees.
+36::A weak entity depends on::Strong entity::Foreign key::Primary key::None::A::Cannot exist independently.
+37::The purpose of an ER diagram is to::Model database structure::Write queries::Create forms::Generate reports::A::Visual representation of database.
+38::A composite attribute is::Made of multiple attributes::A single attribute::A key::None::A::E.g., address (city, street).
+39::The process of removing anomalies in a database is::Normalization::Denormalization::Indexing::Querying::A::Ensures data consistency.
+40::The primary goal of database design is::Data integrity::Data redundancy::Data duplication::None::A::Accurate and reliable data.
+41::A multivalued attribute stores::Multiple values::Single value::Null value::None::A::E.g., phone numbers.
+42::The degree of a relationship is::Number of participating entities::Number of records::Number of fields::None::A::E.g., binary, ternary.
+43::An ER diagram uses which symbol for attributes::Oval::Rectangle::Diamond::Line::A::Connected to entities.
+44::The conceptual model is created during::Design phase::Requirement phase::Implementation phase::Testing phase::A::High-level design.
+45::A derived attribute is::Calculated from other attributes::Stored permanently::A primary key::None::A::E.g., age from birthdate.
+46::Data integrity ensures::Accuracy and consistency::Data redundancy::Data duplication::None::A::Reliable data.
+47::The type of integrity enforced by primary key is::Entity integrity::Referential integrity::Domain integrity::None::A::No nulls, unique values.
+48::Referential integrity is maintained by::Foreign key::Primary key::Candidate key::None::A::Ensures valid relationships.
+49::Normalization removes::Data anomalies::Data integrity::Data consistency::None::A::Eliminates redundancy.
+50::The first normal form (1NF) requires::Atomic values::No repeating groups::Both A and B::None::C::Single-valued attributes.
+51::A table in 2NF must be in::1NF::3NF::BCNF::None::A::And no partial dependencies.
+52::A table in 3NF has no::Transitive dependencies::Partial dependencies::Functional dependencies::None::A::Ensures no indirect dependencies.
+53::BCNF is a stronger form of::3NF::2NF::1NF::None::A::No non-trivial dependencies.
+54::A functional dependency is::A relationship between attributes::A key::A query::None::A::One attribute determines another.
+55::The process of reversing normalization is::Denormalization::Normalization::Indexing::Partitioning::A::Improves performance.
+56::A partial dependency occurs when::Non-key attribute depends on part of key::Key depends on non-key::None::Both::A::Violates 2NF.
+57::A transitive dependency involves::Non-key attributes::Key attributes::Foreign keys::None::A::Violates 3NF.
+58::The primary key ensures::Uniqueness::Null values::Redundancy::None::A::Unique identification.
+59::Domain integrity restricts::Valid values for attributes::Relationships::Keys::None::A::E.g., age > 0.
+60::The purpose of normalization is to::Minimize redundancy::Maximize redundancy::Increase anomalies::None::A::Efficient database structure.
+61::Microsoft Access is a::Relational DBMS::Programming language::Operating system::Text editor::A::Manages databases.
+62::The file extension of an Access database is::.accdb::.mdb::Both A and B::.docx::C::Modern and older formats.
+63::A table in Access stores::Dat::aQueries::Forms::Reports::A::Organized in rows and columns.
+64::A query in Access is used to::Retrieve dat::aStore dat::aDesign forms::Create reports::A::Extract specific data.
+65::A form in Access provides::User interface::Data storage::Data retrieval::None::A::For data entry/view.
+66::A report in Access is used to::Present dat::aEnter dat::aQuery dat::aNone::A::Formatted output.
+67::The primary key in Access is set in::Table Design view::Datasheet view::Query view::Form view::A::Defines table structure.
+68::The default data type for a field in Access is::Short Text::Number::Date/Time::Currency::A::Stores text up to 255 characters.
+69::A relationship in Access is created in::Relationships window::Table Design::Query Design::Form Design::A::Links tables.
+70::The maximum size of an Access database is::2 GB::4 GB::1 GB::8 GB::A::For .accdb format.
+71::A macro in Access is used to::Automate tasks::Store dat::aCreate queries::None::A::E.g., open a form.
+72::The navigation pane in Access displays::Database objects::Data records::Code::None::A::Tables, queries, forms, etc.
+73::A field property in Access controls::Data behavior::Table structure::Query design::None::A::E.g., format, validation.
+74::The data type for storing images in Access is::OLE Object::Attachment::Hyperlink::Short Text::B::Modern way for files.
+75::A lookup field in Access::Displays values from another table::Stores multiple values::Calculates values::None::A::Simplifies data entry.
+
+### Chapter 6:: Table and Query
+76::A table in Access is created in::Design view::Datasheet view::Both A and B::Query view::C::Design for structure, Datasheet for data.
+77::The primary key in a table::Cannot be null::Can be null::Is optional::None::A::Ensures uniqueness.
+78::A query that retrieves data is::Select query::Action query::Crosstab query::None::A::Displays specific records.
+79::An action query::Modifies dat::aRetrieves dat::aFormats dat::aNone::A::E.g., update, delete.
+80::The SQL view in Access shows::Query code::Table structure::Form design::Report layout::A::SQL behind a query.
+81::A relationship type in Access is::One-to-many::One-to-one::Many-to-many::All::D::Common relationship types.
+82::The criteria in a query filters::Records::Fields::Tables::None::A::Based on conditions.
+83::A calculated field in a query::Computes values::Stores dat::aLinks tables::None::A::E.g., [Price] * [Quantity].
+84::The join type that includes all records from one table is::Outer join::Inner join::Equi-join::None::A::Left or right outer join.
+85::A parameter query::Prompts for input::Runs automatically::Modifies dat::aNone::A::Dynamic query criteria.
+86::The maximum number of characters in a Short Text field is::255::256::512::128::A::Default text limit.
+87::A query that summarizes data is::Crosstab query::Select query::Action query::None::A::Pivots data into a table.
+88::The referential integrity in Access ensures::Valid foreign key values::Duplicate records::Null keys::None::A::Maintains relationships.
+89::A field with AutoNumber data type::Generates unique values::Stores text::Stores dates::None::A::Automatic numbering.
+90::The purpose of indexing a field is::Faster queries::Data storage::Data entry::None::A::Improves search performance.
+91::A form in Access is used for::Data entry::Data retrieval::Data presentation::None::A::User-friendly interface.
+92::A report in Access is designed in::Design view::Layout view::Both A and B::Datasheet view::C::For structure and formatting.
+93::A bound control in a form is::Linked to a field::Not linked::A label::None::A::Displays table/query data.
+94::An unbound control in a form is::Not linked to dat::aLinked to a field::A calculated field::None::A::E.g., labels, images.
+95::A form property controls::Form behavior::Field behavior::Table structure::None::A::E.g., caption, size.
+96::A report groups data by::Field values::Queries::Forms::None::A::E.g., group by department.
+97::The section of a report that appears once is::Report Header::Page Header::Group Header::Detail::A::At the start of the report.
+98::A control that displays calculated values is::Text Box::Label::Combo Box::List Box::A::With a formula.
+99::A combo box in a form::Displays a dropdown list::Stores multiple values::Calculates values::None::A::For selecting values.
+100::The layout view in Access allows::Formatting while viewing dat::aStructural changes::Query design::None::A::Interactive design.
+101::A subform displays::Related table dat::aUnrelated dat::aQueries::Reports::A::E.g., orders for a customer.
+102::A report’s Page Footer appears::At the bottom of each page::Once in the report::Per group::None::A::E.g., page numbers.
+103::A form’s Record Source is::Table or query::Report::Macro::None::A::Source of form data.
+104::The purpose of a tab control in a form is::Organize controls::Store dat::aRun queries::None::A::Multiple tabs for fields.
+105::A report’s sorting is set in::Grouping and Sorting::Query design::Table design::None::A::Controls data order.
+106::C is a::High-level language::Low-level language::Assembly language::None::A::Structured programming language.
+107::The creator of C is::Dennis Ritchie::Bill Gates::James Gosling::None::A::Developed at Bell Labs.
+108::A C program must have::main() function::printf()::scanf()::None::A::Entry point of execution.
+109::The file extension of a C source file is::.c::.cpp::.h::.exe::A::Standard for C code.
+110::The compiler converts C code into::Machine code::Bytecode::Assembly code::None::A::Executable binary.
+111::The header file for printf() is::stdio.h::conio.h::stdlib.h::math.h::A::Standard input/output.
+112::A comment in C starts with::// or /*::#::%::None::A::Single-line or multi-line.
+113::The size of int in C is typically::4 bytes::2 bytes::8 bytes::1 byte::A::Depends on system (32-bit).
+114::The process of finding errors in a program is::Debugging::Compiling::Linking::None::A::Fixing logical/syntax errors.
+115::The keyword to declare a constant in C is::const::define::static::volatile::A::Prevents value change.
+116::The preprocessor directive starts with::#:://::/*::None::A::E.g., #include, #define.
+117::The standard output function in C is::printf()::scanf()::getch()::clrscr()::A::Displays output.
+118::A C program is executed by::Run-time environment::Compiler::Linker::None::A::After compilation.
+119::The header file for mathematical functions is::math.h::stdio.h::stdlib.h::string.h::A::E.g., sqrt(), pow().
+120::The purpose of a linker is::Combine object files::Check syntax::Run program::None::A::Creates executable.
+121::A variable in C must be::Declared before use::Initialized::Global::None::A::Specify data type.
+122::The data type for decimal numbers is::float::int::char::void::A::Stores floating-point values.
+123::The range of signed char is::-128 to 127::0 to 255::-127 to 127::0 to 127::A::8-bit signed integer.
+124::The operator % in C is used for::Modulus::Division::Multiplication::None::A::Remainder of division.
+125::The logical AND operator in C is::&&::||::!::&::A::Returns true if both operands are true.
+126::The increment operator in C is::++::--::+=::-=::A::Increases value by 1.
+127::The size of a pointer in a 32-bit system is::4 bytes::8 bytes::2 bytes::1 byte::A::Holds memory address.
+128::The keyword to define a constant macro is::#define::const::static::volatile::A::Preprocessor directive.
+129::The operator to access structure members is::. (dot)::->::*::&::A::For structure variables.
+130::The format specifier for float is::%f::%d::%c::%s::A::Displays decimal numbers.
+131::The scope of a local variable is::Within its block::Entire program::File::None::A::Limited to function/block.
+132::The data type void indicates::No return value::Any value::Null value::None::A::Used in functions.
+133::The bitwise AND operator is::&::&&::|::||::A::Operates on bits.
+134::The ternary operator in C is::?:: ::&&::||::!::A::condition ? expr1 :: expr2.
+135::The storage class that initializes variables to zero is::static::auto::register::extern::A::Static variables.
+136::The function to read a character in C is::getchar()::putchar()::printf()::scanf()::A::Reads a single character.
+137::The function to display a string is::puts()::gets()::printf()::scanf()::A::Outputs string with newline.
+138::The format specifier for a string is::%s::%c::%d::%f::A::For character arrays.
+139::The function scanf() returns::Number of items read::Zero::One::None::A::Successful inputs.
+140::The function to read a string is::gets()::puts()::scanf()::getchar()::A::Reads entire string (unsafe).
+141::The escape sequence for newline is::\n::\t::\b::\r::A::Moves cursor to next line.
+142::The function to clear the screen is::clrscr()::getch()::printf()::scanf()::A::Non-standard, in conio.h.
+143::The function to read input until Enter is pressed is::gets()::getchar()::scanf()::puts()::A::Deprecated due to security.
+144::The format specifier for a pointer is::%p::%d::%f::%s::A::Displays memory address.
+145::The function to display a character is::putchar()::getchar()::printf()::scanf()::A::Outputs a single character.
+146::The escape sequence for tab is::\t::\n::\b::\r::A::Horizontal tab.
+147::The function to pause program execution is::getch()::clrscr()::printf()::scanf()::A::Waits for keypress.
+148::The header file for getch() is::conio.h::stdio.h::stdlib.h::math.h::A::Non-standard library.
+149::The function printf() returns::Number of characters printed::Zero::One::None::A::Successful output count.
+150::The safe alternative to gets() is::fgets()::scanf()::getchar()::puts()::A::Reads string with buffer limit.
+151::The if statement in C executes::When condition is true::Always::When condition is false::None::A::Conditional execution.
+152::The else clause is::Optional::Mandatory::Not allowed::None::A::Executes if condition is false.
+153::The switch statement uses which data type::Integral::Float::String::None::A::int, char, enum.
+154::The break statement in switch::Exits the switch::Continues to next case::Skips case::None::A::Prevents fall-through.
+155::The default case in switch is::Optional::Mandatory::Not allowed::None::A::Executes if no case matches.
+156::The syntax of if-else is::if (condition) { } else { }::if { condition } else { }::if (condition) else { }::None::A::Standard syntax.
+157::The relational operator for not equal is::!=::==::> ::< ::A::Compares inequality.
+158::The nested if statement is::If inside if::Switch inside switch::Loop inside loop::None::A::Multiple conditions.
+159::The switch statement evaluates::One expression::Multiple expressions::No expression::None::A::Single value against cases.
+160::The else-if ladder handles::Multiple conditions::Single condition::No condition::None::A::Sequential checks.
+161::The logical OR operator is::||::&&::!::^::A::True if any operand is true.
+162::The case label in switch must be::Constant::Variable::Expression::None::A::Compile-time constant.
+163::The continue statement in switch::Skips to next case::Exits switch::Restarts switch::None::A::Invalid in switch.
+164::The if statement without braces applies to::Next single statement::Entire block::Nothing::None::A::Single-line scope.
+165::The purpose of decision constructs is::Control program flow::Data storage::Input/output::None::A::Based on conditions.
+166::The for loop in C is used for::Known iterations::Unknown iterations::No iterations::None::A::Fixed number of loops.
+167::The while loop executes::As long as condition is true::Once::Never::None::A::Condition checked before.
+168::The do-while loop executes::At least once::Never::As long as condition is false::None::A::Condition checked after.
+169::The syntax of for loop is::for (init; cond; update)::for (cond; init; update)::for (init; update; cond)::None::A::Initialization, condition, update.
+170::The break statement in a loop::Exits the loop::Skips iteration::Restarts loop::None::A::Terminates loop.
+171::The continue statement in a loop::Skips to next iteration::Exits loop::Restarts loop::None::A::Bypasses remaining code.
+172::The loop that checks condition at the end is::do-while::while::for::None::A::Guarantees one execution.
+173::The infinite loop occurs when::Condition is always true::Condition is false::No condition::None::A::E.g., for(;;).
+174::The loop counter in for loop is::Initialized once::Updated each iteration::Both A and B::None::C::Init and update.
+175::The nested loop is::Loop inside loop::If inside loop::Switch inside loop::None::A::E.g., matrix processing.
+176::The while loop is suitable for::Unknown iterations::Fixed iterations::No iterations::None::A::Condition-based looping.
+177::The decrement operator is::-- ::++ ::+= ::-= ::A::Decreases value by 1.
+178::The loop that processes arrays is::for::while::do-while::All::D::All can be used.
+179::The condition in a loop is evaluated::Before each iteration::After each iteration::Once::None::A::Except do-while (after).
+180::The purpose of loops is::Repeat code::Control flow::Data storage::None::A::Execute code multiple times.
+181::A function in C is::A reusable code block::A variable::A loop::None::A::Performs a specific task.
+182::The function declaration specifies::Return type and parameters::Function body::Variable names::None::A::E.g., int add(int, int).
+183::The function definition includes::Function body::Return type only::Parameters only::None::A::Implementation of function.
+184::The keyword to return a value is::return::void::break::continue::A::Sends value to caller.
+185::A function with no return value has type::void::int::float::char::A::No return statement needed.
+186::The actual parameters are::Values passed to function::Formal parameters::Return values::None::A::Arguments in function call.
+187::The formal parameters are::Variables in function definition::Actual parameters::Return values::None::A::Placeholders for arguments.
+188::The scope of a function parameter is::Within the function::Entire program::File::None::A::Local to function.
+189::A recursive function::Calls itself::Calls another function::Has no return::None::A::E.g., factorial.
+190::The default return type of a function is::int::void::float::char::A::If not specified.
+191::The function prototype is::Declaration without body::Definition::Call::None::A::Informs compiler.
+192::The header file for rand() is::stdlib.h::stdio.h::math.h::time.h::A::Standard library functions.
+193::The call by value in C means::Copy of value is passed::Reference is passed::No value passed::None::A::Original value unchanged.
+194::The call by reference uses::Pointers::Constants::Arrays::None::A::Modifies original value.
+195::The purpose of functions is::Code reusability::Data storage::Input/output::None::A::Modular programming.
+196::The function to open a file in C is::fopen()::open()::fclose()::fread()::A::Returns file pointer.
+197::The mode to read a file is::r::w::::arb::A::Opens for reading.
+198::The function to close a file is::fclose()::fopen()::fread()::fwrite()::A::Releases file resources.
+199::The mode to append data to a file is::::aw::r::rb::A::Adds data at the end.
+200::The function to read from a file is::fread()::fwrite()::fscanf()::All::D::Multiple ways to read.

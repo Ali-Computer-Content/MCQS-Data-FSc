@@ -1,0 +1,50 @@
+1::What is Information Technology (IT)?::The use of computers to store, process, and transmit dat::aThe development of computer hardware::The design of software applications::The maintenance of computer networks::A::IT involves using computers and technology to manage data and information.
+2::Which of the following is a primary function of a computer?::Data processing::Data printing::Data scanning::Data copying::A::Computers primarily process data to produce meaningful information.
+3::The raw facts and figures are called::Dat::aInformation::Knowledge::Output::A::Data consists of unprocessed facts and figures.
+4::Processed data that is meaningful is called::Dat::aInformation::Input::Output::B::Information is data that has been processed to be meaningful.
+5::Which component is considered the brain of a computer?::CPU::RAM::Hard Disk::Monitor::A::The CPU (Central Processing Unit) processes instructions, acting as the brain.
+6::Which of the following is an example of hardware?::Keyboard::Microsoft Word::Windows::Antivirus::A::Hardware includes physical components like the keyboard.
+7::Which of the following is an example of software?::Monitor::Operating System::Printer::Mouse::B::Software includes programs like operating systems.
+8::The users of a computer system are::Hardware components::Software applications::People interacting with the system::Network cables::C::Users are individuals who interact with the computer system.
+9::Which type of computer is used for large-scale scientific calculations?::Supercomputer::Mainframe::Personal Computer::Laptop::A::Supercomputers handle complex scientific computations.
+10::Which type of computer is used by large organizations for data processing?::Supercomputer::Mainframe::Microcomputer::Minicomputer::B::Mainframes are used for large-scale data processing in organizations.
+11::A laptop is an example of ::aSupercomputer::Mainframe::Microcomputer::Minicomputer::C::Laptops are microcomputers designed for personal use.
+12::Which of the following is a characteristic of a computer?::Accuracy::Speed::Versatility::All of these::D::Computers are accurate, fast, and versatile in performing tasks.
+13::The process of converting data into information is called::Input::Processing::Output::Storage::B::Processing transforms raw data into meaningful information.
+14::Which device is used to input data into a computer?::Monitor::Keyboard::Printer::Speaker::B::A keyboard is an input device for entering data.
+15::Which device is used to display output from a computer?::Scanner::Mouse::Monitor::Keyboard::C::A monitor displays output from the computer.
+16::The term ‘bit’ stands for::Binary Information::Binary Digit::Byte Information::Byte Digit::B::A bit is a Binary Digit, the smallest unit of data (0 or 1).
+17::How many bits make up a byte?::4::8::16::32::B::A byte consists of 8 bits.
+18::Which of the following is an application of IT in education?::Online learning::Word processing::Graphic design::Video editing::A::Online learning platforms use IT to deliver education.
+19::Which of the following is an application of IT in healthcare?::Electronic Health Records::Spreadsheets::Web browsers::Games::A::Electronic Health Records (EHR) use IT to manage patient data.
+20::Which of the following is an application of IT in business?::E-commerce::Antivirus::Operating System::Firmware::A::E-commerce uses IT for online transactions and business operations.
+21::What is the role of input devices in a computer system?::Process dat::aStore dat::aEnter dat::aDisplay dat::aC::Input devices, like keyboards, are used to enter data into the system.
+22::What is the role of output devices in a computer system?::Enter dat::aProcess dat::aDisplay or produce results::Store dat::aC::Output devices, like monitors, display or produce processed results.
+23::Which of the following is a storage device?::CPU::RAM::Monitor::Keyboard::B::RAM is a storage device for temporary data storage.
+24::The software that controls hardware is called::Application software::System software::Utility software::Firmware::B::System software, like operating systems, controls hardware operations.
+25::Which of the following is a type of system software?::Microsoft Word::Windows::Photoshop::Google Chrome::B::Windows is an operating system, a type of system software.
+26::Which of the following is a type of application software?::Linux::Antivirus::Microsoft Excel::BIOS::C::Microsoft Excel is application software for spreadsheets.
+27::The term ‘data’ refers to::Processed information::Raw facts and figures::Executable programs::Stored files::B::Data refers to unprocessed raw facts and figures.
+28::Which of the following is an example of a supercomputer?::Cray-1::Dell Inspiron::IBM PC::Apple MacBook::A::Cray-1 is a well-known supercomputer used for high-performance tasks.
+29::Which type of computer is portable?::Mainframe::Minicomputer::Laptop::Supercomputer::C::Laptops are portable microcomputers.
+30::The process of starting a computer is called::Booting::Processing::Formatting::Compiling::A::Booting is the process of starting or restarting a computer.
+31::Which of the following is a benefit of IT in communication?::Video conferencing::Database management::Graphic design::Spreadsheet analysis::A::Video conferencing uses IT to enable remote communication.
+32::What is the primary difference between data and information?::Data is processed, information is raw::Data is raw, information is processed::Data is stored, information is displayed::Data is permanent, information is temporary::B::Data is raw and unprocessed, while information is processed and meaningful.
+33::Which of the following is an example of a digital device?::Analog clock::Smartphone::Mechanical typewriter::Vinyl record player::B::A smartphone is a digital device that processes binary data.
+34::The smallest unit of information in a computer is::Byte::Bit::Nibble::Kilobyte::B::A bit (0 or 1) is the smallest unit of information.
+35::Which of the following is a characteristic of supercomputers?::Low processing power::High-speed calculations::Small size::Low cost::B::Supercomputers are known for their high-speed processing capabilities.
+36::Which component of a computer system includes the motherboard?::Hardware::Software::Firmware::Users::A::The motherboard is a hardware component.
+37::Which of the following is not a function of IT?::Data storage::Data processing::Data transmission::Data manufacturing::D::IT does not involve manufacturing data; it manages data.
+38::Which type of computer is used in embedded systems?::Supercomputer::Mainframe::Microcomputer::Minicomputer::C::Microcomputers are used in embedded systems like appliances.
+39::The term ‘byte’ represents::A single bit::A group of 8 bits::A group of 16 bits::A group of 4 bits::B::A byte is a group of 8 bits.
+40::Which IT application is used for online banking?::E-commerce::Telemedicine::E-learning::E-governance::A::Online banking is a form of e-commerce using IT for financial transactions.
+41::Which of the following is a role of IT in agriculture?::Weather forecasting systems::Word processing::Video editing::Graphic design::A::IT provides weather forecasting systems to aid agricultural planning.
+42::The process of converting analog signals to digital is called::Digitization::Processing::Encryption::Compression::A::Digitization converts analog signals into digital data.
+43::Which of the following is an example of a mainframe computer application?::Weather forecasting::Word processing::Gaming::Web browsing::A::Mainframes are used for large-scale tasks like weather forecasting.
+44::What is the purpose of a computer’s memory?::Process dat::aStore dat::aDisplay dat::aTransmit dat::aB::Memory stores data and instructions for processing.
+45::Which of the following is a non-volatile storage device?::RAM::Hard Disk::Cache::Registers::B::Hard Disk retains data without power, making it non-volatile.
+46::In IT, what does the acronym ‘WWW’ stand for?::World Wide Web::World Wide Wireless::Web World Wide::Wireless Web World::A::WWW stands for World Wide Web, a system of internet resources.
+47::Which of the following is a benefit of IT in business?::Inventory management::Virus protection::File compression::Disk cleanup::A::IT enables efficient inventory management in businesses.
+48::Which type of computer is typically used in scientific research?::Supercomputer::Laptop::Tablet::Desktop::A::Supercomputers are used for complex scientific research.
+49::The combination of hardware, software, data, and users forms ::aComputer program::Computer system::Computer network::Computer application::B::A computer system includes all these components working together.
+50::Which of the following is an advanced application of IT in healthcare?::Robotic surgery::Spreadsheets::Web browsing::Text editing::A::Robotic surgery uses IT for precision in medical procedures.

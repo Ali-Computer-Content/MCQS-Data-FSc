@@ -1,0 +1,50 @@
+1::What is data communication?::Transfer of data between devices::Storage of data::Processing of data::Encryption of data::A::Data communication is the transfer of data between devices via a medium.
+2::Which component of data communication initiates the data transfer?::Sender::Receiver::Medium::Protocol::A::The sender is the device that initiates the data transfer.
+3::What is the role of the receiver in data communication?::Sends data::Receives data::Stores data::Processes data::B::The receiver is the device that accepts the transmitted data.
+4::Which of the following is a transmission medium?::Copper wire::Printer::Monitor::Keyboard::A::Copper wire is a physical medium used to transmit data signals.
+5::What is a protocol in data communication?::A physical cable::A set of rules::A hardware device::A software application::B::Protocols are rules governing data exchange in communication.
+6::Which mode allows data transmission in one direction only?::Simplex::Half-duplex::Full-duplex::Multiplex::A::Simplex mode allows data flow in one direction, e.g., radio broadcast.
+7::Which mode allows data transmission in both directions but not simultaneously?::Simplex::Half-duplex::Full-duplex::None of these::B::Half-duplex allows two-way communication, but one direction at a time.
+8::Which mode allows simultaneous two-way data transmission?::Simplex::Half-duplex::Full-duplex::Multiplex::C::Full-duplex allows data to flow in both directions simultaneously, e.g., telephone.
+9::What is an example of simplex communication?::Telephone::Walkie-talkie::Keyboard input::Video call::C::Keyboard input is one-way, from user to computer, hence simplex.
+10::What is an example of half-duplex communication?::Television::Telephone::Walkie-talkie::Internet browsing::C::Walkie-talkies use half-duplex, allowing one party to transmit at a time.
+11::What is an example of full-duplex communication?::Radio broadcast::Walkie-talkie::Telephone::Printer::C::Telephone allows simultaneous two-way communication, hence full-duplex.
+12::What is the purpose of a transmission medium?::Process data::Store data::Carry signals::Encrypt data::C::The medium carries signals between sender and receiver.
+13::Which of the following is a guided transmission medium?::Fiber optic::Radio waves::Microwaves::Infrared::A::Fiber optic is a guided medium, as it physically directs signals.
+14::Which is an unguided transmission medium?::Twisted pair::Coaxial cable::Microwave::Fiber optic::C::Microwaves are unguided, traveling through air without a physical path.
+15::What is the unit of data transmission rate?::Bits per second::Bytes per minute::Megahertz::Watts::A::Data transmission rate is measured in bits per second (bps).
+16::What is modulation?::Converting digital signals to analog::Encrypting data::Compressing data::Storing data::A::Modulation converts digital signals to analog for transmission over analog media.
+17::Which type of signal has discrete values?::Analog::Digital::Continuous::Electromagnetic::B::Digital signals have discrete values, typically 0s and 1s.
+18::Which type of signal varies continuously?::Digital::Analog::Binary::Discrete::B::Analog signals vary continuously in amplitude or frequency.
+19::What is the purpose of a modem?::Stores data::Converts digital to analog signals::Routes data::Amplifies signals::B::A modem modulates and demodulates signals for digital-analog conversion.
+20::Which medium has the highest data transmission rate?::Twisted pair::Coaxial cable::Fiber optic::Microwave::C::Fiber optic cables offer the highest data rates due to light-based transmission.
+21::What is bandwidth in data communication?::Physical cable length::Data transfer capacity::Signal frequency::Storage capacity::B::Bandwidth measures the amount of data that can be transmitted per unit time.
+22::Which device amplifies signals in data communication?::Router::Repeater::Switch::Modem::B::A repeater regenerates signals to extend transmission distance.
+23::What is noise in data communication?::Unwanted signals::Data packets::Encryption::Compression::A::Noise is unwanted interference that distorts data signals.
+24::Which cable uses light to transmit data?::Coaxial::Twisted pair::Fiber optic::Ethernet::C::Fiber optic cables use light pulses for high-speed data transmission.
+25::What is the function of a network interface card (NIC)?::Connects to the internet::Converts signals::Connects a device to a network::Stores data::C::A NIC enables a device to connect to a network via a physical interface.
+26::Which type of modulation changes the amplitude of a carrier signal?::Frequency modulation::Phase modulation::Amplitude modulation::Pulse modulation::C::Amplitude modulation (AM) varies the amplitude of the carrier signal.
+27::Which type of modulation changes the frequency of a carrier signal?::Amplitude modulation::Frequency modulation::Phase modulation::Pulse modulation::B::Frequency modulation (FM) varies the frequency of the carrier signal.
+28::What is multiplexing?::Converting signals::Combining multiple signals::Encrypting data::Storing data::B::Multiplexing combines multiple signals into one for efficient transmission.
+29::Which multiplexing technique divides the medium by time?::FDM::TDM::WDM::CDM::B::Time Division Multiplexing (TDM) allocates time slots to each signal.
+30::Which multiplexing technique divides the medium by frequency?::TDM::FDM::WDM::CDM::B::Frequency Division Multiplexing (FDM) allocates frequency bands to signals.
+31::What is the main advantage of fiber optic cables?::Low cost::High bandwidth::Easy installation::Low security::B::Fiber optics provide high bandwidth and fast data transmission.
+32::What is a disadvantage of wireless communication?::High cost::Interference::Low speed::Limited range::B::Wireless signals are prone to interference from other signals or obstacles.
+33::Which signal is used in digital communication?::Analog::Digital::Continuous::Electromagnetic::B::Digital communication uses discrete digital signals (0s and 1s).
+34::What is the purpose of encoding in data communication?::Compress data::Convert data to transmittable form::Encrypt data::Store data::B::Encoding converts data into a format suitable for transmission.
+35::Which device connects two different types of networks?::Repeater::Router::Gateway::Switch::C::A gateway connects networks with different protocols or architectures.
+36::What is attenuation in data communication?::Signal amplification::Signal loss::Signal encryption::Signal compression::B::Attenuation is the reduction in signal strength during transmission.
+37::Which medium is least affected by electromagnetic interference?::Twisted pair::Coaxial cable::Fiber optic::Microwave::C::Fiber optic uses light, which is immune to electromagnetic interference.
+38::What is the function of a communication protocol?::Amplify signals::Define rules for data exchange::Store data::Convert signals::B::Protocols define rules for formatting and transmitting data.
+39::Which type of signal is used in telephone lines?::Digital::Analog::Binary::Discrete::B::Telephone lines traditionally use analog signals for voice transmission.
+40::What is the main purpose of data communication?::Data storage::Data sharing::Data processing::Data encryption::B::Data communication enables sharing of data between devices.
+41::Which component ensures error-free data transmission?::Sender::Receiver::Protocol::Medium::C::Protocols include mechanisms for error detection and correction.
+42::What is the speed of light in fiber optic cables?::3×10⁸ m/s::2×10⁸ m/s::1×10⁸ m/s::4×10⁸ m/s::A::Light travels at approximately 3×10⁸ m/s in a vacuum, slightly slower in fiber.
+43::Which type of cable is used in LANs for Ethernet?::Fiber optic::Coaxial::Twisted pair::Microwave::C::Twisted pair cables (e.g., Cat5, Cat6) are standard for Ethernet LANs.
+44::What is a digital signal?::Continuous signal::Discrete signal::Amplified signal::Encrypted signal::B::Digital signals have discrete values, typically binary (0 or 1).
+45::Which device operates at the physical layer of the OSI model?::Router::Switch::Repeater::Gateway::C::Repeaters work at the physical layer, amplifying signals.
+46::What is the main advantage of coaxial cables over twisted pair?::Higher bandwidth::Lower cost::Easier installation::Less interference::D::Coaxial cables have better shielding, reducing interference.
+47::What is the purpose of a carrier signal in modulation?::Amplify data::Carry data::Store data::Encrypt data::B::A carrier signal is modulated to carry data over a medium.
+48::Which type of communication uses infrared waves?::Wired::Wireless::Guided::Coaxial::B::Infrared is an unguided wireless medium, used in remote controls.
+49::What is the role of a switch in data communication?::Connects networks::Directs data to specific devices::Amplifies signals::Converts signals::B::A switch directs data to the intended device using MAC addresses.
+50::What is the main challenge in data communication?::High cost::Signal distortion::Slow processing::Limited storage::B::Signal distortion due to noise or attenuation is a key challenge.

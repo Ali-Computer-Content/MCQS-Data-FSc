@@ -1,0 +1,50 @@
+1::What is application software?::Software that manages hardware::Software designed for specific user tasks::Software embedded in devices::Software for network management::B::Application software is designed to perform specific tasks for users.
+2::Which of the following is an example of application software?::Windows 10::Microsoft Word::BIOS::Antivirus::B::Microsoft Word is application software for word processing.
+3::Application software is categorized into::System and utility::General-purpose and special-purpose::Hardware and firmware::Input and output::B::Application software includes general-purpose (e.g., Word) and special-purpose (e.g., CAD).
+4::Which software is used for creating documents?::Microsoft Excel::Microsoft Word::Microsoft Access::Microsoft PowerPoint::B::Microsoft Word is a word processing software for document creation.
+5::Which software is used for data analysis and calculations?::Microsoft Word::Microsoft Excel::Microsoft PowerPoint::Adobe Photoshop::B::Microsoft Excel is a spreadsheet software for calculations and data analysis.
+6::Which software is used for creating presentations?::Microsoft Access::Microsoft Excel::Microsoft PowerPoint::Notepad::C::Microsoft PowerPoint is used for creating slideshow presentations.
+7::Which software is used for managing databases?::Microsoft Word::Microsoft Access::Microsoft Excel::Paint::B::Microsoft Access is a database management system.
+8::A general-purpose application software is::AutoCAD::Microsoft Word::Tally::QuickBooks::B::Microsoft Word is general-purpose, used for various document tasks.
+9::A special-purpose application software is::Microsoft Excel::Adobe Photoshop::Microsoft PowerPoint::Notepad::B::Adobe Photoshop is special-purpose, designed for graphic editing.
+10::Which feature is commonly found in word processing software?::Spell check::Graph plotting::Query design::Slide transitions::A::Spell check is a standard feature in word processors like Microsoft Word.
+11::Which file extension is associated with Microsoft Word documents?::.xlsx::.docx::.pptx::.accdb::B::.docx is the file extension for Microsoft Word documents.
+12::Which file extension is associated with Microsoft Excel files?::.docx::.xlsx::.pptx::.accdb::B::.xlsx is the file extension for Microsoft Excel spreadsheets.
+13::Which feature in Microsoft Excel is used to perform calculations?::Formula::Slide::Query::Template::A::Formulas in Excel are used for calculations (e.g., =SUM(A1:A5)).
+14::Which feature in Microsoft PowerPoint is used to enhance slides?::Transition::Formula::Filter::Macro::A::Transitions add visual effects between slides in PowerPoint.
+15::Which file extension is associated with Microsoft PowerPoint files?::.docx::.xlsx::.pptx::.accdb::C::.pptx is the file extension for PowerPoint presentations.
+16::Which of the following is a function of spreadsheet software?::Data sorting::Text formatting::Slide designing::Query processing::A::Spreadsheets like Excel allow sorting data in rows or columns.
+17::What is a cell in Microsoft Excel?::A slide in a presentation::A box where data is entered::A database table::A document page::B::A cell is the intersection of a row and column in Excel for data entry.
+18::Which of the following is a word processing feature?::Mail merge::Pivot table::Slide animation::Database query::A::Mail merge in Word combines data with a document for mass mailings.
+19::Which software is used for graphic design?::Adobe Photoshop::Microsoft Excel::Microsoft Access::Notepad::A::Adobe Photoshop is specialized for graphic editing and design.
+20::Which of the following is a database management feature?::Query creation::Chart creation::Slide creation::Text alignment::A::Queries in databases like Access retrieve specific data.
+21::What is the purpose of Microsoft Access?::Create presentations::Manage databases::Edit images::Perform calculations::B::Microsoft Access is used to create and manage databases.
+22::Which feature in Excel creates graphical representations of data?::Chart::Formula::Query::Transition::A::Charts in Excel visualize data (e.g., bar, pie charts).
+23::Which of the following is a presentation software feature?::Slide master::AutoSum::Table query::Text wrap::A::Slide master in PowerPoint controls the layout of all slides.
+24::Which software is used for video editing?::Adobe Premiere::Microsoft Word::Microsoft Excel::Microsoft Access::A::Adobe Premiere is specialized for video editing.
+25::What is a macro in application software?::A database table::A recorded set of commands::A slide transition::A chart type::B::Macros automate repetitive tasks by recording commands.
+26::Which of the following is an example of customized software?::Microsoft Word::Tally::Microsoft Excel::Notepad::B::Tally is customized for accounting tasks.
+27::Which Excel function calculates the total of a range?::SUM::AVERAGE::COUNT::MAX::A::The SUM function adds values in a specified range (e.g., =SUM(A1:A10)).
+28::Which Word feature adjusts text around images?::Text wrap::Pivot table::Slide animation::Filter::A::Text wrap in Word allows text to flow around images or objects.
+29::Which PowerPoint feature adds motion to objects on a slide?::Animation::Formula::Query::Macro::A::Animations add motion effects to objects in PowerPoint slides.
+30::Which Access feature organizes data into structured formats?::Table::Chart::Slide::Formula::A::Tables in Access store data in rows and columns.
+31::Which of the following is a web browser?::Google Chrome::Microsoft Excel::Adobe Photoshop::Microsoft Access::A::Google Chrome is a web browser for accessing the internet.
+32::What is the purpose of a template in application software?::Perform calculations::Provide a pre-designed format::Execute queries::Sort data::B::Templates offer pre-designed layouts for documents, slides, or spreadsheets.
+33::Which Excel feature summarizes data from large datasets?::Pivot table::Mail merge::Slide transition::Query::A::Pivot tables in Excel summarize and analyze large datasets.
+34::Which Word feature checks grammar errors?::Grammar check::AutoSum::Filter::Animation::A::Grammar check in Word identifies and corrects grammatical mistakes.
+35::Which of the following is a multimedia software?::VLC Media Player::Microsoft Word::Microsoft Access::Notepad::A::VLC Media Player handles audio and video playback.
+36::Which software is used for desktop publishing?::Adobe InDesign::Microsoft Excel::Microsoft PowerPoint::Notepad::A::Adobe InDesign is used for creating professional layouts.
+37::Which Excel function finds the highest value in a range?::SUM::MAX::AVERAGE::COUNT::B::The MAX function returns the highest value (e.g., =MAX(A1:A10)).
+38::Which Access feature retrieves specific data from a database?::Query::Chart::Slide::Formula::A::Queries in Access extract data based on specified criteria.
+39::Which PowerPoint feature controls the timing of slides?::Slide show::Formula::Filter::Macro::A::Slide show settings in PowerPoint control slide timing and transitions.
+40::Which of the following is an email client software?::Microsoft Outlook::Microsoft Excel::Adobe Photoshop::Notepad::A::Microsoft Outlook manages emails and contacts.
+41::In Excel, what is a worksheet?::A single spreadsheet::A database table::A presentation slide::A text document::A::A worksheet is a single spreadsheet within an Excel workbook.
+42::Which Word feature creates a list with bullets or numbers?::Bullets and numbering::Pivot table::Slide animation::Query::A::Bullets and numbering in Word create organized lists.
+43::Which software is used for project management?::Microsoft Project::Microsoft Word::Microsoft Access::Notepad::A::Microsoft Project is specialized for managing projects.
+44::Which Excel feature protects data from unauthorized changes?::Password protection::Mail merge::Slide transition::Query::A::Password protection in Excel secures spreadsheets from modifications.
+45::Which of the following is a feature of special-purpose software?::Specific task focus::General usability::Hardware control::Network management::A::Special-purpose software is designed for specific tasks (e.g., AutoCAD for design).
+46::In a scenario, a company needs software to create marketing brochures. Which software is best?::Adobe InDesign::Microsoft Excel::Microsoft Access::Notepad::A::Adobe InDesign is ideal for creating professional marketing brochures.
+47::A school needs software to track student records. Which software is most suitable?::Microsoft Access::Microsoft Word::Microsoft PowerPoint::Paint::A::Microsoft Access is best for managing student records in a database.
+48::Which feature in Excel allows conditional formatting?::Format painter::Pivot table::Conditional formatting::Mail merge::C::Conditional formatting applies styles based on cell values.
+49::In PowerPoint, which feature ensures consistent design across slides?::Slide master::Animation::Query::Formula::A::Slide master ensures uniform design for all slides.
+50::Which application software would a graphic designer use to create a logo?::Adobe Illustrator::Microsoft Excel::Microsoft Access::Notepad::A::Adobe Illustrator is specialized for vector-based logo design.

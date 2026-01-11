@@ -1,0 +1,200 @@
+1::The main function of a computer is to::Store data::Process data::Display data::Transmit data::B::A computer’s primary role is to process data to produce meaningful information.
+2::Which of the following is an example of an input device?::Monitor::Keyboard::Printer::Speaker::B::A keyboard is used to input data into a computer system.
+3::The CPU consists of which main components?::ALU and CU::RAM and ROM::Cache and Registers::Hard Disk and SSD::A::The CPU includes the Arithmetic Logic Unit (ALU) and Control Unit (CU).
+4::Which type of memory is volatile?::ROM::RAM::Flash Memory::Cache Memory::B::RAM loses its data when the power is turned off, making it volatile.
+5::System software is designed to::Perform specific user tasks::Manage computer resources::Create documents::Edit images::B::System software, like operating systems, manages hardware and software resources.
+6::Which of the following is an example of system software?::Microsoft Word::Windows 10::Adobe Photoshop::Google Chrome::B::Windows 10 is an operating system, a type of system software.
+7::The basic unit of data transmission in a network is::Packet::Frame::Bit::Byte::A::Data is transmitted in small units called packets in a network.
+8::The device that connects different networks is a::Router::Switch::Hub::Modem::A::A router connects multiple networks, directing data between them.
+9::The binary equivalent of the decimal number 13 is::1101::1011::1110::1001::A::Convert 13 to binary: 13 ÷ 2 = 6(1), 6 ÷ 2 = 3(0), 3 ÷ 2 = 1(1), 1 ÷ 2 = 0(1), so 1101.
+10::The hexadecimal number 1A is equal to decimal::26::16::10::12::A::Hex 1A = (1×16) + (10×1) = 16 + 10 = 26.
+11::The main function of an operating system is to::Run applications::Manage hardware resources::Create databases::Design websites::B::An operating system manages hardware and software resources.
+12::Which of the following is a function of the operating system?::Word processing::Memory management::Graphic design::Spreadsheets::B::Memory management is a core function of an operating system.
+13::A computer virus is a type of::Hardware::Malware::Firmware::Application software::B::A virus is malicious software (malware) that harms computer systems.
+14::Which of the following is an ethical use of a computer?::Hacking a system::Sharing copyrighted material::Using licensed software::Spreading viruses::C::Using licensed software respects intellectual property rights.
+15::A flowchart uses which symbol to represent a decision?::Rectangle::Diamond::Circle::Arrow::B::A diamond symbol in a flowchart indicates a decision point.
+16::Which of the following is a characteristic of a good algorithm?::Infinite steps::Ambiguity::Finiteness::No output::C::A good algorithm must have a finite number of steps.
+17::In C programming, the correct syntax to declare an integer variable is::int x;::integer x;::x int;::int x =;::A::The correct syntax is `int x;` to declare an integer variable.
+18::What is the output of the C code: printf("%d", 5 + 3);?::8::5::3::53::A::The expression 5 + 3 evaluates to 8, which is printed by printf.
+19::Which loop in C executes at least once?::for loop::while loop::do-while loop::nested loop::C::A do-while loop executes the body at least once before checking the condition.
+20::In C, the operator used to compare equality is::=::==::!=::<>::B::The equality operator in C is `==`, used to compare two values.
+21::Which of the following is a function of information technology?::Data storage::Data processing::Data communication::All of these::D::Information technology involves storing, processing, and communicating data.
+22::The term CPU stands for::Central Processing Unit::Computer Processing Unit::Central Program Unit::Control Processing Unit::A::CPU is the Central Processing Unit, the brain of the computer.
+23::Which component is responsible for temporary data storage during processing?::Hard Disk::RAM::ROM::CPU::B::RAM temporarily stores data and instructions during processing.
+24::A byte consists of how many bits?::4::8::16::32::B::A byte is made up of 8 bits.
+25::Which of the following is an example of secondary storage?::RAM::Cache::Hard Disk::Registers::C::Hard Disk is a secondary storage device for long-term data storage.
+26::The software that manages hardware resources is called::Application software::System software::Utility software::Firmware::B::System software, like operating systems, manages hardware resources.
+27::Which of the following is a type of application software?::Windows OS::Microsoft Excel::Antivirus::Device Driver::B::Microsoft Excel is application software for spreadsheet tasks.
+28::The topology where all devices are connected to a central device is::Bus topology::Star topology::Ring topology::Mesh topology::B::In star topology, all devices connect to a central hub or switch.
+29::The decimal equivalent of binary number 1010 is::8::10::12::14::B::Binary 1010 = (1×2³) + (0×2²) + (1×2¹) + (0×2⁰) = 8 + 0 + 2 + 0 = 10.
+30::Which operating system function allocates CPU time to processes?::Memory management::Process management::File management::Device management::B::Process management schedules and allocates CPU time to processes.
+31::A firewall is used to::Protect against unauthorized access::Remove viruses::Backup data::Compress files::A::A firewall prevents unauthorized network access.
+32::Which of the following is a programming technique?::Flowchart::Spreadsheet::Database::Word processing::A::Flowcharts are used to represent algorithms in programming.
+33::In C programming, which keyword is used to define a constant?::const::static::void::int::A::The `const` keyword defines a constant value in C.
+34::What is the output of the C code: int x = 10; printf("%d", x++);?::10::11::9::12::A::Post-increment (x++) prints the current value (10) then increments x.
+35::Which of the following is a characteristic of a computer system?::Speed::Accuracy::Versatility::All of these::D::Computers are fast, accurate, and versatile in performing tasks.
+36::Which port is used to connect a monitor to a computer?::USB::HDMI::PS/2::Serial::B::HDMI ports are commonly used to connect monitors.
+37::Firmware is stored in which type of memory?::RAM::ROM::Cache::Hard Disk::B::Firmware is stored in ROM, which is non-volatile.
+38::Which software allows users to create presentations?::Microsoft PowerPoint::Notepad::Paint::File Explorer::A::Microsoft PowerPoint is used for creating presentations.
+39::The protocol used for web browsing is::FTP::HTTP::SMTP::POP3::B::HTTP (HyperText Transfer Protocol) is used for web browsing.
+40::The octal equivalent of decimal 15 is::17::16::15::14::A::Divide 15 by 8: 15 ÷ 8 = 1(7), octal = 17.
+41::Which command in Windows displays the directory contents?::cd::dir::mkdir::del::B::The `dir` command lists the contents of a directory.
+42::Phishing is a type of::Virus::Worm::Social engineering attack::Spyware::C::Phishing tricks users into revealing sensitive information.
+43::Which symbol in a flowchart represents a process?::Rectangle::Diamond::Oval::Arrow::A::A rectangle represents a process or operation in a flowchart.
+44::In C, which operator is used for logical AND?::&&::||::!::&::A::The `&&` operator is used for logical AND in C.
+45::The component that converts digital signals to analog is::Modem::Router::Switch::Hub::A::A modem converts digital signals to analog and vice versa.
+46::Which type of software is used to detect and remove viruses?::Antivirus::Compiler::Text Editor::Browser::A::Antivirus software detects and removes malicious programs.
+47::The LAN stands for::Local Area Network::Large Area Network::Logical Area Network::Linked Area Network::A::LAN is a Local Area Network connecting devices in a small area.
+48::The binary equivalent of hexadecimal 2F is::00101111::10101111::00111110::10111110::A::Hex 2F = 2 (0010) and F (1111), binary = 00101111.
+49::Which operating system is open-source?::Windows::Linux::macOS::MS-DOS::B::Linux is an open-source operating system.
+50::Which of the following is a computer security threat?::Backup::Encryption::Hacking::Firewall::C::Hacking is a malicious activity that threatens computer security.
+51::An algorithm is a::Programming language::Set of instructions::Compiler::Debugger::B::An algorithm is a step-by-step procedure to solve a problem.
+52::In C, the size of a `float` variable is typically::2 bytes::4 bytes::8 bytes::1 byte::B::A `float` in C typically occupies 4 bytes of memory.
+53::What is the role of the ALU in a CPU?::Execute instructions::Store data::Control operations::Perform arithmetic and logic::D::The ALU performs arithmetic and logical operations.
+54::Which of the following is a type of ROM?::SRAM::DRAM::EPROM::Cache::C::EPROM (Erasable Programmable ROM) is a type of ROM.
+55::Which software is used for database management?::Microsoft Access::Microsoft Word::Notepad++::VLC Media Player::A::Microsoft Access is a database management system.
+56::The OSI model has how many layers?::5::6::7::8::C::The OSI model consists of 7 layers.
+57::The hexadecimal equivalent of binary 1010 is::A::B::C::D::A::Binary 1010 = decimal 10, hex = A.
+58::The command to create a new directory in Linux is::mkdir::rmdir::cd::ls::A::The `mkdir` command creates a new directory in Linux.
+59::Which of the following is an example of intellectual property?::Monitor::Software::Keyboard::Printer::B::Software is protected as intellectual property under copyright law.
+60::Which programming construct is used to repeat a task?::Loop::Variable::Function::Operator::A::Loops are used to repeat a block of code.
+61::In C, which format specifier is used for a character?::%d::%f::%c::%s::C::The `%c` specifier is used to print a character.
+62::Which of the following is a characteristic of a good computer?::Reliability::Speed::Storage capacity::All of these::D::A good computer is reliable, fast, and has ample storage.
+63::The cache memory is located::On the hard disk::In the CPU::In RAM::On the motherboard::B::Cache memory is located in or near the CPU for fast access.
+64::Which type of software is embedded in hardware devices?::Application software::System software::Firmware::Utility software::C::Firmware is software embedded in hardware, like BIOS.
+65::Which network device regenerates signals?::Router::Switch::Repeater::Gateway::C::A repeater amplifies and regenerates network signals.
+66::The decimal equivalent of octal 23 is::19::21::25::27::A::Octal 23 = (2×8¹) + (3×8⁰) = 16 + 3 = 19.
+67::Which operating system feature allows multiple programs to run simultaneously?::Multitasking::Multiprocessing::Multiuser::Multithreading::A::Multitasking enables running multiple programs at the same time.
+68::The unauthorized copying of software is called::Phishing::Piracy::Hacking::Spying::B::Software piracy involves illegal copying or distribution.
+69::A pseudocode is used to::Execute programs::Plan algorithms::Debug code::Compile code::B::Pseudocode is a high-level description of an algorithm for planning.
+70::In C, the correct syntax for a for loop is::for(i=0; i<5; i++)::for(i=0, i<5, i++)::for(i=0; i<5; i++);::for(i=0; i<5, i++);::A::The correct syntax is `for(i=0; i<5; i++)` with semicolons.
+71::Which device is used to connect a computer to a network?::NIC::CPU::RAM::GPU::A::A Network Interface Card (NIC) connects a computer to a network.
+72::Which type of software is used for system maintenance?::Utility software::Application software::System software::Firmware::A::Utility software performs maintenance tasks like disk cleanup.
+73::The protocol used for email transmission is::HTTP::FTP::SMTP::TELNET::C::SMTP (Simple Mail Transfer Protocol) is used for sending emails.
+74::The binary equivalent of decimal 7 is::111::110::101::100::A::7 ÷ 2 = 3(1), 3 ÷ 2 = 1(1), 1 ÷ 2 = 0(1), binary = 111.
+75::Which file system is used by Windows?::NTFS::EXT4::FAT16::HFS+::A::NTFS is the primary file system used by Windows.
+76::Which of the following is a biometric security measure?::Password::PIN::Fingerprint::Encryption::C::Fingerprint scanning is a biometric security method.
+77::Which symbol in a flowchart represents the start or end?::Rectangle::Diamond::Oval::Arrow::C::An oval represents the start or end of a process.
+78::In C, which operator has the highest precedence?::+::&&::*::==::C::The multiplication operator (*) has higher precedence than others listed.
+79::Which of the following is an output device?::Scanner::Mouse::Printer::Keyboard::C::A printer outputs data from a computer.
+80::The motherboard is also known as::System board::Logic board::Main board::All of these::D::The motherboard is referred to as the system, logic, or main board.
+81::Which software translates high-level code to machine code?::Compiler::Editor::Debugger::Linker::A::A compiler converts high-level code into machine code.
+82::The topology where devices are connected in a circular manner is::Bus topology::Star topology::Ring topology::Mesh topology::C::In ring topology, devices form a closed loop.
+83::The hexadecimal equivalent of decimal 255 is::FF::FE::FD::FC::A::255 ÷ 16 = 15(15), hex = FF (15 = F in hex).
+84::Which command in Windows deletes a file?::del::dir::cd::copy::A::The `del` command deletes files in Windows.
+85::A worm is a type of::Virus::Spyware::Adware::Trojan::A::A worm is a self-replicating virus that spreads across networks.
+86::Which of the following is a top-down programming approach?::Structured programming::Object-oriented programming::Modular programming::All of these::D::All listed approaches use top-down design to break problems into parts.
+87::In C, what is the output of: int x = 5; x = x + 2; printf("%d", x);?::5::7::2::10::B::x is incremented by 2 (5 + 2 = 7), so 7 is printed.
+88::Which component stores the BIOS?::RAM::ROM::Hard Disk::Cache::B::The BIOS is stored in ROM, a non-volatile memory.
+89::Which type of software is used for word processing?::Microsoft Word::Linux::Norton Antivirus::BIOS::A::Microsoft Word is a word processing application.
+90::The device that converts analog signals to digital is::Modem::Router::Switch::Repeater::A::A modem converts analog to digital signals for internet connectivity.
+91::The octal equivalent of binary 1011 is::13::12::11::10::A::Binary 1011 = decimal 11, 11 ÷ 8 = 1(3), octal = 13.
+92::Which operating system command displays system information in Linux?::uname::ls::cd::pwd::A::The `uname` command displays system information in Linux.
+93::Which of the following is a legal issue in computing?::Software piracy::Data backup::System updates::File compression::A::Software piracy is illegal as it violates copyright laws.
+94::Which programming construct is used to make decisions?::Loop::Array::Conditional statement::Function::C::Conditional statements (e.g., if-else) are used for decision-making.
+95::In C, the correct syntax to read an integer is::scanf("%d", &x);::scanf("%d", x);::printf("%d", &x);::printf("%d", x);::A::`scanf("%d", &x);` reads an integer into variable x using its address.
+96::Which of the following is a storage device?::Monitor::SSD::CPU::Keyboard::B::A Solid-State Drive (SSD) is a storage device.
+97::Which memory is faster than RAM?::Hard Disk::Cache::ROM::Flash::B::Cache memory is faster than RAM, used for quick CPU access.
+98::Which software is used for graphic design?::Adobe Photoshop::Microsoft Excel::Notepad::FileZilla::A::Adobe Photoshop is a graphic design application.
+99::The IP address is used to::Identify devices on a network::Store data::Process data::Display data::A::An IP address uniquely identifies devices on a network.
+100::The decimal equivalent of hexadecimal 1C is::28::24::20::16::A::Hex 1C = (1×16) + (12×1) = 16 + 12 = 28.
+101::Which operating system is primarily used for servers?::Linux::Windows XP::macOS::MS-DOS::A::Linux is widely used for servers due to its stability.
+102::Which of the following is a preventive security measure?::Encryption::Hacking::Phishing::Spyware::A::Encryption protects data by encoding it.
+103::A flowchart uses which symbol for input/output?::Parallelogram::Rectangle::Diamond::Oval::A::A parallelogram represents input or output operations.
+104::In C, what is the output of: int x = 3; printf("%d", ++x);?::3::4::2::5::B::Pre-increment (++x) increments x to 4 before printing.
+105::Which of the following is a pointing device?::Scanner::Mouse::Printer::Speaker::B::A mouse is a pointing device for cursor control.
+106::Which component is responsible for power supply in a computer?::PSU::CPU::GPU::RAM::A::The Power Supply Unit (PSU) provides power to components.
+107::Which software is used for web browsing?::Google Chrome::Microsoft Access::Notepad++::VLC Player::A::Google Chrome is a web browser.
+108::The data rate in a network is measured in::Bits per second::Bytes per second::Packets per second::Frames per second::A::Data rate is measured in bits per second (bps).
+109::The binary equivalent of octal 17 is::1111::10111::11001::11111::A::Octal 17 = (1×8) + 7 = 15, binary = 1111.
+110::Which operating system feature manages file storage?::File management::Process management::Memory management::Device management::A::File management handles storage, retrieval, and organization of files.
+111::The unauthorized access to a system is called::Hacking::Encryption::Backup::Compression::A::Hacking involves gaining unauthorized access to systems.
+112::Which of the following is a bottom-up programming approach?::Procedural programming::Object-oriented programming::Functional programming::None of these::D::Bottom-up is not a standard programming approach; top-down is common.
+113::In C, which keyword is used to exit a loop?::break::continue::return::exit::A::The `break` keyword exits a loop immediately.
+114::Which of the following is a secondary memory device?::RAM::Cache::USB Flash Drive::Registers::C::A USB Flash Drive is a secondary memory device.
+115::Which software is used to manage email?::Microsoft Outlook::Paint::Notepad::File Explorer::A::Microsoft Outlook is an email management application.
+116::The TCP/IP model has how many layers?::4::5::6::7::A::The TCP/IP model consists of 4 layers.
+117::The hexadecimal equivalent of octal 12 is::A::B::C::D::A::Octal 12 = decimal 10, hex = A.
+118::Which command in Linux displays the current directory?::pwd::ls::cd::mkdir::A::The `pwd` command prints the working directory.
+119::Which of the following is an ethical computing practice?::Using unlicensed software::Hacking::Data backup::Sharing passwords::C::Data backup is an ethical practice to protect information.
+120::In C, which loop is used when the number of iterations is known?::while loop::do-while loop::for loop::infinite loop::C::A for loop is used when the iteration count is known.
+121::Which component connects the CPU to other hardware?::Motherboard::RAM::Hard Disk::Power Supply::A::The motherboard connects all hardware components.
+122::Which utility software is used to defragment a disk?::Disk Defragmenter::Notepad::Calculator::Task Manager::A::Disk Defragmenter optimizes disk performance.
+123::The protocol used for file transfer is::HTTP::FTP::SMTP::POP3::B::FTP (File Transfer Protocol) is used for transferring files.
+124::The decimal equivalent of binary 1100 is::12::10::14::8::A::Binary 1100 = (1×2³) + (1×2²) + (0×2¹) + (0×2⁰) = 8 + 4 = 12.
+125::Which file system is used by Linux?::EXT4::NTFS::FAT32::HFS+::A::EXT4 is commonly used by Linux systems.
+126::Which security measure uses a secret key to encode data?::Encryption::Firewall::Antivirus::Backup::A::Encryption uses a key to secure data.
+127::Which symbol in a flowchart represents a connector?::Circle::Rectangle::Diamond::Arrow::A::A circle is used as a connector in flowcharts.
+128::In C, the modulus operator is::%::/::*::+::A::The `%` operator returns the remainder of division.
+129::Which of the following is an input/output device?::Monitor::Keyboard::Mouse::CPU::A::A monitor serves as both an output (display) and input (touchscreen) device.
+130::Which component is used to cool the CPU?::Heatsink::RAM::GPU::PSU::A::A heatsink dissipates heat from the CPU.
+131::Which software is used for video editing?::Adobe Premiere::Microsoft Excel::Notepad++::FileZilla::A::Adobe Premiere is a video editing application.
+132::The MAC address is used to::Identify devices on a network::Store data::Process data::Route packets::A::A MAC address uniquely identifies devices on a network.
+133::The octal equivalent of hexadecimal 1F is::37::36::35::34::A::Hex 1F = decimal 31, 31 ÷ 8 = 3(7), octal = 37.
+134::Which command in Windows displays network configuration?::ipconfig::dir::cd::del::A::The `ipconfig` command shows network settings.
+135::A Trojan horse is a type of::Virus::Worm::Malware::Spyware::C::A Trojan horse is malware disguised as legitimate software.
+136::Which of the following is a characteristic of modular programming?::Code reusability::Infinite loops::Ambiguity::No structure::A::Modular programming promotes reusable code modules.
+137::In C, what is the output of: int x = 8; x -= 3; printf("%d", x);?::5::8::3::11::A::x -= 3 subtracts 3 from x (8 - 3 = 5).
+138::Which memory is used to store startup instructions?::RAM::ROM::Cache::Hard Disk::B::ROM stores startup instructions like BIOS.
+139::Which software is used for spreadsheet calculations?::Microsoft Excel::Microsoft Word::Notepad::Paint::A::Microsoft Excel is a spreadsheet application.
+140::The device that connects LANs to WANs is::Router::Switch::Hub::Repeater::A::A router connects local networks to wide area networks.
+141::The binary equivalent of hexadecimal 0A is::1010::1000::1100::1110::A::Hex 0A = 10, binary = 1010.
+142::Which operating system command clears the screen in Linux?::clear::cls::cd::ls::A::The `clear` command clears the terminal screen in Linux.
+143::Which of the following violates computer ethics?::Data backup::Software piracy::System updates::Antivirus use::B::Software piracy is unethical and illegal.
+144::Which programming construct stores multiple values?::Variable::Array::Loop::Function::B::An array stores multiple values of the same type.
+145::In C, the correct syntax to declare a float variable is::float x;::int x;::char x;::double x;::A::`float x;` declares a floating-point variable.
+146::Which of the following is a high-speed storage device?::HDD::SSD::Floppy Disk::CD-ROM::B::A Solid-State Drive (SSD) offers high-speed storage.
+147::Which software is used to compress files?::WinRAR::Microsoft Word::VLC Player::Google Chrome::A::WinRAR is used for file compression.
+148::The protocol used to retrieve emails is::POP3::HTTP::FTP::SMTP::A::POP3 (Post Office Protocol) retrieves emails from a server.
+149::The decimal equivalent of octal 77 is::63::64::62::65::A::Octal 77 = (7×8¹) + (7×8⁰) = 56 + 7 = 63.
+150::Which operating system is used on Apple computers?::macOS::Linux::Windows::Unix::A::macOS is the operating system for Apple computers.
+151::Which security threat involves stealing personal information?::Identity theft::Backup::Encryption::Firewall::A::Identity theft involves stealing personal data for fraudulent use.
+152::A flowchart is used to::Execute code::Plan algorithms::Debug programs::Compile code::B::Flowcharts visually represent algorithms for planning.
+153::In C, which operator is used for logical OR?::||::&&::!::|::A::The `||` operator is used for logical OR in C.
+154::Which component is responsible for rendering graphics?::CPU::GPU::RAM::PSU::B::The Graphics Processing Unit (GPU) handles graphics rendering.
+155::Which type of memory is used for virtual memory?::RAM::Hard Disk::ROM::Cache::B::Hard Disk space is used for virtual memory.
+156::Which software is used for project management?::Microsoft Project::Notepad::Paint::VLC Player::A::Microsoft Project is a project management tool.
+157::The subnet mask is used to::Identify network portions of an IP address::Store data::Route packets::Encrypt data::A::A subnet mask separates network and host parts of an IP address.
+158::The hexadecimal equivalent of binary 1111 is::F::E::D::C::A::Binary 1111 = decimal 15, hex = F.
+159::Which command in Linux removes a file?::rm::ls::cd::mkdir::A::The `rm` command removes files in Linux.
+160::Which of the following is a responsible computing practice?::Sharing passwords::Using strong passwords::Hacking::Piracy::B::Using strong passwords enhances security.
+161::In C, which statement skips the current iteration of a loop?::break::continue::return::exit::B::The `continue` statement skips to the next iteration.
+162::Which device is used to input images into a computer?::Scanner::Printer::Monitor::Speaker::A::A scanner inputs images by digitizing them.
+163::Which utility software is used to scan for errors on a disk?::Disk Cleanup::Disk Scanner::Task Manager::Notepad::B::Disk Scanner (or similar tools) checks for disk errors.
+164::The protocol used for secure web browsing is::HTTP::HTTPS::FTP::SMTP::B::HTTPS (Secure HTTP) ensures secure web communication.
+165::The binary equivalent of decimal 9 is::1001::1010::1100::1111::A::9 ÷ 2 = 4(1), 4 ÷ 2 = 2(0), 2 ÷ 2 = 1(0), 1 ÷ 2 = 0(1), binary = 1001.
+166::Which file system is compatible with both Windows and macOS?::FAT32::NTFS::EXT4::HFS+::A::FAT32 is compatible with both operating systems.
+167::Which security measure prevents unauthorized network access?::Firewall::Virus::Worm::Spyware::A::A firewall blocks unauthorized network traffic.
+168::Which symbol in a flowchart represents a loop?::Arrow::Rectangle::Diamond::Oval::A::Arrows indicate the flow, including loops, in a flowchart.
+169::In C, what is the output of: int x = 4; x *= 2; printf("%d", x);?::4::8::2::6::B::x *= 2 multiplies x by 2 (4 × 2 = 8).
+170::Which of the following is a non-volatile storage device?::RAM::Cache::Hard Disk::Registers::C::Hard Disk retains data without power, making it non-volatile.
+171::Which software is used for audio editing?::Audacity::Microsoft Excel::Notepad++::FileZilla::A::Audacity is an audio editing application.
+172::The ARP protocol is used to::Resolve IP to MAC addresses::Route packets::Encrypt data::Transfer files::A::ARP (Address Resolution Protocol) maps IP addresses to MAC addresses.
+173::The octal equivalent of decimal 20 is::24::22::23::21::A::20 ÷ 8 = 2(4), octal = 24.
+174::Which command in Windows copies files?::copy::del::dir::cd::A::The `copy` command copies files in Windows.
+175::A spyware is a type of::Malware::Antivirus::Firewall::Utility::A::Spyware is malware that collects user information secretly.
+176::Which programming paradigm uses objects and classes?::Procedural::Functional::Object-oriented::Logical::C::Object-oriented programming uses objects and classes.
+177::In C, the size of an `int` variable is typically::2 bytes::4 bytes::8 bytes::1 byte::B::An `int` in C typically occupies 4 bytes (platform-dependent).
+178::Which component is used to store data permanently?::RAM::Hard Disk::Cache::Registers::B::Hard Disk stores data permanently.
+179::Which software is used for desktop publishing?::Adobe InDesign::Microsoft Excel::Notepad::VLC Player::A::Adobe InDesign is used for desktop publishing.
+180::The device that amplifies network signals is::Router::Switch::Repeater::Gateway::C::A repeater boosts network signals to extend range.
+181::The decimal equivalent of binary 1110 is::14::12::10::8::A::Binary 1110 = (1×2³) + (1×2²) + (1×2¹) + (0×2⁰) = 8 + 4 + 2 = 14.
+182::Which command in Linux lists files in long format?::ls -l::ls -a::ls -r::ls -t::A::The `ls -l` command lists files with detailed information.
+183::Which of the following is a copyright violation?::Using free software::Software piracy::Data backup::Encryption::B::Software piracy violates copyright laws.
+184::In C, which construct is used to execute code based on multiple conditions?::if-else::switch::loop::array::B::The `switch` statement handles multiple conditions.
+185::In C, the format specifier for a string is::%d::%f::%c::%s::D::The `%s` specifier is used for strings.
+186::Which device is used to input sound into a computer?::Microphone::Speaker::Monitor::Printer::A::A microphone inputs audio signals.
+187::Which utility software is used to backup data?::Backup Utility::Disk Cleanup::Task Manager::Notepad::A::Backup Utility creates copies of data for recovery.
+188::The protocol used for remote login is::TELNET::HTTP::FTP::SMTP::A::TELNET allows remote login to a computer.
+189::The hexadecimal equivalent of decimal 100 is::64::65::66::67::A::100 ÷ 16 = 6(4), hex = 64.
+190::Which operating system is used on smartphones?::Android::Windows XP::MS-DOS::Unix::A::Android is a mobile operating system.
+191::Which security threat sends fake emails to steal information?::Phishing::Backup::Encryption::Firewall::A::Phishing uses fake emails to trick users.
+192::Which programming tool is used to find errors in code?::Debugger::Compiler::Editor::Linker::A::A debugger identifies and fixes code errors.
+193::In C, which operator is used for logical NOT?::!::&&::||::&::A::The `!` operator negates a logical expression.
+194::Which component is used to connect peripherals to a computer?::USB Port::CPU::RAM::GPU::A::USB ports connect peripherals like keyboards and mice.
+195::Which type of memory is used for buffering data?::RAM::Cache::ROM::Hard Disk::B::Cache buffers data for quick CPU access.
+196::Which software is used for managing contacts?::Microsoft Outlook::Paint::Notepad::VLC Player::A::Microsoft Outlook manages contacts and emails.
+197::The DNS protocol is used to::Resolve domain names to IP addresses::Route packets::Encrypt data::Transfer files::A::DNS (Domain Name System) maps domain names to IP addresses.
+198::The binary equivalent of octal 10 is::1000::1001::1010::1011::A::Octal 10 = decimal 8, binary = 1000.
+199::Which of the following is a safe computing practice?::Sharing passwords::Disabling antivirus::Regular updates::Ignoring backups::C::Regular updates enhance system security.
+200::In C, what is the output of: int x = 6; x /= 2; printf("%d", x);?::3::6::2::12::A::x /= 2 divides x by 2 (6 ÷ 2 = 3).

@@ -1,0 +1,50 @@
+1::The Kingdom Plantae includes organisms that are::Prokaryotic::Eukaryotic::Unicellular::Heterotrophic::B::Plants are eukaryotic organisms with a true nucleus and membrane-bound organelles.
+2::The primary mode of nutrition in plants is::Autotrophic::Heterotrophic::Parasitic::Saprophytic::A::Plants produce their own food via photosynthesis, making them autotrophic.
+3::Which of the following is a characteristic of plants?::Motility::Cell wall of chitin::Cell wall of cellulose::Lack of chloroplasts::C::Plant cell walls are made of cellulose, providing structural support.
+4::The scientist who proposed the five-kingdom classification system was::Carl Linnaeus::Robert Whittaker::Louis Pasteur::Robert Hooke::B::Robert Whittaker included Plantae in his five-kingdom classification.
+5::Which group of plants lacks vascular tissues?::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::A::Bryophytes, like mosses, lack xylem and phloem for transport.
+6::The dominant generation in bryophytes is::Sporophyte::Gametophyte::Zygote::Spore::B::In bryophytes, the gametophyte is the dominant, photosynthetic stage.
+7::Which of the following is a bryophyte?::Fern::Pine::Moss::Wheat::C::Mosses are non-vascular bryophytes, unlike ferns or pines.
+8::The vascular tissue responsible for water transport in plants is::Phloem::Xylem::Parenchyma::Collenchyma::B::Xylem conducts water and minerals from roots to other parts.
+9::Which group of plants has naked seeds?::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::C::Gymnosperms produce seeds not enclosed in fruits, unlike angiosperms.
+10::The reproductive structure in angiosperms is::Cone::Spore::Flower::Sporangium::C::Flowers are the reproductive organs of angiosperms, containing male and female parts.
+11::Which of the following is a pteridophyte?::Moss::Fern::Pine::Rose::B::Ferns are vascular plants with feathery fronds, belonging to pteridophytes.
+12::The dominant generation in pteridophytes is::Gametophyte::Sporophyte::Zygote::Spore::B::In pteridophytes, the sporophyte is the dominant, independent stage.
+13::Which plant group is known as flowering plants?::Bryophytes::Gymnosperms::Angiosperms::Pteridophytes::C::Angiosperms produce flowers and enclosed seeds.
+14::The process of alternation of generations in plants involves::Only sporophyte::Only gametophyte::Both sporophyte and gametophyte::Zygote only::C::Plants alternate between haploid gametophyte and diploid sporophyte generations.
+15::Which of the following is a monocot plant?::Wheat::Mango::Pea::Rose::A::Wheat is a monocot, characterized by one cotyledon and parallel leaf veins.
+16::The seed of gymnosperms is found in::Fruits::Cones::Flowers::Sporangia::B::Gymnosperms produce seeds in cones, not fruits.
+17::Which structure in bryophytes anchors them to the substrate?::Roots::Rhizoids::Stems::Leaves::B::Rhizoids are root-like structures in bryophytes for anchorage and absorption.
+18::The primary pigment in plant chloroplasts is::Hemoglobin::Chlorophyll::Melanin::Carotene::B::Chlorophyll absorbs light for photosynthesis, giving plants their green color.
+19::Which of the following is a dicot plant?::Corn::Rice::Pea::Bamboo::C::Pea is a dicot, with two cotyledons and net-like leaf veins.
+20::The male reproductive organ in a flower is::Pistil::Stamen::Sepal::Petal::B::The stamen consists of anther and filament, producing pollen.
+21::The female reproductive organ in a flower is::Stamen::Pistil::Petal::Sepal::B::The pistil includes the ovary, style, and stigma, housing ovules.
+22::Which plant group depends on water for fertilization?::Angiosperms::Gymnosperms::Bryophytes::Pteridophytes::C::Bryophytes require water for sperm to swim to the egg.
+23::The process of photosynthesis occurs in::Mitochondria::Chloroplasts::Nucleus::Ribosomes::B::Chloroplasts contain chlorophyll, where photosynthesis takes place.
+24::Which of the following is a non-vascular plant?::Liverwort::Fern::Pine::Wheat::A::Liverworts are bryophytes, lacking vascular tissues.
+25::The seeds of angiosperms are enclosed in::Cones::Fruits::Sporangia::Capsules::B::Angiosperms produce fruits that encase their seeds.
+26::Which structure in ferns produces spores?::Frond::Rhizome::Sorus::Root::C::Sori are clusters of sporangia on fern fronds that produce spores.
+27::The ecological role of plants includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Plants produce oxygen and fix carbon dioxide during photosynthesis.
+28::Which of the following is a gymnosperm?::Moss::Fern::Pine::Rose::C::Pines are gymnosperms, producing naked seeds in cones.
+29::The leaf-like structure in mosses is called::Frond::Blade::Thallus::Gametophore::D::Gametophores in mosses bear leaf-like structures and reproductive organs.
+30::Which plant group has true roots, stems, and leaves?::Bryophytes::Pteridophytes::Algae::Fungi::B::Pteridophytes are the first plants with true vascular tissues and organs.
+31::The process of double fertilization is unique to::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::D::Angiosperms undergo double fertilization, forming a zygote and endosperm.
+32::Which of the following is a characteristic of monocots?::Net-like veins::Two cotyledons::Taproot system::Flower parts in fours or fives::A::Monocots have parallel leaf veins, unlike dicots with net-like veins.
+33::The primary function of xylem is::Food transport::Water transport::Support::Photosynthesis::B::Xylem transports water and minerals upward in plants.
+34::The primary function of phloem is::Water transport::Food transport::Support::Gas exchange::B::Phloem transports sugars and nutrients throughout the plant.
+35::Which plant group is considered the most primitive?::Angiosperms::Gymnosperms::Pteridophytes::Bryophytes::D::Bryophytes are the most primitive due to their lack of vascular tissues.
+36::The sporophyte in angiosperms is represented by::Pollen::Seed::Flower::Gamete::C::The flower is part of the sporophyte generation in angiosperms.
+37::Which of the following is a function of the root?::Photosynthesis::Anchorage::Reproduction::Gas exchange::B::Roots anchor plants and absorb water and nutrients.
+38::The structure that protects the flower bud is::Petal::Sepal::Stamen::Pistil::B::Sepals are green, leaf-like structures that protect the flower bud.
+39::Which plant group produces spores for reproduction?::Bryophytes::Pteridophytes::Both A and B::Angiosperms::C::Both bryophytes and pteridophytes reproduce via spores.
+40::The gametophyte in angiosperms is represented by::Pollen and embryo sac::Seed::Fruit::Stem::A::Pollen (male) and embryo sac (female) are the gametophyte stages in angiosperms.
+41::Which of the following is an adaptation of bryophytes to terrestrial life?::Vascular tissues::Cuticle::Seeds::Cones::B::The cuticle reduces water loss in bryophytes, aiding terrestrial survival.
+42::The reproductive organ in gymnosperms is::Flower::Cone::Sporangium::Capsule::B::Gymnosperms produce male and female cones for reproduction.
+43::Which of the following is a parasitic plant?::Cuscuta::Moss::Fern::Pine::A::Cuscuta, a dodder, lacks chlorophyll and parasitizes other plants.
+44::The primary source of energy for plants is::Soil::Water::Sunlight::Air::C::Sunlight drives photosynthesis, the primary energy source for plants.
+45::Which structure in a leaf is responsible for gas exchange?::Stomata::Veins::Cuticle::Epidermis::A::Stomata allow the exchange of gases like carbon dioxide and oxygen.
+46::The process of pollen transfer in plants is called::Fertilization::Pollination::Germination::Dispersal::B::Pollination is the transfer of pollen from anther to stigma.
+47::Which of the following is a function of the stem?::Photosynthesis::Support::Reproduction::All of these::B::The stem primarily supports the plant and transports materials.
+48::The embryo in a seed develops into::Fruit::Seed coat::New plant::Endosperm::C::The embryo grows into a new plant upon germination.
+49::Which plant group is most advanced evolutionarily?::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::D::Angiosperms are the most advanced due to flowers and double fertilization.
+50::The primary role of the endosperm in seeds is::Protection::Nutrition::Anchorage::Photosynthesis::B::The endosperm provides nutrients to the developing embryo in angiosperm seeds.

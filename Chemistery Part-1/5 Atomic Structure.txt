@@ -1,0 +1,50 @@
+1::The concept of orbits was proposed by::Niels Bohr::Max Planck::Erwin Schrödinger::Werner Heisenberg::A::Niels Bohr introduced the concept of electrons moving in fixed orbits around the nucleus in his atomic model.
+2::The maximum number of electrons in the n=3 energy level is::6::8::18::10::C::The formula 2n² gives the maximum number of electrons in an energy level; for n=3, 2×3² = 18.
+3::The quantum number that describes the shape of an orbital is::Principal quantum number::Azimuthal quantum number::Magnetic quantum number::Spin quantum number::B::The azimuthal quantum number (l) determines the shape of an orbital (s, p, d, f).
+4::The number of light emitted when an electron transitions from n=4 to n=2 is::UV light::Visible light::Infrared light::X-ray::B::The n=4 to n=2 transition in hydrogen emits light in the visible region (Balmer series).
+5::The Heisenberg uncertainty principle states that it is impossible to determine simultaneously::Position and momentum::Energy and time::Spin and charge::Mass and velocity::A::Heisenberg's principle states that the position and momentum of a particle cannot be measured precisely at the same time.
+6::The electron configuration of Na (atomic number 11) is::1s² 2s² 2p⁶ 3s²::1s² 2s² 2p⁶ 3s¹::1s² 2s² 2p⁵ 3s²::1s² 2s² 2p⁷::B::Sodium has 11 electrons, filling orbitals up to 3s¹:: 1s² 2s² 2p⁶ 3s¹.
+7::The number of orbitals in the p-subshell is::1::3::5::7::B::The p-subshell (l=1) has 3 orbitals (m_l = -1, 0, +1).
+8::The ionization energy of an element is the energy required to::Remove an electron::Add an electron::Form a cation::Form an anion::A::Ionization energy is the energy needed to remove the outermost electron from a neutral atom.
+9::The atomic radius generally::Increases down a group::Decreases down a group::Remains constant in a group::Increases across a period::A::Atomic radius increases down a group due to the addition of new energy levels.
+10::The electron affinity is highest for::Alkali metals::Alkaline earth metals::Halogens::Noble gases::C::Halogens have the highest electron affinity as they readily accept an electron to achieve a stable configuration.
+11::The de Broglie hypothesis suggests that particles like electrons exhibit::Wave-like properties::Particle-like properties::Both wave and particle properties::No properties::C::De Broglie proposed that particles, such as electrons, have both wave and particle properties.
+12::The subshell with n=4 and l=2 is designated as::4s::4p::4d::4f::C::For n=4 and l=2, the subshell is 4d (l=2 corresponds to d).
+13::The maximum number of electrons in the f-subshell is::2::6::10::14::D::The f-subshell (l=3) can hold 2(2l+1) = 2(2×3+1) = 14 electrons.
+14::The spectral lines of hydrogen in the ultraviolet region belong to::Lyman series::Balmer series::Paschen series::Brackett series::A::The Lyman series involves transitions to n=1, producing ultraviolet light.
+15::The principal quantum number (n) determines the::Shape of an orbital::Orientation of an orbital::Size and energy of an orbital::Spin of an electron::C::The principal quantum number (n) defines the size and energy level of an orbital.
+16::The electron configuration of Cl⁻ (atomic number 17) is::1s² 2s² 2p⁶ 3s² 3p⁶::1s² 2s² 2p⁶ 3s² 3p⁵::1s² 2s² 2p⁶ 3s² 3p⁴::1s² 2s² 2p⁶ 3s² 3p⁷::A::Cl⁻ gains one electron, achieving the configuration of argon:: 1s² 2s² 2p⁶ 3s² 3p⁶.
+17::The shielding effect is caused by::Inner electrons::Valence electrons::Protons::Neutrons::A::Inner electrons shield valence electrons from the nucleus, reducing effective nuclear charge.
+18::The energy of an electron in a hydrogen atom is::Positive in ground state::Zero in ground state::Negative in ground state::Infinite in ground state::C::The energy of an electron in a hydrogen atom is negative in bound states, indicating stability.
+19::The number of unpaired electrons in nitrogen (atomic number 7) is::1::2::3::4::C::Nitrogen’s electron configuration is 1s² 2s² 2p³, with 3 unpaired electrons in the 2p orbitals.
+20::The Planck’s constant (h) has the unit::Joule::Joule-second::Joule/meter::Joule/kelvin::B::Planck’s constant has units of joule-second (J·s), used in quantum mechanics.
+21::The Aufbau principle states that electrons fill orbitals::From higher to lower energy::Randomly::From lower to higher energy::In pairs first::C::Electrons fill orbitals starting from the lowest energy level according to the Aufbau principle.
+22::The Pauli exclusion principle states that::Electrons have opposite spins::Orbitals have different shapes::No two electrons can have the same four quantum numbers::Electrons fill degenerate orbitals singly::C::Pauli’s principle states that no two electrons in an atom can have identical quantum numbers.
+23::Hund’s rule is applied when electrons enter::Orbitals of equal energy::Different subshells::Higher energy levels::Single orbitals::A::Hund’s rule states that electrons occupy degenerate orbitals singly with parallel spins before pairing.
+24::The ionization energy decreases::Across a period::Down a group::In noble gases::In halogens::B::Ionization energy decreases down a group due to increased atomic size and shielding effect.
+25::The electron configuration of Fe²⁺ (atomic number 26) is::[Ar] 3d⁶::[Ar] 3d⁴ 4s²::[Ar] 3d⁵ 4s¹::[Ar] 3d⁷::A::Fe²⁺ loses two 4s electrons, leaving [Ar] 3d⁶.
+26::The wavelength of an electron is calculated using::Planck’s law::Rydberg formul::aDe Broglie equation::Bohr’s model::C::The de Broglie equation (λ = h/p) calculates the wavelength of particles like electrons.
+27::The magnetic quantum number (m_l) specifies::Energy of an orbital::Shape of an orbital::Orientation of an orbital::Spin of an electron::C::The magnetic quantum number determines the orientation of an orbital in space.
+28::The ground state electron configuration of oxygen (atomic number 8) is::1s² 2s² 2p⁴::1s² 2s² 2p³::1s² 2s² 2p⁵::1s² 2s² 2p²::A::Oxygen has 8 electrons, with configuration 1s² 2s² 2p⁴.
+29::The Balmer series corresponds to electron transitions to::n=1::n=2::n=3::n=4::B::The Balmer series involves transitions to n=2, producing visible light in hydrogen.
+30::The effective nuclear charge experienced by valence electrons::Increases down a group::Decreases across a period::Increases across a period::Remains constant::C::Effective nuclear charge increases across a period due to higher proton count with minimal shielding.
+31::The number of electrons in the 3d subshell of Cr (atomic number 24) is::4::5::6::7::B::Chromium’s configuration is [Ar] 3d⁵ 4s¹, with 5 electrons in the 3d subshell.
+32::The energy difference between two orbits in a hydrogen atom is calculated using::Bohr’s formul::aHeisenberg’s principle::De Broglie’s equation::Schrödinger’s equation::A::Bohr’s formula (ΔE = -13.6 Z² (1/n_f² - 1/n_i²) eV) calculates energy differences.
+33::The atomic radius of Li is larger than that of::N::aK::Be::Rb::C::Beryllium has a smaller radius than lithium due to higher effective nuclear charge across the period.
+34::The spin quantum number (m_s) can have values::+1 or -1::0 or 1::+1/2 or -1/2::+1, 0, or -1::C::The spin quantum number is either +1/2 or -1/2, representing electron spin.
+35::The number of orbitals in the n=4 energy level is::4::8::16::32::C::The number of orbitals in an energy level is n²; for n=4, 4² = 16.
+36::The electron configuration of Cu (atomic number 29) is::[Ar] 3d⁹ 4s²::[Ar] 3d¹⁰ 4s¹::[Ar] 3d⁸ 4s²::[Ar] 3d¹⁰ 4s²::B::Copper has an exception:: [Ar] 3d¹⁰ 4s¹ for stability.
+37::The first ionization energy of Mg is higher than that of::Al::N::aC::aK::A::Aluminum has a lower ionization energy than magnesium due to a less stable 3p¹ electron.
+38::The spectral lines in the infrared region of hydrogen belong to::Lyman series::Balmer series::Paschen series::Brackett series::C::The Paschen series (transitions to n=3) produces infrared light.
+39::The number of unpaired electrons in O²⁻ (atomic number 8) is::0::1::2::3::A::O²⁻ has 10 electrons, filling 2p completely (1s² 2s² 2p⁶), so no unpaired electrons.
+40::The Schrödinger wave equation describes the::Path of an electron::Probability of finding an electron::Spin of an electron::Charge of an electron::B::Schrödinger’s equation gives the probability distribution of an electron in an atom.
+41::The electron configuration of Mn²⁺ (atomic number 25) is::[Ar] 3d⁵::[Ar] 3d⁴ 4s¹::[Ar] 3d³ 4s²::[Ar] 3d⁶::A::Mn²⁺ loses two 4s electrons, leaving [Ar] 3d⁵.
+42::The ionization energy is lowest for::Alkali metals::Halogens::Noble gases::Transition metals::A::Alkali metals have the lowest ionization energy due to their single valence electron.
+43::The number of electrons in the valence shell of phosphorus (atomic number 15) is::3::5::7::8::B::Phosphorus has configuration 1s² 2s² 2p⁶ 3s² 3p³, with 5 valence electrons (3s² 3p³).
+44::The atomic radius decreases across a period due to::Increased shielding::Decreased nuclear charge::Increased nuclear charge::Increased electron affinity::C::Increased nuclear charge pulls electrons closer, reducing atomic radius across a period.
+45::The electron configuration of Zn²⁺ (atomic number 30) is::[Ar] 3d¹⁰::[Ar] 3d⁸ 4s²::[Ar] 3d⁹ 4s¹::[Ar] 3d¹⁰ 4s¹::A::Zn²⁺ loses two 4s electrons, leaving [Ar] 3d¹⁰.
+46::The Rydberg formula is used to calculate::Wavelength of spectral lines::Energy of an electron::Mass of an electron::Charge of an electron::A::The Rydberg formula calculates the wavelengths of spectral lines in hydrogen.
+47::The number of orbitals in the d-subshell is::1::3::5::7::C::The d-subshell (l=2) has 5 orbitals (m_l = -2, -1, 0, +1, +2).
+48::The electron affinity of nitrogen is lower than that of::Carbon::Oxygen::Fluorine::Chlorine::A::Nitrogen’s stable half-filled 2p³ configuration results in lower electron affinity than carbon.
+49::The energy of an electron in the nth orbit of hydrogen is proportional to::1/n::n::1/n²::n²::C::According to Bohr’s model, E = -13.6/n² eV for hydrogen.
+50::The number of unpaired electrons in Fe³⁺ (atomic number 26) is::3::4::5::6::C::Fe³⁺ has configuration [Ar] 3d⁵, with 5 unpaired electrons due to half-filled d-orbitals.

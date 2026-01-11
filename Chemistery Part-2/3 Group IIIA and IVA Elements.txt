@@ -1,0 +1,50 @@
+1::Which element is the most abundant in Group IIIA?::Boron::Aluminum::Gallium::Indium::B::Aluminum is the most abundant Group IIIA element in the Earth's crust, making up about 8% by weight.
+2::What is the atomic number of boron?::5::13::31::49::A::Boron has an atomic number of 5, as it is the first element in Group IIIA.
+3::Which Group IVA element is a metalloid?::Carbon::Silicon::Germanium::Tin::C::Germanium is a metalloid, exhibiting properties of both metals and non-metals.
+4::The primary oxidation state of Group IIIA elements is::+1::+2::+3::+4::C::Group IIIA elements (B, Al, Ga, In, Tl) typically exhibit a +3 oxidation state due to the loss of three valence electrons.
+5::Which Group IVA element forms a diamond structure?::Carbon::Silicon::Germanium::Lead::A::Carbon in its diamond form has a tetrahedral covalent network structure.
+6::What is the most common ore of aluminum?::Bauxite::Hematite::Magnetite::Cryolite::A::Bauxite (Al₂O₃·2H₂O) is the primary ore used for aluminum extraction.
+7::Which element in Group IIIA is used in LEDs?::Boron::Aluminum::Gallium::Thallium::C::Gallium is used in LEDs, particularly in gallium arsenide (GaAs) semiconductors.
+8::The allotrope of carbon used as a lubricant is::Diamond::Graphite::Fullerene::Amorphous carbon::B::Graphite has a layered structure, allowing it to act as a lubricant due to weak interlayer forces.
+9::Which Group IVA element is a good conductor of electricity in its pure form?::Carbon::Silicon::Germanium::Tin::D::Tin, a metal, conducts electricity well in its pure form, unlike the metalloids or non-metals in Group IVA.
+10::What is the process used to purify aluminum from its ore?::Bessemer process::Hall-Héroult process::Contact process::Haber process::B::The Hall-Héroult process is used to extract aluminum by electrolysis of alumina dissolved in molten cryolite.
+11::Which Group IIIA element is least reactive?::Boron::Aluminum::Gallium::Indium::A::Boron is the least reactive due to its small size, high ionization energy, and covalent nature.
+12::The hybridization of carbon in diamond is::sp::sp²::sp³::dsp²::C::In diamond, carbon undergoes sp³ hybridization, forming four sigma bonds in a tetrahedral structure.
+13::Which compound is formed when boron reacts with nitrogen?::BN::B₂O₃::BCl₃::B₂H₆::A::Boron reacts with nitrogen to form boron nitride (BN), a compound with properties similar to graphite or diamond.
+14::Which Group IVA element is used in solar cells?::Carbon::Silicon::Tin::Lead::B::Silicon is widely used in solar cells due to its semiconductor properties.
+15::What is the oxidation state of tin in SnCl₄?::+2::+3::+4::+5::C::In SnCl₄, tin exhibits a +4 oxidation state, as each Cl has a -1 charge, and the molecule is neutral.
+16::Which Group IIIA element is toxic and used in rat poison?::Boron::Aluminum::Gallium::Thallium::D::Thallium is highly toxic and has been used in rat poisons due to its poisonous nature.
+17::The structure of graphite consists of::Linear chains::Tetrahedral lattice::Layered sheets::Cubic lattice::C::Graphite has a layered structure with sp² hybridized carbon atoms arranged in hexagonal sheets.
+18::Which Group IVA element is used in car batteries?::Carbon::Silicon::Germanium::Lead::D::Lead is used in lead-acid batteries, commonly found in automobiles.
+19::What is the chemical formula of boric acid?::HBO₂::H₂BO₃::H₃BO₃::H₄B₂O₇::C::Boric acid has the formula H₃BO₃, used as an antiseptic and insecticide.
+20::Which element in Group IIIA forms amphoteric oxides?::Boron::Aluminum::Gallium::Thallium::B::Aluminum forms Al₂O₃, which is amphoteric, reacting with both acids and bases.
+21::The allotrope of carbon that is a good conductor of electricity is::Diamond::Graphite::Fullerene::Amorphous carbon::B::Graphite conducts electricity due to delocalized electrons in its layered structure.
+22::Which Group IVA element has the highest melting point?::Carbon::Silicon::Germanium::Tin::A::Carbon (in diamond form) has the highest melting point (~3550°C) due to its strong covalent network.
+23::What is the product when aluminum reacts with dilute HCl?::AlCl₂::AlCl₃::Al₂Cl₃::AlH₃::B::Aluminum reacts with HCl to form AlCl₃ and H₂: 2Al + 6HCl → 2AlCl₃ + 3H₂.
+24::Which Group IIIA element is used in thermometers?::Boron::Aluminum::Gallium::Indium::C::Gallium, with a low melting point (29.76°C), is used in some thermometers.
+25::The hybridization of carbon in C₂H₂ is::sp::sp²::sp³::dsp²::A::In acetylene (C₂H₂), carbon undergoes sp hybridization, forming a triple bond.
+26::Which compound is used as a flux in aluminum extraction?::Bauxite::Cryolite::Hematite::Lime::B::Cryolite (Na₃AlF₆) is used as a flux in the Hall-Héroult process to lower the melting point of alumina.
+27::Which Group IVA element is a non-metal?::Tin::Lead::Silicon::Carbon::D::Carbon is a non-metal, while silicon and germanium are metalloids, and tin and lead are metals.
+28::What is the shape of BCl₃ molecule?::Linear::Trigonal planar::Tetrahedral::Trigonal pyramidal::B::BCl₃ has a trigonal planar shape due to sp² hybridization and three bonding pairs.
+29::Which Group IIIA element shows the inert pair effect?::Boron::Aluminum::Gallium::Thallium::D::Thallium exhibits the inert pair effect, favoring the +1 oxidation state over +3 due to stable ns² electrons.
+30::The primary source of silicon is::Sand::Bauxite::Hematite::Clay::A::Silicon is obtained from silica (SiO₂), commonly found in sand.
+31::Which allotrope of carbon is used in cutting tools?::Graphite::Diamond::Fullerene::Amorphous carbon::B::Diamond’s hardness makes it ideal for cutting tools.
+32::What is the oxidation state of lead in PbO₂?::+2::+3::+4::+5::C::In PbO₂, lead has a +4 oxidation state, as each oxygen is -2, and the compound is neutral.
+33::Which compound is used as a refractory material?::BN::Al₂O₃::SiO₂::PbO::B::Al₂O₃ (alumina) is used as a refractory material due to its high melting point and stability.
+34::The bond in SiCl₄ is::Ionic::Covalent::Metallic::Coordinate::B::SiCl₄ has covalent bonds due to the sharing of electrons between silicon and chlorine.
+35::Which Group IVA element is used in bullet manufacturing?::Carbon::Silicon::Germanium::Lead::D::Lead is used in bullets due to its density and malleability.
+36::What is the product when boron reacts with oxygen?::BO::B₂O₃::B₃O₂::BO₂::B::Boron reacts with oxygen to form boron trioxide (B₂O₃): 4B + 3O₂ → 2B₂O₃.
+37::Which Group IIIA element has the highest ionization energy?::Boron::Aluminum::Gallium::Thallium::A::Boron has the highest ionization energy due to its smaller atomic size in Group IIIA.
+38::The structure of silicon is similar to::Graphite::Diamond::Fullerene::Amorphous carbon::B::Silicon has a diamond-like tetrahedral covalent network structure.
+39::Which compound is used in glass manufacturing?::Al₂O₃::SiO₂::B₂O₃::PbO::B::Silica (SiO₂) is the primary component in glass production.
+40::What is the hybridization of germanium in GeCl₄?::sp::sp²::sp³::dsp²::C::Germanium in GeCl₄ undergoes sp³ hybridization, forming a tetrahedral molecule.
+41::Which Group IIIA element is used in lightweight alloys?::Boron::Aluminum::Gallium::Thallium::B::Aluminum is widely used in lightweight alloys due to its low density and strength.
+42::What is the oxidation state of boron in B₂H₆?::+1::+2::+3::+4::C::In diborane (B₂H₆), boron has a +3 oxidation state, balancing the hydrogen atoms.
+43::Which Group IVA element is used in transistors?::Carbon::Silicon::Germanium::Lead::C::Germanium is used in transistors due to its semiconductor properties.
+44::The reaction of aluminum with NaOH produces::Al₂O₃::Al(OH)₃::NaAlO₂::AlCl₃::C::Aluminum reacts with NaOH to form sodium aluminate (NaAlO₂) and H₂: 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂.
+45::Which allotrope of carbon is spherical in shape?::Diamond::Graphite::Fullerene::Amorphous carbon::C::Fullerenes (e.g., C₆₀) have a spherical, cage-like structure.
+46::What is the melting point of aluminum?::660°C::1000°C::1500°C::2000°C::A::Aluminum has a melting point of approximately 660°C.
+47::Which Group IVA element forms a dioxide that is acidic?::Tin::Lead::Silicon::Carbon::D::Carbon dioxide (CO₂) is acidic, forming carbonic acid (H₂CO₃) in water.
+48::The compound used in ceramics is::B₂O₃::Al₂O₃::SiO₂::PbO::B::Al₂O₃ is used in ceramics due to its high hardness and thermal stability.
+49::Which Group IIIA element has the lowest electronegativity?::Boron::Aluminum::Gallium::Thallium::D::Thallium has the lowest electronegativity in Group IIIA due to its larger atomic size.
+50::What is the bond angle in SiH₄?::104.5°::107°::109.5°::120°::C::SiH₄ has a tetrahedral shape with a bond angle of 109.5° due to sp³ hybridization.

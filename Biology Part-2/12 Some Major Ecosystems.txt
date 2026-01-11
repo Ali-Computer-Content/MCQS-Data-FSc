@@ -1,0 +1,50 @@
+1::An ecosystem consists of::Biotic components only::Abiotic components only::Biotic and abiotic components::Producers only::C::An ecosystem includes living (biotic) and non-living (abiotic) components interacting together.
+2::The organisms that produce their own food are called::Consumers::Producers::Decomposers::Scavengers::B::Producers, like plants and algae, synthesize food through photosynthesis or chemosynthesis.
+3::The organisms that break down dead organic matter are::Producers::Consumers::Decomposers::Herbivores::C::Decomposers, like fungi and bacteria, recycle nutrients by breaking down dead matter.
+4::The primary source of energy for ecosystems is::Wind::Sunlight::Water::Soil::B::Sunlight drives photosynthesis, providing energy for producers and the entire ecosystem.
+5::The sequence of organisms through which energy flows is called::Food chain::Food web::Trophic level::Ecological pyramid::A::A food chain represents the linear transfer of energy from producers to consumers.
+6::The interconnected food chains in an ecosystem form a::Food chain::Food web::Trophic level::Energy pyramid::B::A food web shows complex feeding relationships among organisms in an ecosystem.
+7::The position of an organism in a food chain is called::Niche::Habitat::Trophic level::Biome::C::Trophic levels indicate an organism’s position, e.g., producer, primary consumer, etc.
+8::The percentage of energy transferred between trophic levels is approximately::10%::20%::50%::90%::A::Only about 10% of energy is transferred to the next trophic level; the rest is lost as heat.
+9::The biome characterized by low rainfall and extreme temperatures is::Tundra::Desert::Grassland::Forest::B::Deserts have low precipitation and extreme temperature variations, supporting sparse vegetation.
+10::The biome with frozen soil called permafrost is::Desert::Tundra::Grassland::Taiga::B::Tundra has permafrost, a permanently frozen subsoil, limiting plant growth.
+11::The largest terrestrial biome is::Tundra::Desert::Taiga::Grassland::C::Taiga (boreal forest) is the largest terrestrial biome, dominated by coniferous trees.
+12::The biome with tall grasses and few trees is::Forest::Grassland::Tundra::Desert::B::Grasslands, like savannas or prairies, have grasses as dominant vegetation with few trees.
+13::The aquatic ecosystem with high salinity is::Freshwater::Marine::Estuary::Wetland::B::Marine ecosystems, like oceans, have high salinity (about 3.5%).
+14::The transitional zone between freshwater and marine ecosystems is::Lake::River::Estuary::Pond::C::Estuaries, where rivers meet the sea, have mixed salinity and support diverse life.
+15::The process of gradual change in an ecosystem is called::Evolution::Succession::Adaptation::Mutation::B::Ecological succession is the progressive replacement of species in an ecosystem over time.
+16::The first organisms to colonize a barren area are called::Climax species::Pioneer species::Secondary species::Keystone species::B::Pioneer species, like lichens, initiate succession by colonizing bare substrates.
+17::The stable, final community in succession is called::Pioneer community::Climax community::Seral community::Primary community::B::The climax community is the stable, mature ecosystem reached at the end of succession.
+18::The succession that occurs on bare rock is::Primary succession::Secondary succession::Tertiary succession::Hydrosere::A::Primary succession starts on barren surfaces like rock, with no prior soil.
+19::The succession that occurs after a disturbance like fire is::Primary succession::Secondary succession::Hydrosere::Xerosere::B::Secondary succession occurs on previously disturbed areas with existing soil.
+20::The major abiotic factor affecting terrestrial ecosystems is::Salinity::Temperature::Oxygen::pH::B::Temperature influences plant and animal distribution in terrestrial ecosystems.
+21::The region of Earth inhabited by living organisms is::Lithosphere::Hydrosphere::Biosphere::Atmosphere::C::The biosphere includes all regions (land, water, air) where life exists.
+22::The role of an organism in its ecosystem is called::Habitat::Niche::Trophic level::Biome::B::A niche describes an organism’s role, including its feeding, reproduction, and interactions.
+23::The organisms that feed on both plants and animals are::Herbivores::Carnivores::Omnivores::Detritivores::C::Omnivores, like humans, consume both plant and animal matter.
+24::The pyramid that represents the number of organisms is::Energy pyramid::Biomass pyramid::Number pyramid::Trophic pyramid::C::The pyramid of numbers shows the count of organisms at each trophic level.
+25::The biome dominated by evergreen coniferous trees is::Tundra::Taiga::Desert::Grassland::B::Taiga is characterized by coniferous forests adapted to cold climates.
+26::The freshwater ecosystem includes::Oceans::Estuaries::Lakes::Coral reefs::C::Lakes, rivers, and ponds are examples of freshwater ecosystems with low salinity.
+27::The coral reefs are found in::Freshwater::Marine::Estuary::Wetland::B::Coral reefs, built by calcium carbonate from corals, are marine ecosystems.
+28::The biome with high rainfall and dense vegetation is::Desert::Tundra::Tropical rainforest::Grassland::C::Tropical rainforests have high rainfall and biodiversity, with dense vegetation.
+29::The organism that has a significant impact on its ecosystem is::Pioneer species::Climax species::Keystone species::Indicator species::C::Keystone species, like predators, disproportionately affect ecosystem stability.
+30::The gradual colonization of a pond into a terrestrial ecosystem is::Xerosere::Hydrosere::Mesosere::Lithosere::B::Hydrosere is the succession starting in aquatic habitats like ponds, leading to terrestrial ecosystems.
+31::The major producer in marine ecosystems is::Seaweed::Phytoplankton::Coral::Mangroves::B::Phytoplankton, microscopic algae, are the primary producers in marine food chains.
+32::The factor that limits the growth of a population is::Biotic factor::Abiotic factor::Limiting factor::Trophic factor::C::Limiting factors, like food or water scarcity, restrict population growth.
+33::The biome with seasonal rainfall and scattered trees is::Savanna::Tundra::Taiga::Desert::A::Savannas have grasses with scattered trees and distinct wet and dry seasons.
+34::The organisms that feed on dead organic matter are::Producers::Consumers::Detritivores::Herbivores::C::Detritivores, like earthworms, consume dead organic material, aiding decomposition.
+35::The energy flow in an ecosystem is::Cyclic::Unidirectional::Bidirectional::Random::B::Energy flows unidirectionally from producers to consumers, with losses at each level.
+36::The nutrient cycling in an ecosystem is::Unidirectional::Cyclic::Linear::Random::B::Nutrients, like carbon and nitrogen, are recycled through biotic and abiotic components.
+37::The biome with cold winters and short growing seasons is::Desert::Tundra::Taiga::Grassland::C::Taiga has cold winters and short summers, supporting coniferous forests.
+38::The ecosystem with high biodiversity is::Desert::Tundra::Tropical rainforest::Grassland::C::Tropical rainforests have the highest biodiversity due to favorable climate and resources.
+39::The organisms that indicate environmental health are::Keystone species::Indicator species::Pioneer species::Climax species::B::Indicator species, like lichens, reflect ecosystem health by their presence or absence.
+40::The process of soil formation during primary succession begins with::Trees::Grasses::Lichens::Shrubs::C::Lichens, as pioneer species, break down rock and initiate soil formation.
+41::The major abiotic component of an ecosystem is::Producers::Consumers::Water::Decomposers::C::Water is a critical abiotic factor influencing organism distribution and ecosystem function.
+42::The ecosystem with standing water and saturated soils is::Lake::River::Wetland::Estuary::C::Wetlands, like marshes, have waterlogged soils and support unique flora and fauna.
+43::The biome with low biodiversity due to harsh conditions is::Tropical rainforest::Tundra::Savanna::Taiga::B::Tundra has low biodiversity due to extreme cold and short growing seasons.
+44::The food chain in a grassland ecosystem starts with::Grass::Lion::Deer::Hawk::A::Grass, a producer, forms the base of the food chain in grasslands.
+45::The pyramid that shows the total dry weight of organisms is::Number pyramid::Biomass pyramid::Energy pyramid::Trophic pyramid::B::The biomass pyramid represents the total mass of organisms at each trophic level.
+46::The major consumer in a terrestrial ecosystem is::Phytoplankton::Herbivore::Carnivore::Decomposer::B::Herbivores, like deer, are primary consumers feeding directly on producers.
+47::The succession that occurs on dry, barren land is::Hydrosere::Xerosere::Mesosere::Lithosere::B::Xerosere is the succession in dry habitats, like deserts, starting with drought-resistant plants.
+48::The biome with moderate rainfall and deciduous trees is::Tropical rainforest::Taiga::Temperate forest::Tundra::C::Temperate forests have deciduous trees that shed leaves seasonally.
+49::The interaction where one species benefits and the other is unaffected is::Mutualism::Commensalism::Parasitism::Predation::B::Commensalism involves one species benefiting while the other is neither harmed nor helped.
+50::The major threat to ecosystems is::Natural selection::Human activities::Mutation::Gene flow::B::Human activities, like deforestation and pollution, significantly disrupt ecosystems.

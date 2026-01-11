@@ -1,0 +1,50 @@
+1::The Kingdom Prokaryotae includes organisms that lack::Nucleus::Cell wall::Cytoplasm::Ribosomes::A::Prokaryotes lack a membrane-bound nucleus, unlike eukaryotes.
+2::Which of the following is a prokaryotic organism?::Amoeba::Bacteria::Fungus::Algae::B::Bacteria are prokaryotes, lacking membrane-bound organelles.
+3::The cell wall of most bacteria is composed of::Cellulose::Chitin::Peptidoglycan::Lipids::C::Peptidoglycan provides structural support in bacterial cell walls.
+4::Which scientist proposed the five-kingdom classification system?::Robert Whittaker::Carl Linnaeus::Robert Hooke::Louis Pasteur::A::Robert Whittaker introduced the five-kingdom system, including Monera.
+5::Bacteria that require oxygen for growth are called::Anaerobic::Aerobic::Facultative anaerobes::Microaerophilic::B::Aerobic bacteria need oxygen for metabolic processes.
+6::The shape of rod-like bacteria is called::Coccus::Bacillus::Spirillum::Vibrio::B::Bacillus refers to rod-shaped bacteria.
+7::Spherical bacteria are known as::Coccus::Bacillus::Spirillum::Vibrio::A::Coccus bacteria are spherical in shape.
+8::Which of the following is a characteristic of prokaryotes?::Presence of nucleus::Lack of membrane-bound organelles::Complex organelles::Large size::B::Prokaryotes lack membrane-bound organelles like mitochondria.
+9::The genetic material in bacteria is usually::Linear DNA::Circular DNA::RNA::Histone-bound DNA::B::Bacterial DNA is typically a single, circular chromosome.
+10::Bacteria reproduce asexually by::Mitosis::Meiosis::Binary fission::Budding::C::Binary fission is the process where one bacterial cell divides into two.
+11::Which structure helps bacteria in locomotion?::Flagella::Pili::Capsule::Cell wall::A::Flagella are whip-like structures that enable bacterial movement.
+12::The slimy layer outside some bacterial cell walls is called::Capsule::Pili::Flagella::Mesosome::A::The capsule protects bacteria and aids in adhesion.
+13::Which of the following is a Gram-positive bacterium?::Escherichia coli::Staphylococcus aureus::Salmonella typhi::Pseudomonas aeruginosa::B::Staphylococcus aureus retains the Gram stain due to its thick peptidoglycan layer.
+14::Gram-negative bacteria have::Thick peptidoglycan layer::Thin peptidoglycan layer::No cell wall::Chitin layer::B::Gram-negative bacteria have a thin peptidoglycan layer and an outer membrane.
+15::The process of nitrogen fixation is performed by::Cyanobacteria::E. coli::Staphylococcus::Clostridium::A::Cyanobacteria convert atmospheric nitrogen into ammonia.
+16::Which bacterium causes tuberculosis?::Mycobacterium tuberculosis::Escherichia coli::Streptococcus pneumoniae::Salmonella typhi::A::Mycobacterium tuberculosis is the causative agent of tuberculosis.
+17::Antibiotics are primarily effective against::Viruses::Bacteria::Fungi::Protozoa::B::Antibiotics target bacterial structures and processes.
+18::Which of the following is a photosynthetic bacterium?::Cyanobacteria::Clostridium::E. coli::Staphylococcus::A::Cyanobacteria perform photosynthesis, producing oxygen.
+19::The structure used by bacteria for conjugation is::Flagella::Pili::Capsule::Mesosome::B::Pili facilitate the transfer of genetic material during conjugation.
+20::Bacteria that can survive with or without oxygen are::Obligate aerobes::Obligate anaerobes::Facultative anaerobes::Microaerophiles::C::Facultative anaerobes can switch between aerobic and anaerobic metabolism.
+21::Which of the following is a pathogenic bacterium?::Lactobacillus::Rhizobium::Salmonella typhi::Cyanobacteria::C::Salmonella typhi causes typhoid fever, a bacterial disease.
+22::The process by which bacteria form a resistant structure to survive harsh conditions is::Sporulation::Conjugation::Transformation::Transduction::A::Sporulation produces endospores that resist extreme conditions.
+23::Which bacterium is used in the production of yogurt?::Lactobacillus::E. coli::Clostridium::Streptococcus::A::Lactobacillus ferments milk to produce yogurt.
+24::The main source of energy for Earth’s ecosystem is::Nitrogen::Oxygen::Sunlight::Carbon::C::Sunlight drives photosynthesis, performed by some bacteria like cyanobacteria.
+25::Which of the following is a mode of bacterial nutrition?::Autotrophic::Heterotrophic::Both A and B::None of these::C::Bacteria can be autotrophic (e.g., cyanobacteria) or heterotrophic (e.g., E. coli).
+26::The term “Monera” refers to::Eukaryotes::Prokaryotes::Fungi::Protists::B::Monera includes prokaryotic organisms like bacteria.
+27::Which bacterium causes cholera?::Vibrio cholerae::Mycobacterium tuberculosis::Clostridium tetani::Streptococcus pneumoniae::A::Vibrio cholerae is responsible for the disease cholera.
+28::The staining technique used to differentiate bacteria is::Simple staining::Gram staining::Acid-fast staining::Both B and C::D::Gram and acid-fast staining distinguish bacterial types based on cell wall properties.
+29::Which of the following is an obligate anaerobe?::E. coli::Clostridium tetani::Staphylococcus aureus::Pseudomonas aeruginosa::B::Clostridium tetani cannot survive in the presence of oxygen.
+30::Bacteria that grow best at moderate temperatures are::Psychrophiles::Mesophiles::Thermophiles::Hyperthermophiles::B::Mesophiles thrive at temperatures around 20–45°C, like human body temperature.
+31::Which structure in bacteria is involved in DNA replication?::Mesosome::Pili::Flagella::Capsule::A::Mesosomes are invaginations of the plasma membrane involved in DNA replication.
+32::The process of genetic exchange via bacteriophages is called::Conjugation::Transformation::Transduction::Sporulation::C::Transduction involves the transfer of DNA by viruses (bacteriophages).
+33::Which of the following bacteria is acid-fast?::Mycobacterium tuberculosis::E. coli::Staphylococcus aureus::Salmonella typhi::A::Mycobacterium tuberculosis retains acid-fast stain due to its waxy cell wall.
+34::Bacteria that live in extreme environments are called::Mesophiles::Extremophiles::Psychrophiles::Halophiles::B::Extremophiles include bacteria like thermophiles and halophiles.
+35::Which bacterium is involved in symbiotic nitrogen fixation?::Rhizobium::E. coli::Clostridium::Staphylococcus::A::Rhizobium lives in plant roots and fixes nitrogen symbiotically.
+36::The primary role of the bacterial capsule is::Locomotion::Protection::DNA replication::Protein synthesis::B::The capsule protects bacteria from phagocytosis and desiccation.
+37::Which of the following is a heterotrophic bacterium?::Cyanobacteria::E. coli::Nostoc::Anabaena::B::E. coli obtains nutrients from organic matter, making it heterotrophic.
+38::The antibiotic penicillin targets bacterial::Cell membrane::Cell wall::Ribosomes::DNA::B::Penicillin inhibits peptidoglycan synthesis in bacterial cell walls.
+39::Which bacterium causes tetanus?::Clostridium tetani::Vibrio cholerae::Mycobacterium tuberculosis::Salmonella typhi::A::Clostridium tetani produces a toxin causing tetanus.
+40::Bacteria that prefer cold temperatures are called::Thermophiles::Mesophiles::Psychrophiles::Halophiles::C::Psychrophiles thrive in cold environments, like polar regions.
+41::The process of taking up naked DNA from the environment by bacteria is::Conjugation::Transformation::Transduction::Sporulation::B::Transformation involves the uptake of free DNA by competent bacteria.
+42::Which of the following is a beneficial role of bacteria?::Causing diseases::Decomposing organic matter::Producing toxins::Spreading infections::B::Bacteria like decomposers recycle nutrients in ecosystems.
+43::The bacterial cell membrane is involved in::DNA storage::Selective permeability::Protein synthesis::Cell division::B::The cell membrane regulates the transport of substances in and out of the cell.
+44::Which of the following is a Gram-negative bacterium?::Staphylococcus aureus::E. coli::Clostridium tetani::Bacillus subtilis::B::E. coli has a thin peptidoglycan layer and an outer membrane, making it Gram-negative.
+45::The pigment responsible for photosynthesis in cyanobacteria is::Chlorophyll::Hemoglobin::Melanin::Carotene::A::Chlorophyll enables cyanobacteria to perform photosynthesis.
+46::Which bacterium is used in bioremediation?::Pseudomonas::Lactobacillus::Streptococcus::Clostridium::A::Pseudomonas degrades pollutants, aiding in bioremediation.
+47::The arrangement of bacteria in chains is called::Staphylo::Strepto::Diplo::Tetra::B::Strepto refers to bacteria arranged in chains, like Streptococcus.
+48::Which of the following is a characteristic of endospores?::They are reproductive structures::They are resistant to harsh conditions::They are motile::They are metabolically active::B::Endospores are dormant, resistant structures formed to survive adverse conditions.
+49::The bacterium that causes pneumonia is::Streptococcus pneumoniae::E. coli::Vibrio cholerae::Rhizobium::A::Streptococcus pneumoniae is a common cause of bacterial pneumonia.
+50::The ecological role of cyanobacteria includes::Oxygen production::Carbon fixation::Nitrogen fixation::All of these::D::Cyanobacteria contribute to oxygen production, carbon, and nitrogen fixation in ecosystems.

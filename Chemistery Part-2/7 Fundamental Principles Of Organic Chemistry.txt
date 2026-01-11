@@ -1,0 +1,50 @@
+1::Organic chemistry is the study of compounds containing::Carbon::Oxygen::Nitrogen::Sulfur::A::Organic chemistry primarily deals with carbon-containing compounds.
+2::The unique property of carbon that allows it to form diverse compounds is::Catenation::Ionization::Electronegativity::Polarity::A::Catenation is carbon’s ability to form long chains and rings by bonding with itself.
+3::The primary source of organic compounds is::Minerals::Air::Plants and animals::Water::C::Most organic compounds are derived from living organisms like plants and animals.
+4::The process of converting organic matter into coal is called::Catenation::Carbonization::Cracking::Distillation::B::Carbonization is the geological process that forms coal from organic matter.
+5::The functional group in alcohols is::–OH::–COOH::–NH2::–CHO::A::The hydroxyl group (–OH) is characteristic of alcohols.
+6::The general formula of alkanes is::CnH2n+2::CnH2n::CnH2n–2::CnHn::A::Alkanes have the formula CnH2n+2, indicating single bonds only.
+7::The functional group in aldehydes is::–COOH::–CHO::–OH::–NH2::B::Aldehydes contain the –CHO (formyl) group.
+8::Isomerism is the phenomenon where compounds have::Same molecular formula but different structures::Same structure but different formulas::Same formula and structure::Different formulas and structures::A::Isomers share the same molecular formula but differ in structure.
+9::The type of isomerism shown by butane and isobutane is::Functional isomerism::Chain isomerism::Position isomerism::Metamerism::B::Butane and isobutane exhibit chain isomerism due to different carbon skeletons.
+10::The IUPAC name of CH3CH2OH is::Methanol::Ethanol::Propanol::Butanol::B::CH3CH2OH is ethanol, a two-carbon alcohol.
+11::The functional group in carboxylic acids is::–OH::–COOH::–CHO::–CO–::B::Carboxylic acids contain the –COOH group.
+12::The general formula of alkenes is::CnH2n+2::CnH2n::CnH2n–2::CnHn::B::Alkenes have one double bond, giving the formula CnH2n.
+13::The functional group in ketones is::–CHO::–COOH::–CO–::–OH::C::Ketones contain the carbonyl group (–CO–) between carbon atoms.
+14::The type of isomerism shown by CH3CH2CHO and CH3COCH3 is::Chain isomerism::Position isomerism::Functional isomerism::Metamerism::C::Propanal (CH3CH2CHO) and acetone (CH3COCH3) are functional isomers (aldehyde vs. ketone).
+15::The IUPAC name of CH3COOH is::Methanoic acid::Ethanoic acid::Propanoic acid::Butanoic acid::B::CH3COOH is ethanoic acid, a two-carbon carboxylic acid.
+16::The process of breaking down large hydrocarbons into smaller ones is called::Cracking::Reforming::Distillation::Polymerization::A::Cracking breaks large hydrocarbons into smaller, useful molecules.
+17::The general formula of alkynes is::CnH2n+2::CnH2n::CnH2n–2::CnHn::C::Alkynes have one triple bond, giving the formula CnH2n–2.
+18::The functional group in amines is::–OH::–NH2::–COOH::–CHO::B::Amines contain the amino group (–NH2).
+19::The IUPAC name of CH2=CH2 is::Ethane::Ethene::Ethyne::Ethanol::B::CH2=CH2 is ethene, a two-carbon alkene.
+20::The type of isomerism shown by 1-butene and 2-butene is::Chain isomerism::Position isomerism::Functional isomerism::Metamerism::B::1-butene and 2-butene differ in the position of the double bond, showing position isomerism.
+21::The main component of natural gas is::Ethane::Propane::Butane::Methane::D::Methane (CH4) is the primary component of natural gas.
+22::The functional group in ethers is::–OH::–O–::–NH2::–COOH::B::Ethers have an oxygen atom (–O–) linking two carbon groups.
+23::The IUPAC name of CH3CHO is::Methanal::Ethanal::Propanal::Butanal::B::CH3CHO is ethanal, a two-carbon aldehyde.
+24::The process of separating hydrocarbons based on boiling points is called::Cracking::Reforming::Fractional distillation::Polymerization::C::Fractional distillation separates petroleum into fractions based on boiling points.
+25::The general formula of cycloalkanes is::CnH2n+2::CnH2n::CnH2n–2::CnHn::B::Cycloalkanes have the formula CnH2n, similar to alkenes but with a ring structure.
+26::The functional group in esters is::–COOH::–COO–::–CHO::–CO–::B::Esters contain the –COO– group, linking carbon chains.
+27::The IUPAC name of CH3COCH3 is::Propanone::Butanone::Ethanone::Methanone::A::CH3COCH3 is propanone, a three-carbon ketone.
+28::The type of isomerism shown by maleic acid and fumaric acid is::Chain isomerism::Position isomerism::Geometrical isomerism::Functional isomerism::C::Maleic and fumaric acids exhibit geometrical (cis-trans) isomerism.
+29::The source of organic compounds like coal and petroleum is::Living organisms::Rocks::Air::Water::A::Coal and petroleum are formed from ancient living organisms.
+30::The IUPAC name of CH3CH2NH2 is::Methanamine::Ethanamine::Propanamine::Butanamine::B::CH3CH2NH2 is ethanamine, a two-carbon amine.
+31::The functional group in amides is::–NH2::–CONH2::–COOH::–CHO::B::Amides contain the –CONH2 group.
+32::The general formula of aromatic hydrocarbons like benzene is::CnH2n+2::CnH2n::CnH2n–6::CnHn::C::Benzene (C6H6) and similar aromatics follow CnH2n–6.
+33::The IUPAC name of C6H6 is::Hexane::Hexene::Benzene::Cyclohexane::C::C6H6 is benzene, an aromatic hydrocarbon.
+34::The type of isomerism shown by CH3CH(OH)CH3 and CH3OCH3 is::Chain isomerism::Position isomerism::Functional isomerism::Metamerism::C::Propan-2-ol and methoxymethane are functional isomers (alcohol vs. ether).
+35::The process of converting straight-chain hydrocarbons to branched or cyclic ones is called::Cracking::Reforming::Distillation::Polymerization::B::Reforming improves the quality of gasoline by rearranging hydrocarbons.
+36::The IUPAC name of CH3CH2COOH is::Methanoic acid::Ethanoic acid::Propanoic acid::Butanoic acid::C::CH3CH2COOH is propanoic acid, a three-carbon carboxylic acid.
+37::The functional group in alkynes is::–C=C–::–C≡C–::–C–C–::–C=O::B::Alkynes contain a triple bond (–C≡C–).
+38::The IUPAC name of CH3CH=CH2 is::Propane::Propene::Propyne::Propanol::B::CH3CH=CH2 is propene, a three-carbon alkene.
+39::The type of isomerism shown by 2-pentanone and 3-pentanone is::Chain isomerism::Position isomerism::Functional isomerism::Metamerism::B::2-pentanone and 3-pentanone differ in the position of the carbonyl group.
+40::The main source of methane is::Coal::Petroleum::Natural gas::Biomass::C::Methane is the primary component of natural gas.
+41::The IUPAC name of CH3OCH3 is::Methoxymethane::Ethoxymethane::Methanol::Ethanol::A::CH3OCH3 is methoxymethane, a simple ether.
+42::The functional group in nitriles is::–CN::–NH2::–NO2::–CONH2::A::Nitriles contain the –CN group.
+43::The IUPAC name of CH3CN is::Methanenitrile::Ethanenitrile::Propanenitrile::Butanenitrile::B::CH3CN is ethanenitrile, a two-carbon nitrile.
+44::The type of isomerism shown by CH3CH2CH2OH and CH3CH(OH)CH3 is::Chain isomerism::Position isomerism::Functional isomerism::Metamerism::B::Propan-1-ol and propan-2-ol differ in the position of the –OH group.
+45::The process of combining small molecules to form large ones is called::Cracking::Reforming::Polymerization::Distillation::C::Polymerization forms large molecules (polymers) from monomers.
+46::The IUPAC name of CH3CH2CHO is::Methanal::Ethanal::Propanal::Butanal::C::CH3CH2CHO is propanal, a three-carbon aldehyde.
+47::The functional group in alkyl halides is::–OH::–X (halogen)::–NH2::–COOH::B::Alkyl halides contain a halogen atom (–X, where X = F, Cl, Br, I).
+48::The IUPAC name of CH3Cl is::Chloromethane::Chloroethane::Chloropropane::Chlorobutane::A::CH3Cl is chloromethane, a one-carbon alkyl halide.
+49::The type of isomerism shown by C4H10 is::Functional isomerism::Chain isomerism::Position isomerism::Geometrical isomerism::B::C4H10 (butane and isobutane) exhibits chain isomerism.
+50::The compound used as a fuel from organic chemistry is::CH3COOH::CH3OH::C6H6::CH4::D::Methane (CH4) is a major fuel component in natural gas.

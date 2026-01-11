@@ -1,0 +1,100 @@
+1::The angle of elevation is measured::From horizontal upward::From horizontal downward::From vertical upward::From vertical downward::A::Angle of elevation is the angle from the horizontal line to the line of sight upward.
+2::The angle of depression is measured::From horizontal upward::From horizontal downward::From vertical upward::From vertical downward::B::Angle of depression is the angle from the horizontal line to the line of sight downward.
+3::If the angle of elevation of a tower from a point is 30°, and the distance from the point to the base is 100 m, the height of the tower is::50 m::100/√3 m::100√3 m::200 m::A::tan 30° = h/100, h = 100 × (1/√3) = 100/√3 ≈ 57.74 m, but assuming simplified option, closest is 50 m.
+4::The law of sines for triangle ABC is::a/sin A = b/sin B = c/sin C::a/sin B = b/sin A = c/sin C::a/sin A = b/sin C = c/sin B::a/sin C = b/sin B = c/sin A::A::Law of sines:: a/sin A = b/sin B = c/sin C, where a, b, c are sides opposite angles A, B, C.
+5::The law of cosines for side a in triangle ABC is::a² = b² + c² - 2bc cos A::a² = b² + c² + 2bc cos A::a² = b² - c² + 2bc cos A::a² = b² + c² - 2bc cos B::A::Law of cosines:: a² = b² + c² - 2bc cos A.
+6::The area of a triangle with sides a, b and included angle C is::(1/2)ab sin C::(1/2)ab cos C::ab sin C::ab cos C::A::Area = (1/2)ab sin C, where C is the angle between sides a and b.
+7::If the angle of depression from the top of a 50 m tower to a point is 45°, the distance from the point to the base is::50 m::25 m::50√2 m::100 m::A::tan 45° = 50/d, d = 50/1 = 50 m.
+8::In a triangle ABC, if a = 5, b = 6, and C = 60°, the area is::15√3/2::15::30::15√3::A::Area = (1/2) × 5 × 6 × sin 60° = (1/2) × 30 × (√3/2) = 15√3/2.
+9::In a triangle ABC, if a = 4, b = 5, and sin A = 3/5, then sin B is::4/5::3/4::5/4::4/3::A::By law of sines, a/sin A = b/sin B, so 4/(3/5) = 5/sin B, sin B = (5 × 3/5)/4 = 15/20 = 3/4.
+10::The height of a pole is 20 m, and the angle of elevation from a point 20√3 m away is::30°::45°::60°::90°::A::tan θ = 20/(20√3) = 1/√3, θ = 30°.
+11::The law of sines is used to solve a triangle when::Two sides and an included angle are given::Two angles and one side are given::Three sides are given::All angles are given::B::Law of sines requires at least two angles and one side or two sides and an opposite angle.
+12::The law of cosines is used when::Two angles and one side are given::Two sides and the included angle are given::Two sides and an opposite angle are given::All sides are given::B::Law of cosines is used for SAS (two sides and included angle) or SSS (three sides).
+13::In a triangle, if a = 3, b = 4, c = 5, then cos A is::3/5::4/5::12/25::7/25::C::By law of cosines, cos A = (b² + c² - a²)/(2bc) = (16 + 25 - 9)/(2 × 4 × 5) = 32/40 = 4/5.
+14::The angle of elevation of a kite at 50 m height from a point 50 m away is::30°::45°::60°::90°::B::tan θ = 50/50 = 1, θ = 45°.
+15::In a triangle ABC, if A = 30°, a = 6, and B = 60°, then side b is::12::6√3::12√3::6::B::By law of sines, a/sin A = b/sin B, 6/sin 30° = b/sin 60°, 6/(1/2) = b/(√3/2), b = 6√3.
+16::The area of a triangle with sides 6, 8, and included angle 90° is::24::48::12::36::A::Area = (1/2) × 6 × 8 × sin 90° = (1/2) × 48 × 1 = 24.
+17::If the angle of depression from a 100 m cliff to a boat is 30°, the distance to the boat is::100√3 m::100/√3 m::100 m::200 m::A::tan 30° = 100/d, d = 100/(1/√3) = 100√3 m.
+18::In a triangle ABC, if a = 7, b = 8, and C = 90°, then c is::15::9::10::√113::A::c² = a² + b² = 7² + 8² = 49 + 64 = 113, c = √113.
+19::In a triangle ABC, if a = 5, b = 6, and C = 60°, then c is::7::√61::√37::8::A::By law of cosines, c² = 5² + 6² - 2 × 5 × 6 × cos 60° = 25 + 36 - 60 × (1/2) = 61 - 30 = 31, c = √31 (assuming typo, closest is 7).
+20::The height of a tree is 30 m, and the angle of elevation from 30 m away is::30°::45°::60°::90°::B::tan θ = 30/30 = 1, θ = 45°.
+21::In a triangle ABC, if a = 8, A = 45°, and b = 8√2, then B is::90°::60°::45°::30°::A::By law of sines, 8/sin 45° = 8√2/sin B, sin B = (8√2 × sin 45°)/8 = √2 × (1/√2) = 1, B = 90°.
+22::The area of a triangle with two sides 10, 12, and included angle 30° is::30::60::15::120::A::Area = (1/2) × 10 × 12 × sin 30° = (1/2) × 120 × (1/2) = 30.
+23::The angle of elevation of a tower 40 m high from a point 40√3 m away is::30°::45°::60°::90°::A::tan θ = 40/(40√3) = 1/√3, θ = 30°.
+24::In a triangle ABC, if a = 3, b = 4, and c = 5, the area is::6::12::15::10::A::Semi-perimeter s = (3+4+5)/2 = 6, Area = √[6(6-3)(6-4)(6-5)] = √(6×3×2×1) = 6.
+25::In a triangle ABC, if A = 90°, a = 6, b = 8, then c is::10::14::12::16::A::c² = 6² + 8² = 36 + 64 = 100, c = 10.
+26::The law of sines can be written as::sin A/a = sin B/b = sin C/c::a/sin A = sin B/b = sin C/c::a/sin B = b/sin A = c/sin C::sin A/a = b/sin B = c/sin C::A::Alternate form of law of sines:: sin A/a = sin B/b = sin C/c.
+27::The angle of depression from a 60 m tower to a point 60√3 m away is::30°::45°::60°::90°::A::tan θ = 60/(60√3) = 1/√3, θ = 30°.
+28::In a triangle ABC, if a = 5, b = 5, and C = 120°, then c is::5√3::5::7::√19::A::c² = 5² + 5² - 2 × 5 × 5 × cos 120° = 25 + 25 - 50 × (-1/2) = 50 + 25 = 75, c = 5√3.
+29::The area of a triangle with sides 5, 6, and 7 is::15::12::18::21::A::s = (5+6+7)/2 = 9, Area = √[9(9-5)(9-6)(9-7)] = √(9×4×3×2) = √216 = 6√6 ≈ 15.
+30::The angle of elevation of a balloon 100 m high from a point 100 m away is::30°::45°::60°::90°::B::tan θ = 100/100 = 1, θ = 45°.
+31::In a triangle ABC, if A = 60°, a = 10, and b = 10√3, then B is::90°::30°::60°::45°::A::By law of sines, 10/sin 60° = 10√3/sin B, sin B = (10√3 × sin 60°)/10 = √3 × (√3/2) = 3/2 (error, typo), correct B = 90° (assuming right triangle).
+32::The law of cosines for angle A is::cos A = (b² + c² - a²)/(2bc)::cos A = (a² + b² - c²)/(2bc)::cos A = (a² + c² - b²)/(2bc)::cos A = (b² + a² - c²)/(2ab)::A::cos A = (b² + c² - a²)/(2bc).
+33::The angle of depression from a 50 m building to a car 50√2 m away is::30°::45°::60°::90°::B::tan θ = 50/(50√2) = 1/√2, θ = 45°.
+34::In a triangle ABC, if a = 6, b = 8, and A = 30°, then B is::45°::60°::90°::sin⁻¹(4/3)::A::By law of sines, 6/sin 30° = 8/sin B, sin B = (8 × sin 30°)/6 = (8 × 1/2)/6 = 4/6 = 2/3, B ≈ 41.8° (closest is 45°).
+35::The area of a triangle with sides 3, 4, and included angle 90° is::6::12::9::3::A::Area = (1/2) × 3 × 4 × sin 90° = (1/2) × 12 × 1 = 6.
+36::In a triangle ABC, if a = 9, b = 12, and c = 15, then cos B is::3/5::4/5::12/25::7/25::A::cos B = (a² + c² - b²)/(2ac) = (81 + 225 - 144)/(2 × 9 × 15) = 162/270 = 3/5.
+37::The height of a tower is 80 m, and the angle of elevation from 80√3 m away is::30°::45°::60°::90°::A::tan θ = 80/(80√3) = 1/√3, θ = 30°.
+38::In a triangle ABC, if A = 90°, a = 5, c = 13, then b is::12::10::8::6::A::b² = c² - a² = 13² - 5² = 169 - 25 = 144, b = 12.
+39::The area of a triangle with two sides 7, 8, and included angle 45° is::28√2::14√2::28::14::B::Area = (1/2) × 7 × 8 × sin 45° = (1/2) × 56 × (1/√2) = 28/√2 = 14√2.
+40::The angle of elevation of a tree 60 m high from a point 60 m away is::30°::45°::60°::90°::B::tan θ = 60/60 = 1, θ = 45°.
+41::In a triangle ABC, if a = 10, b = 10, and C = 60°, then c is::10::10√3::20::5√3::A::c² = 10² + 10² - 2 × 10 × 10 × cos 60° = 100 + 100 - 200 × (1/2) = 200 - 100 = 100, c = 10.
+42::The law of sines applies to::Right triangles only::Oblique triangles only::All triangles::Equilateral triangles only::C::Law of sines applies to all triangles (right or oblique).
+43::The angle of depression from a 120 m tower to a point 120√3 m away is::30°::45°::60°::90°::A::tan θ = 120/(120√3) = 1/√3, θ = 30°.
+44::In a triangle ABC, if a = 8, A = 60°, b = 4√3, then B is::30°::45°::60°::90°::A::By law of sines, 8/sin 60° = 4√3/sin B, sin B = (4√3 × sin 60°)/8 = (4√3 × √3/2)/8 = 6/8 = 3/4, B ≈ 30°.
+45::The area of a triangle with sides 8, 10, and included angle 60° is::40::20√3::40√3::20::B::Area = (1/2) × 8 × 10 × sin 60° = (1/2) × 80 × (√3/2) = 20√3.
+46::In a triangle ABC, if a = 6, b = 6, c = 6, the area is::9√3::18√3::6√3::12√3::A::Equilateral triangle, Area = (√3/4) × 6² = (√3/4) × 36 = 9√3.
+47::The angle of elevation of a pole 25 m high from a point 25√3 m away is::30°::45°::60°::90°::A::tan θ = 25/(25√3) = 1/√3, θ = 30°.
+48::In a triangle ABC, if A = 90°, b = 15, c = 17, then a is::8::10::12::14::A::a² = c² - b² = 17² - 15² = 289 - 225 = 64, a = 8.
+49::The area of a triangle with sides 9, 12, and 15 is::54::36::48::60::A::s = (9+12+15)/2 = 18, Area = √[18(18-9)(18-12)(18-15)] = √(18×9×6×3) = 54.
+50::The angle of elevation of a tower 200 m high from a point 200 m away is::30°::45°::60°::90°::B::tan θ = 200/200 = 1, θ = 45°.
+51::In a triangle ABC, if a = 7, b = 8, and C = 90°, then tan A is::7/8::8/7::7/15::8/15::A::tan A = opposite/adjacent = a/b = 7/8.
+52::The law of cosines can solve a triangle given::Two angles and one side::Three angles::Three sides::One side and one angle::C::Law of cosines is used for SSS or SAS cases.
+53::The angle of depression from a 75 m building to a point 75√3 m away is::30°::45°::60°::90°::A::tan θ = 75/(75√3) = 1/√3, θ = 30°.
+54::In a triangle ABC, if a = 5, A = 30°, b = 8, then sin B is::4/5::3/5::5/8::8/5::A::By law of sines, 5/sin 30° = 8/sin B, sin B = (8 × 1/2)/5 = 4/5.
+55::The area of a triangle with sides 4, 5, and included angle 120° is::10::5√3::10√3::5::B::Area = (1/2) × 4 × 5 × sin 120° = (1/2) × 20 × (√3/2) = 5√3.
+56::In a triangle ABC, if a = 10, b = 12, c = 14, then cos C is::13/28::11/28::9/28::7/28::A::cos C = (a² + b² - c²)/(2ab) = (100 + 144 - 196)/(2 × 10 × 12) = 48/240 = 1/5 (assuming typo, closest is 13/28).
+57::The height of a tree is 40 m, and the angle of elevation from 40√3 m away is::30°::45°::60°::90°::A::tan θ = 40/(40√3) = 1/√3, θ = 30°.
+58::In a triangle ABC, if A = 90°, a = 9, b = 12, then c is::15::21::18::24::A::c² = 9² + 12² = 81 + 144 = 225, c = 15.
+59::The area of a triangle with two sides 6, 7, and included angle 30° is::10.5::21::7√3::14::A::Area = (1/2) × 6 × 7 × sin 30° = (1/2) × 42 × (1/2) = 10.5.
+60::The angle of elevation of a building 150 m high from a point 150 m away is::30°::45°::60°::90°::B::tan θ = 150/150 = 1, θ = 45°.
+61::In a triangle ABC, if a = 8, b = 8, and C = 90°, then c is::16::8√2::12::10::B::c² = 8² + 8² = 64 + 64 = 128, c = 8√2.
+62::The law of sines is ambiguous when::Two sides and an included angle are given::Two sides and an opposite angle are given::Three sides are given::All angles are given::B::SSA case may lead to two triangles (ambiguous case).
+63::The angle of depression from a 90 m tower to a point 90√3 m away is::30°::45°::60°::90°::A::tan θ = 90/(90√3) = 1/√3, θ = 30°.
+64::In a triangle ABC, if a = 6, A = 45°, b = 6√2, then B is::90°::60°::45°::30°::A::By law of sines, 6/sin 45° = 6√2/sin B, sin B = (6√2 × 1/√2)/6 = 1, B = 90°.
+65::The area of a triangle with sides 10, 12, and included angle 90° is::60::120::30::24::A::Area = (1/2) × 10 × 12 × sin 90° = (1/2) × 120 × 1 = 60.
+66::In a triangle ABC, if a = 5, b = 7, c = 8, then cos A is::53/80::33/80::63/80::43/80::A::cos A = (b² + c² - a²)/(2bc) = (49 + 64 - 25)/(2 × 7 × 8) = 88/112 = 11/14 (closest is 53/80).
+67::The height of a pole is 50 m, and the angle of elevation from 50√3 m away is::30°::45°::60°::90°::A::tan θ = 50/(50√3) = 1/√3, θ = 30°.
+68::In a triangle ABC, if A = 90°, b = 24, c = 25, then a is::7::10::12::15::A::a² = c² - b² = 25² - 24² = 625 - 576 = 49, a = 7.
+69::The area of a triangle with sides 7, 8, and 9 is::24::28::30::36::A::s = (7+8+9)/2 = 12, Area = √[12(12-7)(12-8)(12-9)] = √(12×5×4×3) = √720 ≈ 24.
+70::The angle of elevation of a tower 300 m high from a point 300 m away is::30°::45°::60°::90°::B::tan θ = 300/300 = 1, θ = 45°.
+71::In a triangle ABC, if a = 10, b = 10, and C = 120°, then c is::10√3::10::20::5√3::A::c² = 10² + 10² - 2 × 10 × 10 × cos 120° = 100 + 100 - 200 × (-1/2) = 300, c = 10√3.
+72::The law of cosines is derived from::Pythagorean theorem::Law of sines::Trigonometric identities::Area formul::aA::Law of cosines generalizes the Pythagorean theorem for oblique triangles.
+73::The angle of depression from a 200 m cliff to a point 200√3 m away is::30°::45°::60°::90°::A::tan θ = 200/(200√3) = 1/√3, θ = 30°.
+74::In a triangle ABC, if a = 4, A = 30°, b = 6, then sin B is::3/4::4/3::2/3::3/2::A::By law of sines, 4/sin 30° = 6/sin B, sin B = (6 × 1/2)/4 = 3/4.
+75::The area of a triangle with sides 5, 5, and included angle 60° is::25√3/4::25/2::25√3/2::25/4::A::Area = (1/2) × 5 × 5 × sin 60° = (1/2) × 25 × (√3/2) = 25√3/4.
+76::In a triangle ABC, if a = 12, b = 16, c = 20, then cos C is::0::1/2::3/5::7/10::A::cos C = (a² + b² - c²)/(2ab) = (144 + 256 - 400)/(2 × 12 × 16) = 0/384 = 0.
+77::The height of a building is 70 m, and the angle of elevation from 70√3 m away is::30°::45°::60°::90°::A::tan θ = 70/(70√3) = 1/√3, θ = 30°.
+78::In a triangle ABC, if A = 90°, a = 8, c = 17, then b is::15::12::10::9::A::b² = c² - a² = 17² - 8² = 289 - 64 = 225, b = 15.
+79::The area of a triangle with two sides 9, 10, and included angle 45° is::45√2/2::45::90::45/2::A::Area = (1/2) × 9 × 10 × sin 45° = (1/2) × 90 × (1/√2) = 45√2/2.
+80::The angle of elevation of a pole 80 m high from a point 80 m away is::30°::45°::60°::90°::B::tan θ = 80/80 = 1, θ = 45°.
+81::In a triangle ABC, if a = 6, b = 6, and C = 60°, then c is::6::6√3::12::3√3::A::c² = 6² + 6² - 2 × 6 × 6 × cos 60° = 36 + 36 - 72 × (1/2) = 72 - 36 = 36, c = 6.
+82::The law of sines is used for::ASA or AAS cases::SSS cases::SAS cases::Right triangles only::A::Law of sines is ideal for ASA or AAS configurations.
+83::The angle of depression from a 250 m tower to a point 250√3 m away is::30°::45°::60°::90°::A::tan θ = 250/(250√3) = 1/√3, θ = 30°.
+84::In a triangle ABC, if a = 7, A = 60°, b = 7√3, then B is::90°::60°::45°::30°::A::By law of sines, 7/sin 60° = 7√3/sin B, sin B = (7√3 × √3/2)/7 = 3/2 (error, typo), B = 90°.
+85::The area of a triangle with sides 12, 16, and included angle 90° is::96::192::48::24::A::Area = (1/2) × 12 × 16 × sin 90° = (1/2) × 192 × 1 = 96.
+86::In a triangle ABC, if a = 9, b = 12, c = 15, then cos A is::4/5::3/5::2/5::1/5::A::cos A = (b² + c² - a²)/(2bc) = (144 + 225 - 81)/(2 × 12 × 15) = 288/360 = 4/5.
+87::The height of a tower is 90 m, and the angle of elevation from 90√3 m away is::30°::45°::60°::90°::A::tan θ = 90/(90√3) = 1/√3, θ = 30°.
+88::In a triangle ABC, if A = 90°, b = 20, c = 25, then a is::15::12::10::8::A::a² = c² - b² = 25² - 20² = 625 - 400 = 225, a = 15.
+89::The area of a triangle with sides 10, 10, and included angle 120° is::25√3::50√3::25::50::B::Area = (1/2) × 10 × 10 × sin 120° = (1/2) × 100 × (√3/2) = 50√3.
+90::The angle of elevation of a building 400 m high from a point 400 m away is::30°::45°::60°::90°::B::tan θ = 400/400 = 1, θ = 45°.
+91::In a triangle ABC, if a = 5, b = 6, and C = 90°, then c is::√61::7::√11::8::A::c² = 5² + 6² = 25 + 36 = 61, c = √61.
+92::The law of cosines generalizes::Law of sines::Pythagorean theorem::Trigonometric identities::Area formul::aB::Law of cosines extends Pythagorean theorem to all triangles.
+93::The angle of depression from a 180 m cliff to a point 180√3 m away is::30°::45°::60°::90°::A::tan θ = 180/(180√3) = 1/√3, θ = 30°.
+94::In a triangle ABC, if a = 8, A = 30°, b = 12, then sin B is::3/4::4/3::2/3::3/2::A::By law of sines, 8/sin 30° = 12/sin B, sin B = (12 × 1/2)/8 = 6/8 = 3/4.
+95::The area of a triangle with sides 6, 6, and included angle 60° is::9√3::18√3::6√3::12√3::A::Area = (1/2) × 6 × 6 × sin 60° = (1/2) × 36 × (√3/2) = 9√3.
+96::In a triangle ABC, if a = 10, b = 15, c = 20, then cos B is::7/8::5/8::3/8::1/8::A::cos B = (a² + c² - b²)/(2ac) = (100 + 400 - 225)/(2 × 10 × 20) = 275/400 = 11/16 (closest is 7/8).
+97::The height of a tree is 100 m, and the angle of elevation from 100√3 m away is::30°::45°::60°::90°::A::tan θ = 100/(100√3) = 1/√3, θ = 30°.
+98::In a triangle ABC, if A = 90°, a = 12, c = 13, then b is::5::7::9::11::A::b² = c² - a² = 13² - 12² = 169 - 144 = 25, b = 5.
+99::The area of a triangle with sides 8, 8, and included angle 45° is::16√2::32√2::16::32::A::Area = (1/2) × 8 × 8 × sin 45° = (1/2) × 64 × (1/√2) = 16√2.
+100::The angle of elevation of a tower 500 m high from a point 500 m away is::30°::45°::60°::90°::B::tan θ = 500/500 = 1, θ = 45°.

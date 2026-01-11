@@ -1,0 +1,50 @@
+1::The process by which organisms obtain and utilize food is called::Respiration::Nutrition::Excretion::Circulation::B::Nutrition involves obtaining and processing food for energy and growth.
+2::Organisms that produce their own food are called::Heterotrophs::Autotrophs::Saprotrophs::Parasites::B::Autotrophs, like plants, synthesize food via photosynthesis or chemosynthesis.
+3::Which type of nutrition involves absorbing nutrients from dead organic matter?::Autotrophic::Saprotrophic::Parasitic::Holozoic::B::Saprotrophic nutrition, seen in fungi, involves decomposing organic matter.
+4::The human digestive system is an example of::Holozoic nutrition::Saprotrophic nutrition::Parasitic nutrition::Autotrophic nutrition::A::Holozoic nutrition involves ingestion, digestion, and absorption of solid food, as in humans.
+5::The primary site of digestion and absorption in humans is::Stomach::Small intestine::Large intestine::Mouth::B::The small intestine is where most digestion and nutrient absorption occur due to its large surface area.
+6::The enzyme in saliva that begins carbohydrate digestion is::Lipase::Amylase::Pepsin::Trypsin::B::Salivary amylase (ptyalin) breaks down starches into simpler sugars in the mouth.
+7::Which organ secretes bile?::Pancreas::Liver::Gallbladder::Stomach::B::The liver produces bile, which is stored in the gallbladder and aids in fat digestion.
+8::The function of bile is to::Digest proteins::Emulsify fats::Break down carbohydrates::Neutralize stomach acid::B::Bile emulsifies fats, breaking them into smaller droplets for easier digestion by lipase.
+9::The stomach secretes which enzyme to digest proteins?::Amylase::Lipase::Pepsin::Maltase::C::Pepsin, activated in the acidic stomach, begins protein digestion into peptides.
+10::The pH of the stomach is maintained by::Hydrochloric acid::Bile::Pancreatic juice::Saliva::A::Hydrochloric acid (HCl) creates an acidic environment (pH 1.5–3.5) for pepsin activity.
+11::Which part of the small intestine receives bile and pancreatic juice?::Duodenum::Jejunum::Ileum::Cecum::A::The duodenum receives bile and pancreatic juice via the common bile duct.
+12::The enzyme trypsin digests::Carbohydrates::Proteins::Fats::Nucleic acids::B::Trypsin, secreted by the pancreas, breaks down proteins into smaller peptides.
+13::The final products of carbohydrate digestion are::Amino acids::Fatty acids::Monosaccharides::Glycerol::C::Carbohydrates are digested into monosaccharides (e.g., glucose) for absorption.
+14::Which vitamin is synthesized by intestinal bacteria?::Vitamin A::Vitamin B12::Vitamin C::Vitamin K::D::Vitamin K is produced by gut bacteria and aids in blood clotting.
+15::The large intestine primarily absorbs::Proteins::Carbohydrates::Water::Fats::C::The large intestine absorbs water, forming solid feces from undigested material.
+16::The finger-like projections in the small intestine are called::Villi::Microvilli::Rugae::Plicae::A::Villi increase the surface area for nutrient absorption in the small intestine.
+17::Which organ stores glycogen?::Liver::Pancreas::Stomach::Spleen::A::The liver stores glycogen, converting excess glucose for energy regulation.
+18::The deficiency of vitamin C causes::Scurvy::Rickets::Beriberi::Pellagra::A::Scurvy, characterized by bleeding gums, results from vitamin C deficiency.
+19::Which mineral is essential for hemoglobin formation?::Calcium::Iron::Magnesium::Potassium::B::Iron is a key component of hemoglobin, enabling oxygen transport in blood.
+20::The enzyme that digests fats in the small intestine is::Pepsin::Amylase::Lipase::Maltase::C::Pancreatic lipase breaks down fats into fatty acids and glycerol.
+21::The process of swallowing is called::Peristalsis::Deglutition::Defecation::Emulsification::B::Deglutition is the act of swallowing food into the esophagus.
+22::The involuntary muscle contractions that move food through the digestive tract are called::Peristalsis::Segmentation::Mastication::Emulsification::A::Peristalsis propels food through the digestive system via rhythmic contractions.
+23::Which hormone stimulates gastric juice secretion?::Insulin::Gastrin::Secretin::Cholecystokinin::B::Gastrin, released by the stomach, stimulates HCl and pepsinogen secretion.
+24::The end product of protein digestion is::Monosaccharides::Fatty acids::Amino acids::Glycerol::C::Proteins are broken down into amino acids for absorption and use in the body.
+25::Which part of the digestive system has no digestive function?::Esophagus::Stomach::Small intestine::Large intestine::A::The esophagus transports food to the stomach without digesting it.
+26::The deficiency of vitamin D causes::Scurvy::Rickets::Beriberi::Night blindness::B::Rickets, a bone deformity disease, results from vitamin D deficiency in children.
+27::Which enzyme is responsible for lactose digestion?::Maltase::Sucrase::Lactase::Amylase::C::Lactase breaks down lactose into glucose and galactose in the small intestine.
+28::The pancreatic juice contains enzymes for digesting::Carbohydrates::Proteins::Fats::All of these::D::Pancreatic juice includes amylase, trypsin, and lipase for digesting carbohydrates, proteins, and fats.
+29::The process of breaking down large food particles into smaller ones is called::Absorption::Digestion::Ingestion::Assimilation::B::Digestion involves breaking down food into molecules small enough for absorption.
+30::Which organ regulates blood glucose levels?::Liver::Kidneys::Pancreas::Spleen::C::The pancreas secretes insulin and glucagon to regulate blood glucose.
+31::The deficiency of vitamin A causes::Scurvy::Rickets::Night blindness::Pellagra::C::Night blindness is caused by vitamin A deficiency, affecting vision in low light.
+32::Which of the following is a fat-soluble vitamin?::Vitamin B::C::D::K::C::D::Vitamins A, D, E, and K are fat-soluble, stored in body tissues.
+33::The hormone that stimulates bile release is::Gastrin::Secretin::Cholecystokinin::Insulin::C::Cholecystokinin (CCK) triggers the gallbladder to release bile into the duodenum.
+34::The process of nutrient uptake into the bloodstream is called::Digestion::Absorption::Ingestion::Assimilation::B::Absorption occurs mainly in the small intestine, where nutrients enter the blood.
+35::Which part of the stomach connects to the small intestine?::Cardiac::Fundus::Pylorus::Body::C::The pylorus regulates the passage of chyme from the stomach to the duodenum.
+36::The deficiency of iodine leads to::Goiter::Anemia::Rickets::Scurvy::A::Goiter, an enlarged thyroid gland, results from iodine deficiency.
+37::The enzyme maltase digests maltose into::Glucose::Fructose::Galactose::Sucrose::A::Maltase breaks down maltose into two glucose molecules.
+38::Which organ produces insulin?::Liver::Pancreas::Stomach::Kidneys::B::The pancreas produces insulin, which lowers blood glucose levels.
+39::The condition caused by excess fat accumulation is::Obesity::Anemia::Goiter::Scurvy::A::Obesity results from excessive fat storage due to caloric imbalance.
+40::The main function of the large intestine is to::Digest proteins::Absorb nutrients::Form feces::Produce enzymes::C::The large intestine absorbs water and forms feces from undigested material.
+41::Which nutrient is the body’s main structural component?::Carbohydrates::Proteins::Fats::Vitamins::B::Proteins form structural components like muscles, tissues, and enzymes.
+42::The enzyme that activates trypsinogen is::Pepsin::Enterokinase::Amylase::Lipase::B::Enterokinase, in the small intestine, converts trypsinogen to active trypsin.
+43::Which vitamin prevents excessive bleeding?::Vitamin A::B::C::K::D::Vitamin K is essential for blood clotting, preventing excessive bleeding.
+44::The condition caused by protein deficiency in children is::Scurvy::Kwashiorkor::Rickets::Beriberi::B::Kwashiorkor, characterized by edema and growth failure, results from protein deficiency.
+45::The chyme is formed in the::Mouth::Esophagus::Stomach::Small intestine::C::Chyme is the semi-liquid mixture of food and gastric juices formed in the stomach.
+46::Which mineral strengthens bones and teeth?::Iron::Calcium::Potassium::Sodium::B::Calcium is a key component of bone and tooth structure.
+47::The hormone secretin stimulates the release of::Gastric juice::Bile::Pancreatic juice::Saliva::C::Secretin triggers the pancreas to release bicarbonate-rich pancreatic juice.
+48::The deficiency of vitamin B1 causes::Scurvy::Rickets::Beriberi::Pellagra::C::Beriberi, affecting the nervous and cardiovascular systems, is caused by vitamin B1 (thiamine) deficiency.
+49::The process of chewing food is called::Mastication::Peristalsis::Emulsification::Defecation::A::Mastication is the mechanical breakdown of food by chewing in the mouth.
+50::Which organ is responsible for detoxifying harmful substances?::Pancreas::Liver::Stomach::Kidneys::B::The liver detoxifies substances, metabolizes nutrients, and produces bile.

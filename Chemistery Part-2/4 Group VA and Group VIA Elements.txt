@@ -1,0 +1,50 @@
+1::Group VA elements are also known as::Pnictogens::Chalcogens::Halogens::Noble gases::A::Group VA elements (N, P, As, Sb, Bi) are called pnictogens.
+2::Group VIA elements are also known as::Pnictogens::Chalcogens::Halogens::Alkali metals::B::Group VIA elements (O, S, Se, Te, Po) are called chalcogens.
+3::The most electronegative element in Group VA is::Nitrogen::Phosphorus::Arsenic::Antimony::A::Nitrogen has the highest electronegativity (3.0) in Group VA.
+4::The most abundant element in Group VIA in Earth’s crust is::Oxygen::Sulfur::Selenium::Tellurium::A::Oxygen is the most abundant element, making up about 46% of Earth’s crust.
+5::The atomic radius of Group VA elements::Increases down the group::Decreases down the group::Remains constant::Varies randomly::A::Atomic radius increases down Group VA due to additional electron shells.
+6::The metallic character of Group VA elements::Increases down the group::Decreases down the group::Remains constant::Varies randomly::A::Metallic character increases down Group VA, with Bi being the most metallic.
+7::The oxidation state of nitrogen in NH₃ is::+3::–3::0::+5::B::Nitrogen has an oxidation state of –3 in ammonia (NH₃).
+8::The oxidation state of sulfur in SO₄²⁻ is::+4::+6::–2::0::B::Sulfur has an oxidation state of +6 in sulfate ion, calculated as x + 4(–2) = –2.
+9::The allotropic form of phosphorus used in matches is::White phosphorus::Red phosphorus::Black phosphorus::Violet phosphorus::B::Red phosphorus is used in matches due to its stability.
+10::White phosphorus is highly reactive because of::Its tetrahedral structure::Its polymeric nature::Its low bond angle strain::Its high melting point::A::White phosphorus (P₄) has a strained tetrahedral structure, making it highly reactive.
+11::The industrial process for nitrogen fixation is::Contact process::Haber-Bosch process::Ostwald process::Solvay process::B::The Haber-Bosch process converts N₂ and H₂ into NH₃.
+12::The catalyst used in the Haber-Bosch process is::Iron::Platinum::Nickel::Vanadium::A::Iron, often promoted with Al₂O₃ and K₂O, is the catalyst in the Haber-Bosch process.
+13::The product of the Ostwald process is::Ammonia::Nitric acid::Sulfuric acid::Phosphoric acid::B::The Ostwald process produces nitric acid (HNO₃) from ammonia.
+14::The catalyst used in the Ostwald process is::Iron::Platinum::Vanadium pentoxide::Nickel::B::Platinum is used as a catalyst in the oxidation of ammonia in the Ostwald process.
+15::The contact process is used to manufacture::Ammonia::Nitric acid::Sulfuric acid::Phosphoric acid::C::The contact process produces sulfuric acid (H₂SO₄).
+16::The catalyst used in the contact process is::Iron::Platinum::Vanadium pentoxide::Nickel::C::Vanadium pentoxide (V₂O₅) is the catalyst in the contact process.
+17::The most stable allotrope of sulfur is::Rhombic sulfur::Monoclinic sulfur::Plastic sulfur::Amorphous sulfur::A::Rhombic sulfur is the most stable allotrope at room temperature.
+18::The hybridization of nitrogen in NH₃ is::sp::sp²::sp³::dsp²::C::Nitrogen in NH₃ undergoes sp³ hybridization, forming a tetrahedral shape.
+19::The bond angle in NH₃ is approximately::90°::107°::120°::180°::B::The bond angle in NH₃ is about 107° due to lone pair repulsion.
+20::The hybridization of sulfur in SO₂ is::sp::sp²::sp³::dsp²::B::Sulfur in SO₂ undergoes sp² hybridization, forming a bent molecule.
+21::The shape of the SO₂ molecule is::Linear::Bent::Trigonal planar::Tetrahedral::B::SO₂ is bent due to sp² hybridization and a lone pair on sulfur.
+22::The oxidation state of phosphorus in P₂O₅ is::+3::+5::–3::0::B::Phosphorus has an oxidation state of +5 in P₂O₅.
+23::The compound used as a fertilizer from Group VA is::HNO₃::NH₃::P₂O₅::As₂O₃::B::Ammonia (NH₃) is used to produce fertilizers like ammonium nitrate.
+24::The compound H₂SO₄ is a::Weak acid::Strong acid::Weak base::Strong base::B::Sulfuric acid is a strong diprotic acid.
+25::The gas responsible for acid rain from Group VIA is::O₂::SO₂::SeO₂::TeO₂::B::Sulfur dioxide (SO₂) reacts with water to form acid rain.
+26::The allotrope of phosphorus that is non-reactive and polymeric is::White phosphorus::Red phosphorus::Black phosphorus::Violet phosphorus::B::Red phosphorus is polymeric and less reactive than white phosphorus.
+27::The compound used in the manufacture of matches is::KNO₃::H₂SO₄::P₂O₅::KClO₃::D::Potassium chlorate (KClO₃) is used with red phosphorus in matches.
+28::The oxidation state of nitrogen in N₂O is::+1::+2::+3::+5::A::Each nitrogen in N₂O has an oxidation state of +1, calculated as 2x + (–2) = 0.
+29::The compound used as a dehydrating agent is::HNO₃::NH₃::H₂SO₄::P₂O₅::D::Phosphorus pentoxide (P₂O₅) is a powerful dehydrating agent.
+30::The gas produced during the contact process is::NO₂::SO₂::SO₃::O₂::C::Sulfur trioxide (SO₃) is the key product in the contact process.
+31::The oxidation state of sulfur in H₂S is::+2::–2::0::+4::B::Sulfur has an oxidation state of –2 in hydrogen sulfide (H₂S).
+32::The compound used in explosives from Group VA is::NH₃::HNO₃::P₂O₅::As₂O₃::B::Nitric acid (HNO₃) is used to produce explosives like TNT.
+33::The allotrope of sulfur stable above 95.6°C is::Rhombic sulfur::Monoclinic sulfur::Plastic sulfur::Amorphous sulfur::B::Monoclinic sulfur is stable above its transition temperature of 95.6°C.
+34::The compound formed when P₄ reacts with limited oxygen is::P₂O₃::P₂O₅::PO₂::P₄O₁₀::A::With limited oxygen, P₄ forms phosphorus trioxide (P₂O₃).
+35::The compound formed when P₄ reacts with excess oxygen is::P₂O₃::P₂O₅::PO₂::P₄O₆::B::With excess oxygen, P₄ forms phosphorus pentoxide (P₂O₅).
+36::The oxidation state of bismuth in Bi₂O₃ is::+3::+5::–3::0::A::Bismuth has an oxidation state of +3 in Bi₂O₃.
+37::The element in Group VA that is a metalloid is::Nitrogen::Phosphorus::Arsenic::Bismuth::C::Arsenic is a metalloid, with properties between metals and non-metals.
+38::The element in Group VIA that is radioactive is::Oxygen::Sulfur::Selenium::Polonium::D::Polonium is a radioactive chalcogen.
+39::The compound used as a bleaching agent from Group VIA is::H₂S::SO₂::H₂SO₄::O₂::B::Sulfur dioxide (SO₂) is used as a bleaching agent in industries.
+40::The bond angle in H₂S is approximately::90°::92°::107°::120°::B::The bond angle in H₂S is about 92° due to lone pair repulsion.
+41::The hybridization of phosphorus in PCl₅ is::sp³::sp³d::sp³d²::sp²::B::Phosphorus in PCl₅ undergoes sp³d hybridization, forming a trigonal bipyramidal shape.
+42::The shape of the PCl₅ molecule is::Tetrahedral::Trigonal planar::Trigonal bipyramidal::Square planar::C::PCl₅ has a trigonal bipyramidal shape due to sp³d hybridization.
+43::The compound used in the manufacture of detergents is::HNO₃::H₂SO₄::P₂O₅::NH₃::B::Sulfuric acid (H₂SO₄) is used to produce surfactants in detergents.
+44::The gas that forms a blue flame when ignited is::SO₂::H₂S::NO₂::N₂O::B::Hydrogen sulfide (H₂S) burns with a blue flame, producing SO₂ and H₂O.
+45::The oxidation state of nitrogen in HNO₃ is::+3::+5::–3::0::B::Nitrogen has an oxidation state of +5 in nitric acid (HNO₃).
+46::The compound that forms a white precipitate with AgNO₃ is::H₂SO₄::HNO₃::H₃PO₄::H₂S::D::H₂S forms a black precipitate (Ag₂S) with AgNO₃, but it reacts distinctively.
+47::The element in Group VA used in semiconductors is::Nitrogen::Phosphorus::Arsenic::Bismuth::C::Arsenic is used in semiconductors like gallium arsenide.
+48::The compound used as a refrigerant from Group VA is::NH₃::HNO₃::P₂O₅::As₂O₃::A::Ammonia (NH₃) is used as a refrigerant in industrial systems.
+49::The allotrope of phosphorus that resembles graphite in structure is::White phosphorus::Red phosphorus::Black phosphorus::Violet phosphorus::C::Black phosphorus has a layered, graphite-like structure.
+50::The compound used in the vulcanization of rubber is::O₂::S::Se::Te::B::Sulfur is used in the vulcanization process to strengthen rubber.

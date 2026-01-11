@@ -1,0 +1,50 @@
+1::What is a form in Microsoft Access?::A table for storing dat::aA user interface for data entry and viewing::A query for retrieving dat::aA report for printing dat::aB::Forms provide a user-friendly interface for entering and viewing data.
+2::What is a report in Microsoft Access?::A tool for data entry::A formatted summary of data for printing::A database table::A query result::B::Reports present data in a formatted, printable layout.
+3::Which Access feature simplifies form creation?::Query Wizard::Form Wizard::Report Wizard::Table Wizard::B::The Form Wizard guides users to create forms easily.
+4::What is the file extension for an Access database?::.xlsx::.docx::.accdb::.pptx::C::.accdb is the file extension for Access databases.
+5::What is a bound form in Access?::A form not linked to dat::aA form linked to a table or query::A form for reports only::A form without controls::B::Bound forms are connected to a data source like a table or query.
+6::What is an unbound form in Access?::A form linked to a table::A form not linked to any data source::A form for printing::A form with queries::B::Unbound forms are independent of any data source.
+7::Which control is used to display text in a form?::Text box::Button::Combo box::Label::D::Labels display static text, like field names, in forms.
+8::Which control allows data entry in a form?::Label::Text box::Button::Check box::B::Text boxes allow users to enter or edit data in forms.
+9::What is the purpose of a report in Access?::To enter dat::aTo summarize and print dat::aTo create tables::To run queries::B::Reports are used to format and print summarized data.
+10::Which Access view is used to design forms?::Form View::Design View::Layout View::Datasheet View::B::Design View allows customization of form structure and controls.
+11::Which Access feature creates reports automatically?::Form Wizard::Query Wizard::Report Wizard::Table Wizard::C::The Report Wizard simplifies report creation with guided steps.
+12::What is a control in an Access form?::A database table::A component like a text box or button::A query result::A report layout::B::Controls are elements like text boxes or buttons used in forms.
+13::Which form control allows selecting from a list?::Text box::Combo box::Label::Button::B::Combo boxes provide a dropdown list for selecting values.
+14::What is the default view for entering data in a form?::Design View::Layout View::Form View::Datasheet View::C::Form View is used for data entry and viewing.
+15::Which report view displays data as it will print?::Design View::Layout View::Print Preview::Report View::C::Print Preview shows the report as it will appear when printed.
+16::Which control in a form triggers an action?::Label::Text box::Button::Combo box::C::Buttons execute actions like saving or opening another form.
+17::What is a form’s record source?::The report it generates::The table or query it is based on::The controls it uses::The database size::B::The record source is the table or query providing form data.
+18::Which Access feature adjusts form layout interactively?::Design View::Layout View::Form View::Datasheet View::B::Layout View allows real-time form layout adjustments with data visible.
+19::What is a calculated control in a form?::A control for data entry::A control displaying computed values::A control for static text::A control for queries::B::Calculated controls display results of calculations, e.g., =[Price]*[Quantity].
+20::Which report feature groups data by a field?::Sorting::Grouping::Filtering::Formatting::B::Grouping organizes report data by a specific field, like Department.
+21::What is the purpose of a combo box in a form?::Display static text::Allow data selection from a list::Perform calculations::Print reports::B::Combo boxes let users select from a predefined list of values.
+22::Which Access view shows form data in a table-like format?::Form View::Design View::Datasheet View::Layout View::C::Datasheet View displays form data in a tabular format.
+23::What is the role of a label in a form?::Enter dat::aDisplay static text::Execute actions::Select values::B::Labels show descriptive text, like field names, in forms.
+24::Which report section contains the main data?::Report Header::Page Header::Detail::Report Footer::C::The Detail section displays the main data records in a report.
+25::What is a bound control in a form?::A control not linked to a field::A control linked to a table field::A control for actions::A control for static text::B::Bound controls are tied to a field in the record source.
+26::Which form control allows yes/no input?::Text box::Combo box::Check box::Button::C::Check boxes are used for yes/no or true/false inputs.
+27::What is the purpose of sorting in a report?::Group dat::aArrange data in order::Filter dat::aCalculate totals::B::Sorting arranges report data in ascending or descending order.
+28::Which report section appears at the top of every page?::Report Header::Page Header::Detail::Report Footer::B::Page Header appears at the top of each printed report page.
+29::What is a subform in Access?::A form for reports::A form embedded in another form::A form without controls::A form for queries::B::Subforms display related data within a main form.
+30::Which tool customizes report design?::Form Wizard::Report Wizard::Design View::Datasheet View::C::Design View allows detailed customization of report layout.
+31::What is a calculated field in a report?::A field for data entry::A field showing computed results::A field for static text::A field for queries::B::Calculated fields display results of expressions, e.g., =Sum([Amount]).
+32::Which form property controls its appearance?::Record Source::Control Source::Default View::Format::D::The Format property adjusts the visual style of a form.
+33::What is the purpose of a report footer?::Display data records::Show totals at the end of a report::Appear on every page::Filter dat::aB::Report Footer displays summary data, like totals, at the report’s end.
+34::Which control allows multiple selections in a form?::Combo box::List box::Text box::Label::B::List boxes allow users to select multiple items from a list.
+35::What is a navigation form in Access?::A form for data entry::A form for switching between forms::A form for reports::A form for queries::B::Navigation forms provide a menu to access other forms or reports.
+36::Which report feature filters data before display?::Sorting::Grouping::Query-based record source::Formatting::C::A query-based record source filters data for a report.
+37::What is the default layout for a new form?::Tabular::Columnar::Datasheet::Justified::B::Columnar layout arranges fields vertically in a form.
+38::Which section in a report shows data for each record?::Report Header::Page Header::Detail::Page Footer::C::The Detail section displays data for each record in a report.
+39::What is a control source in a form?::The form’s design::The field or expression a control is linked to::The report it generates::The database size::B::Control Source links a control to a field or expression.
+40::Which report feature calculates totals for grouped data?::Sorting::Grouping::Summary functions::Filtering::C::Summary functions, like Sum, calculate totals for grouped data.
+41::A school needs a form to enter student grades. Which control is best for subject selection?::Text box::Combo box::Label::Button::B::A combo box allows selecting a subject from a dropdown list.
+42::A company wants a report to summarize sales by region. Which feature should be used?::Sorting::Grouping::Filtering::Formatting::B::Grouping organizes sales data by region in the report.
+43::A form needs a button to save data. Which control is appropriate?::Label::Text box::Button::Combo box::C::A button can be programmed to save data in a form.
+44::A report needs to show total sales at the end. Where should the total be placed?::Report Header::Page Header::Detail::Report Footer::D::Report Footer displays summary totals at the report’s end.
+45::A form needs to display related order details. Which feature is best?::Subform::Combo box::Label::Calculated control::A::A subform shows related data, like order details, within a main form.
+46::A report must sort data by date. Which feature is used?::Grouping::Sorting::Filtering::Summary functions::B::Sorting arranges report data by date in ascending or descending order.
+47::A form needs to calculate total marks. Which control is used?::Text box::Combo box::Calculated control::Button::C::A calculated control computes totals, e.g., =[Math]+[Science].
+48::A hospital needs a report to list patients by department. Which feature organizes this?::Sorting::Grouping::Filtering::Formatting::B::Grouping organizes patients by department in the report.
+49::A form restricts data entry to specific values. Which control is best?::Text box::Combo box::Button::Label::B::A combo box restricts input to predefined values.
+50::A business needs a report with page numbers. Where should they be added?::Report Header::Page Footer::Detail::Report Footer::B::Page Footer displays page numbers on each report page.

@@ -1,0 +1,50 @@
+1::What is word processing?::Creating spreadsheets::Editing and formatting text documents::Managing databases::Designing graphics::B::Word processing involves creating, editing, and formatting text-based documents.
+2::Which software is commonly used for word processing?::Microsoft Excel::Microsoft Word::Microsoft Access::Adobe Photoshop::B::Microsoft Word is a widely used word processing software.
+3::What is the file extension for a Microsoft Word document in newer versions?::.txt::.doc::.docx::.pdf::C::.docx is the default extension for Word documents in versions 2007 and later.
+4::Which tab in MS Word contains the font formatting options?::Home::Insert::Design::View::A::The Home tab includes font size, style, and other text formatting tools.
+5::What is the purpose of the "Save As" command?::Open a document::Create a new document::Save a document with a new name::Print a document::C::Save As allows saving a document with a different name or format.
+6::Which feature aligns text to both left and right margins?::Left alignment::Right alignment::Center alignment::Justified alignment::D::Justified alignment evenly spaces text between both margins.
+7::What is the shortcut key for bold text in MS Word?::Ctrl+B::Ctrl+I::Ctrl+U::Ctrl+C::A::Ctrl+B is used to apply bold formatting to selected text.
+8::Which option inserts a page break in a document?::Home > Page Break::Insert > Page Break::Layout > Page Break::View > Page Break::B::Insert > Page Break forces text to start on a new page.
+9::What is the purpose of the "Undo" command?::Redo an action::Reverse the last action::Copy text::Paste text::B::Undo (Ctrl+Z) reverses the most recent action performed.
+10::Which tab is used to insert a table in MS Word?::Home::Insert::Design::References::B::The Insert tab contains the option to add tables to a document.
+11::What is the shortcut key to copy selected text?::Ctrl+X::Ctrl+C::Ctrl+V::Ctrl+Z::B::Ctrl+C copies selected text to the clipboard.
+12::What does the "Find" feature do in MS Word?::Replaces text::Searches for text::Formats text::Inserts text::B::Find (Ctrl+F) searches for specific words or phrases in a document.
+13::Which feature automatically corrects common spelling errors?::Spell Check::AutoCorrect::Grammar Check::Thesaurus::B::AutoCorrect fixes predefined spelling errors as you type.
+14::What is the purpose of the "Replace" feature?::Copy text::Search and substitute text::Delete text::Highlight text::B::Replace (Ctrl+H) finds text and replaces it with new text.
+15::Which option changes the spacing between lines in a document?::Font Size::Line and Paragraph Spacing::Alignment::Indentation::B::Line and Paragraph Spacing adjusts the space between lines or paragraphs.
+16::What is a header in MS Word?::Text at the bottom of a page::Text at the top of a page::Text in the middle of a page::Text in the margins::B::A header is text or graphics appearing at the top of every page.
+17::What is a footer in MS Word?::Text at the top of a page::Text at the bottom of a page::Text in the body::Text in the sidebar::B::A footer appears at the bottom of each page in a document.
+18::Which tab contains the "Mail Merge" feature?::Home::Insert::Mailings::Review::C::Mailings tab includes tools for creating personalized documents via Mail Merge.
+19::What is the purpose of the "Thesaurus" in MS Word?::Check spelling::Find synonyms::Correct grammar::Insert symbols::B::Thesaurus provides synonyms and related words for selected text.
+20::Which feature allows adding a list with numbers or bullets?::Table::Bullets and Numbering::Paragraph Spacing::Font Style::B::Bullets and Numbering create ordered or unordered lists.
+21::What is the shortcut key to paste copied text?::Ctrl+X::Ctrl+C::Ctrl+V::Ctrl+Z::C::Ctrl+V pastes text from the clipboard into the document.
+22::Which option inserts a picture into a Word document?::Home > Picture::Insert > Picture::Design > Picture::View > Picture::B::Insert > Picture allows adding images from a file.
+23::What is the purpose of "Track Changes" in MS Word?::Format text::Monitor edits::Check spelling::Insert comments::B::Track Changes records modifications made to a document.
+24::Which tab is used to adjust page margins?::Home::Insert::Layout::View::C::The Layout tab includes options for setting page margins.
+25::What is the default font in MS Word (2010 and later)?::Times New Roman::Arial::Calibri::Courier New::C::Calibri is the default font in newer versions of MS Word.
+26::Which feature checks grammatical errors in a document?::Spell Check::Grammar Check::AutoCorrect::Thesaurus::B::Grammar Check identifies and suggests corrections for grammar issues.
+27::What is the shortcut key to italicize text?::Ctrl+B::Ctrl+I::Ctrl+U::Ctrl+C::B::Ctrl+I applies italic formatting to selected text.
+28::Which option inserts a new page in a document?::Page Break::Section Break::Line Break::Paragraph Break::A::Page Break starts a new page at the cursor’s position.
+29::What is the purpose of "Word Count" in MS Word?::Counts pages::Counts characters and words::Counts paragraphs::Counts sentences::B::Word Count displays the number of words, characters, and other statistics.
+30::Which tab contains the "Styles" group for formatting text?::Home::Insert::Design::References::A::The Home tab includes Styles for applying predefined formatting.
+31::What is a template in MS Word?::A blank document::A pre-designed document::A saved file::A printed document::B::A template is a pre-formatted document for specific purposes.
+32::Which feature allows adding comments to a document?::Track Changes::Insert Comment::Spell Check::Mail Merge::B::Insert Comment (Review tab) adds notes without altering text.
+33::What is the shortcut key to underline text?::Ctrl+B::Ctrl+I::Ctrl+U::Ctrl+C::C::Ctrl+U applies underline formatting to selected text.
+34::Which option aligns text to the left margin?::Justified::Center::Left::Right::C::Left alignment aligns text to the left side of the page.
+35::What is the purpose of the "Clipboard" in MS Word?::Stores copied items::Formats text::Checks spelling::Inserts tables::A::The Clipboard temporarily stores copied or cut items for pasting.
+36::Which tab is used to insert a chart in MS Word?::Home::Insert::Design::View::B::Insert > Chart allows adding data-driven charts to a document.
+37::What is the default page size in MS Word?::A4::Letter::Legal::A3::B::Letter (8.5x11 inches) is the default page size in MS Word.
+38::Which feature protects a document from unauthorized editing?::Track Changes::Password Protection::Mail Merge::Word Count::B::Password Protection restricts editing or opening a document.
+39::What is the purpose of "Print Preview" in MS Word?::Edit text::View document before printing::Save document::Format text::B::Print Preview shows how a document will appear when printed.
+40::Which option inserts a hyperlink in a Word document?::Home > Hyperlink::Insert > Hyperlink::Design > Hyperlink::Review > Hyperlink::B::Insert > Hyperlink links to web pages or other document sections.
+41::What is the shortcut key to open the "Find" dialog box?::Ctrl+F::Ctrl+H::Ctrl+G::Ctrl+D::A::Ctrl+F opens the Find tool to search for text.
+42::Which tab contains the "Page Setup" group?::Home::Insert::Layout::References::C::The Layout tab includes Page Setup for margins, orientation, etc.
+43::What is the purpose of the "Ruler" in MS Word?::Measure page size::Adjust margins and indents::Count words::Insert images::B::The Ruler helps set margins, tabs, and indents visually.
+44::Which feature automatically formats text as you type?::AutoCorrect::Spell Check::Track Changes::Thesaurus::A::AutoCorrect formats text, like capitalizing sentences, as you type.
+45::What is the shortcut key to select all text in a document?::Ctrl+A::Ctrl+S::Ctrl+C::Ctrl+V::A::Ctrl+A selects all content in the document.
+46::Which option inserts a cover page in MS Word?::Home > Cover Page::Insert > Cover Page::Design > Cover Page::View > Cover Page::B::Insert > Cover Page adds a pre-designed cover page.
+47::What is the purpose of "Spelling and Grammar" check?::Format text::Check errors in text::Insert tables::Count words::B::Spelling and Grammar (Review tab) identifies text errors.
+48::Which tab is used to insert a text box in MS Word?::Home::Insert::Design::References::B::Insert > Text Box allows adding movable text containers.
+49::What is the default line spacing in MS Word?::1.0::1.15::1.5::2.0::B::1.15 is the default line spacing in newer versions of MS Word.
+50::Which feature allows creating a table of contents?::Insert > Table of Contents::Home > Table of Contents::References > Table of Contents::Design > Table of Contents::C::References > Table of Contents generates a clickable TOC based on headings.

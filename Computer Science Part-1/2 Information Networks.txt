@@ -1,0 +1,50 @@
+1::A computer network is defined as::Interconnected computers sharing resources::A single computer::A software application::A hardware device::A::Allows resource sharing.
+2::The primary purpose of a computer network is::Resource sharing::Data storage::Program execution::None::A::E.g., files, printers.
+3::LAN stands for::Local Area Network::Large Area Network::Logical Area Network::Limited Area Network::A::Covers small geographic area.
+4::A network covering a city is called::MAN::LAN::WAN::PAN::A::Metropolitan Area Network.
+5::WAN stands for::Wide Area Network::Wireless Area Network::World Area Network::None::A::Covers large geographic areas.
+6::The network used for personal devices is::PAN::LAN::MAN::WAN::A::Personal Area Network, e.g., Bluetooth.
+7::The Internet is an example of::WAN::LAN::MAN::PAN::A::Global network.
+8::A network topology refers to::Physical/logical arrangement of devices::Network speed::Network software::None::A::Layout of connections.
+9::The topology where all devices are connected to a central hub is::Star::Bus::Ring::Mesh::A::Centralized control.
+10::In a bus topology, all devices are connected to::A single backbone::A central hub::Each other directly::None::A::Single communication line.
+11::The topology where each device is connected to the next, forming a circle is::Ring::Star::Bus::Mesh::A::Data travels in a loop.
+12::In a mesh topology, each device is connected to::Every other device::A central hub::A single cable::None::A::High redundancy.
+13::The star topology is easy to::Expand::Troubleshoot::Both A and B::None::C::Centralized and modular.
+14::The disadvantage of a bus topology is::Single point of failure::Complex wiring::High cost::None::A::Backbone failure disrupts network.
+15::A device that connects multiple networks is::Router::Hub::Switch::Repeater::A::Routes data between networks.
+16::A hub operates at which OSI layer::Physical::Data Link::Network::Transport::A::Layer 1 device.
+17::A switch operates at which OSI layer::Data Link::Physical::Network::Application::A::Layer 2, uses MAC addresses.
+18::A router operates at which OSI layer::Network::Data Link::Physical::Transport::A::Layer 3, uses IP addresses.
+19::A device that regenerates signals is::Repeater::Router::Switch::Hub::A::Extends signal range.
+20::The protocol that defines IP addressing is::TCP/IP::FTP::HTTP::SMTP::A::Internet Protocol suite.
+21::TCP stands for::Transmission Control Protocol::Transfer Control Protocol::Transport Control Protocol::None::A::Ensures reliable data transfer.
+22::IP stands for::Internet Protocol::Internal Protocol::Interconnect Protocol::None::A::Handles addressing and routing.
+23::The protocol used for web browsing is::HTTP::FTP::SMTP::TCP::A::HyperText Transfer Protocol.
+24::FTP is used for::File transfer::Email::Web browsing::None::A::File Transfer Protocol.
+25::The protocol for email sending is::SMTP::HTTP::FTP::DNS::A::Simple Mail Transfer Protocol.
+26::DNS stands for::Domain Name System::Dynamic Name System::Data Name System::None::A::Resolves domain names to IP addresses.
+27::The physical layer of the OSI model deals with::Signal transmission::Data framing::Routing::None::A::Layer 1, hardware-based.
+28::The data link layer is responsible for::Error-free data transfer::Routing::Session management::None::A::Layer 2, uses MAC addresses.
+29::The network layer handles::Routing::Framing::Physical transmission::None::A::Layer 3, IP addressing.
+30::The maximum distance of a LAN is typically::1–10 km::100–1000 km::10–100 m::Unlimited::A::Limited to small areas.
+31::The device that connects LANs to form a WAN is::Router::Switch::Hub::Repeater::A::Routes data across networks.
+32::The topology with the least cabling is::Bus::Star::Ring::Mesh::A::Single backbone cable.
+33::The disadvantage of a star topology is::Central hub failure::Complex wiring::Low scalability::None::A::Hub is single point of failure.
+34::The ring topology ensures::No data collision::High cabling cost::Central failure::None::A::Token-based communication.
+35::The device that filters and forwards data packets is::Switch::Hub::Router::Repeater::A::Uses MAC addresses.
+36::The OSI model has how many layers::7::5::9::3::A::Standard reference model.
+37::The transport layer ensures::Reliable data delivery::Routing::Physical transmission::None::A::Layer 4, e.g., TCP.
+38::The bandwidth of a network is measured in::Bits per second::Bytes per second::Hertz::None::A::Data transfer rate.
+39::The medium used in wireless networks is::Radio waves::Copper cables::Fiber optics::Both B and C::A::Wi-Fi, Bluetooth.
+40::The protocol for secure web browsing is::HTTPS::HTTP::FTP::SMTP::A::Uses SSL/TLS.
+41::The MAC address is used at::Data Link layer::Network layer::Physical layer::Application layer::A::Layer 2 addressing.
+42::The IP address is used at::Network layer::Data Link layer::Physical layer::Transport layer::A::Layer 3 addressing.
+43::A client in a network::Requests services::Provides services::Both::None::A::E.g., web browser.
+44::A server in a network::Provides services::Requests services::Both::None::A::E.g., web server.
+45::The topology suitable for large networks is::Mesh::Star::Bus::Ring::A::High reliability.
+46::The device that amplifies signals over long distances is::Repeater::Router::Switch::Hub::A::Boosts weak signals.
+47::The protocol for resolving IP addresses to MAC addresses is::ARP::DNS::HTTP::FTP::A::Address Resolution Protocol.
+48::The maximum data rate of a network is called::Bandwidth::Latency::Throughput::None::A::Bits per second.
+49::The delay in data transmission is called::Latency::Bandwidth::Jitter::None::A::Time for data to travel.
+50::The network that uses a token for communication is::Ring::Bus::Star::Mesh::A::Token-passing avoids collisions.

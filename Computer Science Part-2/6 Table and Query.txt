@@ -1,0 +1,50 @@
+1::What is a table in a relational database?::A collection of rows and columns::A single data item::A software tool::A query result::A::A table is a collection of rows and columns, storing data in a structured format.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+2::What is another name for a table in a database?::Query::Relation::Field::Record::B::A table is also known as a relation in relational database terminology.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+3::What is a row in a database table called?::Attribute::Tuple::Field::Entity::B::A row in a table is called a tuple, representing a single record.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+4::What does a column in a database table represent?::Tuple::Attribute::Record::Relation::B::A column represents an attribute of the entity the table describes.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+5::What is the degree of a relation?::Number of rows::Number of columns::Number of records::Number of tables::B::The degree of a relation is the number of fields (columns) in a table.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+6::What is the cardinality of a relation?::Number of columns::Number of rows::Number of tables::Number of attributes::B::Cardinality refers to the number of records (rows) in a table.[](https:://fscnotes0.blogspot.com/2016/04/ics-notes-computer-science-part-2-chapter-6-table-and-query-short-questions.html)
+7::What is a primary key in a table?::A unique identifier for each row::A duplicate field::A query type::A foreign key::A::A primary key uniquely identifies each row in a table.
+8::What is a foreign key?::A unique key::A key linking tables::A duplicate key::A query key::B::A foreign key is a field in one table that links to a primary key in another table.
+9::What is the purpose of a query in a database?::Store dat::aRetrieve or manipulate dat::aCreate tables::Delete databases::B::A query is used to retrieve, insert, update, or delete data in a database.[](https:://www.instutor.com/12th-class/computer-science/table-and-query)
+10::Which language is used to write queries in relational databases?::C++::HTML::SQL::Python::C::SQL (Structured Query Language) is used for database queries.
+11::What does the SQL SELECT statement do?::Deletes dat::aInserts dat::aRetrieves dat::aUpdates dat::aC::SELECT retrieves specific data from a database table.
+12::Which SQL clause specifies conditions for filtering data?::FROM::WHERE::SELECT::ORDER BY::B::The WHERE clause filters data based on specified conditions.
+13::What is the function of the SQL INSERT statement?::Retrieve dat::aAdd new dat::aUpdate dat::aDelete dat::aB::INSERT adds new records to a table.
+14::Which SQL statement modifies existing data in a table?::SELECT::INSERT::UPDATE::DELETE::C::UPDATE modifies existing records in a table.
+15::What does the SQL DELETE statement do?::Retrieve dat::aAdd dat::aRemove dat::aUpdate dat::aC::DELETE removes records from a table based on conditions.
+16::Which clause sorts query results in SQL?::WHERE::FROM::ORDER BY::GROUP BY::C::ORDER BY sorts query results in ascending or descending order.
+17::What is the default sorting order in SQL ORDER BY clause?::Descending::Ascending::Random::No order::B::The default sorting order is ascending (ASC).
+18::Which SQL keyword removes duplicate rows from query results?::UNIQUE::DISTINCT::ALL::GROUP::B::DISTINCT eliminates duplicate rows in the result set.
+19::What is a query that retrieves data from multiple tables called?::Simple query::Join query::Nested query::Complex query::B::A join query retrieves data from multiple tables using relationships.
+20::Which SQL join returns all rows from both tables with matching records?::INNER JOIN::LEFT JOIN::RIGHT JOIN::FULL JOIN::A::INNER JOIN returns only the rows with matching values in both tables.
+21::Which SQL join includes all rows from the left table?::INNER JOIN::LEFT JOIN::RIGHT JOIN::FULL JOIN::B::LEFT JOIN includes all rows from the left table, with NULLs for non-matching rows.
+22::Which SQL join includes all rows from the right table?::INNER JOIN::LEFT JOIN::RIGHT JOIN::FULL JOIN::C::RIGHT JOIN includes all rows from the right table, with NULLs for non-matching rows.
+23::Which SQL join includes all rows from both tables?::INNER JOIN::LEFT JOIN::RIGHT JOIN::FULL JOIN::D::FULL JOIN includes all rows from both tables, with NULLs where no match exists.
+24::What is a composite key?::A single field key::A key with multiple fields::A foreign key::A duplicate key::B::A composite key uses multiple fields to uniquely identify a record.
+25::What is the purpose of the SQL GROUP BY clause?::Sort dat::aFilter dat::aGroup dat::aJoin tables::C::GROUP BY groups rows with the same values into summary rows.
+26::Which SQL function counts the number of rows in a query result?::SUM::AVG::COUNT::MAX::C::COUNT returns the number of rows that match the query criteria.
+27::Which SQL function calculates the average of a column?::SUM::AVG::COUNT::MIN::B::AVG computes the average of numeric values in a column.
+28::What does the SQL SUM function do?::Counts rows::Calculates total::Finds maximum::Finds minimum::B::SUM calculates the total of numeric values in a column.
+29::Which SQL function finds the highest value in a column?::MAX::MIN::AVG::SUM::A::MAX returns the largest value in a specified column.
+30::Which SQL function finds the lowest value in a column?::MAX::MIN::AVG::SUM::B::MIN returns the smallest value in a specified column.
+31::What is a subquery in SQL?::A query within another query::A join query::A simple query::A delete query::A::A subquery is a nested query used within another SQL query.
+32::Which SQL operator checks if a value exists in a subquery result?::IN::LIKE::BETWEEN::EXISTS::D::EXISTS checks if a subquery returns any rows.
+33::Which SQL operator is used for pattern matching?::IN::LIKE::BETWEEN::EXISTS::B::LIKE is used with wildcards (% or _) for pattern matching.
+34::What does the % wildcard represent in SQL LIKE operator?::Single character::Zero or more characters::Exact match::No match::B::% represents zero or more characters in a pattern.
+35::What does the _ wildcard represent in SQL LIKE operator?::Single character::Zero or more characters::Exact match::No match::A::_ represents exactly one character in a pattern.
+36::Which SQL clause limits the number of rows returned by a query?::WHERE::LIMIT::ORDER BY::GROUP BY::B::LIMIT restricts the number of rows in the query result (used in some SQL versions).
+37::What is the purpose of the SQL HAVING clause?::Filter grouped dat::aSort dat::aJoin tables::Retrieve dat::aA::HAVING filters grouped data after the GROUP BY clause.
+38::Which SQL statement creates a new table?::CREATE TABLE::ALTER TABLE::DROP TABLE::INSERT TABLE::A::CREATE TABLE defines a new table structure in a database.
+39::Which SQL statement modifies an existing table’s structure?::CREATE TABLE::ALTER TABLE::DROP TABLE::UPDATE TABLE::B::ALTER TABLE changes a table’s structure, like adding columns.
+40::Which SQL statement deletes a table from a database?::CREATE TABLE::ALTER TABLE::DROP TABLE::DELETE TABLE::C::DROP TABLE removes a table and its data from the database.
+41::What is a view in a database?::A physical table::A virtual table::A query::A primary key::B::A view is a virtual table based on a query result, not storing data physically.
+42::Which SQL statement creates a view?::CREATE VIEW::ALTER VIEW::DROP VIEW::SELECT VIEW::A::CREATE VIEW defines a virtual table based on a query.
+43::What is the purpose of a database query?::Backup dat::aRetrieve or manipulate dat::aDesign tables::Secure dat::aB::Queries are used to interact with data, such as retrieving or updating it.[](https:://www.instutor.com/12th-class/computer-science/table-and-query)
+44::Which SQL operator combines results of two or more queries?::JOIN::UNION::INTERSECT::EXCEPT::B::UNION combines the result sets of multiple queries, removing duplicates.
+45::Which SQL operator returns common rows from two queries?::UNION::INTERSECT::EXCEPT::JOIN::B::INTERSECT returns only the rows common to both queries.
+46::Which SQL operator returns rows from the first query not in the second?::UNION::INTERSECT::EXCEPT::JOIN::C::EXCEPT returns rows from the first query excluding those in the second.
+47::What is a candidate key in a database?::A duplicate key::A potential primary key::A foreign key::A composite key::B::A candidate key is a field or combination that can uniquely identify rows.
+48::What is data integrity in a database?::Data security::Data consistency::Data backup::Data encryption::B::Data integrity ensures accuracy and consistency of data in a database.
+49::Which SQL clause specifies the table to query?::SELECT::FROM::WHERE::ORDER BY::B::FROM indicates the table(s) from which data is retrieved.
+50::What is the purpose of the SQL AS keyword?::Rename columns or tables::Filter dat::aSort dat::aJoin tables::A::AS assigns an alias to a column or table in a query for readability.

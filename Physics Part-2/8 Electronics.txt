@@ -1,0 +1,50 @@
+1::The materials that have partially filled valence bands are called::Conductors::Insulators::Semiconductors::Superconductors::C::Semiconductors, like silicon, have a partially filled valence band and a small band gap.
+2::The energy gap between valence and conduction bands in a semiconductor is::0 eV::Large (>5 eV)::Small (~1 eV)::Infinite::C::Semiconductors have a band gap of about 1 eV (e.g., 1.1 eV for silicon).
+3::The process of adding impurities to a semiconductor is called::Doping::Annealing::Etching::Ionization::A::Doping introduces impurities to increase conductivity by adding electrons or holes.
+4::An n-type semiconductor is formed by doping with::Pentavalent atoms::Trivalent atoms::Tetravalent atoms::Monovalent atoms::A::Pentavalent atoms (e.g., phosphorus) donate extra electrons, creating n-type semiconductors.
+5::A p-type semiconductor is formed by doping with::Trivalent atoms::Pentavalent atoms::Tetravalent atoms::Hexavalent atoms::A::Trivalent atoms (e.g., boron) create holes by accepting electrons, forming p-type semiconductors.
+6::The majority charge carriers in an n-type semiconductor are::Electrons::Holes::Protons::Neutrons::A::Electrons are the majority carriers in n-type semiconductors due to donor impurities.
+7::The majority charge carriers in a p-type semiconductor are::Holes::Electrons::Protons::Ions::A::Holes are the majority carriers in p-type semiconductors due to acceptor impurities.
+8::A p-n junction is formed by joining::p-type and n-type semiconductors::Two n-type semiconductors::Two p-type semiconductors::A conductor and an insulator::A::A p-n junction is the interface between p-type and n-type materials.
+9::The region near a p-n junction with no free charge carriers is called::Depletion region::Conduction region::Valence region::Saturation region::A::The depletion region forms due to recombination of electrons and holes near the junction.
+10::A diode allows current to flow in::One direction only::Both directions::No direction::Alternating directions::A::A diode conducts current in the forward bias direction and blocks it in reverse bias.
+11::The process of converting AC to DC is called::Amplification::Rectification::Modulation::Oscillation::B::Rectification converts alternating current (AC) to direct current (DC) using diodes.
+12::A diode is forward-biased when::p-side is at higher potential::n-side is at higher potential::Both sides are at equal potential::No voltage is applied::A::In forward bias, the p-side is connected to a higher potential, reducing the barrier.
+13::The device used for rectification is::Transistor::Diode::Capacitor::Inductor::B::Diodes, especially in bridge or half-wave rectifiers, are used for rectification.
+14::The output of a half-wave rectifier consists of::Full AC cycle::Positive or negative half-cycles::DC pulses::Pure DC::B::A half-wave rectifier outputs only the positive (or negative) half-cycles of the AC input.
+15::A full-wave rectifier uses::One diode::Two diodes::Three diodes::Four diodes::D::A full-wave bridge rectifier uses four diodes to convert both half-cycles of AC to DC.
+16::A transistor is a::Two-terminal device::Three-terminal device::Four-terminal device::One-terminal device::B::A transistor has three terminals:: emitter, base, and collector.
+17::The three regions of a transistor are::Emitter, base, collector::Anode, cathode, gate::Source, drain, gate::Input, output, ground::A::A transistor consists of emitter, base, and collector regions.
+18::In an NPN transistor, the majority carriers in the emitter are::Electrons::Holes::Protons::Neutrons::A::In an NPN transistor, the emitter is n-type, so electrons are the majority carriers.
+19::In a PNP transistor, the majority carriers in the emitter are::Holes::Electrons::Protons::Ions::A::In a PNP transistor, the emitter is p-type, so holes are the majority carriers.
+20::A transistor can be used as::Amplifier::Switch::Rectifier::Both A and B::D::Transistors amplify signals and act as switches in electronic circuits.
+21::The common-emitter configuration of a transistor provides::High voltage gain::Low voltage gain::No voltage gain::High current gain only::A::Common-emitter mode offers high voltage and current gain, used in amplifiers.
+22::The current gain (β) of a transistor is::I_C/I_B::I_B/I_C::I_E/I_C::I_C/I_E::A::β = I_C/I_B, where I_C is collector current and I_B is base current.
+23::A transistor operates in the active region when::Emitter-base is forward-biased, collector-base is reverse-biased::Both junctions are forward-biased::Both junctions are reverse-biased::Emitter-base is reverse-biased::A::In the active region, the emitter-base junction is forward-biased, and the collector-base is reverse-biased.
+24::The device that emits light when forward-biased is::Photodiode::LED::Zener diode::Schottky diode::B::A light-emitting diode (LED) emits light when electrons recombine with holes.
+25::A photodiode operates in::Forward bias::Reverse bias::No bias::Both forward and reverse bias::B::Photodiodes are typically reverse-biased to detect light, generating a photocurrent.
+26::The Zener diode is used for::Rectification::Voltage regulation::Amplification::Switching::B::Zener diodes maintain a constant voltage in reverse bias, used for voltage regulation.
+27::A logic gate is a device that performs::Arithmetic operations::Boolean operations::Signal amplification::Signal rectification::B::Logic gates implement Boolean functions (e.g., AND, OR, NOT) in digital circuits.
+28::The output of an AND gate is high when::All inputs are high::Any input is high::All inputs are low::Any input is low::A::An AND gate outputs 1 only when all inputs are 1.
+29::The output of an OR gate is high when::All inputs are high::Any input is high::All inputs are low::No inputs are high::B::An OR gate outputs 1 if at least one input is 1.
+30::The output of a NOT gate is::Same as input::Opposite of input::Always high::Always low::B::A NOT gate inverts the input (0 becomes 1, and 1 becomes 0).
+31::The truth table for a NAND gate shows a low output when::All inputs are high::Any input is high::All inputs are low::Any input is low::A::A NAND gate (NOT AND) outputs 0 only when all inputs are 1.
+32::The XOR gate output is high when::An odd number of inputs are high::All inputs are high::All inputs are low::No inputs are high::A::An XOR gate outputs 1 when an odd number of inputs (e.g., one input) is 1.
+33::The semiconductor material commonly used is::Silicon::Copper::Aluminum::Iron::A::Silicon is widely used due to its suitable band gap and abundance.
+34::The breakdown voltage of a Zener diode is::Fixed::Variable::Zero::Infinite::A::Zener diodes have a specific breakdown voltage for voltage regulation.
+35::The operational amplifier (op-amp) is used for::Amplification::Switching::Rectification::All of these::D::Op-amps are versatile, used for amplification, switching, and signal processing.
+36::The gain of an ideal op-amp is::Zero::Unity::Infinite::Variable::C::An ideal op-amp has infinite open-loop gain.
+37::The input impedance of an ideal op-amp is::Zero::Low::High::Infinite::D::An ideal op-amp has infinite input impedance, drawing no current.
+38::The output impedance of an ideal op-amp is::Infinite::High::Low::Zero::D::An ideal op-amp has zero output impedance, acting as a perfect voltage source.
+39::The common-base configuration of a transistor provides::High current gain::High voltage gain::Low input impedance::Both B and C::D::Common-base mode has high voltage gain and low input impedance.
+40::The depletion region in a p-n junction is wider in::Forward bias::Reverse bias::No bias::Both biases::B::In reverse bias, the depletion region widens due to increased potential barrier.
+41::The output of a full-wave rectifier is::Smoother than half-wave::More pulsating than half-wave::Pure AC::No output::A::Full-wave rectification produces a smoother DC output than half-wave.
+42::A transistor in cutoff region has::Both junctions forward-biased::Both junctions reverse-biased::Emitter-base forward-biased::Collector-base forward-biased::B::In cutoff, both junctions are reverse-biased, and no current flows.
+43::A transistor in saturation region has::Both junctions forward-biased::Both junctions reverse-biased::Emitter-base reverse-biased::Collector-base reverse-biased::A::In saturation, both junctions are forward-biased, allowing maximum current.
+44::The band gap energy of germanium is approximately::0.67 eV::1.1 eV::5 eV::0 eV::A::Germanium has a band gap of about 0.67 eV, smaller than silicon’s 1.1 eV.
+45::The current through an LED is controlled by a::Capacitor::Resistor::Inductor::Transistor::B::A series resistor limits current to prevent damage to an LED.
+46::The output of an NOR gate is high when::All inputs are high::Any input is high::All inputs are low::Any input is low::C::A NOR gate (NOT OR) outputs 1 only when all inputs are 0.
+47::The base current in a transistor is typically::Very small::Equal to collector current::Equal to emitter current::Zero::A::Base current (I_B) is very small compared to collector (I_C) and emitter (I_E) currents.
+48::The voltage drop across a silicon diode in forward bias is approximately::0.3 V::0.7 V::1.1 V::5 V::B::A silicon diode has a forward voltage drop of about 0.7 V.
+49::The device that converts light into electrical energy is::LED::Photodiode::Zener diode::Rectifier diode::B::A photodiode generates current when exposed to light, especially in reverse bias.
+50::The Boolean expression for an XOR gate with inputs A and B is::A·B::A + B::A⊕B::A·B'::C::XOR output is A⊕B, true when A and B are different.

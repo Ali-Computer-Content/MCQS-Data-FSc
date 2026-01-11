@@ -1,0 +1,200 @@
+1::The SI unit of electric charge is::Coulomb::Ampere::Volt::Ohm::A::Standard unit for charge.
+2::Coulomb’s law is mathematically expressed as::F = kq₁q₂/r²::F = q₁q₂/r::F = kq/r²::F = q/r::A::Force between two charges.
+3::The value of Coulomb’s constant k is::9 × 10⁹ Nm²/C²::9 × 10⁶ Nm²/C²::9 × 10¹² Nm²/C²::9 × 10³ Nm²/C²::A::In vacuum.
+4::Electric field intensity is defined as::Force per unit charge::Charge per unit are::aVoltage per unit distance::None::A::E = F/q.
+5::The SI unit of electric field intensity is::N/C::V/m::Both A and B::J/C::C::N/C = V/m.
+6::The electric field inside a conductor is::Zero::Constant::Infinite::Variable::A::Charges reside on surface.
+7::The potential energy of a charge in an electric field is::U = qV::U = q/E::U = qE::U = V/E::A::Potential energy formula.
+8::The unit of electric potential is::Volt::Joule::Coulomb::Newton::A::V = J/C.
+9::The work done in moving a charge between two points depends on::Path::Distance::Potential difference::None::C::Independent of path.
+10::The electric flux through a closed surface depends on::Net charge inside::Surface are::aShape::None::A::Gauss’s law.
+11::The formula for electric flux is::Φ = E·A cosθ::Φ = E/A::Φ = E·A::Φ = E cosθ::A::Dot product of E and A.
+12::The capacitance of a capacitor is defined as::C = Q/V::C = V/Q::C = QV::C = Q²/V::A::Charge per unit voltage.
+13::The SI unit of capacitance is::Farad::Coulomb::Volt::Ohm::A::F = C/V.
+14::The capacitance of a parallel plate capacitor is::C = εA/d::C = εd/A::C = A/εd::C = εAd::A::Proportional to area, inversely to distance.
+15::The energy stored in a capacitor is::½CV²::CV²::½C²V::½CV::A::Derived from W = ½QV.
+16::The electric field between two parallel plates is::E = V/d::E = Vd::E = d/V::E = V²/d::A::Uniform field.
+17::The permittivity of free space ε₀ is::8.85 × 10⁻¹² F/m::8.85 × 10⁻¹⁰ F/m::8.85 × 10⁻¹⁴ F/m::8.85 × 10⁻⁸ F/m::A::Constant in SI.
+18::The force on a charge in an electric field is::F = qE::F = q/E::F = E/q::F = q²E::A::Vector product.
+19::The electric potential at infinity is::Zero::Infinite::Constant::None::A::Reference point for potential.
+20::The equivalent capacitance of two capacitors in series is::1/C = 1/C₁ + 1/C₂::C = C₁ + C₂::C = C₁C₂::C = C₁/C₂::A::Reciprocal sum.
+21::The SI unit of electric current is::Ampere::Volt::Ohm::Watt::A::Current flow rate.
+22::Ohm’s law is expressed as::V = IR::I = VR::R = VI::V = I/R::A::Voltage proportional to current.
+23::The unit of resistance is::Ohm::Volt::Ampere::Joule::A::Ω = V/A.
+24::The resistance of a conductor depends on::Length and are::aMaterial::Temperature::All::D::R = ρL/A.
+25::The resistivity of a material is measured in::Ohm-meter::Ohm::Meter::Ohm/m²::A::Intrinsic property.
+26::The conductance is the reciprocal of::Resistance::Voltage::Current::Power::A::G = 1/R.
+27::The power dissipated in a resistor is::P = I²R::P = V²/R::P = VI::All::D::Different forms of power.
+28::The unit of power is::Watt::Joule::Volt::Ampere::A::W = J/s.
+29::Kirchhoff’s first law is based on::Conservation of charge::Conservation of energy::Ohm’s law::None::A::Sum of currents at junction = 0.
+30::Kirchhoff’s second law is based on::Conservation of energy::Conservation of charge::Ohm’s law::None::A::Sum of voltages in loop = 0.
+31::The equivalent resistance of resistors in series is::R = R₁ + R₂::1/R = 1/R₁ + 1/R₂::R = R₁R₂::R = R₁/R₂::A::Additive.
+32::The equivalent resistance of resistors in parallel is::1/R = 1/R₁ + 1/R₂::R = R₁ + R₂::R = R₁R₂::R = R₁/R₂::A::Reciprocal sum.
+33::The terminal potential difference of a cell is::V = E - Ir::V = E + Ir::V = E/r::V = Ir::A::Accounts for internal resistance.
+34::The electromotive force (EMF) is measured in::Volt::Ampere::Ohm::Watt::A::Energy per unit charge.
+35::The internal resistance of a cell affects::Terminal voltage::EMF::Current::All::D::Reduces terminal voltage.
+36::The Wheatstone bridge is used to measure::Unknown resistance::Voltage::Current::Power::A::Balanced bridge condition.
+37::The condition for a balanced Wheatstone bridge is::R₁/R₂ = R₃/R₄::R₁R₂ = R₃R₄::R₁ + R₂ = R₃ + R₄::R₁ = R₄::A::Ratio equality.
+38::The temperature coefficient of resistance is::Positive for conductors::Negative for semiconductors::Both::None::C::Varies by material.
+39::The current through a superconductor is::Infinite::Zero::Finite::None::A::Zero resistance.
+40::The unit of electrical energy is::Joule::Watt::Kilowatt-hour::All::D::kWh is practical unit.
+41::The magnetic field is produced by::Moving charges::Stationary charges::Both::None::A::Current or moving charges.
+42::The SI unit of magnetic field is::Tesl::aWeber::Gauss::Ampere::A::B = F/(q v sinθ).
+43::The force on a current-carrying conductor in a magnetic field is::F = BIL sinθ::F = BI/L::F = BL/I::F = BIL::A::Lorentz force.
+44::The direction of magnetic force is determined by::Right-hand rule::Left-hand rule::Fleming’s rule::None::A::Thumb (I), fingers (B), palm (F).
+45::The torque on a current loop in a magnetic field is::τ = NIAB sinθ::τ = NIA/B::τ = NIAB::τ = NIA::A::Maximum when θ = 90°.
+46::The unit of magnetic flux is::Weber::Tesl::aHenry::Farad::A::Φ = BA.
+47::The magnetic field inside a solenoid is::B = μ₀nI::B = μ₀I/n::B = μ₀n/I::B = μ₀I::A::Proportional to turns and current.
+48::The permeability of free space μ₀ is::4π × 10⁻⁷ Tm/A::4π × 10⁻⁹ Tm/A::4π × 10⁻⁵ Tm/A::4π × 10⁻¹¹ Tm/A::A::Constant in SI.
+49::Ampere’s law relates::Magnetic field to current::Electric field to charge::Both::None::A::∮B·dl = μ₀I.
+50::The magnetic field at the center of a current-carrying loop is::B = μ₀I/(2R)::B = μ₀I/R::B = μ₀I/(4R)::B = μ₀IR::A::Derived from Biot-Savart law.
+51::The force between two parallel current-carrying wires is::F = (μ₀I₁I₂L)/(2πd)::F = (μ₀I₁I₂d)/L::F = (μ₀I₁I₂)/(2πd)::F = μ₀I₁I₂L::A::Attractive if currents same direction.
+52::The magnetic moment of a current loop is::μ = NIA::μ = NI/A::μ = NIA²::μ = NI::A::Vector quantity.
+53::The unit of magnetic moment is::Am²::Tesl::aWeber::Henry::A::Current × area.
+54::The magnetic field lines form::Closed loops::Open lines::Straight lines::None::A::From north to south outside magnet.
+55::The Lorentz force on a charged particle is::F = q(v × B)::F = qvB::F = qB/v::F = qv/B::A::Cross product.
+56::The cyclotron frequency is::f = qB/(2πm)::f = qm/B::f = B/(2πq)::f = qB/m::A::For charged particle in B-field.
+57::The magnetic field due to a straight wire is::B = μ₀I/(2πr)::B = μ₀I/r::B = μ₀I/(4πr)::B = μ₀Ir::A::Biot-Savart law.
+58::The tesla is equivalent to::Weber/m²::Newton/(Am)::Both::None::C::B = F/(q v sinθ).
+59::The magnetic field inside a toroid is::B = μ₀nI::B = μ₀I/n::B = μ₀n/I::B = μ₀I::A::Similar to solenoid.
+60::The force on a charge moving parallel to B-field is::Zero::Maximum::Minimum::Constant::A::sinθ = 0 when parallel.
+61::Faraday’s law states that EMF is proportional to::Rate of change of magnetic flux::Magnetic field::Current::None::A::ε = -dΦ/dt.
+62::The unit of magnetic flux is::Weber::Tesl::aHenry::Volt::A::Φ = BA.
+63::Lenz’s law determines::Direction of induced EMF::Magnitude of EMF::Both::None::A::Opposes change in flux.
+64::The induced EMF in a coil is::ε = -N(dΦ/dt)::ε = N(dΦ/dt)::ε = -NdΦ::ε = NdΦ::A::Faraday’s law with N turns.
+65::The mutual inductance between two coils is measured in::Henry::Weber::Tesl::aOhm::A::M = Φ₂/I₁.
+66::The self-inductance of a coil is::L = Φ/I::L = I/Φ::L = ΦI::L = Φ²/I::A::Proportional to flux linkage.
+67::The energy stored in an inductor is::½LI²::LI²::½L²I::½LI::A::Analogous to capacitor.
+68::The unit of inductance is::Henry::Farad::Ohm::Volt::A::H = V·s/A.
+69::The EMF induced in a rotating coil is maximum when::Plane is perpendicular to B-field::Plane is parallel to B-field::Angle is 45°::None::A::Maximum flux change.
+70::The formula for motional EMF is::ε = Blv::ε = Bl/v::ε = Bv/l::ε = Blv²::A::For conductor moving in B-field.
+71::The mutual inductance depends on::Number of turns::Geometry of coils::Current::All::D::M ∝ N₁N₂.
+72::The transformer works on the principle of::Electromagnetic induction::Ohm’s law::Coulomb’s law::None::A::AC voltage transformation.
+73::The transformer equation is::V₂/V₁ = N₂/N₁::V₂/V₁ = N₁/N₂::V₂ = V₁N₂::V₁ = V₂N₁::A::Step-up or step-down.
+74::The power loss in a transformer is due to::Copper loss::Iron loss::Both::None::C::I²R and hysteresis.
+75::The back EMF in a motor is::Proportional to speed::Inversely to speed::Constant::None::A::Opposes applied voltage.
+76::The coefficient of self-induction is measured in::Henry::Weber::Tesl::aOhm::A::Same as inductance.
+77::The flux linkage in a coil is::NΦ::Φ/N::N/Φ::Φ²N::A::Total flux through N turns.
+78::The transformer is used to::Change AC voltage::Change DC voltage::Store energy::None::A::AC only.
+79::The induced current in a loop opposes the change in flux due to::Lenz’s law::Faraday’s law::Ohm’s law::None::A::Conservation of energy.
+80::The EMF induced in a coil depends on::Rate of flux change::Number of turns::Both::None::C::ε = -N(dΦ/dt).
+81::The frequency of AC in Pakistan is::50 Hz::60 Hz::100 Hz::120 Hz::A::Standard for power supply.
+82::The peak value of AC voltage is::√2 times RMS::1/√2 times RMS::Equal to RMS::None::A::V_peak = √2 V_rms.
+83::The RMS value of AC current is::I₀/√2::I₀√2::I₀::I₀/2::A::I_rms = I₀/√2.
+84::The reactance of a capacitor is::X_C = 1/(ωC)::X_C = ωC::X_C = C/ω::X_C = ω/C::A::Inversely proportional to frequency.
+85::The reactance of an inductor is::X_L = ωL::X_L = 1/(ωL)::X_L = L/ω::X_L = ω/L::A::Proportional to frequency.
+86::The unit of reactance is::Ohm::Henry::Farad::Weber::A::Same as resistance.
+87::The impedance of an AC circuit is::Z = √(R² + (X_L - X_C)²)::Z = R + X_L - X_C::Z = R² + X_L²::Z = X_L - X_C::A::Total opposition to AC.
+88::The power factor of an AC circuit is::cosφ::sinφ::tanφ::1/cosφ::A::cosφ = R/Z.
+89::The average power in an AC circuit is::P = V_rms I_rms cosφ::P = V_rms::P = I_rms I_rms::P = V_rms::A::Depends on power factor.
+90::The resonance frequency of an LC circuit is::1/(2π√(LC))::2π√(LC)::√(LC/1/(2π))::π√LC::π::A::Maximum current at resonance.
+91::The Q-factor of a resonant circuit measures::Quality factor::Power factor::Reactance::None::A::Sharpness of resonance.
+92::The phase difference between voltage and current in a pure capacitor is::90°::0°::180°::45°::A::A::Current leads by 90°.
+93::The choke coil is used to::Reduce AC current::Increase DC current::Store energy::None::A::A::High inductance, low resistance.
+94::The AC generator produces::Alternating voltage::Direct voltage::Both::None::A::A::Due to rotating coil.
+95::The impedance of a pure resistive circuit is::R::X_L::X_C::Zero::A::No reactance.
+96::The frequency of AC affects::Capacitive reactance::Inductive reactance::Both::None::C::X_C ∝ 1/ωω,,X_L ∝X_L ωω.
+97::The power dissipated in a pure inductor is::Zero::Maximum::Constant::Variable::A::No real power (reactive).
+98::The series RLC circuit at resonance has::Minimum impedance::Maximum impedance::Zero impedance::None::A::Z = R.
+99::The bandwidth of a resonant circuit is::f_R/Q::Q/f_R::f_R Q::None::A::Range of frequencies.
+100::The AC is preferred for transmission because::Easy to transform::High voltage reduces losses::Both::None::None::C::Efficient power distribution.
+101::The solids are classified based on::Structure::Conductivity::Bonding::All::D::Crystalline, amorphous, etc.
+102::The type of solid with delocalized electrons is::Metallic::Ionic::Covalent::Molecular::A::Conducts electricity.
+103::The band gap in insulators is::Large (>5 eV)::Small (<1 eV)::Zero::Moderate::A::No conduction electrons.
+104::The valence band in solids contains::Bound electrons::Free electrons::Holes::None::A::Electrons in bonding.
+105::The conduction band in solids contains::Free electrons::Bound electrons::Holes::None::A::Electrons for conduction.
+106::The Fermi level is the energy level where half the states are occupied at::0K::Room temperature::High temperature::None::A::A:: Highest occupied level at absolute zero.
+108::The intrinsic semiconductor has::Equal electrons and holes::More electrons::More holes::None::A::Pure semiconductor.
+109::The process of adding impurities to a semiconductor is::Doping::Annealing::Ionization::None::A::Improves conductivity.
+109::The n-type semiconductor has majority::Electrons::Holes::Both::None::A::Doped with pentavalent impurities.
+110::The p-type semiconductor has majority::Holes::Electrons::Both::None::A::Doped with trivalent impurities.
+111::The superconductor has::Zero resistance::High resistance::Low resistance::None::A::Below critical temperature.
+112::The critical temperature of a superconductor is::Type of material::Pressure::Magnetic field::All::D::Transition to superconductivity.
+113::The band gap in conductors is::Zero or small::Large::Moderate::None::A::Overlapping bands.
+114::The mechanical property of solids is::Elasticity::Conductivity::Magnetism::None::A::Young’s modulus, etc.
+115::The stress in a solid is defined as::Force per unit are::aStrain per unit length::Force per unit volume::None::A::σ = F/A.
+116::The strain in a material is::Change in length/original length::Force/are::aStress/force::None::A::ε = ΔL/ΔL/L.
+117::The Young’s modulus is measured in::N/m²::N/m::J/m²::None::A::Stress/strain.
+118::The magnetic property of solids is due to::Electron spin::Nuclear spin::Both::None::C::Diamagnetic, paramagnetic, ferromagnetic.
+119::The hysteresis loop is associated with::Ferromagnetic materials::Diamagnetic materials::Paramagnetic materials::None::A::Magnetic memory.
+120::The polymer with high electrical conductivity is::Conductive polymer::Insulating polymer::Both::None::A::E.g., polyaniline.
+121::The p-n junction diode conducts::Forward bias::Reverse bias::Both::None::A::Low resistance in forward bias.
+122::The depletion region in a diode is::Free of mobile carriers::Full of electrons::Full of holes::None::A::Due to recombination.
+123::The forward bias voltage for a silicon diode is::0.7 V::Si)::0.3 V (GeV)0.7 for Si, V (Ge)::1 V::0 V::A::C::Threshold for silicon.
+124::The diode used as a diode for rectifier is::Rectifier diode::Zener Diode diode::LED::Photodiode::A::Converts to AC to DC.
+200::The Zener diode is used for::Voltage regulation::Rectification::Amplification::None::A::Operates in reverse breakdown.
+126::The transistor is ::aThree-layer device::Two-layer device::Four-layer device::None::A::NPN or PNP.
+127::The common-emitter configuration of a transistor has::High current gain::Low voltage gain::High input resistance::None::A::Widely used for amplification.
+128::The base of a transistor is::Thinly doped::Heavily doped::Not doped::None::A::Controls current flow.
+129::The transistor operates as ::aSwitch::Amplifier::Both::None::C::On/off or signal amplification.
+130::The logic gate with output 1 when all inputs are 1 is::AND gate::OR gate::NOT gate::XOR gate::A::Logical conjunction.
+131::The NOT gate::Inverts input::Combines inputs::Adds inputs::None::A::Single input, opposite output.
+132::The truth table of OR gate shows::1 if any input is 1::1 if all inputs are 1::0 if any input is 1::None::A::Logical disjunction.
+133::The NAND gate is a combination of::AND and NOT::OR and NOT::AND and OR::None::A::Universal gate.
+134::The XOR gate gives output 1 when::Number of 1s is odd::All inputs are 1::All inputs are 0::None::A::Exclusive OR.
+135::The operational amplifier has::High gain::Low input impedance::Low output impedance::Both A and C::D::Ideal characteristics.
+136::The gain of an inverting op-amp is::-R_f/R_in::R_f/R_in::R_in/R_f::None::A::Negative due to inversion.
+137::The non-inverting op-amp has gain::1 + R_f/R_in::R_f/R_in::-R_f/R_in::None::A::Positive output.
+138::The photodiode operates in::Reverse bias::Forward bias::Both::None::A::Light-sensitive.
+139::The LED emits light in::Forward bias::Reverse bias::Both::None::A::Recombination of carriers.
+140::The transistor as a switch operates in::Cut-off and saturation::Active region::Both::None::A::On or off states.
+141::The rest mass of a photon is::Zero::Infinite::Constant::None::A::Massless particle.
+142::The photoelectric effect demonstrates::Particle nature of light::Wave nature of light::Both::None::A::Photon-electron interaction.
+143::The work function of a metal is::Minimum energy to eject electron::Maximum energy::Kinetic energy::None::A::Metal-specific.
+144::The photoelectric equation is::hν = φ + K_max::hν = φ - K_max::hν = K_max::hν = φ::A::Energy conservation.
+145::The Compton effect shows::Photon scattering::Wave interference::Diffraction::None::A::Photon-electron collision.
+146::The de Broglie wavelength is::λ = h/p::λ = h/m::λ = h/v::λ = p/h::A::Wave-particle duality.
+147::The uncertainty principle states::Δx·Δp ≥ h/(4π)::Δx·Δp = h::Δx·Δp ≤ h::None::A::Heisenberg’s principle.
+148::The rest energy of a particle is::E = mc²::E = mv²::E = mc::E = m/c²::A::Einstein’s mass-energy equivalence.
+149::The relativistic mass increases with::Speed::Rest mass::Distance::None::A::m = m₀/√(1 - v²/c²).
+150::The time dilation occurs when::Speed approaches c::Object is at rest::Both::None::A::t = t₀/√(1 - v²/c²).
+151::The Planck’s constant h is::6.626 × 10⁻³⁴ Js::6.626 × 10⁻³² Js::6.626 × 10⁻³⁰ Js::6.626 × 10⁻³⁶ Js::A::Fundamental constant.
+152::The blackbody radiation is explained by::Planck’s quantum theory::Classical theory::Relativity::None::A::Quantized energy.
+153::The photon’s momentum is::p = h/λ::p = hλ::p = λ/h::p = h/m::A::From E = pc.
+154::The pair production occurs when::Photon energy > 1.02 MeV::Photon energy < 1.02 MeV::Any energy::None::A::Creates electron-positron pair.
+155::The Davisson-Germer experiment confirmed::Wave nature of electrons::Particle nature::Both::None::A::Electron diffraction.
+156::The relativistic length contraction is::L = L₀√(1 - v²/c²)::L = L₀/√(1 - v²/c²)::L = L₀v/c::L = L₀c/v::A::Lorentz contraction.
+157::The energy of a photon is::E = hν::E = h/ν::E = ν/h::E = hν²::A::Proportional to frequency.
+158::The threshold frequency is::Minimum frequency for photoelectric effect::Maximum frequency::Any frequency::None::A::Depends on metal.
+159::The special theory of relativity applies to::Inertial frames::Accelerated frames::Both::None::A::Constant velocity.
+160::The Compton wavelength is::h/(m₀c)::h/m₀::h/c::m₀c/h::A::For electron scattering.
+161::The line spectrum is produced by::Gaseous atoms::Solids::Liquids::All::A::Excited atoms emit discrete wavelengths.
+162::The Bohr model explains::Atomic spectra of hydrogen::Helium spectr::aAll atoms::None::A::Quantized orbits.
+163::The energy of an electron in nth orbit is::E_n = -13.6/n² eV::E_n = 13.6/n² eV::E_n = -13.6n² eV::E_n = 13.6n eV::A::Negative due to bound state.
+164::The radius of nth Bohr orbit is::r_n ∝ n²::r_n ∝ 1/n²::r_n ∝ n::r_n ∝ 1/n::A::r_n = n²h²/(4π²mke²).
+165::The Balmer series lies in::Visible region::UV region::IR region::X-ray region::A::n₂ > 2, n₁ = 2.
+166::The Lyman series lies in::UV region::Visible region::IR region::None::A::n₂ > 1, n₁ = 1.
+167::The Rydberg constant R is::1.097 × 10⁷ m⁻¹::1.097 × 10⁵ m⁻¹::1.097 × 10⁹ m⁻¹::1.097 × 10³ m⁻¹::A::For hydrogen spectrum.
+168::The formula for spectral lines is::1/λ = R(1/n₁² - 1/n₂²)::1/λ = R(n₁² - n₂²)::1/λ = R/(n₁² - n₂²)::None::A::Rydberg formula.
+169::The Paschen series lies in::IR region::UV region::Visible region::None::A::n₂ > 3, n₁ = 3.
+170::The ionization energy of hydrogen is::13.6 eV::10.2 eV::3.4 eV::1.5 eV::A::Energy to remove electron from n=1.
+171::The spectral lines are produced due to::Electron transitions::Nuclear reactions::Vibrations::None::A::Energy level changes.
+172::The Bohr orbit closest to the nucleus has::n = 1::n = 2::n = 3::n = ∞::A::Ground state.
+173::The energy difference between n=2 and n=1 is::10.2 eV::13.6 eV::3.4 eV::1.5 eV::A::E₂ - E₁ = -3.4 - (-13.6).
+174::The X-rays are produced by::High-energy electron impact::Nuclear decay::Atomic transitions::None::A::Inner shell electrons.
+175::The characteristic X-rays depend on::Target material::Voltage::Current::None::A::Specific to atom.
+176::The continuous X-ray spectrum depends on::Accelerating voltage::Target material::Both::None::A::Bremsstrahlung radiation.
+177::The angular momentum in Bohr’s model is::nh/(2π)::nh/π::nh::h/(2πn)::A::Quantized.
+178::The frequency of emitted photon is::ν = ΔE/h::ν = h/ΔE::ν = ΔE h::ν = h ΔE::A::E = hν.
+179::The Brackett series lies in::IR region::UV region::Visible region::None::A::n₂ > 4, n₁ = 4.
+180::The maximum number of spectral lines for n=3 to n=1 is::3::2::1::4::A::(n₂ - n₁)(n₂ - n₁ + 1)/2.
+181::The nucleus contains::Protons and neutrons::Electrons::Protons only::None::A::Nucleons.
+182::The atomic number represents::Number of protons::Number of neutrons::Mass number::None::A::Z defines element.
+183::The mass number is::Protons + neutrons::Protons only::Neutrons only::Electrons::A::A = Z + N.
+184::The binding energy of a nucleus is::Energy to separate nucleons::Energy to add nucleons::Kinetic energy::None::A::Mass defect equivalent.
+185::The mass defect is::Mass lost in binding::Mass gained::Zero mass::None::A::Δm = Z m_p + N m_n - M.
+186::The unit of radioactivity is::Becquerel::Curie::Both::None::C::Bq = 1 disintegration/s.
+187::The half-life is::Time for half nuclei to decay::Total decay time::Constant decay::None::A::T₁/₂ = ln(2)/λ.
+188::The alpha particle is::Helium nucleus::Electron::Proton::Neutron::A::₂⁴He.
+189::The beta particle is::Electron or positron::Proton::Neutron::Photon::A::From neutron decay.
+190::The gamma ray is::High-energy photon::Charged particle::Neutron::None::A::Electromagnetic radiation.
+191::The radioactive decay follows::Exponential law::Linear law::Quadratic law::None::A::N = N₀ e^(-λt).
+192::The SI unit of absorbed dose is::Gray::Sievert::Becquerel::Curie::A::Gy = J/kg.
+193::The equivalent dose accounts for::Radiation type::Energy::Mass::None::A::Sv = Gy × quality factor.
+194::The fission reaction involves::Splitting of nucleus::Fusion of nuclei::Beta decay::None::A::E.g., U-235.
+195::The fusion reaction occurs in::Stars::Fission reactors::Both::None::A::H nuclei combine.
+196::The moderator in a nuclear reactor::Slows neutrons::Absorbs neutrons::Cools reactor::None::A::E.g., graphite, water.
+197::The control rods in a reactor::Absorb neutrons::Produce neutrons::Slow neutrons::None::A::E.g., boron, cadmium.
+198::The energy released in nuclear reactions is due to::Mass defect::Chemical bonds::Kinetic energy::None::A::E = Δm c².
+199::The isotope U-238 is::Fertile::Fissile::Both::None::A::Can be converted to Pu-239.
+200::The Geiger-Muller counter detects::Ionizing radiation::Light::Heat::None::A::Counts radiation particles.

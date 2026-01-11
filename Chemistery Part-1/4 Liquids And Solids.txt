@@ -1,0 +1,50 @@
+1::The attractive forces between molecules of a liquid are called::Intramolecular forces::Intermolecular forces::Covalent forces::Ionic forces::B::Intermolecular forces are attractive forces between molecules, responsible for properties like viscosity and surface tension.
+2::Which of the following is not a type of intermolecular force?::London dispersion forces::Dipole-dipole forces::Hydrogen bonding::Covalent bonding::D::Covalent bonding is an intramolecular force, not an intermolecular force.
+3::Hydrogen bonding is strongest in::HF::HCl::HBr::HI::A::HF has the strongest hydrogen bonding due to fluorine’s high electronegativity.
+4::The boiling point of a liquid is the temperature at which its vapour pressure equals::Atmospheric pressure::Internal pressure::External pressure::Surface tension::A::Boiling occurs when the vapour pressure equals the atmospheric pressure.
+5::Which property of liquids is related to the resistance to flow?::Surface tension::Vapour pressure::Viscosity::Density::C::Viscosity measures a liquid’s resistance to flow.
+6::Surface tension of a liquid is due to::Covalent bonds::Ionic bonds::Intermolecular forces::Intramolecular forces::C::Surface tension arises from cohesive intermolecular forces at the liquid’s surface.
+7::Which liquid has the highest viscosity?::Water::Ethanol::Glycerine::Acetone::C::Glycerine has the highest viscosity due to extensive hydrogen bonding.
+8::The vapour pressure of a liquid increases with::Decrease in temperature::Increase in temperature::Increase in viscosity::Increase in surface tension::B::Vapour pressure increases with temperature as more molecules gain energy to escape into the gas phase.
+9::Which of the following liquids has the lowest boiling point?::Water::Ethanol::Ether::Glycerine::C::Ether has the lowest boiling point due to weak intermolecular forces.
+10::The process in which a liquid changes to a gas at any temperature is called::Boiling::Evaporation::Condensation::Sublimation::B::Evaporation is the process of liquid turning into gas at any temperature.
+11::Crystalline solids have::Definite shape and melting point::No definite shape::Amorphous structure::Variable melting point::A::Crystalline solids have a definite shape and sharp melting point due to their ordered structure.
+12::Amorphous solids::Have a regular geometric pattern::Melt at a sharp temperature::Lack a definite structure::Are highly crystalline::C::Amorphous solids lack a definite, ordered structure.
+13::Which of the following is an example of a crystalline solid?::Glass::Diamond::Rubber::Plastic::B::Diamond is a crystalline solid with a regular, repeating structure.
+14::The energy required to break the lattice of an ionic solid is called::Bond energy::Lattice energy::Ionization energy::Electron affinity::B::Lattice energy is the energy needed to break the ionic lattice into gaseous ions.
+15::Which type of crystal has the highest melting point?::Ionic crystals::Covalent crystals::Molecular crystals::Metallic crystals::B::Covalent crystals (e.g., diamond) have very high melting points due to strong covalent networks.
+16::The intermolecular forces in molecular crystals are::Covalent bonds::Ionic bonds::Van der Waals forces::Metallic bonds::C::Molecular crystals are held together by weak van der Waals forces or hydrogen bonds.
+17::Which of the following is a property of ionic crystals?::Low melting point::High melting point::Soft structure::Poor conductivity::B::Ionic crystals have high melting points due to strong electrostatic forces.
+18::Metallic crystals are good conductors of electricity due to::Free electrons::Ionic bonds::Covalent bonds::Hydrogen bonds::A::Free electrons in metallic crystals allow electrical conductivity.
+19::The boiling point of water is higher than expected due to::London forces::Dipole-dipole forces::Hydrogen bonding::Covalent bonding::C::Hydrogen bonding in water increases its boiling point significantly.
+20::The unit cell of a crystal is::The smallest repeating unit::The largest repeating unit::The entire crystal lattice::The surface of the crystal::A::The unit cell is the smallest repeating unit that defines the crystal structure.
+21::Which type of solid is glass?::Ionic::Covalent::Amorphous::Metallic::C::Glass is an amorphous solid, lacking a regular crystalline structure.
+22::The boiling point of a liquid depends on::External pressure::Internal pressure::Surface tension::Viscosity::A::Boiling point depends on external pressure, as it affects the vapour pressure required for boiling.
+23::Which of the following decreases with increasing temperature?::Vapour pressure::Viscosity::Surface tension::Density::B::Viscosity decreases with increasing temperature as molecular motion increases.
+24::The strongest intermolecular force in ammonia (NH3) is::London dispersion forces::Dipole-dipole forces::Hydrogen bonding::Ionic bonding::C::Ammonia exhibits hydrogen bonding due to the electronegative nitrogen atom.
+25::Which type of crystal is soft and has a low melting point?::Ionic::Covalent::Molecular::Metallic::C::Molecular crystals are soft and have low melting points due to weak intermolecular forces.
+26::The lattice energy of an ionic compound depends on::Charge of ions::Size of ions::Both charge and size of ions::Shape of ions::C::Lattice energy depends on both the charge and size of the ions (higher charge, smaller size = higher lattice energy).
+27::Which of the following is not a characteristic of crystalline solids?::Sharp melting point::Anisotropy::Amorphous nature::Regular geometry::C::Crystalline solids are not amorphous; they have a regular, ordered structure.
+28::The vapour pressure of a liquid is measured in::Pascals::Joules::Newtons::Watts::A::Vapour pressure is a pressure measurement, expressed in Pascals or other pressure units.
+29::Which liquid has the highest surface tension?::Water::Ethanol::Acetone::Ether::A::Water has the highest surface tension due to strong hydrogen bonding.
+30::The structure of NaCl crystal is::Simple cubic::Face-centered cubic::Body-centered cubic::Hexagonal::B::NaCl has a face-centered cubic (FCC) structure.
+31::Which of the following is a covalent network solid?::Ice::Graphite::Sugar::Salt::B::Graphite is a covalent network solid with a layered structure of covalent bonds.
+32::The boiling point of a liquid is affected by::Impurities::Viscosity::Surface tension::Density::A::Impurities can raise or lower the boiling point of a liquid.
+33::Which type of intermolecular force is present in all molecules?::Hydrogen bonding::Dipole-dipole forces::London dispersion forces::Ionic forces::C::London dispersion forces are present in all molecules, including non-polar ones.
+34::The melting point of ionic solids is high because of::Weak intermolecular forces::Strong electrostatic forces::Covalent bonding::Metallic bonding::B::Strong electrostatic forces between ions result in high melting points.
+35::Which of the following is an example of a metallic crystal?::Diamond::Sodium chloride::Copper::Sugar::C::Copper is a metallic crystal with free electrons and metallic bonding.
+36::The ability of liquids to rise in a capillary tube is due to::Viscosity::Surface tension::Vapour pressure::Density::B::Capillary action is driven by surface tension and cohesive/adhesive forces.
+37::The crystal lattice of diamond is::Ionic::Covalent::Molecular::Metallic::B::Diamond has a covalent network lattice with strong covalent bonds.
+38::Which of the following has the lowest vapour pressure at room temperature?::Water::Ethanol::Ether::Acetone::A::Water has the lowest vapour pressure due to strong hydrogen bonding.
+39::Anisotropy is a property of::Amorphous solids::Crystalline solids::Liquids::Gases::B::Crystalline solids show anisotropy, where properties vary with direction due to their ordered structure.
+40::The boiling point of a liquid is::Fixed for all pressures::Variable with pressure::Independent of pressure::Equal to melting point::B::Boiling point varies with external pressure.
+41::Which of the following solids has a sharp melting point?::Glass::Rubber::Diamond::Plastic::C::Diamond, a crystalline solid, has a sharp melting point.
+42::The intermolecular forces in noble gases are::Hydrogen bonds::Dipole-dipole forces::London dispersion forces::Ionic bonds::C::Noble gases have only weak London dispersion forces.
+43::The lattice energy of MgO is higher than NaCl because::MgO has larger ions::MgO has higher ionic charges::NaCl has stronger bonds::NaCl has smaller ions::B::MgO has higher lattice energy due to higher ionic charges (+2, -2 vs. +1, -1).
+44::Which of the following is not a property of liquids?::Definite shape::Definite volume::Compressibility::Surface tension::A::Liquids do not have a definite shape; they take the shape of their container.
+45::The coordination number of a body-centered cubic lattice is::4::6::8::12::C::The coordination number of a body-centered cubic lattice is 8.
+46::Which type of solid is a good thermal conductor?::Ionic::Covalent::Metallic::Molecular::C::Metallic solids are good thermal conductors due to free electrons.
+47::The boiling point of HF is higher than HCl due to::London forces::Dipole-dipole forces::Hydrogen bonding::Covalent bonding::C::HF has strong hydrogen bonding, leading to a higher boiling point.
+48::The viscosity of a liquid is measured in::Pascals::Poise::Joules::Newtons::B::Viscosity is measured in Poise or its SI equivalent, Pascal-seconds.
+49::Which of the following is an amorphous solid?::Quartz::Glass::NaCl::Diamond::B::Glass is an amorphous solid with a disordered structure.
+50::The enthalpy of vaporization is higher for liquids with::Weak intermolecular forces::Strong intermolecular forces::Low boiling points::Low viscosity::B::Strong intermolecular forces require more energy to overcome, leading to higher enthalpy of vaporization.

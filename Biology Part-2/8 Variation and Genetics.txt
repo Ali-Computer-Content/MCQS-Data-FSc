@@ -1,0 +1,50 @@
+1::The study of heredity and variation is called::Evolution::Genetics::Ecology::Taxonomy::B::Genetics is the branch of biology that studies how traits are inherited and vary.
+2::The father of genetics is::Charles Darwin::Gregor Mendel::Thomas Morgan::Alfred Wallace::B::Gregor Mendel established the principles of inheritance through his pea plant experiments.
+3::Mendel’s experiments were conducted on::Maize::Fruit flies::Pea plants::Mice::C::Mendel used pea plants (*Pisum sativum*) due to their distinct traits and short generation time.
+4::The alternative forms of a gene are called::Phenotypes::Genotypes::Alleles::Loci::C::Alleles are different versions of a gene, e.g., tall (T) and short (t) for plant height.
+5::An organism with two identical alleles for a trait is::Heterozygous::Homozygous::Dominant::Recessive::B::Homozygous organisms have two identical alleles, e.g., TT or tt.
+6::An organism with two different alleles for a trait is::Homozygous::Heterozygous::Purebred::Hybrid::B::Heterozygous organisms have different alleles, e.g., Tt, for a given trait.
+7::The physical appearance of an organism is its::Genotype::Phenotype::Allele::Locus::B::Phenotype is the observable trait, influenced by genotype and environment.
+8::The genetic makeup of an organism is its::Phenotype::Genotype::Trait::Allele::B::Genotype refers to the organism’s set of alleles, e.g., TT, Tt, or tt.
+9::Mendel’s law of segregation states that::Traits blend::Alleles separate during gamete formation::Genes assort independently::Dominant traits mask recessive::B::Alleles for a trait separate during meiosis, so each gamete carries one allele.
+10::Mendel’s law of independent assortment applies to::Genes on the same chromosome::Genes on different chromosomes::Linked genes::Identical alleles::B::Genes on different chromosomes assort independently during gamete formation.
+11::The phenotypic ratio of a monohybrid cross is::1:1::3:1::9:3:3:1::1:2:1::B::A monohybrid cross (e.g., Tt × Tt) yields a 3:1 phenotypic ratio in the F2 generation.
+12::The genotypic ratio of a monohybrid cross is::1:1::3:1::1:2:1::9:3:3:1::C::A monohybrid cross produces a 1:2:1 genotypic ratio (1 TT: 2 Tt: 1 tt) in the F2 generation.
+13::A cross between two heterozygous individuals is called::Test cross::Monohybrid cross::Dihybrid cross::Back cross::B::A monohybrid cross involves one trait, e.g., Tt × Tt.
+14::The phenotypic ratio of a dihybrid cross is::3:1::1:2:1::9:3:3:1::1:1:1:1::C::A dihybrid cross (e.g., RrYy × RrYy) yields a 9:3:3:1 phenotypic ratio in the F2 generation.
+15::A cross between a homozygous recessive and an unknown genotype is::Monohybrid cross::Dihybrid cross::Test cross::Back cross::C::A test cross (e.g., tt × T?) determines the unknown genotype by observing offspring.
+16::The dominance where both alleles are expressed is::Complete dominance::Incomplete dominance::Codominance::Overdominance::C::In codominance, both alleles are fully expressed, e.g., AB blood group.
+17::The dominance where the heterozygote shows an intermediate trait is::Complete dominance::Incomplete dominance::Codominance::Multiple alleles::B::Incomplete dominance results in a blended phenotype, e.g., pink flowers from red and white.
+18::The blood group system is an example of::Incomplete dominance::Codominance::Complete dominance::Polygenic inheritance::B::ABO blood groups show codominance (e.g., AB) and multiple alleles (A, B, O).
+19::The number of alleles controlling the ABO blood group is::Two::Three::Four::Five::B::The ABO blood group is controlled by three alleles: I^A, I^B, and i.
+20::The universal donor blood group is::A::B::AB::O::D::Blood group O lacks A, B, and Rh antigens, making it safe for all recipients.
+21::The universal recipient blood group is::A::B::AB::O::C::Blood group AB can receive blood from any group due to having both A and B antigens.
+22::The Rh factor is determined by::Multiple alleles::Single gene::Polygenes::Sex chromosomes::B::The Rh factor (positive or negative) is controlled by a single gene with two alleles.
+23::The genetic disorder caused by a recessive allele is::Down syndrome::Sickle-cell anemia::Turner syndrome::Klinefelter syndrome::B::Sickle-cell anemia is caused by a recessive allele affecting hemoglobin structure.
+24::The condition caused by an extra chromosome 21 is::Sickle-cell anemia::Down syndrome::Hemophilia::Cystic fibrosis::B::Down syndrome (trisomy 21) results from an extra chromosome 21.
+25::The sex-linked disorder primarily affecting males is::Sickle-cell anemia::Cystic fibrosis::Hemophilia::Down syndrome::C::Hemophilia, caused by a recessive X-linked allele, is more common in males (XY).
+26::The chromosomes that determine sex in humans are::Autosomes::Sex chromosomes::Homologous chromosomes::Heterologous chromosomes::B::Sex chromosomes (XX in females, XY in males) determine an individual’s sex.
+27::The number of autosomes in a human cell is::44::46::22::23::A::Humans have 44 autosomes (22 pairs) and 2 sex chromosomes.
+28::The inheritance pattern where males inherit traits from their mother is::Autosomal::X-linked::Y-linked::Mitochondrial::B::X-linked traits, like hemophilia, are passed from mother to son via the X chromosome.
+29::The condition with genotype XO is::Down syndrome::Turner syndrome::Klinefelter syndrome::Sickle-cell anemia::B::Turner syndrome (45, XO) affects females, causing short stature and infertility.
+30::The condition with genotype XXY is::Turner syndrome::Down syndrome::Klinefelter syndrome::Hemophilia::C::Klinefelter syndrome (47, XXY) affects males, causing reduced testosterone and infertility.
+31::Genes located on the same chromosome are::Independent::Linked::Unlinked::Dominant::B::Linked genes, on the same chromosome, tend to be inherited together.
+32::The exchange of genetic material between homologous chromosomes is::Mutation::Crossing over::Segregation::Independent assortment::B::Crossing over during meiosis I exchanges segments between homologous chromosomes.
+33::The phenomenon where linked genes separate is::Segregation::Recombination::Mutation::Dominance::B::Recombination occurs due to crossing over, separating linked genes.
+34::The genetic map distance is measured in::Base pairs::Centimorgans::Kilobases::Nucleotides::B::Centimorgans (cM) measure the recombination frequency between genes.
+35::The inheritance of skin color in humans is an example of::Codominance::Incomplete dominance::Polygenic inheritance::Multiple alleles::C::Skin color is controlled by multiple genes (polygenic), producing a range of phenotypes.
+36::A change in the DNA sequence is called::Recombination::Mutation::Crossing over::Segregation::B::A mutation is an alteration in the DNA sequence, potentially causing genetic variation.
+37::The type of mutation involving a single nucleotide change is::Point mutation::Frameshift mutation::Deletion::Inversion::A::A point mutation changes one nucleotide, e.g., a substitution in sickle-cell anemia.
+38::The mutation that shifts the reading frame is::Point mutation::Silent mutation::Frameshift mutation::Missense mutation::C::Frameshift mutations, caused by insertions or deletions, disrupt the codon reading frame.
+39::The inheritance pattern of mitochondrial DNA is::Paternal::Maternal::Autosomal::X-linked::B::Mitochondrial DNA is inherited from the mother via the egg’s cytoplasm.
+40::The law of dominance was proposed by::Darwin::Mendel::Morgan::Lamarck::B::Mendel’s law of dominance states that one allele can mask the expression of another.
+41::The test cross ratio for a heterozygous individual is::1:1::3:1::1:2:1::9:3:3:1::A::A test cross (Tt × tt) produces a 1:1 ratio of dominant to recessive phenotypes.
+42::The inheritance of height in humans is::Monogenic::Polygenic::Codominant::Incomplete dominant::B::Height is a polygenic trait, influenced by multiple genes and environmental factors.
+43::The genetic disorder caused by a dominant allele is::Sickle-cell anemia::Cystic fibrosis::Huntington’s disease::Hemophilia::C::Huntington’s disease is caused by a dominant allele, affecting the nervous system.
+44::The probability of two independent events occurring together is calculated by::Adding::Subtracting::Multiplying::Dividing::C::The product rule multiplies the probabilities of independent events, e.g., in dihybrid crosses.
+45::The genetic disorder affecting mucus production is::Hemophilia::Cystic fibrosis::Sickle-cell anemia::Down syndrome::B::Cystic fibrosis, a recessive disorder, causes thick mucus buildup in organs.
+46::The genotype of a carrier for a recessive disorder is::Homozygous dominant::Homozygous recessive::Heterozygous::None of these::C::Carriers are heterozygous, carrying one recessive allele without expressing the disorder.
+47::The inheritance pattern where traits skip a generation is::Dominant::Recessive::Codominant::Incomplete dominant::B::Recessive traits may skip generations if carried by heterozygous individuals.
+48::The structure that carries genes is::Chromosome::Ribosome::Mitochondrion::Lysosome::A::Chromosomes, made of DNA and proteins, carry genes in the nucleus.
+49::The genetic variation in a population is increased by::Mutation::Recombination::Both A and B::Segregation::C::Mutation introduces new alleles, and recombination shuffles existing ones, increasing variation.
+50::The principle that explains the 9:3:3:1 ratio in a dihybrid cross is::Law of segregation::Law of dominance::Law of independent assortment::Law of recombination::C::The law of independent assortment explains the 9:3:3:1 ratio for unlinked genes in a dihybrid cross.

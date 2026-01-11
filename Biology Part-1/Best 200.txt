@@ -1,0 +1,200 @@
+1::Biology is the study of::Life::Matter::Energy::Atoms::A::Biology derives from Greek words "bios" (life) and "logos" (study), focusing on living organisms.
+2::The branch of biology dealing with inheritance is::Botany::Genetics::Zoology::Ecology::B::Genetics studies heredity and variation in organisms.
+3::The simplest level of biological organization is::Cell::Tissue::Organ::Molecule::D::Molecules are the basic building blocks forming life’s structures.
+4::The study of organisms in their natural habitat is::Ecology::Physiology::Taxonomy::Morphology::A::Ecology examines interactions between organisms and their environment.
+5::A characteristic of living things is::Reproduction::Inertia::Conduction::Reflection::A::Reproduction ensures species continuity in living organisms.
+6::The smallest unit of life is::Tissue::Cell::Organ::System::B::The cell is the basic structural and functional unit of life.
+7::The branch of biology dealing with classification is::Taxonomy::Anatomy::Physiology::Biochemistry::A::Taxonomy involves naming and classifying organisms.
+8::The scientific name of humans is::Homo erectus::Homo sapiens::Homo habilis::Homo neanderthalensis::B::Homo sapiens is the scientific name for modern humans.
+9::The study of fossils is known as::Paleontology::Embryology::Histology::Pathology::A::Paleontology studies fossils to understand past life forms.
+10::A renewable resource is::Coal::Petroleum::Forests::Natural gas::C::Forests can regrow, making them renewable, unlike fossil fuels.
+11::The basic unit of classification is::Species::Genus::Family::Order::A::Species is the most specific unit of classification.
+12::The study of chemical processes in organisms is::Biochemistry::Physiology::Genetics::Ecology::A::Biochemistry focuses on chemical reactions in living systems.
+13::A unicellular organism is::Amoeba::Human::Frog::Oak tree::A::Amoeba is a single-celled organism capable of independent life.
+14::The process of maintaining a stable internal environment is::Homeostasis::Metabolism::Photosynthesis::Respiration::A::Homeostasis ensures stable internal conditions.
+15::The study of plant life is called::Botany::Zoology::Microbiology::Ecology::A::Botany focuses on the study of plants.
+16::The term "biodiversity" refers to::Variety of life::Study of cells::Chemical processes::Ecosystem balance::A::Biodiversity describes the variety of living species.
+17::The study of animal behavior is::Ethology::Ecology::Embryology::Histology::A::Ethology studies animal behavior in natural environments.
+18::The highest level of biological organization is::Ecosystem::Biosphere::Community::Population::B::The biosphere encompasses all ecosystems on Earth.
+19::A non-living component of an ecosystem is::Plants::Animals::Water::Fungi::C::Water is an abiotic component of ecosystems.
+20::The process of evolution is driven by::Mutation::Natural selection::Migration::Genetic drift::B::Natural selection favors advantageous traits, driving evolution.
+21::The study of tissues is called::Histology::Embryology::Pathology::Anatomy::A::Histology examines the microscopic structure of tissues.
+22::The term "biology" was coined by::Lamarck::Darwin::Linnaeus::Mendel::A::Lamarck introduced the term "biology" in the early 19th century.
+23::The study of microorganisms is::Microbiology::Botany::Zoology::Genetics::A::Microbiology focuses on microscopic organisms like bacteria.
+24::The process by which organisms produce offspring is::Respiration::Reproduction::Metabolism::Homeostasis::B::Reproduction ensures species continuation.
+25::An example of a biome is::Desert::Population::Cell::Organ::A::A biome is a large ecological area with distinct climate and organisms.
+26::Enzymes are primarily composed of::Carbohydrates::Proteins::Lipids::Nucleic acids::B::Enzymes are proteins that act as biological catalysts.
+27::The molecule on which an enzyme acts is::Substrate::Product::Cofactor::Inhibitor::A::The substrate binds to the enzyme’s active site for catalysis.
+28::Enzymes speed up reactions by::Increasing activation energy::Lowering activation energy::Breaking bonds::Adding energy::B::Enzymes lower the energy barrier for reactions.
+29::The specific region where a substrate binds is::Active site::Allosteric site::Cofactor::Prosthetic group::A::The active site is where substrate binding and catalysis occur.
+30::An enzyme without its non-protein part is::Apoenzyme::Holoenzyme::Coenzyme::Prosthetic group::A::An apoenzyme is the protein part without its cofactor.
+31::A non-protein molecule assisting an enzyme is::Substrate::Cofactor::Inhibitor::Product::B::Cofactors, like vitamins or ions, aid enzyme function.
+32::The complete enzyme with its cofactor is::Apoenzyme::Holoenzyme::Coenzyme::Substrate::B::A holoenzyme is the active enzyme-cofactor complex.
+33::An example of a coenzyme is::Zinc::Vitamin B::Chloride::Calcium::B::Vitamin B derivatives, like NAD+, act as coenzymes.
+34::The lock and key model was proposed by::Emil Fischer::Koshland::Pasteur::Watson and Crick::A::Emil Fischer proposed the lock and key model for enzyme specificity.
+35::The induced fit model suggests::Active site is rigid::Substrate changes shape::Enzyme adjusts to substrate::Cofactor binds first::C::The enzyme molds to fit the substrate in the induced fit model.
+36::A competitive inhibitor binds to::Active site::Allosteric site::Cofactor::Substrate::A::Competitive inhibitors compete with substrates for the active site.
+37::The optimum temperature for human enzymes is::25°C::37°C::45°C::60°C::B::Human enzymes function best at body temperature, around 37°C.
+38::An example of a hydrolytic enzyme is::Amylase::Lipase::Protease::All of these::D::These enzymes break down molecules using water.
+39::The enzyme catalase breaks down::Hydrogen peroxide::Starch::Proteins::Lipids::A::Catalase converts hydrogen peroxide into water and oxygen.
+40::The optimum pH for pepsin is::2::7::9::12::A::Pepsin functions best in the acidic stomach environment, around pH 2.
+41::The enzyme urease converts urea into::Ammonia and carbon dioxide::Glucose::Amino acids::Fatty acids::A::Urease hydrolyzes urea into ammonia and carbon dioxide.
+42::Enzymes are sensitive to::pH::Temperature::Both A and B::Substrate concentration::C::pH and temperature affect enzyme structure and activity.
+43::The specificity of an enzyme is due to::Its size::Its shape::Its weight::Its charge::B::The active site’s shape determines substrate specificity.
+44::An example of a ligase enzyme is::DNA polymerase::Amylase::Lipase::Protease::A::DNA polymerase joins nucleotides during DNA replication.
+45::The enzyme in saliva is::Pepsin::Trypsin::Amylase::Lipase::C::Salivary amylase (ptyalin) begins starch digestion in the mouth.
+46::Enzymes increase reaction rates by::Providing energy::Stabilizing transition state::Breaking bonds::Adding substrates::B::Enzymes lower activation energy by stabilizing the transition state.
+47::A reversible inhibitor is::Cyanide::Penicillin::Aspirin::Zinc::C::Aspirin reversibly inhibits enzyme activity, unlike cyanide or penicillin.
+48::The enzyme lysozyme is found in::Tears::Blood::Stomach::Liver::A::Lysozyme in tears and saliva breaks down bacterial cell walls.
+49::The main function of enzymes is to::Store energy::Catalyze reactions::Transport oxygen::Synthesize DNA::B::Enzymes speed up biochemical reactions.
+50::The role of a cofactor is to::Inhibit enzyme::Activate enzyme::Denature enzyme::Replace substrate::B::Cofactors assist enzymes in catalyzing reactions.
+51::The basic unit of life is::Tissue::Cell::Organ::Molecule::B::The cell is the smallest unit capable of life functions.
+52::The scientist who first observed cells was::Robert Hooke::Leeuwenhoek::Schwann::Schleiden::A::Robert Hooke coined “cell” in 1665 after observing cork.
+53::Prokaryotic cells lack::Nucleus::Cell wall::Cytoplasm::Ribosomes::A::Prokaryotes lack a membrane-bound nucleus.
+54::The cell theory states that::All cells have a nucleus::Cells arise spontaneously::All organisms are made of cells::Cells are non-living::C::The cell theory states that cells are the basic units of life.
+55::The powerhouse of the cell is::Nucleus::Mitochondrion::Ribosome::Golgi apparatus::B::Mitochondria produce ATP via cellular respiration.
+56::The double membrane around the nucleus is::Cell membrane::Nuclear envelope::Endoplasmic reticulum::Golgi body::B::The nuclear envelope encloses the nucleus, controlling material exchange.
+57::The organelle for protein synthesis is::Mitochondrion::Ribosome::Lysosome::Golgi apparatus::B::Ribosomes translate mRNA into proteins.
+58::The fluid mosaic model describes::Cell wall::Cell membrane::Nucleus::Cytoplasm::B::The cell membrane is a flexible lipid bilayer with proteins.
+59::The organelle found only in plant cells is::Mitochondrion::Chloroplast::Ribosome::Nucleus::B::Chloroplasts perform photosynthesis in plant cells.
+60::The plant cell wall is made of::Cellulose::Chitin::Peptidoglycan::Lipids::A::Cellulose provides structural support in plant cell walls.
+61::The organelle for detoxification is::Golgi apparatus::Smooth ER::Lysosome::Mitochondrion::B::Smooth ER detoxifies drugs and synthesizes lipids.
+62::The control center of the cell is::Mitochondrion::Nucleus::Ribosome::Lysosome::B::The nucleus houses DNA and regulates cellular activities.
+63::Lysosomes are known as::Powerhouses::Suicide bags::Protein factories::Storage units::B::Lysosomes digest damaged cells and organelles.
+64::The cytoskeleton is composed of::Lipids::Proteins::Carbohydrates::Nucleic acids::B::Protein fibers in the cytoskeleton provide structure and movement.
+65::Centrioles are involved in::Photosynthesis::Cell division::Protein synthesis::Lipid synthesis::B::Centrioles organize spindle fibers during mitosis.
+66::The process of cell division in eukaryotes is::Binary fission::Mitosis::Meiosis::Budding::B::Mitosis produces two identical daughter cells.
+67::The organelle with its own DNA is::Nucleus::Mitochondrion::Golgi apparatus::Lysosome::B::Mitochondria have their own DNA, supporting endosymbiotic theory.
+68::The cell membrane’s primary function is::Protein synthesis::Selective permeability::Energy production::DNA storage::B::The cell membrane regulates substance transport.
+69::The process of engulfing large particles is::Diffusion::Phagocytosis::Pinocytosis::Osmosis::B::Phagocytosis involves engulfing large particles.
+70::The nucleolus is involved in::Protein synthesis::Ribosome assembly::DNA replication::Energy production::B::The nucleolus assembles ribosomal subunits.
+71::The cell wall in bacteria is made of::Cellulose::Chitin::Peptidoglycan::Lipids::C::Peptidoglycan forms the bacterial cell wall.
+72::The Kingdom Prokaryotae includes::Bacteria::Fungi::Algae::Protists::A::Bacteria are prokaryotes, lacking a nucleus.
+73::Rod-shaped bacteria are called::Coccus::Bacillus::Spirillum::Vibrio::B::Bacillus refers to rod-shaped bacteria.
+74::Bacteria reproduce asexually by::Mitosis::Meiosis::Binary fission::Budding::C::Binary fission splits one bacterial cell into two.
+75::The structure for bacterial locomotion is::Flagella::Pili::Capsule::Mesosome::A::Flagella enable bacterial movement.
+76::The slimy layer outside some bacteria is::Capsule::Pili::Flagella::Mesosome::A::The capsule protects bacteria and aids adhesion.
+77::A Gram-positive bacterium is::E. coli::Staphylococcus aureus::Salmonella typhi::Pseudomonas aeruginosa::B::Staphylococcus aureus has a thick peptidoglycan layer.
+78::Nitrogen fixation is performed by::Cyanobacteria::E. coli::Staphylococcus::Clostridium::A::Cyanobacteria convert nitrogen into ammonia.
+79::The bacterium causing tuberculosis is::Mycobacterium tuberculosis::E. coli::Streptococcus pneumoniae::Salmonella typhi::A::Mycobacterium tuberculosis causes tuberculosis.
+80::Bacteria used in yogurt production are::Lactobacillus::E. coli::Clostridium::Streptococcus::A::Lactobacillus ferments milk into yogurt.
+81::The structure for bacterial conjugation is::Flagella::Pili::Capsule::Mesosome::B::Pili facilitate genetic material transfer during conjugation.
+82::Bacteria that survive without oxygen are::Obligate aerobes::Obligate anaerobes::Facultative anaerobes::Microaerophiles::C::Facultative anaerobes can use aerobic or anaerobic metabolism.
+83::The bacterium causing cholera is::Vibrio cholerae::Mycobacterium tuberculosis::Clostridium tetani::Streptococcus pneumoniae::A::Vibrio cholerae causes cholera.
+84::The process of forming resistant bacterial structures is::Sporulation::Conjugation::Transformation::Transduction::A::Sporulation produces endospores to survive harsh conditions.
+85::A photosynthetic bacterium is::Cyanobacteria::Clostridium::E. coli::Staphylococcus::A::Cyanobacteria produce oxygen via photosynthesis.
+86::Kingdom Protista includes organisms that are::Prokaryotic::Eukaryotic::Multicellular only::Non-motile::B::Protists are eukaryotic with a true nucleus.
+87::A unicellular protist is::Amoeba::Spirogyra::Ulva::Chlamydomonas::A::Amoeba is a single-celled protist.
+88::The locomotory organ in Amoeba is::Flagella::Cilia::Pseudopodia::Pili::C::Pseudopodia are used for movement and feeding in Amoeba.
+89::The protist causing malaria is::Plasmodium::Trypanosoma::Entamoeba::Paramecium::A::Plasmodium causes malaria, transmitted by mosquitoes.
+90::The primary mode of nutrition in Euglena is::Heterotrophic::Autotrophic::Both A and B::Parasitic::C::Euglena can photosynthesize or absorb nutrients.
+91::The cell wall of diatoms is made of::Cellulose::Chitin::Silica::Peptidoglycan::C::Diatom frustules are composed of silica.
+92::Slime molds belong to::Fungus-like protists::Plant-like protists::Animal-like protists::Bacteria-like protists::A::Slime molds resemble fungi in behavior.
+93::The contractile vacuole in protists is used for::Nutrition::Locomotion::Osmoregulation::Reproduction::C::It expels excess water to maintain osmotic balance.
+94::The protist causing amoebic dysentery is::Entamoeba histolytica::Amoeba proteus::Paramecium::Euglena::A::Entamoeba histolytica infects the human intestine.
+95::The structure for locomotion in Trypanosoma is::Cilia::Flagella::Pseudopodia::Pili::B::Trypanosoma uses a flagellum for movement.
+96::Dinoflagellates are known for::Red tides::Photosynthesis::Both A and B::Parasitism::C::Dinoflagellates cause red tides and perform photosynthesis.
+97::The body of Paramecium is covered with::Flagella::Cilia::Pseudopodia::Cell wall::B::Cilia aid in locomotion and feeding in Paramecium.
+98::The ecological role of diatoms includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Diatoms produce oxygen and fix carbon via photosynthesis.
+99::The reproductive structure in slime molds is::Sporangium::Conidium::Zygospore::Ascus::A::Sporangia produce spores for reproduction.
+100::A colonial protist forming spherical structures is::Volvox::Spirogyra::Ulva::Amoeba::A::Volvox forms spherical colonies of cells.
+101::The Kingdom Plantae includes organisms that are::Prokaryotic::Eukaryotic::Unicellular::Heterotrophic::B::Plants are eukaryotic with membrane-bound organelles.
+102::The primary mode of nutrition in plants is::Autotrophic::Heterotrophic::Parasitic::Saprophytic::A::Plants produce food via photosynthesis.
+103::The plant cell wall is made of::Cellulose::Chitin::Peptidoglycan::Lipids::A::Cellulose provides structural support in plant cell walls.
+104::The group of plants lacking vascular tissues is::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::A::Bryophytes lack xylem and phloem.
+105::The dominant generation in bryophytes is::Sporophyte::Gametophyte::Zygote::Spore::B::The gametophyte is the photosynthetic stage in bryophytes.
+106::A bryophyte is::Fern::Pine::Moss::Wheat::C::Mosses are non-vascular bryophytes.
+107::The vascular tissue for water transport is::Phloem::Xylem::Parenchyma::Collenchyma::B::Xylem conducts water and minerals.
+108::The group with naked seeds is::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::C::Gymnosperms produce seeds in cones, not fruits.
+109::The reproductive structure in angiosperms is::Cone::Spore::Flower::Sporangium::C::Flowers contain male and female reproductive organs.
+110::A pteridophyte is::Moss::Fern::Pine::Rose::B::Ferns are vascular plants with fronds.
+111::The male reproductive organ in a flower is::Pistil::Stamen::Sepal::Petal::B::The stamen produces pollen.
+112::The process of alternation of generations involves::Sporophyte only::Gametophyte only::Both sporophyte and gametophyte::Zygote only::C::Plants alternate between haploid and diploid generations.
+113::A monocot plant is::Wheat::Mango::Pea::Rose::A::Wheat has one cotyledon and parallel leaf veins.
+114::The primary pigment in chloroplasts is::Hemoglobin::Chlorophyll::Melanin::Carotene::B::Chlorophyll enables photosynthesis.
+115::A dicot plant is::Corn::Rice::Pea::Bamboo::C::Pea has two cotyledons and net-like veins.
+116::The female reproductive organ in a flower is::Stamen::Pistil::Petal::Sepal::B::The pistil houses ovules for reproduction.
+117::Bryophytes depend on water for::Photosynthesis::Fertilization::Respiration::Transpiration::B::Water is needed for sperm to reach the egg.
+118::The seeds of angiosperms are enclosed in::Cones::Fruits::Sporangia::Capsules::B::Angiosperms produce fruits around seeds.
+119::The ecological role of plants includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Plants produce oxygen and fix carbon dioxide.
+120::The structure protecting the flower bud is::Petal::Sepal::Stamen::Pistil::B::Sepals protect the developing flower.
+121::Double fertilization is unique to::Bryophytes::Pteridophytes::Gymnosperms::Angiosperms::D::Angiosperms form a zygote and endosperm via double fertilization.
+122::The primary function of phloem is::Water transport::Food transport::Support::Gas exchange::B::Phloem transports sugars and nutrients.
+123::The structure in ferns producing spores is::Frond::Rhizome::Sorus::Root::C::Sori are clusters of sporangia on fern fronds.
+124::The primary source of energy for plants is::Soil::Water::Sunlight::Air::C::Sunlight powers photosynthesis.
+125::The structure for gas exchange in leaves is::Stomata::Veins::Cuticle::Epidermis::A::Stomata regulate gas exchange and water loss.
+126::Bioenergetics studies::Energy flow in living systems::Cell structure::Genetic material::Enzyme function::A::Bioenergetics focuses on energy transformations.
+127::The primary energy source for ecosystems is::Sunlight::Glucose::Oxygen::Carbon dioxide::A::Sunlight drives photosynthesis in ecosystems.
+128::Photosynthesis occurs in::Mitochondrion::Chloroplast::Nucleus::Ribosome::B::Chloroplasts contain chlorophyll for photosynthesis.
+129::The primary pigment in photosynthesis is::Chlorophyll::Carotene::Xanthophyll::Hemoglobin::A::Chlorophyll absorbs light for photosynthesis.
+130::The light-dependent reactions occur in::Stroma::Thylakoid membrane::Matrix::Cytoplasm::B::Thylakoid membranes house photosystems for light reactions.
+131::The product of light-dependent reactions is::Glucose::ATP and NADPH::Carbon dioxide::Water::B::ATP and NADPH power the Calvin cycle.
+132::The light-independent reactions are called::Krebs cycle::Calvin cycle::Glycolysis::Electron transport chain::B::The Calvin cycle fixes carbon in the stroma.
+133::The energy molecule for cellular processes is::DNA::ATP::RNA::Glucose::B::ATP is the cell’s energy currency.
+134::The first stage of cellular respiration is::Krebs cycle::Glycolysis::Electron transport chain::Calvin cycle::B::Glycolysis breaks glucose into pyruvate in the cytoplasm.
+135::The net ATP gain from glycolysis is::2::4::36::38::A::Glycolysis yields a net of 2 ATP per glucose molecule.
+136::The Krebs cycle occurs in::Cytoplasm::Mitochondrial matrix::Thylakoid membrane::Stroma::B::The Krebs cycle produces NADH and FADH2 in the matrix.
+137::The final electron acceptor in respiration is::Oxygen::Glucose::Carbon dioxide::Water::A::Oxygen accepts electrons, forming water.
+138::The total ATP yield from one glucose in respiration is::2::4::36–38::12::C::Aerobic respiration yields 36–38 ATP.
+139::The process in the absence of oxygen is::Krebs cycle::Glycolysis::Fermentation::Electron transport chain::C::Fermentation regenerates NAD+ for glycolysis.
+140::Lactic acid fermentation occurs in::Plants::Muscle cells::Yeast::All of these::B::Muscle cells produce lactic acid during oxygen shortage.
+141::The enzyme fixing carbon dioxide in the Calvin cycle is::Rubisco::Pepsin::Amylase::Lipase::A::Rubisco catalyzes carbon fixation in the Calvin cycle.
+142::The splitting of water in photosynthesis is::Photolysis::Glycolysis::Pyrolysis::Hydrolysis::A::Photolysis splits water into oxygen, protons, and electrons.
+143::The main product of photosynthesis is::Glucose::Oxygen::Carbon dioxide::Water::A::Glucose is the primary energy-storage molecule.
+144::The molecule carrying high-energy electrons in respiration is::ATP::NADH::Glucose::Oxygen::B::NADH transfers electrons to the transport chain.
+145::The process producing the most ATP in respiration is::Glycolysis::Krebs cycle::Electron transport chain::Fermentation::C::The electron transport chain generates most ATP.
+146::The molecule regenerated in fermentation is::ATP::NAD+::Glucose::Pyruvate::B::Fermentation regenerates NAD+ for glycolysis.
+147::The site of ATP synthesis in chloroplasts is::Thylakoid membrane::Stroma::Mitochondrial matrix::Cytoplasm::A::ATP synthase in thylakoids produces ATP.
+148::The molecule oxidized in glycolysis is::Glucose::Pyruvate::NADH::Oxygen::A::Glucose is oxidized to pyruvate in glycolysis.
+149::The ecological role of photosynthesis includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Photosynthesis produces oxygen and fixes carbon.
+150::The molecule entering the Krebs cycle is::Glucose::Pyruvate::Acetyl-CoA::NADH::C::Acetyl-CoA enters the Krebs cycle after pyruvate processing.
+151::Gaseous exchange involves the intake of::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::A::Oxygen is taken in for cellular respiration.
+152::The primary site of gaseous exchange in humans is::Trachea::Bronchi::Alveoli::Nasal cavity::C::Alveoli provide a large surface for gas exchange.
+153::Gaseous exchange in plants occurs through::Roots::Stomata::Bark::Flowers::B::Stomata regulate gas exchange in leaves.
+154::The respiratory surface must be::Dry::Thick::Moist::Hard::C::A moist surface aids gas diffusion.
+155::The byproduct of cellular respiration is::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide is released during respiration.
+156::The structure preventing food from entering the trachea is::Epiglottis::Larynx::Pharynx::Diaphragm::A::The epiglottis closes during swallowing.
+157::The muscle involved in breathing is::Bicep::Diaphragm::Quadricep::Deltoid::B::The diaphragm drives inhalation and exhalation.
+158::Inhalation is caused by::Contraction of diaphragm::Relaxation of diaphragm::Contraction of lungs::Relaxation of ribs::A::Diaphragm contraction increases thoracic volume.
+159::The respiratory pigment in blood is::Hemocyanin::Chlorophyll::Hemoglobin::Myoglobin::C::Hemoglobin transports oxygen in blood.
+160::The respiratory organ in insects is::Lungs::Tracheae::Gills::Skin::B::Tracheae deliver oxygen to insect tissues.
+161::The respiratory organ in fish is::Lungs::Gills::Tracheae::Skin::B::Gills extract oxygen from water.
+162::The normal breathing rate in humans at rest is::12–20 breaths/min::30–40 breaths/min::50–60 breaths/min::5–10 breaths/min::A::The resting rate is 12–20 breaths per minute.
+163::The gas regulating breathing rate is::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide levels control the respiratory center.
+164::The protective layer around lungs is::Pleura::Pericardium::Meninges::Epidermis::A::The pleura protects and lubricates the lungs.
+165::The brain part controlling breathing is::Cerebellum::Medulla oblongata::Cerebrum::Hypothalamus::B::The medulla oblongata regulates breathing.
+166::The condition caused by low oxygen in tissues is::Hypoxia::Emphysema::Asthma::Pneumonia::A::Hypoxia is insufficient oxygen supply to tissues.
+167::The disease with inflamed airways is::Tuberculosis::Emphysema::Asthma::Pneumonia::C::Asthma causes airway inflammation and constriction.
+168::The destruction of alveolar walls is associated with::Asthma::Emphysema::Tuberculosis::Bronchitis::B::Emphysema reduces surface area for gas exchange.
+169::The infection caused by Mycobacterium tuberculosis is::Asthma::Pneumonia::Tuberculosis::Emphysema::C::Tuberculosis is a bacterial lung infection.
+170::The gas binding strongly to hemoglobin is::Carbon dioxide::Nitrogen::Carbon monoxide::Hydrogen::C::Carbon monoxide binds irreversibly to hemoglobin.
+171::The air remaining in lungs after normal exhalation is::Tidal volume::Residual volume::Vital capacity::Inspiratory reserve volume::B::Residual volume keeps lungs inflated.
+172::Gaseous exchange in amphibians occurs through::Lungs only::Skin only::Gills only::Lungs and skin::D::Amphibians use lungs and moist skin.
+173::The structure in birds aiding efficient gas exchange is::Lungs::Air sacs::Gills::Tracheae::B::Air sacs allow continuous airflow in birds.
+174::The pH of blood decreases due to high::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide forms carbonic acid, lowering pH.
+175::The cartilage rings in the trachea prevent::Infection::Collapse::Expansion::Inflammation::B::Cartilage rings keep the trachea open.
+176::The maximum amount of air exhaled after maximum inhalation is::Tidal volume::Vital capacity::Residual volume::Inspiratory reserve volume::B::Vital capacity is the total air moved in maximal breathing.
+177::The respiratory organ in spiders is::Gills::Tracheae::Book lungs::Skin::C::Book lungs facilitate gas exchange in spiders.
+178::The volume of air in normal breathing is::Vital capacity::Tidal volume::Residual volume::Inspiratory reserve volume::B::Tidal volume is air moved during resting breathing.
+179::The structure warming and moistening air is::Nasal cavity::Trachea::Bronchi::Alveoli::A::The nasal cavity conditions inhaled air.
+180::The process of gaseous exchange in jellyfish is through::Gills::Skin::Lungs::Tracheae::B::Jellyfish exchange gases via their body surface.
+181::The condition caused by bacterial alveolar infection is::Asthma::Emphysema::Pneumonia::Tuberculosis::C::Pneumonia infects alveoli, often by bacteria.
+182::The percentage of oxygen in inhaled air is::21%::78%::0.04%::5%::A::Inhaled air contains about 21% oxygen.
+183::The percentage of carbon dioxide in exhaled air is::0.04%::4%::21%::78%::B::Exhaled air has about 4% carbon dioxide.
+184::The structure in plants regulating gas exchange is::Lenticel::Stoma::Root hair::Cuticle::B::Stomata control gas exchange and water loss.
+185::The protein transporting oxygen in blood is::Myoglobin::Hemoglobin::Keratin::Collagen::B::Hemoglobin binds oxygen in red blood cells.
+186::The process of breathing out is::Inhalation::Exhalation::Ventilation::Diffusion::B::Exhalation expels air from the lungs.
+187::The gas making up most of Earth’s atmosphere is::Oxygen::Carbon dioxide::Nitrogen::Helium::C::Nitrogen constitutes about 78% of the atmosphere.
+188::The structure increasing surface area in alveoli is::Bronchiole::Capillary::Pleura::Diaphragm::B::Capillaries surround alveoli for gas exchange.
+189::The condition caused by allergens narrowing airways is::Emphysema::Asthma::Pneumonia::Tuberculosis::B::Asthma is triggered by allergens, causing airway constriction.
+190::The ecological role of gaseous exchange in plants includes::Oxygen production::Carbon dioxide fixation::Both A and B::Nitrogen fixation::C::Plants release oxygen and take in carbon dioxide.
+191::The process of oxygen transport in blood is::Diffusion::Active transport::Binding to hemoglobin::Osmosis::C::Oxygen binds to hemoglobin for transport.
+192::The site of gaseous exchange in frogs during hibernation is::Lungs::Gills::Skin::Tracheae::C::Frogs use cutaneous respiration during hibernation.
+193::The respiratory control center is in::Lungs::Heart::Brain::Spinal cord::C::The medulla oblongata in the brain controls breathing.
+194::The process of gaseous exchange in hydra occurs through::Gills::Skin::Lungs::Tracheae::B::Hydra exchanges gases through its body surface.
+195::The condition caused by chronic bronchial inflammation is::Bronchitis::Asthma::Emphysema::Pneumonia::A::Bronchitis involves mucus buildup in bronchi.
+196::The process of gaseous exchange in grasshoppers involves::Lungs::Gills::Tracheae::Skin::C::Tracheae deliver oxygen to tissues in grasshoppers.
+197::The structure in alveoli facilitating gas exchange is::Capillaries::Bronchioles::Trachea::Pleura::A::Capillaries enable oxygen and carbon dioxide exchange.
+198::The process of diffusion in gaseous exchange depends on::Concentration gradient::Temperature::Both A and B::Pressure only::C::Diffusion relies on concentration gradients and temperature.
+199::The gas consumed during cellular respiration is::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::A::Oxygen is the final electron acceptor in respiration.
+200::The structure in plants for gas exchange is::Lenticel::Stoma::Root hair::Cuticle::B::Stomata regulate gas exchange in plants.

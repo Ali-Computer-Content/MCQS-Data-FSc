@@ -1,0 +1,50 @@
+1::Microsoft Access is a::Relational Database Management System::Word processor::Spreadsheet software::Presentation tool::A::Manages databases.
+2::A database is a collection of::Organized dat::aUnrelated files::Programs::Hardware::A::Structured information.
+3::The main component of a database in Access is::Table::Form::Query::Report::A::Stores raw data.
+4::A table in Access is used to::Store data in rows and columns::Display dat::aFilter dat::aPrint dat::aA::Like a spreadsheet grid.
+5::A field in a database represents::A column of dat::aA row of dat::aA complete table::A query::A::Single attribute, e.g., Name.
+6::A record in a database is::A row of dat::aA column of dat::aA table::A form::A::Complete set of fields, e.g., one person’s data.
+7::The primary key in a table::Uniquely identifies each record::Stores duplicate values::Is optional::None::A::E.g., ID number.
+8::The data type for storing text in Access is::Text::Number::Date/Time::Currency::A::Up to 255 characters.
+9::The data type for numerical values in Access is::Number::Text::Memo::Yes/No::A::For calculations.
+10::The data type for storing dates in Access is::Date/Time::Text::Number::Currency::A::E.g., 01/01/2025.
+11::A form in Access is used to::Enter and view dat::aStore dat::aFilter dat::aPrint dat::aA::User-friendly interface.
+12::A query in Access is used to::Retrieve specific dat::aStore dat::aCreate tables::Design forms::A::Filters or sorts data.
+13::A report in Access is used to::Present data in a formatted way::Enter dat::aStore dat::aEdit dat::aA::For printing or viewing.
+14::The feature that automates tasks in Access is::Wizard::Macro::Query::Form::A::Guides users, e.g., Form Wizard.
+15::The default file extension for an Access database is::.accdb::.docx::.xlsx::.pptx::A::Modern Access format.
+16::The Navigation Pane in Access displays::Database objects::Toolbars::Ribbons::None::A::E.g., tables, forms, queries.
+17::The Ribbon in Access contains::Commands and tools::Data records::Fields::None::A::Grouped in tabs like Create, Design.
+18::To create a table in Access, use::Create tab, Table::Home tab, Table::Insert tab, Table::None::A::Starts table design.
+19::The view used to design a table in Access is::Design View::Datasheet View::Form View::Report View::A::Defines fields and properties.
+20::The view used to enter data in a table is::Datasheet View::Design View::Form View::Layout View::A::Spreadsheet-like interface.
+21::A primary key cannot contain::Duplicate values::Text::Numbers::None::A::Ensures unique records.
+22::The relationship between tables in Access is established using::Primary and foreign keys::Forms::Queries::Reports::A::Links related data.
+23::The type of relationship where one record matches many is::One-to-Many::One-to-One::Many-to-Many::None::A::E.g., Customer to Orders.
+24::The feature to enforce referential integrity::Ensures valid relationships::Creates tables::Filters dat::aNone::A::Prevents orphaned records.
+25::To create a form in Access, use::Form Wizard::Table Wizard::Query Wizard::None::A::Simplifies form creation.
+26::The command to save a database object in Access is::Ctrl + S::Ctrl + C::Ctrl + V::Ctrl + X::A::Saves tables, forms, etc.
+27::The query type that retrieves data is::Select Query::Action Query::Crosstab Query::None::A::Displays filtered data.
+28::The query type that modifies data is::Action Query::Select Query::Parameter Query::None::A::E.g., Update, Delete queries.
+29::To add criteria to a query, use::Criteria row in Query Design::Form Design::Table Design::None::A::Filters query results.
+30::The feature to sort data in a query is::Sort row in Query Design::Form Wizard::Report Design::None::A::E.g., Ascending, Descending.
+31::The report is created using::Report Wizard::Table Wizard::Form Wizard::None::A::Formats data for presentation.
+32::The view to modify a report’s layout is::Layout View::Design View::Print Preview::Datasheet View::A::Adjusts report appearance.
+33::The feature to group data in a report is::Group & Sort::Filter::Criteri::aNone::A::Organizes data by categories.
+34::The data type for long text in Access is::Memo::Text::Number::Yes/No::A::Stores large text, e.g., notes.
+35::The data type for yes/no values in Access is::Yes/No::Text::Number::Date/Time::A::Boolean values.
+36::The command to open a query in Design View is::Right-click, Design View::Ctrl + D::Ctrl + Q::None::A::Context menu option.
+37::The feature to import data into Access is::External Data tab::Home tab::Create tab::None::A::E.g., from Excel, CSV.
+38::The maximum length of a Text field is::255 characters::1000 characters::50 characters::None::A::Standard limit.
+39::The AutoNumber data type::Generates unique numbers::Stores text::Stores dates::None::A::Ideal for primary keys.
+40::The Relationships window in Access is accessed via::Database Tools tab::Create tab::Home tab::None::A::Defines table links.
+41::The command to run a query is::Run (Query Tools Design tab)::Ctrl + R::Ctrl + Q::None::A::Executes query.
+42::The feature to add a calculated field in a query is::Expression Builder::Form Wizard::Report Wizard::None::A::Performs calculations.
+43::The view to see a report as it will print is::Print Preview::Design View::Layout View::Datasheet View::A::Shows final output.
+44::The feature to secure an Access database is::Encrypt with Password::Form Wizard::Query Design::None::A::Protects data.
+45::The command to close a database in Access is::File tab, Close::Ctrl + C::Ctrl + S::None::A::Closes current database.
+46::The data type for monetary values in Access is::Currency::Number::Text::Date/Time::A::Formats money, e.g., $100.00.
+47::The feature to create a lookup field in a table is::Lookup Wizard::Form Wizard::Query Wizard::None::A::Links to another table’s values.
+48::The query that prompts for input is::Parameter Query::Select Query::Action Query::Crosstab Query::A::Dynamic criteria.
+49::The feature to export a report is::External Data tab, Export::Home tab, Export::Create tab, Export::None::A::Saves as PDF, Excel, etc.
+50::The advantage of MS Access is::Easy-to-use interface::Complex programming::Hardware management::None::A::User-friendly for databases.

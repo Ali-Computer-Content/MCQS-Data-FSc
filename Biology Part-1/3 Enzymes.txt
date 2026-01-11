@@ -1,0 +1,50 @@
+1::Enzymes are primarily composed of::Carbohydrates::Proteins::Lipids::Nucleic acids::B::Enzymes are proteins that act as biological catalysts, with some exceptions like ribozymes.
+2::The molecule on which an enzyme acts is called::Substrate::Product::Cofactor::Inhibitor::A::The substrate is the specific molecule that an enzyme binds to and catalyzes.
+3::Enzymes speed up chemical reactions by::Increasing activation energy::Lowering activation energy::Breaking bonds::Adding energy::B::Enzymes lower the activation energy required for reactions, making them faster.
+4::The specific region of an enzyme where the substrate binds is called::Active site::Allosteric site::Cofactor::Prosthetic group::A::The active site is the region where the substrate fits and catalysis occurs.
+5::Which of the following is a characteristic of enzymes?::They are consumed in reactions::They are specific to substrates::They work at any temperature::They are not reusable::B::Enzymes are highly specific, acting only on particular substrates.
+6::An enzyme without its non-protein part is called::Apoenzyme::Holoenzyme::Coenzyme::Prosthetic group::A::An apoenzyme is the protein part of an enzyme without its cofactor.
+7::A non-protein molecule that assists an enzyme is called::Substrate::Cofactor::Inhibitor::Product::B::Cofactors, such as vitamins or metal ions, assist enzymes in catalysis.
+8::The complete enzyme with its cofactor is termed::Apoenzyme::Holoenzyme::Coenzyme::Substrate::B::A holoenzyme is the active form of an enzyme with its cofactor attached.
+9::Which of the following is an example of a coenzyme?::Zinc::Vitamin B::Chloride::Calcium::B::Vitamin B derivatives, like NAD+, act as coenzymes in enzymatic reactions.
+10::Enzymes are sensitive to changes in::pH::Temperature::Both pH and temperature::Substrate concentration::C::Enzymes have optimal pH and temperature ranges; deviations can denature them.
+11::The lock and key model of enzyme action was proposed by::Emil Fischer::Koshland::Louis Pasteur::Watson and Crick::A::Emil Fischer proposed the lock and key model in 1894, describing enzyme-substrate specificity.
+12::Which model suggests that the enzyme changes shape to fit the substrate?::Lock and key::Induced fit::Active site::Allosteric::B::The induced fit model, proposed by Koshland, suggests the enzyme adjusts its shape.
+13::An inhibitor that binds to the active site is called::Competitive inhibitor::Non-competitive inhibitor::Allosteric inhibitor::Coenzyme::A::Competitive inhibitors compete with the substrate for the active site.
+14::An inhibitor that binds away from the active site is::Competitive inhibitor::Non-competitive inhibitor::Cofactor::Substrate::B::Non-competitive inhibitors bind to an allosteric site, altering enzyme function.
+15::The optimum temperature for most human enzymes is::25°C::37°C::45°C::60°C::B::Human enzymes function best at body temperature, approximately 37°C.
+16::Which of the following is an example of a hydrolytic enzyme?::Amylase::Lipase::Protease::All of these::D::Amylase, lipase, and protease are hydrolytic enzymes that break down molecules using water.
+17::The substance formed after an enzymatic reaction is called::Substrate::Product::Cofactor::Inhibitor::B::The product is the molecule produced after the enzyme catalyzes the substrate.
+18::Enzymes are affected by high temperatures because::They become more active::They denature::They multiply::They dissolve::B::High temperatures can denature enzymes, disrupting their structure and function.
+19::The optimum pH for pepsin, a stomach enzyme, is::2::7::9::12::A::Pepsin works best in the acidic environment of the stomach, around pH 2.
+20::Which of the following is not a property of enzymes?::They are specific::They are reusable::They are consumed in reactions::They lower activation energy::C::Enzymes are not consumed in reactions; they remain unchanged after catalysis.
+21::The term "enzyme" was coined by::Emil Fischer::Wilhelm Kühne::Louis Pasteur::Daniel Koshland::B::Wilhelm Kühne introduced the term "enzyme" in 1878, meaning "in yeast."
+22::Which enzyme breaks down starch into maltose?::Amylase::Lipase::Protease::Lactase::A::Amylase catalyzes the hydrolysis of starch into maltose.
+23::Which of the following is a prosthetic group?::Vitamin C::Heme::Zinc::NAD+::B::Heme is a tightly bound non-protein component, acting as a prosthetic group.
+24::Enzymes increase the rate of reaction by::Providing energy::Stabilizing transition state::Breaking bonds::Adding substrates::B::Enzymes stabilize the transition state, lowering the energy barrier.
+25::Which factor does not affect enzyme activity?::Temperature::pH::Substrate concentration::Color::D::Color does not influence enzyme activity, unlike temperature, pH, or substrate concentration.
+26::The enzyme catalase breaks down::Hydrogen peroxide::Starch::Proteins::Lipids::A::Catalase converts hydrogen peroxide into water and oxygen.
+27::Which of the following is true for enzyme inhibitors?::They increase reaction rate::They are always reversible::They reduce enzyme activity::They are substrates::C::Inhibitors reduce enzyme activity by interfering with substrate binding or catalysis.
+28::The optimum pH for salivary amylase is::2::6.8::9::12::B::Salivary amylase (ptyalin) works best at a slightly acidic to neutral pH, around 6.8.
+29::Which enzyme is found in pancreatic juice?::Pepsin::Trypsin::Lactase::Maltase::B::Trypsin, a protease, is secreted in pancreatic juice to digest proteins.
+30::The term "activation energy" refers to::Energy released in a reaction::Energy required to start a reaction::Energy stored in enzymes::Energy in products::B::Activation energy is the energy needed to initiate a chemical reaction.
+31::Which of the following is an example of a ligase enzyme?::DNA polymerase::Amylase::Lipase::Protease::A::DNA polymerase is a ligase that joins nucleotides during DNA replication.
+32::Enzymes are most active at their::Minimum temperature::Optimum temperature::Maximum temperature::Room temperature::B::Enzymes have an optimum temperature where activity is maximized.
+33::Which of the following is a reversible inhibitor?::Cyanide::Penicillin::Aspirin::Zinc::C::Aspirin is a reversible inhibitor, unlike cyanide or penicillin, which are often irreversible.
+34::The enzyme urease converts urea into::Ammonia and carbon dioxide::Glucose::Amino acids::Fatty acids::A::Urease catalyzes the hydrolysis of urea into ammonia and carbon dioxide.
+35::Which of the following is a coenzyme?::NAD+::Iron::Calcium::Chloride::A::NAD+ is a coenzyme that assists in redox reactions.
+36::Enzymes are denatured by::Low substrate concentration::High pH::Moderate temperature::Optimum conditions::B::Extreme pH levels can disrupt enzyme structure, leading to denaturation.
+37::The specificity of an enzyme is due to::Its size::Its shape::Its weight::Its charge::B::The enzyme’s active site shape determines its substrate specificity.
+38::Which enzyme is involved in lactose digestion?::Lactase::Amylase::Lipase::Protease::A::Lactase breaks down lactose into glucose and galactose.
+39::The induced fit model suggests that::The active site is rigid::The substrate changes shape::The enzyme adjusts to the substrate::The cofactor binds first::C::The enzyme’s active site molds to fit the substrate in the induced fit model.
+40::Which of the following enzymes works in an acidic environment?::Pepsin::Trypsin::Amylase::Lipase::A::Pepsin functions in the acidic environment of the stomach.
+41::The role of a cofactor is to::Inhibit the enzyme::Activate the enzyme::Denature the enzyme::Replace the substrate::B::Cofactors activate enzymes by assisting in catalysis.
+42::Which enzyme is found in saliva?::Pepsin::Trypsin::Amylase::Lipase::C::Salivary amylase (ptyalin) begins starch digestion in the mouth.
+43::An allosteric site is::The substrate binding site::A secondary binding site::The product release site::The cofactor binding site::B::The allosteric site is a region other than the active site that affects enzyme activity.
+44::Which of the following is an example of an oxidoreductase enzyme?::Catalase::Amylase::Protease::Lipase::A::Catalase is an oxidoreductase, catalyzing redox reactions.
+45::Enzyme activity is measured by::Substrate weight::Reaction rate::Enzyme size::Cofactor volume::B::Enzyme activity is determined by the rate of substrate conversion to product.
+46::Which of the following can permanently denature an enzyme?::Low substrate concentration::High temperature::Moderate pH::High cofactor levels::B::High temperatures can irreversibly alter enzyme structure.
+47::The enzyme pepsin is secreted by::Salivary glands::Stomach::Pancreas::Small intestine::B::Pepsin is produced in the stomach to digest proteins.
+48::Which of the following is true for competitive inhibition?::Inhibitor binds irreversibly::Inhibitor resembles substrate::Inhibitor binds to allosteric site::Inhibitor increases enzyme activity::B::Competitive inhibitors mimic the substrate and compete for the active site.
+49::The enzyme lysozyme is found in::Tears::Blood::Stomach::Liver::A::Lysozyme is present in tears, saliva, and other secretions to break down bacterial cell walls.
+50::The main function of enzymes in living organisms is to::Store energy::Catalyze reactions::Transport oxygen::Synthesize DNA::B::Enzymes act as catalysts, speeding up biochemical reactions.

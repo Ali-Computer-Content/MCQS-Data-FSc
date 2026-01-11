@@ -1,0 +1,50 @@
+1::The process of water movement through a plant is called::Transpiration::Guttation::Diffusion::Osmosis::A::Transpiration is the loss of water vapor from plant surfaces, driving water movement.
+2::The transport system in plants is primarily through::Xylem and phloem::Veins and arteries::Lymph vessels::Nerves::A::Xylem transports water and minerals, while phloem transports organic nutrients.
+3::Which tissue in plants conducts water and minerals?::Phloem::Xylem::Parenchyma::Collenchyma::B::Xylem, composed of tracheids and vessels, conducts water and minerals upward.
+4::The loss of water in liquid form from plant leaves is called::Transpiration::Guttation::Evaporation::Condensation::B::Guttation occurs when water is exuded as droplets from leaf margins, often at night.
+5::The cohesion-tension theory explains::Phloem transport::Xylem transport::Active transport::Diffusion::B::Cohesion-tension theory describes water movement in xylem due to transpiration pull and water molecule cohesion.
+6::The main source of energy for water transport in plants is::Photosynthesis::Respiration::Transpiration::Guttation::C::Transpiration creates a pull that drives water upward through the xylem.
+7::Phloem transports::Water::Minerals::Sugars::Gases::C::Phloem transports sugars and other organic compounds, primarily via sieve tubes.
+8::The pressure flow hypothesis explains transport in::Xylem::Phloem::Both::None of these::B::The pressure flow hypothesis describes sugar movement in phloem from source to sink.
+9::The stomata in plants are primarily involved in::Water absorption::Gas exchange::Nutrient transport::Sugar synthesis::B::Stomata regulate gas exchange (CO₂ and O₂) and water vapor loss during transpiration.
+10::The guard cells control the opening and closing of::Vessels::Stomata::Sieve tubes::Lenticels::B::Guard cells, by changing turgor pressure, regulate stomatal opening and closing.
+11::The human circulatory system is::Open::Closed::Single::None of these::B::Humans have a closed circulatory system, with blood confined to vessels.
+12::The heart chamber that pumps blood to the body is::Left atrium::Right atrium::Left ventricle::Right ventricle::C::The left ventricle pumps oxygenated blood into the aorta for systemic circulation.
+13::Which blood vessel carries oxygenated blood?::Vein::Artery::Capillary::Vena cava::B::Arteries, except the pulmonary artery, carry oxygenated blood from the heart.
+14::The pacemaker of the heart is::Atrioventricular node::Sinoatrial node::Bundle of His::Purkinje fibers::B::The sinoatrial (SA) node initiates the heartbeat, acting as the heart’s pacemaker.
+15::The blood group known as the universal donor is::A::B::AB::O::D::Blood group O lacks antigens, making it safe for transfusion to any blood group.
+16::The blood group known as the universal recipient is::A::B::AB::O::C::Blood group AB can receive blood from any group due to the presence of both A and B antigens.
+17::The liquid part of blood is called::Plasma::Serum::Lymph::Hemoglobin::A::Plasma is the liquid component of blood, containing water, proteins, and solutes.
+18::The protein in red blood cells that carries oxygen is::Fibrinogen::Albumin::Hemoglobin::Globulin::C::Hemoglobin binds oxygen in red blood cells for transport to tissues.
+19::The white blood cells are primarily involved in::Oxygen transport::Blood clotting::Immunity::Nutrient transport::C::White blood cells (leukocytes) defend the body against infections and pathogens.
+20::The process of blood clotting is initiated by::Platelets::Red blood cells::White blood cells::Plasma::A::Platelets release factors that trigger the clotting cascade when a vessel is damaged.
+21::The blood vessels with the thinnest walls are::Arteries::Veins::Capillaries::Aorta::C::Capillaries have thin walls to facilitate exchange of gases, nutrients, and wastes.
+22::The lymphatic system drains excess::Blood::Plasma::Lymph::Serum::C::Lymph, interstitial fluid, is collected and returned to the bloodstream by the lymphatic system.
+23::The spleen is involved in::Digestion::Blood filtration::Gas exchange::Hormone production::B::The spleen filters blood, removing old red blood cells and pathogens.
+24::The heart valve between the left atrium and left ventricle is::Tricuspid::Bicuspid::Aortic::Pulmonary::B::The bicuspid (mitral) valve prevents backflow from the left ventricle to the left atrium.
+25::The pulmonary artery carries::Oxygenated blood::Deoxygenated blood::Mixed blood::Lymph::B::The pulmonary artery carries deoxygenated blood from the heart to the lungs.
+26::The immunity provided by vaccination is::Active artificial::Passive artificial::Active natural::Passive natural::A::Vaccination stimulates the body to produce antibodies, providing active artificial immunity.
+27::The T-lymphocytes mature in the::Bone marrow::Thymus::Spleen::Lymph nodes::B::T-lymphocytes mature in the thymus gland, becoming part of the immune system.
+28::The antibodies are produced by::Red blood cells::B-lymphocytes::T-lymphocytes::Platelets::B::B-lymphocytes produce antibodies to neutralize specific pathogens.
+29::The Rh factor is related to::Blood type::Blood pressure::Blood clotting::Immunity::A::The Rh factor determines whether blood is Rh-positive or Rh-negative, affecting transfusions.
+30::The condition caused by reduced red blood cells is::Leukemia::Anemia::Thrombosis::Hemophilia::B::Anemia results from low red blood cell count or hemoglobin, reducing oxygen transport.
+31::The heart rate in a healthy adult at rest is approximately::60–100 beats/min::100–120 beats/min::40–60 beats/min::120–140 beats/min::A::A normal resting heart rate for adults is 60–100 beats per minute.
+32::The blood pressure is highest in::Veins::Capillaries::Arteries::Lymph vessels::C::Arteries have the highest blood pressure due to the force of heart pumping.
+33::The coronary arteries supply blood to::Lungs::Brain::Heart::Kidneys::C::Coronary arteries provide oxygenated blood to the heart muscle.
+34::The condition caused by a blocked blood vessel is::Aneurysm::Embolism::Hemorrhage::Varicose veins::B::An embolism occurs when a blood vessel is blocked by a clot or other material.
+35::The lymphatic system is involved in::Gas exchange::Immunity::Digestion::Excretion::B::The lymphatic system supports immunity by transporting lymph and immune cells.
+36::The xylem vessels are::Living::Dead::Flexible::Elastic::B::Xylem vessels are dead at maturity, providing structural support and water transport.
+37::The phloem sieve tubes are::Dead::Living::Non-nucleated::Non-conductive::B::Sieve tubes in phloem are living cells that transport sugars, aided by companion cells.
+38::The transport of water in plants occurs mainly through::Phloem::Xylem::Cortex::Epidermis::B::Xylem conducts water and minerals from roots to leaves via transpiration pull.
+39::The main function of red blood cells is::Immunity::Clotting::Oxygen transport::Nutrient transport::C::Red blood cells carry oxygen from lungs to tissues via hemoglobin.
+40::The cardiac cycle includes::Systole only::Diastole only::Systole and diastole::None of these::C::The cardiac cycle consists of systole (contraction) and diastole (relaxation).
+41::The plant transport system lacks::A pump::Vessels::Tubes::Cells::A::Unlike animals, plants lack a pump (heart) but have xylem and phloem for transport.
+42::The movement of sugars in phloem is driven by::Transpiration::Diffusion::Active transport::Capillary action::C::Active transport loads sugars into phloem, creating a pressure gradient for flow.
+43::The blood component that fights infection is::Plasma::Platelets::White blood cells::Red blood cells::C::White blood cells, like neutrophils and lymphocytes, combat pathogens.
+44::The condition caused by excessive bleeding due to clotting factor deficiency is::Anemia::Hemophilia::B::C::Leukemia::D::Thrombosis::B::Hemophilia::Hemophilia is a genetic disorder impairing blood clotting, leading to excessive bleeding.
+45::The pulse is felt due to::Vein expansion::Artery expansion::Capillary flow::Lymph flow::B::The pulse reflects arterial expansion caused by blood pressure from heartbeats.
+46::The immunity acquired after recovering from a disease is::Active natural::Passive natural::Active artificial::Passive artificial::A::Active natural immunity develops when the body produces antibodies after infection.
+47::The lymphatic nodes are sites of::Blood clotting::Immune response::Oxygen transport::Nutrient absorption::B::Lymph nodes filter lymph and are sites for immune cell activation.
+48::The main vein returning blood to the body:: heart:: is::Pulmonary vein::A::Vena cava::B::C::Aorta::C::D::Pulmonary artery::artery::B::The vena cavae (superior and inferior) return deoxygenated blood to the right atrium.
+49::The transpiration in plants is influenced by::Temperature::Humidity::Wind::All of these::D::Temperature, humidity, and wind affect transpiration rate by altering water vapor gradient.
+50::The blood cells involved in allergic reactions are::Neutrophils::Basophils::Lymphocytes::Monocytes::B::Basophils release histamine, mediating allergic responses and inflammation.

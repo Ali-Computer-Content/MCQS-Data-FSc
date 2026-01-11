@@ -1,0 +1,50 @@
+1::Bioenergetics is the study of::Energy flow in living systems::Cell structure::Genetic material::Enzyme function::A::Bioenergetics focuses on energy transformations in living organisms.
+2::The primary source of energy for Earth’s ecosystem is::Sunlight::Glucose::Oxygen::Carbon dioxide::A::Sunlight drives photosynthesis, providing energy for most ecosystems.
+3::The process by which plants convert light energy into chemical energy is::Respiration::Photosynthesis::Fermentation::Transpiration::B::Photosynthesis produces glucose using light energy, water, and carbon dioxide.
+4::The organelle where photosynthesis occurs is::Mitochondrion::Chloroplast::Nucleus::Ribosome::B::Chloroplasts contain chlorophyll, the pigment that captures light for photosynthesis.
+5::The primary pigment involved in photosynthesis is::Chlorophyll::Carotene::Xanthophyll::Hemoglobin::A::Chlorophyll absorbs light, primarily in blue and red wavelengths, for photosynthesis.
+6::Photosynthesis occurs in two main stages: ::Light-dependent and light-independent reactions::Krebs cycle and glycolysis::Electron transport chain and Calvin cycle::Oxidation and reduction::A::Light-dependent reactions produce ATP and NADPH; light-independent reactions fix carbon.
+7::The light-dependent reactions of photosynthesis occur in::Stroma::Thylakoid membrane::Matrix::Cytoplasm::B::Thylakoid membranes house photosystems that capture light energy.
+8::The product of the light-dependent reactions is::Glucose::ATP and NADPH::Carbon dioxide::Water::B::ATP and NADPH are produced to power the Calvin cycle.
+9::The light-independent reactions are also called::Krebs cycle::Calvin cycle::Glycolysis::Electron transport chain::B::The Calvin cycle fixes carbon dioxide into glucose in the stroma.
+10::The molecule that provides energy for cellular processes is::DNA::ATP::RNA::Glucose::B::ATP (adenosine triphosphate) is the cell’s energy currency.
+11::The process of breaking down glucose to release energy is::Photosynthesis::Respiration::Fermentation::Transpiration::B::Cellular respiration converts glucose into ATP, carbon dioxide, and water.
+12::The organelle where cellular respiration occurs is::Chloroplast::Mitochondrion::Nucleus::Golgi apparatus::B::Mitochondria are the sites of aerobic respiration, producing ATP.
+13::The first stage of cellular respiration is::Krebs cycle::Glycolysis::Electron transport chain::Calvin cycle::B::Glycolysis occurs in the cytoplasm, breaking glucose into pyruvate.
+14::Glycolysis occurs in the::Mitochondrial matrix::Cytoplasm::Thylakoid membrane::Stroma::B::Glycolysis is a cytoplasmic process that does not require organelles.
+15::The net gain of ATP molecules from glycolysis is::2::4::36::38::A::Glycolysis produces 4 ATP but uses 2, yielding a net gain of 2 ATP.
+16::The Krebs cycle occurs in the::Cytoplasm::Mitochondrial matrix::Thylakoid membrane::Stroma::B::The Krebs cycle takes place in the mitochondrial matrix, producing NADH and FADH2.
+17::The electron transport chain in respiration is located in::Cytoplasm::Mitochondrial inner membrane::Stroma::Thylakoid membrane::B::The inner mitochondrial membrane houses the electron transport chain for ATP production.
+18::The final electron acceptor in the electron transport chain is::Oxygen::Glucose::Carbon dioxide::Water::A::Oxygen accepts electrons, forming water in aerobic respiration.
+19::The total ATP yield from one glucose molecule in aerobic respiration is::2::4::36–38::12::C::Aerobic respiration yields 36–38 ATP, depending on shuttle mechanisms.
+20::The process that occurs in the absence of oxygen is::Krebs cycle::Glycolysis::Fermentation::Electron transport chain::C::Fermentation regenerates NAD+ for glycolysis when oxygen is unavailable.
+21::Lactic acid fermentation occurs in::Plants::Muscle cells::Yeast::All of these::B::Lactic acid fermentation occurs in muscle cells during oxygen shortage.
+22::Alcoholic fermentation is performed by::Yeast::Muscle cells::Bacteria::Plants::A::Yeast produces ethanol and carbon dioxide in alcoholic fermentation.
+23::The molecule that enters the Krebs cycle is::Glucose::Pyruvate::Acetyl-CoA::NADH::C::Acetyl-CoA, formed from pyruvate, enters the Krebs cycle.
+24::The gas released during photosynthesis is::Carbon dioxide::Oxygen::Nitrogen::Hydrogen::B::Oxygen is produced when water is split in the light-dependent reactions.
+25::The gas consumed during cellular respiration is::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::A::Oxygen is used as the final electron acceptor in respiration.
+26::The Calvin cycle requires::ATP and NADPH::Glucose and oxygen::Carbon dioxide and water::Pyruvate and NADH::A::ATP and NADPH from light reactions power the Calvin cycle to fix carbon.
+27::The photosystem that absorbs light at 680 nm is::Photosystem I::Photosystem II::Chlorophyll b::Carotene::B::Photosystem II (P680) initiates the light-dependent reactions.
+28::The photosystem that absorbs light at 700 nm is::Photosystem I::Photosystem II::Chlorophyll a::Xanthophyll::A::Photosystem I (P700) produces NADPH in the light reactions.
+29::The enzyme that fixes carbon dioxide in the Calvin cycle is::Rubisco::Pepsin::Amylase::Lipase::A::Rubisco catalyzes the fixation of carbon dioxide into a 3-carbon compound.
+30::The splitting of water molecules in photosynthesis is called::Photolysis::Glycolysis::Pyrolysis::Hydrolysis::A::Photolysis splits water into oxygen, protons, and electrons in the light reactions.
+31::The main product of photosynthesis is::Glucose::Oxygen::Carbon dioxide::Water::A::Glucose is the primary energy-storage molecule produced in photosynthesis.
+32::The molecule that carries high-energy electrons in respiration is::ATP::NADH::Glucose::Oxygen::B::NADH transfers high-energy electrons to the electron transport chain.
+33::The process that produces the most ATP in respiration is::Glycolysis::Krebs cycle::Electron transport chain::Fermentation::C::The electron transport chain generates the majority of ATP via oxidative phosphorylation.
+34::The byproduct of alcoholic fermentation is::Lactic acid::Ethanol::Acetic acid::Pyruvate::B::Yeast produces ethanol and carbon dioxide during alcoholic fermentation.
+35::The molecule that stores energy in plants is::Starch::Glycogen::Cellulose::Chitin::A::Starch is the primary storage polysaccharide in plants.
+36::The stage of respiration that produces FADH2 is::Glycolysis::Krebs cycle::Electron transport chain::Fermentation::B::The Krebs cycle generates FADH2, which donates electrons to the transport chain.
+37::The pigment that gives plants their green color is::Carotene::Xanthophyll::Chlorophyll::Anthocyanin::C::Chlorophyll reflects green light, giving plants their characteristic color.
+38::The process of chemiosmosis in respiration involves::Proton movement::Glucose breakdown::Oxygen production::Carbon fixation::A::Chemiosmosis uses a proton gradient to drive ATP synthesis in mitochondria.
+39::The light reactions of photosynthesis produce::Glucose::ATP and NADPH::Carbon dioxide::Pyruvate::B::ATP and NADPH are generated for use in the Calvin cycle.
+40::The molecule that is oxidized during glycolysis is::Glucose::Pyruvate::NADH::Oxygen::A::Glucose is oxidized to pyruvate, producing NADH in glycolysis.
+41::The role of oxygen in cellular respiration is to::Provide energy::Act as a catalyst::Accept electrons::Donate protons::C::Oxygen accepts electrons in the electron transport chain, forming water.
+42::The stroma of the chloroplast is the site of::Light-dependent reactions::Calvin cycle::Electron transport chain::Glycolysis::B::The Calvin cycle occurs in the stroma, where carbon is fixed into glucose.
+43::The molecule that is reduced in the Calvin cycle is::Carbon dioxide::Glucose::Oxygen::Water::A::Carbon dioxide is reduced to glucose using NADPH in the Calvin cycle.
+44::The energy for ATP synthesis in mitochondria comes from::Glucose::Proton gradient::Oxygen::Pyruvate::B::A proton gradient across the mitochondrial membrane drives ATP synthase.
+45::The process that does not require oxygen is::Krebs cycle::Electron transport chain::Glycolysis::Calvin cycle::C::Glycolysis occurs in the cytoplasm and does not require oxygen.
+46::The pigment that absorbs red and blue light is::Carotene::Xanthophyll::Chlorophyll::Phycobilin::C::Chlorophyll absorbs red and blue light, reflecting green.
+47::The molecule that is regenerated in fermentation is::ATP::NAD+::Glucose::Pyruvate::B::Fermentation regenerates NAD+ to sustain glycolysis in anaerobic conditions.
+48::The site of ATP synthesis in chloroplasts is::Thylakoid membrane::Stroma::Mitochondrial matrix::Cytoplasm::A::ATP synthase in the thylakoid membrane produces ATP during photosynthesis.
+49::The process that links glycolysis to the Krebs cycle is::Photolysis::Oxidative decarboxylation::Fermentation::Chemiosmosis::B::Pyruvate is converted to acetyl-CoA via oxidative decarboxylation.
+50::The ecological role of photosynthesis includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Photosynthesis produces oxygen and fixes carbon dioxide into organic compounds.

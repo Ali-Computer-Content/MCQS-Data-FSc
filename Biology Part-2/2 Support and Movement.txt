@@ -1,0 +1,50 @@
+1::The primary function of the skeletal system is::Digestion::Support and movement::Respiration::Excretion::B::The skeletal system provides structural support and enables movement via joints and muscles.
+2::The human skeleton is divided into how many bones?::206::208::200::210::A::The adult human skeleton consists of 206 bones, including axial and appendicular components.
+3::Which type of skeleton is found in earthworms?::Exoskeleton::Endoskeleton::Hydrostatic skeleton::None of these::C::Earthworms use a fluid-filled coelom as a hydrostatic skeleton for movement.
+4::The hard outer covering of arthropods is called::Endoskeleton::Exoskeleton::Cartilage::Bone::B::The exoskeleton, made of chitin, provides support and protection in arthropods like insects.
+5::Which tissue connects bone to bone?::Tendon::Ligament::Cartilage::Muscle::B::Ligaments are connective tissues that join bones at joints, providing stability.
+6::The tissue that connects muscle to bone is::Ligament::Tendon::Cartilage::Fascia::B::Tendons are tough connective tissues that attach muscles to bones, enabling movement.
+7::Which type of cartilage is found in the ear?::Hyaline::Elastic::Fibrocartilage::Calcified::B::Elastic cartilage, flexible and resilient, is found in the ear and epiglottis.
+8::The most abundant cartilage in the human body is::Elastic::Fibrocartilage::Hyaline::Calcified::C::Hyaline cartilage, smooth and glassy, covers joint surfaces and forms the nose and trachea.
+9::The process of bone formation is called::Ossification::Calcification::Chondrification::Resorption::A::Ossification is the process by which bone tissue forms from cartilage or membrane.
+10::The bone cells responsible for bone formation are::Osteocytes::Osteoblasts::Osteoclasts::Chondrocytes::B::Osteoblasts synthesize bone matrix, contributing to bone growth and repair.
+11::The bone cells that break down bone tissue are::Osteoblasts::Osteocytes::Osteoclasts::Chondrocytes::C::Osteoclasts resorb bone tissue, aiding in remodeling and calcium release.
+12::The central cavity of long bones contains::Red marrow::Yellow marrow::Cartilage::Ligaments::B::Yellow marrow, primarily fat, fills the medullary cavity of long bones in adults.
+13::Which bone is part of the axial skeleton?::Femur::Skull::Humerus::Pelvis::B::The skull is part of the axial skeleton, which includes the skull, vertebral column, and rib cage.
+14::The appendicular skeleton includes::Skull::Ribs::Pelvic girdle::Vertebrae::C::The appendicular skeleton comprises the limbs and girdles (pectoral and pelvic).
+15::The joint between skull bones is called::Synovial::Fibrous::Cartilaginous::Saddle::B::Fibrous joints, like sutures in the skull, are immovable and joined by connective tissue.
+16::The freely movable joints are called::Fibrous::Cartilaginous::Synovial::Suture::C::Synovial joints, like the knee, allow free movement and contain synovial fluid.
+17::The hinge joint allows movement in::One plane::Two planes::All directions::No direction::A::Hinge joints, like the elbow, permit movement in one plane (flexion and extension).
+18::The ball-and-socket joint is found in::Knee::Hip::Elbow::Wrist::B::The hip joint, a ball-and-socket joint, allows movement in multiple directions.
+19::The lubricant in synovial joints is::Mucus::Synovial fluid::Blood::Lymph::B::Synovial fluid reduces friction and nourishes cartilage in synovial joints.
+20::The number of vertebrae in the human vertebral column is::33::26::30::28::A::The human vertebral column has 33 vertebrae, some of which fuse in adults.
+21::Which type of muscle is voluntary?::Smooth::Cardiac::Skeletal::Visceral::C::Skeletal muscles are under voluntary control, enabling conscious movement.
+22::Which muscle type is found in the heart?::Smooth::Skeletal::Cardiac::Visceral::C::Cardiac muscle, striated and involuntary, is exclusive to the heart.
+23::The muscle type found in the digestive tract is::Skeletal::Cardiac::Smooth::Striated::C::Smooth muscle, involuntary and non-striated, lines organs like the intestine.
+24::The functional unit of skeletal muscle is::Myofibril::Sarcomere::Actin::Myosin::B::The sarcomere, a segment of myofibril, is the contractile unit of skeletal muscle.
+25::The protein responsible for muscle contraction is::Collagen::Actin::Keratin::Elastin::B::Actin, along with myosin, forms the contractile filaments in muscle fibers.
+26::The sliding filament theory explains::Bone growth::Muscle contraction::Cartilage formation::Joint movement::B::The sliding filament theory describes how actin and myosin filaments slide past each other during muscle contraction.
+27::The energy for muscle contraction is provided by::ATP::Glucose::Oxygen::Glycogen::A::ATP provides the energy for actin-myosin interactions during muscle contraction.
+28::The neurotransmitter at the neuromuscular junction is::Dopamine::Serotonin::Acetylcholine::Adrenaline::C::Acetylcholine triggers muscle contraction by binding to receptors on muscle fibers.
+29::The condition caused by sustained muscle contraction is::Tetanus::Cramp::Fatigue::Sprain::A::Tetanus is a sustained muscle contraction due to rapid nerve impulses.
+30::The muscle fatigue is caused by accumulation of::Glucose::Lactic acid::ATP::Oxygen::B::Lactic acid buildup during anaerobic respiration causes muscle fatigue.
+31::The immovable joints are called::Synovial::Fibrous::Cartilaginous::Hinge::B::Fibrous joints, like sutures, are immovable and found in the skull.
+32::The number of ribs in humans is::10 pairs::12 pairs::14 pairs::8 pairs::B::Humans have 12 pairs of ribs, forming the thoracic cage.
+33::The bone of the upper arm is::Radius::Ulna::Humerus::Femur::C::The humerus is the single bone of the upper arm, part of the appendicular skeleton.
+34::The knee joint is an example of::Ball-and-socket::Hinge::Pivot::Gliding::B::The knee is a hinge joint, allowing flexion and extension in one plane.
+35::The condition caused by inflammation of joints is::Osteoporosis::Arthritis::Rickets::Scurvy::B::Arthritis involves joint inflammation, causing pain and reduced mobility.
+36::The disease caused by calcium deficiency in bones is::Arthritis::Osteoporosis::Rickets::Gout::B::Osteoporosis results from reduced bone density, often due to calcium deficiency.
+37::The bone deformity in children due to vitamin D deficiency is::Osteoporosis::Arthritis::Rickets::Gout::C::Rickets causes soft, deformed bones in children due to vitamin D deficiency.
+38::The muscle responsible for bending a joint is called::Extensor::Flexor::Abductor::Adductor::B::Flexors, like the biceps, bend joints by contracting.
+39::The muscle responsible for straightening a joint is::Flexor::Extensor::Abductor::Adductor::B::Extensors, like the triceps, straighten joints by contracting.
+40::The locomotion in jellyfish is achieved by::Jet propulsion::Cilia::Flagella::Tentacles::A::Jellyfish move by jet propulsion, expelling water from their bell-shaped body.
+41::The locomotion in earthworms is aided by::Setae::Flagella::Cilia::Wings::A::Setae, bristle-like structures, anchor earthworms during peristaltic movement.
+42::The endoskeleton in vertebrates is made of::Chitin::Bone and cartilage::Cellulose::Keratin::B::Vertebrates have an endoskeleton of bone and cartilage for support and movement.
+43::The joint between the atlas and axis vertebrae is::Hinge::Pivot::Gliding::Saddle::B::The pivot joint between atlas and axis allows rotational movement of the head.
+44::The pectoral girdle connects the::Arms to the axial skeleton::Legs to the axial skeleton::Ribs to the sternum::Skull to the spine::A::The pectoral girdle (clavicle and scapula) connects the arms to the axial skeleton.
+45::The pelvic girdle supports the::Arms::Legs::Ribs::Skull::B::The pelvic girdle (hip bones) supports the legs and protects pelvic organs.
+46::The movement of plants in response to touch is called::Phototropism::Geotropism::Thigmotropism::Hydrotropism::C::Thigmotropism is the movement or growth of plants in response to touch.
+47::The sarcomere shortens during::Muscle relaxation::Muscle contraction::Bone growth::Joint movement::B::During muscle contraction, sarcomeres shorten as actin and myosin filaments slide.
+48::The number of cervical vertebrae in humans is::5::7::12::33::B::Humans have 7 cervical vertebrae in the neck region.
+49::The bone marrow responsible for blood cell production is::Yellow marrow::Red marrow::White marrow::Gray marrow::B::Red marrow, found in flat bones, produces red and white blood cells.
+50::The antagonistic muscles work in::Same direction::Opposite direction::Parallel direction::No direction::B::Antagonistic muscles, like biceps and triceps, work in opposition to produce movement.

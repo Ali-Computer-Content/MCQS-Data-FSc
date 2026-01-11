@@ -1,0 +1,50 @@
+1::File handling in C allows::Reading and writing data to files::Executing programs::Creating variables::None::A::Persistent data storage.
+2::The header file for file handling in C is::stdio.h::stdlib.h::conio.h::math.h::A::Contains file functions like fopen().
+3::The function to open a file in C is::fopen()::fclose()::fscanf()::fputs()::A::Opens file with specified mode.
+4::The function to close a file in C is::fclose()::fopen()::fwrite()::fread()::A::Closes an open file.
+5::The file pointer in C is of type::FILE*::int*::char*::float*::A::Defined in stdio.h.
+6::The first argument of fopen() is::File name::File mode::File pointer::None::A::E.g., "data.txt".
+7::The second argument of fopen() specifies::File mode::File name::File pointer::None::A::E.g., "r", "w".
+8::The file mode "r" is used for::Reading::Writing::Appending::None::A::Opens file for reading.
+9::The file mode "w" is used for::Writing::Reading::Appending::None::A::Creates or overwrites file.
+10::The file mode "a" is used for::Appending::Reading::Writing::None::A::Adds data to end of file.
+11::The file mode to read and write a file is::r+::w+::a+::All::D::All allow reading and writing.
+12::If fopen() fails, it returns::NULL::0::1::-1::A::Indicates file opening error.
+13::The function to write a string to a file is::fputs()::fgets()::fprintf()::fscanf()::A::Writes string without newline.
+14::The function to read a string from a file is::fgets()::fputs()::fscanf()::fread()::A::Reads a line from file.
+15::The function to write formatted data to a file is::fprintf()::fscanf()::fputs()::fgets()::A::Similar to printf().
+16::The function to read formatted data from a file is::fscanf()::fprintf()::fgets()::fputs()::A::Similar to scanf().
+17::The function to check end of file is::feof()::ferror()::fclose()::fopen()::A::Returns true at EOF.
+18::The function to check file operation errors is::ferror()::feof()::fclose()::fopen()::A::Detects errors during file operations.
+19::The mode "w+" allows::Reading and writing::Reading only::Appending::None::A::Creates file if it doesn’t exist.
+20::The mode "a+" allows::Appending and reading::Writing only::Reading only::None::A::Adds data, allows reading.
+21::The function to write a block of data to a file is::fwrite()::fread()::fputs()::fprintf()::A::Binary data writing.
+22::The function to read a block of data from a file is::fread()::fwrite()::fgets()::fscanf()::A::Binary data reading.
+23::The file mode for binary reading is::rb::r::wb::ab::A::Binary mode for reading.
+24::The file mode for binary writing is::wb::rb::ab::r::A::Creates or overwrites in binary.
+25::The function to move file pointer to a specific position is::fseek()::ftell()::rewind()::fclose()::A::Sets file position.
+26::The function to get current file pointer position is::ftell()::fseek()::rewind()::fclose()::A::Returns byte offset.
+27::The function to move file pointer to the beginning is::rewind()::fseek()::ftell()::fclose()::A::Sets pointer to start.
+28::The file extension for a text file in C is::.txt::.bin::.dat::Any::D::No strict requirement.
+29::The file mode to append in binary is::ab::wb::rb::r::A::Adds data in binary mode.
+30::The return type of fclose() is::int::void::FILE*::char*::A::Returns 0 on success.
+31::The maximum number of files open simultaneously depends on::System limits::Programmer::Compiler::None::A::Defined by FOPEN_MAX.
+32::The output of:: FILE *fp = fopen("test.txt", "r"); if (fp == NULL) printf("Error"); is::Error::Nothing::File opened::None::A::If file doesn’t exist, fp is NULL.
+33::The function fputs() automatically adds::Nothing::Newline::Tab::Null character::A::Unlike puts().
+34::The function fgets() reads::One line::Entire file::One character::None::A::Stops at newline or buffer size.
+35::The first argument of fscanf() is::File pointer::Format string::Variable address::None::A::E.g., fp in fscanf(fp, "%d", &x).
+36::The first argument of fprintf() is::File pointer::Format string::Variable::None::A::E.g., fp in fprintf(fp, "%d", x).
+37::The file mode "r+" requires::File to exist::File to be created::File to be empty::None::A::Fails if file doesn’t exist.
+38::The function to read a single character from a file is::fgetc()::fputc()::fgets()::fputs()::A::Reads one character.
+39::The function to write a single character to a file is::fputc()::fgetc()::fputs()::fgets()::A::Writes one character.
+40::The return value of fgetc() on end of file is::EOF::NULL::0::1::A::End-of-file indicator.
+41::The parameter of fwrite() that specifies data size is::size_t size::FILE* stream::void* ptr::size_t nmemb::A::Size of each element.
+42::The parameter of fread() that specifies number of elements is::size_t nmemb::size_t size::FILE* stream::void* ptr::A::Number of items to read.
+43::The file mode "wb" will::Overwrite existing file::Append to file::Read file::None::A::Creates or clears file.
+44::The output of:: FILE *fp = fopen("data.txt", "w"); fprintf(fp, "Hello"); fclose(fp); is::Writes "Hello" to data.txt::Nothing::Error::None::A::Creates/overwrites file.
+45::The function to flush file buffer is::fflush()::fclose()::fseek()::ftell()::A::Forces data to be written.
+46::The mode to read and append a file is::a+::r+::w+::rb::A::Positions pointer at end for appending.
+47::The return type of ftell() is::long::int::void::FILE*::A::Returns file position in bytes.
+48::The function fseek() uses which constant for start of file::SEEK_SET::SEEK_CUR::SEEK_END::All::A::Sets position from beginning.
+49::The output of:: FILE *fp = fopen("test.txt", "a"); fputs("Test", fp); fclose(fp); is::Appends "Test" to test.txt::Overwrites file::Nothing::Error::A::Adds to end of file.
+50::The purpose of file handling in C is::Store data permanently::Execute code::Debug programs::None::A::Saves data to disk.

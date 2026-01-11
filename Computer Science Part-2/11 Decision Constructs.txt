@@ -1,0 +1,50 @@
+1::Decision constructs in C are used to::Control program flow::Store dat::aPerform calculations::None::A::Based on conditions.
+2::The simplest decision-making statement in C is::if::switch::else::goto::A::Executes block if condition is true.
+3::The syntax of an if statement is::if (condition) {statements}::if {condition} statements::if condition {statements}::None::A::Parentheses required for condition.
+4::The else clause in C is::Optional::Mandatory::Not allowed::None::A::Executes if if-condition is false.
+5::The else statement must follow::An if statement::A switch statement::A loop::None::A::Paired with if.
+6::The output of:: if (5 > 3) printf("True"); is::True::Nothing::Error::False::A::Condition 5 > 3 is true.
+7::The relational operator for equality in C is::==::=::!=::<>::A::Compares two values.
+8::The relational operator for not equal is::!=::==::> ::< ::A::Returns true if values differ.
+9::The logical AND operator in C is::&&::||::!::&::A::True if both operands are true.
+10::The logical OR operator in C is::||::&&::!::|::A::True if any operand is true.
+11::The logical NOT operator in C is::!::&&::||::^::A::Inverts truth value.
+12::The output of:: if (4 > 5 && 3 < 2) printf("Yes"); is::Nothing::Yes::Error::No::A::Both conditions false, block skipped.
+13::The else-if ladder is used to::Check multiple conditions::Repeat code::Switch cases::None::A::Sequential condition checks.
+14::The syntax for else-if is::if (cond1) { } else if (cond2) { }::if (cond1) { } else (cond2) { }::if (cond1) else if (cond2)::None::A::Correct structure.
+15::The output of:: if (10 < 5) printf("A"); else printf("B"); is::B::A::Nothing::Error::A::10 < 5 is false, else executes.
+16::The switch statement in C evaluates::One expression::Multiple expressions::No expression::None::A::Compared against case values.
+17::The switch statement uses which data type::Integral::Float::String::None::A::E.g., int, char.
+18::The case label in a switch must be::Constant::Variable::Expression::None::A::Compile-time constant.
+19::The break statement in switch::Exits the switch::Skips to next case::Restarts switch::None::A::Prevents fall-through.
+20::The default case in switch is::Optional::Mandatory::Not allowed::None::A::Executes if no case matches.
+21::The output of:: switch (2) { case 1:: printf("One"); break; case 2:: printf("Two"); break; } is::Two::One::Nothing::Error::A::Matches case 2.
+22::The output of:: switch (3) { case 1:: printf("One"); case 2:: printf("Two"); default:: printf("None"); } is::None::OneTwoNone::TwoNone::Error::C::Fall-through without break.
+23::The purpose of nested if statements is::Multiple condition checks::Loop repetition::Function calls::None::A::If inside if.
+24::The output of:: if (5 > 3) { if (4 < 6) printf("Yes"); } is::Yes::Nothing::Error::No::A::Both conditions true.
+25::The operator precedence is highest for::!::&&::||::==::A::NOT evaluated first.
+26::The output of:: if (!(5 == 5)) printf("False"); else printf("True"); is::True::False::Nothing::Error::A::!(true) is false, else executes.
+27::The ternary operator in C is::?:: ::&&::||::!::A::condition ? expr1 :: expr2.
+28::The output of:: printf("%d", 5 > 3 ? 1 :: 0); is::1::0::True::False::A::5 > 3 is true, returns 1.
+29::The relational operator for greater than or equal is::>= ::> ::<= ::< ::A::Compares two values.
+30::The output of:: if (10 >= 10) printf("Yes"); else printf("No"); is::Yes::No::Nothing::Error::A::10 >= 10 is true.
+31::The switch statement is more efficient than::Multiple if-else::Single if::Loops::None::A::For multiple constant comparisons.
+32::The output of:: if (3 < 2 || 4 > 1) printf("True"); is::True::Nothing::False::Error::A::4 > 1 is true, OR returns true.
+33::The continue statement in an if block is::Invalid::Valid::Skips to next iteration::None::A::Only used in loops.
+34::The output of:: if (5 != 5) printf("Different"); else printf("Same"); is::Same::Different::Nothing::Error::A::5 == 5, else executes.
+35::The purpose of break in switch is::Prevent fall-through::Exit program::Skip case::None::A::Stops further case execution.
+36::The output of:: switch ('A') { case 'A':: printf("Letter A"); break; } is::Letter A::Nothing::Error::A::A::Matches ASCII 'A'.
+37::The logical operator with lowest precedence is::||::&&::!::==::A::OR evaluated last.
+38::The output of:: if (0) printf("True"); else printf("False"); is::False::True::Nothing::Error::A::0 is false in C.
+39::The else clause associates with::Nearest unmatched if::First if::Last if::None::A::Avoids dangling else issue.
+40::The output of:: if (3 > 2 && 4 < 5 && 6 > 7) printf("All True"); is::Nothing::All True::Error::False::A::6 > 7 is false.
+41::The switch statement requires::Curly braces::Parentheses::Square brackets::None::A::Encloses cases.
+42::The output of:: if (10 < 20) { printf("A"); } else { printf("B"); } is::A::B::Nothing::Error::A::10 < 20 is true.
+43::The relational operator <= means::Less than or equal::Less than::Greater than::Not equal::A::Compares two values.
+44::The output of:: switch (0) { case 0:: printf("Zero"); break; default:: printf("Other"); } is::Zero::Other::Nothing::Error::A::Matches case 0.
+45::The purpose of decision constructs is::Execute code conditionally::Repeat code::Store dat::aNone::A::Based on true/false conditions.
+46::The output of:: if (5 > 3 || 2 > 3) printf("At least one"); is::At least one::Nothing::Error::False::A::5 > 3 is true.
+47::The nested if statement allows::Multiple levels of conditions::Single condition::No conditions::None::A::Complex decision logic.
+48::The output of:: if (1 && 0 || 1) printf("True"); is::True::Nothing::False::Error::A::(1 && 0) || 1 = 0 || 1 = true.
+49::The switch statement cannot use::浮点数::Integers::Characters::Enumerations::A::Only integral types allowed.
+50::The output of:: if (x = 5) printf("Assigned"); else printf("Not"); is::Assigned::Not::Error::Nothing::A::Assignment x = 5 is true.

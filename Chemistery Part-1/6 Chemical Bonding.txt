@@ -1,0 +1,50 @@
+1::Which type of bond is formed by the sharing of electrons between atoms?::Ionic bond::Covalent bond::Metallic bond::Coordinate bond::B::Covalent bonds involve the sharing of electron pairs between atoms to achieve a stable electron configuration.
+2::The bond formed by the complete transfer of electrons is called::Covalent bond::Ionic bond::Metallic bond::Hydrogen bond::B::Ionic bonds form when one atom transfers electrons to another, creating oppositely charged ions.
+3::Which molecule has a non-polar covalent bond?::HCl::H₂O::N₂::NH₃::C::N₂ has a non-polar covalent bond because the electronegativity difference between identical nitrogen atoms is zero.
+4::What is the bond angle in a water molecule?::180°::120°::109.5°::104.5°::D::The bond angle in H₂O is 104.5° due to the tetrahedral arrangement of electron pairs and lone pair repulsion.
+5::Which of the following has the highest electronegativity?::Na::Cl::O::F::D::Fluorine (F) has the highest electronegativity (4.0) on the Pauling scale.
+6::The VSEPR theory predicts the shape of molecules based on::Electron pairs::Protons::Neutrons::Atomic mass::A::VSEPR theory uses the repulsion between electron pairs (bonding and lone pairs) to predict molecular shapes.
+7::Which molecule has a linear shape?::CO₂::H₂O::NH₃::CH₄::A::CO₂ has a linear shape (180°) because it has two bonding pairs and no lone pairs on the central carbon atom.
+8::The bond in NaCl is primarily::Covalent::Ionic::Metallic::Coordinate::B::NaCl forms an ionic bond due to the transfer of an electron from Na to Cl, forming Na⁺ and Cl⁻ ions.
+9::What type of bond exists in a diamond crystal?::Ionic::Covalent::Metallic::Hydrogen::B::Diamond has a giant covalent structure with strong covalent bonds between carbon atoms in a tetrahedral lattice.
+10::Which molecule exhibits sp³ hybridization?::C₂H₂::C₂H₄::CH₄::CO₂::C::CH₄ has sp³ hybridization, with the carbon atom forming four single bonds using four sp³ hybrid orbitals.
+11::The bond order of O₂ molecule is::1::2::3::0::B::Using molecular orbital theory, O₂ has a bond order of 2 due to two net bonding electrons in its molecular orbitals.
+12::Which of the following is a polar molecule?::CO₂::CH₄::H₂O::CCl₄::C::H₂O is polar due to its bent shape and electronegativity difference, creating a net dipole moment.
+13::What is the hybridization of carbon in CO₂?::sp::sp²::sp³::dsp²::A::Carbon in CO₂ undergoes sp hybridization, forming two sigma bonds with oxygen atoms via linear geometry.
+14::The bond angle in NH₃ is approximately::104.5°::107°::109.5°::120°::B::NH₃ has a bond angle of 107° due to lone pair repulsion reducing the tetrahedral angle from 109.5°.
+15::Which type of bond is formed when one atom donates both electrons in a bond?::Ionic bond::Covalent bond::Coordinate bond::Metallic bond::C::A coordinate bond (dative bond) forms when one atom provides both electrons for the shared pair.
+16::The shape of BF₃ molecule is::Linear::Trigonal planar::Tetrahedral::Trigonal pyramidal::B::BF₃ has a trigonal planar shape with a 120° bond angle due to three bonding pairs and no lone pairs.
+17::Which molecule has a triple bond?::N₂::O₂::F₂::Cl₂::A::N₂ has a triple bond (N≡N) to achieve a stable octet, as seen in its Lewis structure.
+18::The bond energy is highest in which bond?::C-C::C=C::C≡C::C-H::C::The triple bond in C≡C has the highest bond energy due to the greater number of shared electrons.
+19::Which of the following has a giant ionic lattice structure?::Diamond::NaCl::Graphite::SiO₂::B::NaCl forms a giant ionic lattice with alternating Na⁺ and Cl⁻ ions held by electrostatic forces.
+20::The bond angle in CH₄ is::104.5°::107°::109.5°::120°::C::CH₄ has a tetrahedral shape with a bond angle of 109.5° due to four bonding pairs and no lone pairs.
+21::Which molecule has a dipole moment?::CO₂::CCl₄::HCl::CH₄::C::HCl is polar due to the electronegativity difference between H and Cl, resulting in a dipole moment.
+22::What is the hybridization of nitrogen in NH₃?::sp::sp²::sp³::dsp²::C::Nitrogen in NH₃ undergoes sp³ hybridization, with one lone pair and three bonding pairs.
+23::Which bond is present in NH₄⁺ ion?::Ionic bond::Covalent bond::Coordinate bond::Hydrogen bond::C::NH₄⁺ contains a coordinate bond where NH₃ donates a lone pair to H⁺ to form the ammonium ion.
+24::The shape of SO₂ molecule is::Linear::Bent::Tetrahedral::Trigonal planar::B::SO₂ has a bent shape due to two bonding pairs and one lone pair on sulfur, with a bond angle of ~119°.
+25::Which of the following is not a characteristic of ionic compounds?::High melting point::Solubility in water::Conduct electricity in solid state::Brittle nature::C::Ionic compounds conduct electricity in molten or aqueous states, not in solid state, due to immobile ions.
+26::The bond order of N₂ molecule is::1::2::3::0::C::N₂ has a bond order of 3, corresponding to its triple bond, as calculated by molecular orbital theory.
+27::Which molecule has sp² hybridization?::C₂H₂::C₂H₄::CH₄::CO₂::B::C₂H₄ has sp² hybridization in its carbon atoms, forming a double bond and trigonal planar geometry.
+28::What type of bond holds water molecules together in liquid water?::Covalent bond::Ionic bond::Hydrogen bond::Metallic bond::C::Hydrogen bonds form between water molecules due to the attraction between H and O of adjacent molecules.
+29::The shape of PCl₅ molecule is::Tetrahedral::Trigonal bipyramidal::Square planar::Octahedral::B::PCl₅ has a trigonal bipyramidal shape with five bonding pairs and no lone pairs on phosphorus.
+30::Which molecule has a zero dipole moment?::H₂O::NH₃::CO₂::HCl::C::CO₂ has a zero dipole moment due to its linear shape, canceling out the dipoles of the C=O bonds.
+31::The bond in HF is::Non-polar covalent::Polar covalent::Ionic::Metallic::B::HF has a polar covalent bond due to the significant electronegativity difference between H and F.
+32::What is the hybridization of sulfur in SF₆?::sp³::sp³d::sp³d²::dsp²::C::Sulfur in SF₆ undergoes sp³d² hybridization to form six bonds, resulting in an octahedral shape.
+33::Which compound has a covalent network structure?::NaCl::MgO::SiO₂::CaCl₂::C::SiO₂ forms a giant covalent network with tetrahedral units, similar to diamond.
+34::The bond angle in C₂H₄ is approximately::109.5°::120°::180°::90°::B::C₂H₄ has a trigonal planar geometry around each carbon due to sp² hybridization, with a 120° bond angle.
+35::Which of the following is a characteristic of covalent compounds?::High melting point::Conduct electricity::Low boiling point::Brittle nature::C::Covalent compounds typically have low melting and boiling points due to weak intermolecular forces.
+36::What is the shape of XeF₄ molecule?::Tetrahedral::Square planar::Octahedral::See-saw::B::XeF₄ has a square planar shape due to four bonding pairs and two lone pairs on xenon.
+37::The bond in O₂ molecule is::Single bond::Double bond::Triple bond::Coordinate bond::B::O₂ has a double bond (O=O) as per its Lewis structure and molecular orbital theory.
+38::Which molecule has a trigonal pyramidal shape?::CH₄::NH₃::BF₃::CO₂::B::NH₃ has a trigonal pyramidal shape due to three bonding pairs and one lone pair on nitrogen.
+39::The bond energy of a C-Cl bond is lower than that of a::C-F bond::C-Br bond::C-I bond::C-H bond::A::C-F bond has higher bond energy due to fluorine’s smaller size and higher electronegativity.
+40::Which of the following exhibits resonance?::CO₂::SO₂::CH₄::NH₃::B::SO₂ exhibits resonance, with electron delocalization between sulfur and oxygen atoms.
+41::What is the hybridization of carbon in C₂H₂?::sp::sp²::sp³::dsp²::A::Carbon in C₂H₂ undergoes sp hybridization, forming a triple bond with linear geometry.
+42::The intermolecular forces in HCl are primarily::London dispersion forces::Dipole-dipole forces::Hydrogen bonds::Ionic bonds::B::HCl, being polar, exhibits dipole-dipole forces as the primary intermolecular interaction.
+43::Which molecule has a tetrahedral shape?::H₂O::NH₃::CH₄::SO₂::C::CH₄ has a tetrahedral shape with four bonding pairs and no lone pairs on carbon.
+44::The bond in MgO is primarily::Covalent::Ionic::Metallic::Coordinate::B::MgO forms an ionic bond due to the transfer of electrons from Mg to O, forming Mg²⁺ and O²⁻.
+45::Which of the following has the lowest bond energy?::H-H::F-F::Cl-Cl::Br-Br::B::F-F has the lowest bond energy due to high electron repulsion between fluorine atoms.
+46::The shape of ClF₃ molecule is::Linear::T-shaped::Trigonal planar::Tetrahedral::B::ClF₃ has a T-shaped geometry due to three bonding pairs and two lone pairs on chlorine.
+47::What type of bond is present in graphite?::Ionic::Covalent::Metallic::Hydrogen::B::Graphite has covalent bonds within layers and weak van der Waals forces between layers.
+48::Which molecule has a see-saw shape?::SF₄::XeF₄::PCl₅::SF₆::A::SF₄ has a see-saw shape with four bonding pairs and one lone pair on sulfur.
+49::The bond angle in SO₃ is::109.5°::120°::104.5°::90°::B::SO₃ has a trigonal planar shape with a 120° bond angle due to three bonding pairs and no lone pairs.
+50::Which of the following has the highest lattice energy?::NaCl::MgO::CaO₂::KCl::B::MgO has the highest lattice energy due to higher charges (Mg²⁺, O²⁻) and smaller ionic radii.

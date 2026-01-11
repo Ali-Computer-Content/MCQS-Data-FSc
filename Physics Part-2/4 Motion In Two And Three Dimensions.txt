@@ -1,0 +1,50 @@
+1::A quantity that has both magnitude and direction is called::Scalar::Vector::Tensor::Dimension::B::Vectors, such as velocity and displacement, have magnitude and direction.
+2::The process of adding two or more vectors is called::Scalar addition::Vector addition::Dot product::Cross product::B::Vector addition combines vectors using the parallelogram or triangle rule.
+3::The resultant of two perpendicular vectors is given by::A + B::√(A² + B²)::A × B::A · B::B::For perpendicular vectors, resultant = √(A² + B²) using the Pythagorean theorem.
+4::The angle of the resultant of two perpendicular vectors of equal magnitude is::0°::45°::90°::180°::B::For equal perpendicular vectors, the resultant bisects the angle, giving 45°.
+5::The dot product of two vectors results in ::aScalar::Vector::Tensor::Zero::A::The dot product (A · B = AB cos θ) yields a scalar quantity.
+6::The cross product of two vectors results in ::aScalar::Vector::Tensor::Zero::B::The cross product (A × B = AB sin θ) yields a vector perpendicular to both.
+7::The SI unit of torque is::Newton::Newton·meter::Joule::Watt::B::Torque (τ = r × F) is measured in Newton·meters (N·m).
+8::Torque is defined as::Force × Time::Force × Distance::Force × Velocity::Force × Acceleration::B::Torque is the rotational effect of a force, τ = rF sin θ.
+9::The direction of torque is determined by::Right-hand rule::Left-hand rule::Newton’s law::Fleming’s rule::A::The right-hand rule gives the direction of the torque vector.
+10::Projectile motion is an example of::One-dimensional motion::Two-dimensional motion::Three-dimensional motion::Circular motion::B::Projectile motion involves motion in both horizontal and vertical directions.
+11::The horizontal component of velocity in projectile motion is::Zero::Constant::Increasing::Decreasing::B::No horizontal force acts, so horizontal velocity (vₓ = v cos θ) is constant.
+12::The vertical component of velocity at the highest point of a projectile is::Maximum::Minimum::Zero::Constant::C::At the peak, vertical velocity (vᵧ) is zero before reversing direction.
+13::The time of flight of a projectile is given by::2v sin θ / g::v sin θ / g::2v cos θ / g::v cos θ / g::A::Time of flight = 2v sin θ / g, where v is initial velocity and θ is the angle.
+14::The maximum height of a projectile is given by::v² sin² θ / g::v² sin² θ / 2g::v² cos² θ / g::v² cos² θ / 2g::B::Maximum height (H) = v² sin² θ / 2g.
+15::The range of a projectile is maximum at an angle of::30°::45°::60°::90°::B::Range (R = v² sin 2θ / g) is maximized at θ = 45°.
+16::The range of a projectile is given by::v² sin θ / g::v² sin 2θ / g::v² cos θ / g::v² cos 2θ / g::B::Range (R) = v² sin 2θ / g, where sin 2θ is maximum at 90°.
+17::The trajectory of a projectile is::Linear::Circular::Parabolic::Elliptical::C::Projectile motion follows a parabolic path due to constant horizontal velocity and vertical acceleration.
+18::The acceleration in projectile motion is due to::Friction::Air resistance::Gravity::Tension::C::Gravity (g ≈ 9.8 m/s²) causes vertical acceleration in projectile motion.
+19::Circular motion is an example of::Uniform motion::Accelerated motion::Linear motion::Random motion::B::Circular motion involves constant speed but changing velocity due to direction change.
+20::The force required to keep an object in circular motion is called::Centrifugal force::Centripetal force::Frictional force::Gravitational force::B::Centripetal force (F = mv²/r) directs the object toward the center.
+21::The centripetal force is given by::mv/r::mv²/r::mr²/v::mvr::B::F = mv²/r, where m is mass, v is velocity, and r is radius.
+22::The SI unit of centripetal acceleration is::m/s::m/s²::m::kg·m/s²::B::Centripetal acceleration (a = v²/r) is measured in m/s².
+23::The angular velocity is defined as::Angle per unit time::Distance per unit time::Speed per unit time::Acceleration per unit time::A::Angular velocity (ω) = θ/t, measured in radians per second (rad/s).
+24::The relation between linear and angular velocity is::v = rω::v = ω/r::v = r/ω::v = ω²r::A::Linear velocity (v) = rω, where r is the radius.
+25::The period of circular motion is the time taken for::One rotation::Half rotation::Two rotations::Quarter rotation::A::Period (T) is the time for one complete revolution.
+26::The frequency of circular motion is measured in::Radian::Hertz::Meter::Second::B::Frequency (f = 1/T) is measured in Hertz (Hz), or cycles per second.
+27::The relative velocity of two objects is the::Sum of their velocities::Difference of their velocities::Product of their velocities::Ratio of their velocities::B::Relative velocity is the velocity of one object relative to another (v₁ – v₂).
+28::The relative velocity of two cars moving in the same direction is::v₁ + v₂::v₁ – v₂::v₁ × v₂::v₁ / v₂::B::Relative velocity = v₁ – v₂ when moving in the same direction.
+29::The angular acceleration is defined as::Change in angular velocity per unit time::Change in linear velocity per unit time::Change in angle per unit time::Change in radius per unit time::A::Angular acceleration (α) = Δω/Δt, measured in rad/s².
+30::The relation between linear and angular acceleration is::a = rα::a = α/r::a = r/α::a = α²r::A::Linear acceleration (a) = rα, where r is the radius.
+31::The torque is maximum when the angle between force and radius is::0°::45°::90°::180°::C::Torque (τ = rF sin θ) is maximum when θ = 90°.
+32::The moment of inertia depends on::Mass only::Radius only::Distribution of mass and radius::Velocity::C::Moment of inertia (I) depends on mass and its distribution relative to the axis.
+33::The SI unit of moment of inertia is::kg·m::kg·m²::kg/m::kg/m²::B::Moment of inertia is measured in kg·m².
+34::The angular momentum is defined as::Iω::mω::Ir::mv::A::Angular momentum (L) = Iω, where I is moment of inertia and ω is angular velocity.
+35::The SI unit of angular momentum is::kg·m/s::kg·m²/s::kg·m/s²::N·m::B::Angular momentum is measured in kg·m²/s.
+36::The law of conservation of angular momentum states that angular momentum is conserved if::Net external force is zero::Net external torque is zero::Net external velocity is zero::Net external acceleration is zero::B::L = Iω is constant if no external torque acts.
+37::The centripetal acceleration is directed::Tangentially::Outward::Inward::Upward::C::Centripetal acceleration (a = v²/r) is always toward the center of the circular path.
+38::The time to reach maximum height in projectile motion is::v sin θ / g::2v sin θ / g::v cos θ / g::2v cos θ / g::A::Time to maximum height = v sin θ / g, when vertical velocity becomes zero.
+39::The horizontal range of a projectile depends on::Mass of projectile::Initial velocity::Angle of projection::Both B and C::D::Range (R = v² sin 2θ / g) depends on v and θ, not mass.
+40::The dot product of two perpendicular vectors is::Maximum::Minimum::Zero::Infinite::C::A · B = AB cos 90° = 0 for perpendicular vectors.
+41::The cross product of two parallel vectors is::Maximum::Minimum::Zero::Infinite::C::A × B = AB sin 0° = 0 for parallel vectors.
+42::The magnitude of the cross product is maximum when the angle between vectors is::0°::45°::90°::180°::C::A × B = AB sin θ is maximum at θ = 90°.
+43::The relative velocity of two objects moving toward each other is::v₁ + v₂::v₁ – v₂::v₁ × v₂::v₁ / v₂::A::Relative velocity = v₁ + v₂ when objects approach each other.
+44::The angular displacement is measured in::Meters::Degrees::Radians::Seconds::C::Angular displacement (θ) is measured in radians (rad).
+45::The centripetal force for a car turning on a curve is provided by::Gravity::Friction::Tension::Normal force::B::Friction between tires and road provides the centripetal force.
+46::The period of a satellite in circular orbit depends on::Mass of satellite::Radius of orbit::Speed of satellite::Angle of orbit::B::Period (T = 2π√(r³/GM)) depends on orbital radius and mass of the central body.
+47::The angular velocity of an object in circular motion is::v/r::r/v::v²/r::rv::A::Angular velocity (ω) = v/r, where v is linear velocity and r is radius.
+48::The torque on a body is zero if::Force is zero::Lever arm is zero::Angle between force and lever arm is 0°::All of these::D::τ = rF sin θ = 0 if F = 0, r = 0, or θ = 0°.
+49::The linear momentum in circular motion is::Constant::Zero::Changing::Infinite::C::Linear momentum changes direction constantly due to centripetal acceleration.
+50::The range of a projectile is zero when the angle of projection is::0°::45°::90°::Both A and C::D::Range is zero at θ = 0° (no horizontal motion) and θ = 90° (vertical motion only).

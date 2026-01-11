@@ -1,0 +1,50 @@
+1::Biotechnology involves the use of::Living organisms::Chemical reactions::Physical processes::Mechanical systems::A::Biotechnology manipulates living organisms or their components for practical applications.
+2::The process of producing multiple copies of a gene is called::Gene cloning::Gene therapy::Gene editing::Gene sequencing::A::Gene cloning amplifies specific DNA segments using vectors and host cells.
+3::The enzyme used to cut DNA at specific sites is::Ligase::Polymerase::Restriction enzyme::Helicase::C::Restriction enzymes cleave DNA at recognition sites, enabling genetic manipulation.
+4::The vector commonly used in gene cloning is::Plasmid::Virus::Chromosome::Ribosome::A::Plasmids are circular DNA molecules used to carry foreign genes in bacteria.
+5::The process of joining DNA fragments is catalyzed by::Restriction enzyme::DNA ligase::Polymerase::Helicase::B::DNA ligase seals phosphodiester bonds between DNA fragments.
+6::The bacterium often used as a host in genetic engineering is::Staphylococcus aureus::Escherichia coli::Mycobacterium tuberculosis::Clostridium tetani::B::E. coli is widely used due to its rapid growth and well-understood genetics.
+7::The technique used to amplify DNA in vitro is::PCR::Gel electrophoresis::Gene cloning::DNA sequencing::A::Polymerase Chain Reaction (PCR) amplifies DNA segments using primers and polymerase.
+8::The enzyme used in PCR to synthesize DNA is::Restriction enzyme::DNA ligase::Taq polymerase::Helicase::C::Taq polymerase, derived from Thermus aquaticus, is heat-stable and used in PCR.
+9::The process of separating DNA fragments by size is::PCR::Gel electrophoresis::Gene cloning::DNA sequencing::B::Gel electrophoresis uses an electric field to separate DNA based on size.
+10::The technique used to determine the sequence of DNA is::PCR::Gene cloning::DNA sequencing::Gel electrophoresis::C::DNA sequencing identifies the order of nucleotides in a DNA molecule.
+11::The process of introducing recombinant DNA into a host cell is::Transformation::Transduction::Conjugation::Transcription::A::Transformation involves uptake of foreign DNA by a host cell, often bacteria.
+12::The product of biotechnology used to treat diabetes is::Insulin::Antibiotics::Vaccines::Enzymes::A::Recombinant insulin, produced in bacteria, is used to manage diabetes.
+13::The organism modified to carry foreign genes is called::Transgenic::Mutant::Hybrid::Clone::A::Transgenic organisms contain DNA from another species.
+14::The technique used to edit specific genes is::PCR::CRISPR-Cas9::Gel electrophoresis::Gene cloning::B::CRISPR-Cas9 allows precise gene editing by targeting specific DNA sequences.
+15::The first genetically engineered product approved for human use was::Antibiotics::Insulin::Vaccines::Growth hormone::B::Recombinant human insulin was approved in 1982 for diabetes treatment.
+16::The process of producing identical copies of an organism is::Gene cloning::Organism cloning::Gene editing::DNA sequencing::B::Organism cloning, like that of Dolly the sheep, produces genetically identical copies.
+17::The animal cloned by nuclear transfer was::Dolly the sheep::Mice::Cows::Pigs::A::Dolly was the first mammal cloned using somatic cell nuclear transfer in 1996.
+18::The technique used to introduce genes into plant cells is::Electroporation::Gene gun::PCR::Gel electrophoresis::B::The gene gun shoots DNA-coated particles into plant cells for transformation.
+19::The transgenic plant resistant to pests is::Bt corn::Golden rice::Flavr Savr tomato::Roundup Ready soybean::A::Bt corn produces a bacterial toxin that kills insect pests.
+20::The genetically modified rice enriched with vitamin A is::Bt corn::Golden rice::Flavr Savr tomato::Roundup Ready soybean::B::Golden rice is engineered to produce beta-carotene, a vitamin A precursor.
+21::The process of treating genetic disorders by introducing healthy genes is::Gene cloning::Gene therapy::Gene editing::DNA sequencing::B::Gene therapy aims to correct defective genes to treat diseases.
+22::The disease treated using gene therapy is::Diabetes::SCID::Hypertension::Tuberculosis::B::Severe Combined Immunodeficiency (SCID) has been treated with gene therapy.
+23::The enzyme used to produce cDNA from mRNA is::Restriction enzyme::DNA polymerase::Reverse transcriptase::Ligase::C::Reverse transcriptase synthesizes complementary DNA (cDNA) from mRNA.
+24::The technique used to visualize DNA bands is::PCR::Gel electrophoresis::DNA sequencing::Gene cloning::B::Gel electrophoresis separates and visualizes DNA fragments under UV light.
+25::The process of inserting DNA into animal cells is::Transformation::Transfection::Transduction::Conjugation::B::Transfection introduces foreign DNA into eukaryotic cells.
+26::The marker used to identify transformed cells is::Antibiotic resistance gene::Plasmid::Virus::Chromosome::A::Antibiotic resistance genes allow selection of cells with recombinant DNA.
+27::The application of biotechnology in agriculture includes::Pest-resistant crops::Antibiotics::Vaccines::Insulin production::A::Biotechnology produces crops resistant to pests and herbicides.
+28::The technique used to identify DNA fingerprints is::PCR::Gel electrophoresis::RFLP analysis::DNA sequencing::C::Restriction Fragment Length Polymorphism (RFLP) analyzes DNA patterns.
+29::The process of producing recombinant proteins is::Gene cloning::Fermentation::PCR::DNA sequencing::A::Gene cloning inserts genes into hosts to produce proteins like insulin.
+30::The organism used to produce recombinant hepatitis B vaccine is::E. coli::Yeast::Streptococcus::Clostridium::B::Yeast cells are used to express hepatitis B surface antigens for vaccines.
+31::The ethical concern of biotechnology includes::Increased crop yield::Genetic privacy::Improved health::Reduced pesticide use::B::Genetic privacy raises concerns about misuse of DNA information.
+32::The technique used to silence specific genes is::CRISPR-Cas9::RNA interference::PCR::Gene cloning::B::RNA interference (RNAi) uses small RNAs to block gene expression.
+33::The transgenic animal used for producing human proteins is::Goat::Sheep::Cow::All of these::D::Goats, sheep, and cows are engineered to produce human proteins in milk.
+34::The process of amplifying DNA in a thermocycler is::Gel electrophoresis::PCR::DNA sequencing::Gene cloning::B::PCR uses a thermocycler for DNA amplification through repeated cycles.
+35::The enzyme that protects bacteria from viral DNA is::DNA polymerase::Restriction enzyme::Ligase::Helicase::B::Restriction enzymes cut foreign DNA, protecting bacteria from viruses.
+36::The technique used to produce transgenic bacteria is::Electroporation::Gene gun::PCR::CRISPR-Cas9::A::Electroporation uses electric pulses to introduce DNA into bacterial cells.
+37::The application of biotechnology in medicine includes::Antibiotic production::Crop improvement::Biofuel production::Waste treatment::A::Biotechnology produces antibiotics, vaccines, and therapeutic proteins.
+38::The process of identifying individuals using DNA is::DNA fingerprinting::Gene cloning::PCR::Gene therapy::A::DNA fingerprinting uses unique DNA patterns for identification.
+39::The transgenic crop resistant to herbicides is::Bt corn::Golden rice::Roundup Ready soybean::Flavr Savr tomato::C::Roundup Ready soybean tolerates glyphosate herbicide.
+40::The technique used to study gene expression is::PCR::Microarray analysis::Gel electrophoresis::DNA sequencing::B::Microarray analysis measures the expression levels of multiple genes.
+41::The process of producing biofuels using microbes is::Fermentation::Gene cloning::PCR::DNA sequencing::A::Fermentation by microbes converts biomass into biofuels like ethanol.
+42::The enzyme used to unwind DNA in PCR is::Taq polymerase::Helicase::Ligase::Restriction enzyme::B::Helicase is not used in PCR; however, high temperatures denature DNA.
+43::The application of biotechnology in environment includes::Bioremediation::Vaccine production::Insulin synthesis::Crop yield increase::A::Bioremediation uses microbes to clean up pollutants.
+44::The organism used in bioremediation is::E. coli::Pseudomonas::Yeast::Streptococcus::B::Pseudomonas degrades pollutants like oil and chemicals.
+45::The technique used to create genetically identical plants is::Tissue culture::Gene cloning::PCR::CRISPR-Cas9::A::Tissue culture propagates plants from cells, producing identical copies.
+46::The process of producing monoclonal antibodies involves::Hybridoma technology::PCR::Gene cloning::DNA sequencing::A::Hybridoma technology fuses B cells with myeloma cells to produce antibodies.
+47::The transgenic tomato with delayed ripening is::Bt corn::Golden rice::Flavr Savr tomato::Roundup Ready soybean::C::Flavr Savr tomato was engineered for longer shelf life.
+48::The technique used to detect specific DNA sequences is::PCR::Southern blotting::Gel electrophoresis::DNA sequencing::B::Southern blotting identifies specific DNA fragments using probes.
+49::The application of biotechnology in forensics is::DNA fingerprinting::Vaccine production::Insulin synthesis::Biofuel production::A::DNA fingerprinting is used to solve crimes and identify individuals.
+50::The ecological role of biotechnology includes::Reducing pesticide use::Producing energy::Fixing nitrogen::Recycling nutrients::A::Biotechnology develops pest-resistant crops, reducing pesticide reliance.

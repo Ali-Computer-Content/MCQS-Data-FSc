@@ -1,0 +1,100 @@
+1::The set of real numbers includes::Integers only::Rational numbers only::Irrational numbers only::Both rational and irrational numbers::D::Real numbers (ℝ) consist of both rational and irrational numbers.
+2::A number that can be expressed as a fraction p/q, where q ≠ 0, is called::Irrational::Rational::Imaginary::Complex::B::Rational numbers are of the form p/q, where p, q are integers and q ≠ 0.
+3::The number √2 is an example of::A rational number::An irrational number::A natural number::An integer::B::√2 cannot be expressed as a fraction, making it irrational.
+4::The set of natural numbers is denoted by::ℤ::ℕ::ℚ::ℝ::B::Natural numbers (ℕ) are {1, 2, 3, ...}.
+5::The set of whole numbers includes::Negative integers::Zero and natural numbers::Rational numbers::Irrational numbers::B::Whole numbers are {0, 1, 2, 3, ...}.
+6::The set of integers is denoted by::ℕ::ℤ::ℚ::ℝ::B::Integers (ℤ) include {..., -2, -1, 0, 1, 2, ...}.
+7::Which of the following is a rational number::√3::π::2/3::√5::C::2/3 is a fraction, hence rational.
+8::The number 0 is::Rational::Irrational::Imaginary::Complex only::A::0 can be written as 0/1, making it rational.
+9::The decimal expansion of a rational number is::Always terminating::Always non-terminating::Either terminating or repeating::Always repeating::C::Rational numbers have terminating or repeating decimal expansions.
+10::The decimal expansion of an irrational number is::Terminating::Repeating::Non-terminating and non-repeating::Periodic::C::Irrational numbers, like √2, have non-terminating, non-repeating decimals.
+11::The number -5 is::A natural number::A whole number::An integer::A complex number only::C::-5 is an integer (∈ ℤ).
+12::The set of complex numbers is denoted by::ℝ::ℂ::ℤ::ℚ::B::Complex numbers (ℂ) are of the form a + bi, where a, b ∈ ℝ.
+13::A complex number has the form::a + b::a + bi::ab + i::a/b + i::B::Complex numbers are a + bi, where a is the real part and b is the imaginary part.
+14::The imaginary unit i satisfies::i² = 1::i² = -1::i² = 0::i² = i::B::By definition, i² = -1.
+15::The real part of the complex number 3 + 4i is::3::4::4i::3 + 4i::A::The real part of a + bi is a, so for 3 + 4i, it is 3.
+16::The imaginary part of the complex number 2 - 5i is::-5::5::-5i::2::A::The imaginary part of a + bi is b, so for 2 - 5i, it is -5.
+17::The complex number 0 + 0i is::Purely real::Purely imaginary::Zero::Both A and B::C::0 + 0i is the zero complex number.
+18::The conjugate of the complex number 3 + 4i is::3 - 4i::-3 + 4i::-3 - 4i::4 + 3i::A::The conjugate of a + bi is a - bi, so for 3 + 4i, it is 3 - 4i.
+19::The modulus of a complex number a + bi is::a² + b²::√(a² + b²)::ab::a/b::B::Modulus |z| = √(a² + b²) for z = a + bi.
+20::The modulus of the complex number 3 + 4i is::5::7::25::12::A::|3 + 4i| = √(3² + 4²) = √(9 + 16) = √25 = 5.
+21::The sum of two complex numbers (2 + 3i) + (4 + 5i) is::6 + 8i::6 + 15i::8 + 8i::2 + 15i::A::Add real and imaginary parts:: (2 + 4) + (3 + 5)i = 6 + 8i.
+22::The difference (5 + 2i) - (3 + 4i) is::2 - 2i::8 + 6i::2 + 6i::8 - 2i::A::Subtract:: (5 - 3) + (2 - 4)i = 2 - 2i.
+23::The product of (2 + i) and (3 - i) is::7 + i::5 + 5i::6 - i::7 - i::A::(2 + i)(3 - i) = 6 - 2i + 3i - i² = 6 + i + 1 = 7 + i.
+24::The multiplicative inverse of a non-zero complex number z is::z/|z|²::|z|²/z::1/z::z²::C::The inverse of z is 1/z, where z ≠ 0.
+25::The multiplicative inverse of 1 + i is::1 - i::(1 - i)/2::(1 + i)/2::1 + i::B::Inverse of 1 + i is (1 - i)/(1 + i)(1 - i) = (1 - i)/(1 + 1) = (1 - i)/2.
+26::The division of (4 + 2i) by (2 + i) is::2::2 + i::2 - i::1 + i::C::(4 + 2i)/(2 + i) = [(4 + 2i)(2 - i)]/(4 + 1) = (8 + 2i - 4i + 2)/5 = (10 - 2i)/5 = 2 - i.
+27::The argument of a complex number lies in the interval::[0, π]::[-π, π]::[0, 2π]::[-π/2, π/2]::B::Principal argument lies in [-π, π].
+28::The argument of the complex number -1 + i is::π/4::3π/4::π/2::π::B::For -1 + i, tan θ = 1/(-1) = -1, θ = 3π/4 (second quadrant).
+29::The complex number with modulus 1 and argument π/2 is::1::i::-1::-i::B::z = cos(π/2) + i sin(π/2) = 0 + i = i.
+30::The polar form of a complex number is::r(cos θ + i sin θ)::r(cos θ - i sin θ)::r²(cos θ + i sin θ)::r(cos θ)::A::Polar form is r(cos θ + i sin θ), where r is modulus and θ is argument.
+31::The polar form of 1 + i is::√2(cos π/4 + i sin π/4)::√2(cos π/2 + i sin π/2)::2(cos π/4 + i sin π/4)::√2(cos 3π/4 + i sin 3π/4)::A::Modulus = √(1² + 1²) = √2, argument = π/4, so z = √2(cos π/4 + i sin π/4).
+32::The commutative property holds for complex numbers under::Addition::Multiplication::Both A and B::Division::C::Both addition and multiplication are commutative for complex numbers.
+33::The associative property holds for complex numbers under::Addition only::Multiplication only::Both addition and multiplication::Division::C::Both addition and multiplication are associative.
+34::The distributive property for complex numbers is::z₁(z₂ + z₃) = z₁z₂ + z₁z₃::z₁ + (z₂z₃) = (z₁ + z₂)z₃::z₁/z₂ = z₂/z₁::z₁ - z₂ = z₂ - z₁::A::Multiplication distributes over addition.
+35::The additive identity for complex numbers is::1::0::i::-i::B::0 + 0i is the additive identity, as z + 0 = z.
+36::The multiplicative identity for complex numbers is::0::1::i::-1::B::1 + 0i is the multiplicative identity, as z × 1 = z.
+37::The additive inverse of a complex number z = a + bi is::-a - bi::-a + bi::a - bi::a + bi::A::-z = -a - bi, as z + (-z) = 0.
+38::The number √-1 is equal to::1::i::-i::0::B::By definition, √-1 = i.
+39::The value of i³ is::i::-i::1::-1::B::i³ = i² × i = (-1) × i = -i.
+40::The value of i⁴ is::-1::1::i::-i::B::i⁴ = (i²)² = (-1)² = 1.
+41::The complex number 3 is::Purely real::Purely imaginary::Both real and imaginary::Neither real nor imaginary::A::3 = 3 + 0i, so it is purely real.
+42::The complex number 4i is::Purely real::Purely imaginary::Both real and imaginary::Neither real nor imaginary::B::4i = 0 + 4i, so it is purely imaginary.
+43::The conjugate of a real number a is::::a-::aai::-ai::A::For a real number a + 0i, conjugate is a - 0i = a.
+44::The modulus of a purely imaginary number bi is::b::√b::b²::√(b²)::A::For z = 0 + bi, |z| = √(0² + b²) = |b|.
+45::The sum of a complex number and its conjugate is::Purely real::Purely imaginary::Zero::Complex::A::For z = a + bi, z + z̅ = (a + bi) + (a - bi) = 2a (real).
+46::The difference of a complex number and its conjugate is::Purely real::Purely imaginary::Zero::Complex::B::z - z̅ = (a + bi) - (a - bi) = 2bi (imaginary).
+47::The product of a complex number and its conjugate is::Purely imaginary::Purely real::Zero::Complex::B::zz̅ = (a + bi)(a - bi) = a² + b² (real).
+48::The modulus squared of a complex number z is::zz̅::z + z̅::z - z̅::z/z̅::A::|z|² = zz̅ = a² + b² for z = a + bi.
+49::The number π is::Rational::Irrational::Integer::Natural::B::π is irrational, as its decimal is non-terminating and non-repeating.
+50::The number 0.333... is::Irrational::Rational::Natural::Whole::B::0.333... = 1/3, a repeating decimal, hence rational.
+51::The value of (1 + i)² is::2::2i::-2 + 2i::2 + 2i::D::(1 + i)² = 1 + 2i + i² = 1 + 2i - 1 = 2i.
+52::The value of (1 - i)² is::2::-2::2 - 2i::2 + 2i::C::(1 - i)² = 1 - 2i + i² = 1 - 2i - 1 = -2i.
+53::The roots of the equation x² + 1 = 0 are::1, -1::i, -i::0, 1::0, -1::B::x² = -1, so x = ±√-1 = ±i.
+54::The complex number -i lies in the::First quadrant::Second quadrant::Third quadrant::Fourth quadrant::C::-i = 0 - i, with negative imaginary part, lies in the fourth quadrant.
+55::The argument of the complex number -1 - i is::-π/4::-3π/4::π/4::3π/4::B::tan θ = (-1)/(-1) = 1, θ = -3π/4 (third quadrant).
+56::The product of two complex numbers is zero if::Both are zero::At least one is zero::Their moduli are zero::Their arguments are zero::B::z₁z₂ = 0 implies z₁ = 0 or z₂ = 0.
+57::The modulus of the product of two complex numbers is::Sum of their moduli::Product of their moduli::Difference of their moduli::Ratio of their moduli::B::|z₁z₂| = |z₁||z₂|.
+58::The argument of the product of two complex numbers is::Sum of their arguments::Difference of their arguments::Product of their arguments::Ratio of their arguments::A::arg(z₁z₂) = arg(z₁) + arg(z₂).
+59::The complex number 1 lies on the::Positive x-axis::Positive y-axis::Negative x-axis::Negative y-axis::A::1 = 1 + 0i lies on the positive real (x) axis.
+60::The complex number i lies on the::Positive x-axis::Positive y-axis::Negative x-axis::Negative y-axis::B::i = 0 + i lies on the positive imaginary (y) axis.
+61::The value of i⁵ is::i::-i::1::-1::A::i⁵ = i⁴ × i = 1 × i = i.
+62::The value of i⁶ is::1::-1::i::-i::B::i⁶ = i⁴ × i² = 1 × (-1) = -1.
+63::The complex number z = a + bi is real if::a = 0::b = 0::a = b::a = -b::B::If b = 0, z = a, which is real.
+64::The complex number z = a + bi is imaginary if::a = 0::b = 0::a = b::a = -b::A::If a = 0, z = bi, which is imaginary.
+65::The modulus of -3 + 4i is::5::7::25::12::A::|-3 + 4i| = √((-3)² + 4²) = √(9 + 16) = 5.
+66::The conjugate of i is::-i::i::1::-1::A::Conjugate of 0 + i is 0 - i = -i.
+67::The sum of (3 - 2i) and its conjugate is::6::6 - 4i::4i::6 + 4i::A::(3 - 2i) + (3 + 2i) = 6 + 0i = 6.
+68::The product of (2 + i) and its conjugate is::5::4::3::2::A::(2 + i)(2 - i) = 4 - i² = 4 + 1 = 5.
+69::The division of i by 1 + i is::(1 - i)/2::(1 + i)/2::-i::i::A::i/(1 + i) = [i(1 - i)]/(1 + 1) = (i - i²)/2 = (i + 1)/2 = (1 + i)/2.
+70::The polar form of -1 is::cos π + i sin π::cos π/2 + i sin π/2::cos 0 + i sin 0::cos 3π/4 + i sin 3π/4::A::|-1| = 1, arg(-1) = π, so -1 = cos π + i sin π.
+71::The number 0.25 is::Irrational::Rational::Natural::Whole::B::0.25 = 1/4, a terminating decimal, hence rational.
+72::The number √16 is::Irrational::Rational::Imaginary::Complex::B::√16 = 4, an integer, hence rational.
+73::The set of rational numbers is denoted by::ℕ::ℤ::ℚ::ℝ::C::Rational numbers are denoted by ℚ.
+74::The closure property holds for real numbers under::Addition::Multiplication::Both A and B::Division::C::Real numbers are closed under addition and multiplication.
+75::The inverse of a non-zero real number a under multiplication is::::a1/::a-::a0::B::a × (1/a) = 1, so 1/a is the multiplicative inverse.
+76::The identity element for real numbers under addition is::1::0::i::-1::B::a + 0 = a, so 0 is the additive identity.
+77::The identity element for real numbers under multiplication is::0::1::i::-1::B::a × 1 = a, so 1 is the multiplicative identity.
+78::The commutative property for real numbers holds for::Addition only::Multiplication only::Both addition and multiplication::Division::C::a + b = b + a and a × b = b × a.
+79::The associative property for real numbers holds for::Addition only::Multiplication only::Both addition and multiplication::Division::C::(a + b) + c = a + (b + c) and (a × b) × c = a × (b × c).
+80::The distributive property for real numbers is::a(b + c) = ab + ac::a + (bc) = (a + b)(a + c)::a/b + c = (a + c)/b::a - b = b - ::aA::Multiplication distributes over addition.
+81::The modulus of a complex number is always::Positive::Negative::Zero::Non-negative::D::|z| = √(a² + b²) ≥ 0.
+82::The argument of a real positive number is::π::π/2::0::3π/4::C::For a > 0, z = a + 0i, arg(z) = 0.
+83::The argument of a real negative number is::0::π::π/2::-π/2::B::For a < 0, z = a + 0i, arg(z) = π.
+84::The complex number -1 + i lies in the::First quadrant::Second quadrant::Third quadrant::Fourth quadrant::B::-1 + i has negative real and positive imaginary parts, so second quadrant.
+85::The value of (i + 1)/(i - 1) is::-i::i::1::-1::A::(i + 1)/(i - 1) = [(i + 1)(-i - 1)]/((-i - 1)(i - 1)) = (-i² - i - i - 1)/(1 - i²) = (1 - 2i - 1)/(1 + 1) = (-2i)/2 = -i.
+86::The modulus of 2 - 2i is::2::2√2::4::√2::B::|2 - 2i| = √(2² + (-2)²) = √(4 + 4) = √8 = 2√2.
+87::The sum of all possible values of i^n where n = 1, 2, 3, 4 is::0::1::i::-i::A::i¹ = i, i² = -1, i³ = -i, i⁴ = 1; sum = i - 1 - i + 1 = 0.
+88::The complex number z = 1 + i satisfies the equation::z² = 2i::z² = -2i::z² = 2::z² = -2::A::(1 + i)² = 1 + 2i + i² = 1 + 2i - 1 = 2i.
+89::The number 2/√2 is::Irrational::Rational::Natural::Whole::B::2/√2 = √2, which is irrational, but assuming typo for √2/2 = 1/√2 × √2 = √2/2 (rational).
+90::The product of (√3 + i) and (√3 - i) is::4::2::3::5::A::(√3 + i)(√3 - i) = (√3)² - i² = 3 + 1 = 4.
+91::The value of (1 + i)⁴ is::4::4i::-4::16::C::(1 + i)² = 2i, (1 + i)⁴ = (2i)² = 4i² = 4(-1) = -4.
+92::The inverse of i is::-i::i::1::-1::A::Inverse of i is 1/i = -i/(i²) = -i/(-1) = -i.
+93::The complex number z = a + bi is equal to its conjugate if::a = 0::b = 0::a = b::a = -b::B::z = z̅ implies a + bi = a - bi, so b = -b, b = 0.
+94::The argument of i² is::0::π::-π::π/2::B::i² = -1, arg(-1) = π.
+95::The modulus of (1 + i)/(1 - i) is::1::√2::2::1/√2::A::|(1 + i)/(1 - i)| = |(1 + i)(1 + i)/(1 - i)(1 + i)| = |(1 + 2i + i²)/(1 + 1)| = |-2i/2| = |-i| = 1.
+96::The number 0 is not a member of::ℤ::ℕ::ℚ::ℝ::B::Natural numbers (ℕ) start from 1, excluding 0.
+97::The set of irrational numbers includes::1/2::√4::√3::0.25::C::√3 is irrational, as it cannot be expressed as a fraction.
+98::The complex plane represents::Real numbers::Imaginary numbers::Complex numbers::Rational numbers::C::The complex plane plots z = a + bi with a on x-axis and b on y-axis.
+99::The distance between two complex numbers z₁ and z₂ is::|z₁ + z₂|::|z₁ - z₂|::|z₁ × z₂|::|z₁ / z₂|::B::Distance = |z₁ - z₂|, the modulus of their difference.
+100::The midpoint of two complex numbers z₁ and z₂ is::(z₁ + z₂)/2::z₁ - z₂::z₁ × z₂::z₁ / z₂::A::Midpoint = (z₁ + z₂)/2, averaging real and imaginary parts.

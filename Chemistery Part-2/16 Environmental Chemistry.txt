@@ -1,0 +1,50 @@
+1::Environmental chemistry deals with the study of::Chemical reactions in the laboratory::Chemical processes in the environment::Chemical composition of rocks::Chemical synthesis of drugs::B::Environmental chemistry studies chemical processes occurring in the environment.
+2::The major component of the Earth's atmosphere is::Oxygen::Nitrogen::Carbon dioxide::Argon::B::Nitrogen constitutes about 78% of the Earth's atmosphere.
+3::The primary source of air pollution is::Volcanic eruptions::Industrial emissions::Forest fires::Ocean waves::B::Industrial emissions release large amounts of pollutants like SO2, NOx, and particulates.
+4::The gas responsible for acid rain is::CO::SO2::O3::N2::B::Sulfur dioxide (SO2) reacts with water to form sulfuric acid, causing acid rain.
+5::The pH of acid rain is typically::Above 7::Around 7::Below 5.6::Above 5.6::C::Acid rain has a pH below 5.6 due to dissolved acidic gases like SO2 and NOx.
+6::The greenhouse effect is caused by::Ozone::Carbon dioxide::Nitrogen::Oxygen::B::Carbon dioxide (CO2) traps heat in the atmosphere, contributing to the greenhouse effect.
+7::The primary source of carbon dioxide in the atmosphere is::Photosynthesis::Burning of fossil fuels::Volcanic activity::Respiration::B::Burning fossil fuels releases significant amounts of CO2.
+8::The layer of the atmosphere where ozone is found is::Troposphere::Stratosphere::Mesosphere::Thermosphere::B::The ozone layer is located in the stratosphere, protecting Earth from UV radiation.
+9::The gas responsible for ozone layer depletion is::CO2::SO2::CFCs::N2O::C::Chlorofluorocarbons (CFCs) release chlorine atoms that destroy ozone molecules.
+10::The chemical formula of ozone is::O2::O3::O4::O::B::Ozone consists of three oxygen atoms (O3).
+11::The main effect of ozone depletion is::Global warming::Acid rain::Increased UV radiation::Smog formation::C::Ozone depletion allows more UV radiation to reach Earth’s surface.
+12::Photochemical smog is formed by the reaction of::SO2 and O2::NOx and hydrocarbons::CO and O2::CFCs and O3::B::NOx and hydrocarbons react in sunlight to form photochemical smog.
+13::The major pollutant in photochemical smog is::Sulfur dioxide::Ozone::Carbon monoxide::Nitrogen dioxide::B::Ozone is a key component of photochemical smog, causing respiratory issues.
+14::The primary source of water pollution is::Rainwater::Industrial effluents::Glaciers::Underground springs::B::Industrial effluents release toxic chemicals into water bodies.
+15::The biochemical oxygen demand (BOD) measures::Oxygen required by microbes to decompose organic matter::Oxygen dissolved in water::Oxygen released by algae::Oxygen consumed by fish::A::BOD indicates the amount of oxygen needed to break down organic pollutants.
+16::High BOD in water indicates::Low pollution::High pollution::Neutral water::Pure water::B::High BOD suggests high organic pollution, requiring more oxygen for decomposition.
+17::The process of removing hardness from water is called::Filtration::Chlorination::Softening::Distillation::C::Water softening removes Ca²⁺ and Mg²⁺ ions causing hardness.
+18::The gas responsible for global warming is::N2::O2::CO2::Ar::C::CO2 is a major greenhouse gas contributing to global warming.
+19::The primary source of lead pollution in the environment is::Fertilizers::Pesticides::Industrial waste::Leaded gasoline::D::Leaded gasoline was a major source of environmental lead pollution.
+20::The process of treating sewage to remove pollutants is called::Incineration::Sewage treatment::Landfilling::Composting::B::Sewage treatment removes contaminants before water is released or reused.
+21::The main cause of eutrophication in water bodies is::Heavy metals::Nitrates and phosphates::Oil spills::Plastic waste::B::Nitrates and phosphates from fertilizers cause excessive algae growth, leading to eutrophication.
+22::The gas that causes choking and irritation in the respiratory system is::CO::SO2::O3::N2::B::Sulfur dioxide (SO2) irritates the respiratory system.
+23::The Montreal Protocol was signed to control the emission of::CO2::SO2::CFCs::NOx::C::The Montreal Protocol aims to phase out ozone-depleting substances like CFCs.
+24::The Kyoto Protocol addresses the reduction of::Ozone-depleting gases::Greenhouse gases::Sulfur oxides::Nitrogen oxides::B::The Kyoto Protocol targets greenhouse gas emissions to combat global warming.
+25::The major component of smog in urban areas is::Dust::Ozone::Water vapor::Nitrogen::B::Ozone is a major pollutant in urban smog, formed by photochemical reactions.
+26::The process of converting solid waste into organic matter is called::Incineration::Landfilling::Composting::Recycling::C::Composting converts organic waste into nutrient-rich compost.
+27::The gas that binds strongly to hemoglobin, preventing oxygen transport, is::CO2::CO::SO2::NO2::B::Carbon monoxide (CO) binds to hemoglobin, causing oxygen deprivation.
+28::The main source of nitrogen oxides (NOx) in the atmosphere is::Volcanoes::Vehicle emissions::Forest fires::Ocean waves::B::Vehicle emissions release NOx from combustion processes.
+29::The chemical used to disinfect water is::Chlorine::Ozone::Iodine::Fluorine::A::Chlorine is commonly used to disinfect water by killing pathogens.
+30::The term ‘green chemistry’ refers to::Using plants for chemical synthesis::Designing eco-friendly chemical processes::Studying green-colored compounds::Producing green pigments::B::Green chemistry focuses on sustainable, environmentally friendly chemical processes.
+31::The major effect of water pollution on aquatic life is::Increased oxygen levels::Depletion of oxygen::Rise in pH::Decrease in temperature::B::Pollution increases BOD, depleting oxygen needed by aquatic organisms.
+32::The gas that contributes to the formation of acid rain along with SO2 is::CO::NO2::O3::CH4::B::Nitrogen dioxide (NO2) forms nitric acid, contributing to acid rain.
+33::The process of recycling waste materials to produce new products is called::Incineration::Composting::Recycling::Landfilling::C::Recycling reuses materials to reduce waste and conserve resources.
+34::The main source of mercury pollution in water is::Agricultural runoff::Industrial discharge::Rainwater::Domestic waste::B::Industrial discharge releases mercury into water bodies, causing toxicity.
+35::The effect of increased UV radiation due to ozone depletion is::Cooling of Earth::Skin cancer::Acid rain::Eutrophication::B::Increased UV radiation causes skin cancer and other health issues.
+36::The gas that is not a greenhouse gas is::CO2::CH4::N2O::N2::D::Nitrogen (N2) is not a greenhouse gas, unlike CO2, CH4, and N2O.
+37::The process of removing salts from seawater is called::Filtration::Desalination::Chlorination::Softening::B::Desalination removes salts to produce freshwater from seawater.
+38::The primary cause of thermal pollution in water bodies is::Oil spills::Industrial cooling water::Acid rain::Pesticides::B::Industrial cooling water releases heat, raising water temperatures.
+39::The chemical responsible for the blue-green color of polluted water is::Nitrates::Phosphates::Algae::Heavy metals::C::Algae blooms, caused by nutrient pollution, give water a blue-green color.
+40::The main source of particulate matter in the air is::Volcanoes::Vehicle exhaust::Sea spray::Photosynthesis::B::Vehicle exhaust releases fine particles, contributing to air pollution.
+41::The process of burning waste at high temperatures is called::Composting::Recycling::Incineration::Landfilling::C::Incineration burns waste to reduce its volume, often producing energy.
+42::The gas that causes a burning sensation in the eyes during smog is::CO::SO2::O3::N2::C::Ozone (O3) in smog irritates eyes and respiratory systems.
+43::The major effect of acid rain on buildings is::Corrosion::Strengthening::Color change::Insulation::A::Acid rain corrodes materials like limestone and metals in buildings.
+44::The source of radioactive pollution in the environment is::Fertilizers::Nuclear power plants::Pesticides::Vehicle emissions::B::Nuclear power plants and waste disposal are major sources of radioactive pollution.
+45::The process of treating water with UV light to kill pathogens is called::Chlorination::Filtration::UV disinfection::Desalination::C::UV disinfection uses ultraviolet light to eliminate pathogens in water.
+46::The gas that contributes to the formation of photochemical smog is::SO2::NO2::CO2::CH4::B::Nitrogen dioxide (NO2) reacts with sunlight to form photochemical smog.
+47::The main cause of soil pollution is::Rainwater::Pesticides and fertilizers::Volcanic ash::Natural erosion::B::Pesticides and fertilizers contaminate soil with chemicals.
+48::The effect of global warming on polar ice caps is::Expansion::Melting::Stabilization::Color change::B::Global warming causes polar ice caps to melt, raising sea levels.
+49::The chemical used to remove excess chlorine from water is::Sodium thiosulfate::Calcium carbonate::Sodium chloride::Potassium permanganate::A::Sodium thiosulfate neutralizes excess chlorine in treated water.
+50::The term ‘biodegradable’ refers to materials that::Cannot be broken down::Can be broken down by microbes::Are toxic to microbes::Are non-recyclable::B::Biodegradable materials are decomposed by microorganisms into simpler substances.

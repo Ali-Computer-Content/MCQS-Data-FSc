@@ -1,0 +1,50 @@
+1::The s-block elements are found in which groups of the periodic table?::1 and 2::3 and 4::13 and 14::15 and 16::A::The s-block elements include groups 1 (alkali metals) and 2 (alkaline earth metals).
+2::Which element is not an s-block element?::Sodium::Magnesium::Aluminum::Calcium::C::Aluminum belongs to group 13 (p-block), not the s-block.
+3::The general electronic configuration of s-block elements is::ns^1-2::np^1-2::nd^1-2::nf^1-2::A::s-block elements have valence electrons in the s-orbital, with configuration ns^1 (group 1) or ns^2 (group 2).
+4::Which alkali metal is the most reactive?::Lithium::Sodium::Potassium::Cesium::D::Cesium, being the largest alkali metal, has the lowest ionization energy and is the most reactive.
+5::The atomic radius of s-block elements::Increases down the group::Decreases down the group::Remains constant::Increases across a period::A::Atomic radius increases down the group due to the addition of new energy levels.
+6::The ionization energy of alkaline earth metals compared to alkali metals is::Higher::Lower::Equal::Variable::A::Alkaline earth metals (group 2) have higher ionization energies due to higher nuclear charge and ns^2 configuration.
+7::Which s-block element has the highest melting point?::Lithium::Beryllium::Sodium::Magnesium::B::Beryllium has the highest melting point among s-block elements due to stronger metallic bonding.
+8::The compound formed by sodium with oxygen is::Na2O::NaO::Na2O2::NaO2::C::Sodium typically forms sodium peroxide (Na2O2) with oxygen under normal conditions.
+9::The flame color of potassium is::Violet::Yellow::Crimson::Green::A::Potassium emits a violet flame due to electron transitions in its flame test.
+10::Which s-block element is stored under kerosene?::Lithium::Beryllium::Magnesium::Calcium::A::Lithium, an alkali metal, is stored under kerosene to prevent reaction with air and moisture.
+11::The hydration energy of s-block ions::Increases down the group::Decreases down the group::Remains constant::Is zero::B::Hydration energy decreases down the group as ion size increases, reducing charge density.
+12::The compound CaCO3 is commonly known as::Limestone::Gypsum::Quicklime::Slaked lime::A::Calcium carbonate (CaCO3) is the chemical name for limestone.
+13::Which s-block element is used in fireworks to produce a red flame?::Lithium::Sodium::Strontium::Barium::C::Strontium compounds emit a red flame, used in fireworks.
+14::The oxidation state of alkali metals in their compounds is::+1::+2::-1::0::A::Alkali metals (group 1) have a single valence electron, forming +1 ions.
+15::The alkaline earth metal with the highest density is::Radium::Barium::Calcium::Magnesium::A::Radium, being the heaviest alkaline earth metal, has the highest density.
+16::The reaction of magnesium with water is::Slow at room temperature::Rapid at room temperature::No reaction::Explosive::A::Magnesium reacts slowly with water at room temperature, forming Mg(OH)2 and H2.
+17::Which s-block element is essential for bones and teeth?::Sodium::Potassium::Calcium::Beryllium::C::Calcium is a key component of bones and teeth in the form of calcium phosphate.
+18::The compound NaHCO3 is used as::Baking sod::aWashing sod::aQuicklime::Gypsum::A::Sodium bicarbonate (NaHCO3) is commonly known as baking soda.
+19::The metallic character of s-block elements::Increases down the group::Decreases down the group::Remains constant::Decreases across a period::A::Metallic character increases down the group due to easier loss of electrons.
+20::The flame color of sodium is::Yellow::Violet::Green::Red::A::Sodium emits a yellow flame in the flame test due to electron transitions.
+21::Which s-block element is radioactive?::Francium::Cesium::Radium::Barium::C::Radium, an alkaline earth metal, is naturally radioactive.
+22::The compound MgSO4·7H2O is known as::Epsom salt::Gypsum::Washing sod::aBaking sod::aA::Magnesium sulfate heptahydrate (MgSO4·7H2O) is called Epsom salt.
+23::The least reactive alkali metal is::Lithium::Sodium::Potassium::Rubidium::A::Lithium, being the smallest alkali metal, has the highest ionization energy and is least reactive.
+24::The s-block element used in lightweight alloys is::Lithium::Sodium::Magnesium::Potassium::C::Magnesium is used in lightweight alloys due to its low density and strength.
+25::The solubility of alkaline earth metal hydroxides::Increases down the group::Decreases down the group::Remains constant::Is zero::A::Solubility of hydroxides like Be(OH)2 to Ba(OH)2 increases down the group due to larger ion size.
+26::The compound Na2CO3 is known as::Washing sod::aBaking sod::aQuicklime::Slaked lime::A::Sodium carbonate (Na2CO3) is commonly called washing soda.
+27::The reaction of s-block metals with water produces::Hydrogen gas::Oxygen gas::Nitrogen gas::Carbon dioxide::A::s-block metals react with water to produce hydrogen gas and a metal hydroxide.
+28::The electronegativity of s-block elements::Increases down the group::Decreases down the group::Remains constant::Increases across a period::B::Electronegativity decreases down the group due to larger atomic size.
+29::Which s-block element is used in the manufacture of glass?::Sodium::Potassium::Calcium::Magnesium::A::Sodium (in the form of Na2CO3) is used in glass manufacturing.
+30::The compound Ca(OH)2 is known as::Quicklime::Slaked lime::Limestone::Gypsum::B::Calcium hydroxide (Ca(OH)2) is called slaked lime.
+31::The flame color of barium is::Green::Yellow::Red::Violet::A::Barium emits a green flame in the flame test.
+32::The s-block element with the smallest atomic radius is::Beryllium::Lithium::Sodium::Magnesium::A::Beryllium, being at the top of group 2, has the smallest atomic radius among s-block elements.
+33::The compound CaSO4·2H2O is known as::Gypsum::Epsom salt::Washing sod::aBaking sod::aA::Calcium sulfate dihydrate (CaSO4·2H2O) is called gypsum.
+34::The melting point of alkali metals::Increases down the group::Decreases down the group::Remains constant::Is zero::B::Melting points decrease down the group due to weaker metallic bonding in larger atoms.
+35::Which s-block element is used in fertilizers?::Potassium::Sodium::Lithium::Beryllium::A::Potassium is widely used in fertilizers as potassium salts (e.g., KCl).
+36::The reaction of s-block metals with oxygen forms::Oxides or peroxides::Nitrides::Sulfides::Chlorides::A::s-block metals form oxides (e.g., MgO) or peroxides (e.g., Na2O2) with oxygen.
+37::The density of alkali metals generally::Increases down the group::Decreases down the group::Remains constant::Is zero::A::Density increases down the group, except for potassium, which is less dense than sodium.
+38::Which s-block element is used in photoelectric cells?::Cesium::Sodium::Magnesium::Calcium::A::Cesium’s low ionization energy makes it suitable for photoelectric cells.
+39::The compound NaCl is commonly known as::Table salt::Baking sod::aWashing sod::aEpsom salt::A::Sodium chloride (NaCl) is known as table salt.
+40::The ionization energy of s-block elements::Increases down the group::Decreases down the group::Remains constant::Increases across a period::B::Ionization energy decreases down the group due to larger atomic size and shielding effect.
+41::The flame color of calcium is::Brick red::Yellow::Green::Violet::A::Calcium emits a brick red flame in the flame test.
+42::Which s-block element is toxic and used in nuclear reactors?::Beryllium::Sodium::Radium::Potassium::C::Radium, being radioactive, is toxic and used in nuclear applications.
+43::The compound K2CO3 is used in::Glass manufacturing::Fertilizers::Fireworks::All of these::D::Potassium carbonate is used in glass, fertilizers, and fireworks.
+44::The hydration energy of Mg^2+ compared to Na^+ is::Higher::Lower::Equal::Zero::A::Mg^2+ has higher hydration energy due to its smaller size and higher charge density.
+45::The s-block element with the highest electronegativity is::Beryllium::Lithium::Sodium::Potassium::A::Beryllium, being the smallest s-block element, has the highest electronegativity.
+46::The reaction of calcium with nitrogen forms::Ca3N2::CaN::CaN2::Ca2N::A::Calcium reacts with nitrogen to form calcium nitride (Ca3N2).
+47::The solubility of alkali metal carbonates::Increases down the group::Decreases down the group::Remains constant::Is zero::A::Solubility of carbonates increases down the group due to larger cation size.
+48::Which s-block element is used in the treatment of bipolar disorder?::Lithium::Sodium::Potassium::Magnesium::A::Lithium (as lithium carbonate) is used to treat bipolar disorder.
+49::The compound CaO is known as::Quicklime::Slaked lime::Limestone::Gypsum::A::Calcium oxide (CaO) is called quicklime.
+50::The s-block element with the lowest ionization energy is::Francium::Cesium::Radium::Barium::A::Francium, at the bottom of group 1, has the lowest ionization energy due to its large size.

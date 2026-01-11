@@ -1,0 +1,50 @@
+1::Which of the following is a characteristic of transition elements?::Form ionic compounds only::Have completely filled d-orbitals::Exhibit variable oxidation states::Are non-metals::C::Transition elements exhibit variable oxidation states due to the availability of d-electrons.
+2::The general electronic configuration of transition elements is::ns²np³::ns²np⁵::(n-1)d¹⁻¹⁰ns¹⁻²::ns²np⁶::C::Transition elements have the configuration (n-1)d¹⁻¹⁰ns¹⁻², with partially filled d-orbitals.
+3::Which block do transition elements belong to?::s-block::p-block::d-block::f-block::C::Transition elements are d-block elements, located between s- and p-block in the periodic table.
+4::Which element is not a transition element?::Fe::Cu::Zn::Cr::C::Zn is not a transition element because it has a fully filled d-orbital (3d¹⁰) in its ground state.
+5::The maximum oxidation state of chromium is::+3::+4::+5::+6::D::Chromium exhibits a maximum oxidation state of +6, as in CrO₄²⁻ or Cr₂O₇²⁻.
+6::Which transition metal is used as a catalyst in the Haber process?::Iron::Copper::Nickel::Zinc::A::Iron is used as a catalyst in the Haber process for ammonia synthesis.
+7::What is the color of CuSO₄·5H₂O?::Blue::Green::Yellow::White::A::CuSO₄·5H₂O is blue due to the d-d transition of Cu²⁺ ions in a hydrated complex.
+8::Which ion is paramagnetic?::Zn²⁺::Cu²⁺::Sc³⁺::Ti⁴⁺::B::Cu²⁺ (3d⁹) has unpaired d-electrons, making it paramagnetic.
+9::The coordination number of [Co(NH₃)₆]³⁺ is::4::6::8::3::B::The coordination number is 6, as cobalt is surrounded by six NH₃ ligands in an octahedral complex.
+10::What is the oxidation state of Fe in [Fe(CN)₆]⁴⁻?::+2::+3::+4::+5::A::Let x be Fe’s oxidation state. 6(CN⁻) = -6, so x - 6 = -4, x = +2.
+11::Which ligand is bidentate?::Cl⁻::NH₃::C₂O₄²⁻::H₂O::C::Oxalate (C₂O₄²⁻) is a bidentate ligand, forming two coordinate bonds with the metal.
+12::The magnetic property of transition metal complexes depends on::Number of ligands::Oxidation state::Number of unpaired electrons::Coordination number::C::Paramagnetism depends on the presence of unpaired electrons in d-orbitals.
+13::Which compound is used in photography?::AgCl::FeSO₄::CuSO₄::NiCl₂::A::Silver chloride (AgCl) is light-sensitive and used in photographic films.
+14::What is the shape of [Ni(CN)₄]²⁻?::Tetrahedral::Square planar::Octahedral::Linear::B::[Ni(CN)₄]²⁻ has a square planar shape due to Ni²⁺ (d⁸) with strong-field CN⁻ ligands causing dsp² hybridization.
+15::Which transition metal is liquid at room temperature?::Fe::Hg::Ni::Co::B::Mercury (Hg) is the only transition metal that is liquid at room temperature (melting point -38.83°C).
+16::The color of transition metal compounds is due to::s-s transitions::p-p transitions::d-d transitions::f-f transitions::C::d-d transitions of electrons in partially filled d-orbitals cause the colors in transition metal compounds.
+17::Which ion has no unpaired electrons?::Fe²⁺::Ni²⁺::Zn²⁺::Mn²⁺::C::Zn²⁺ (3d¹⁰) has a fully filled d-orbital, so no unpaired electrons.
+18::What is the oxidation state of Mn in KMnO₄?::+5::+6::+7::+8::C::Let x be Mn’s oxidation state. K⁺ = +1, 4O = -8, so 1 + x - 8 = 0, x = +7.
+19::Which transition metal is used in stainless steel?::Cr::Cu::Ni::Zn::A::Chromium is used in stainless steel to enhance corrosion resistance.
+20::The coordination number of [Fe(EDTA)]⁻ is::4::6::8::5::B::EDTA is a hexadentate ligand, so the coordination number of Fe in [Fe(EDTA)]⁻ is 6.
+21::Which of the following is a chelating ligand?::NH₃::Cl⁻::en::CN⁻::C::Ethylenediamine (en) is a bidentate chelating ligand, forming a ring with the metal.
+22::What is the geometry of [CoF₆]³⁻?::Tetrahedral::Square planar::Octahedral::Trigonal bipyramidal::C::[CoF₆]³⁻ has an octahedral geometry due to six fluoride ligands around Co³⁺.
+23::Which compound is used as an oxidizing agent in titrations?::KMnO₄::CuSO₄::NiSO₄::ZnSO₄::A::KMnO₄ is a strong oxidizing agent used in redox titrations.
+24::The oxidation state of Ni in [Ni(CO)₄] is::0::+2::+3::+4::A::In [Ni(CO)₄], CO is a neutral ligand, so Ni has an oxidation state of 0.
+25::Which transition metal forms a green flame in a flame test?::Cu::Fe::Ni::Mn::A::Copper (Cu²⁺) produces a green flame due to electron transitions in the flame test.
+26::What is the electronic configuration of Cr³⁺?::[Ar]3d³::[Ar]3d⁴::[Ar]4s¹3d²::[Ar]4s²3d¹::A::Cr (3d⁵4s¹) loses 4s¹ and two 3d electrons to form Cr³⁺:: [Ar]3d³.
+27::Which complex is diamagnetic?::[Ni(CN)₄]²⁻::[CoF₆]³⁻::[Fe(H₂O)₆]²⁺::[MnCl₆]⁴⁻::A::[Ni(CN)₄]²⁻ (Ni²⁺, d⁸) is square planar with no unpaired electrons due to strong-field ligands.
+28::What is the coordination number of [Cu(NH₃)₄]²⁺?::2::4::6::8::B::Cu²⁺ is surrounded by four NH₃ ligands, giving a coordination number of 4.
+29::Which transition metal is used in galvanizing?::Fe::Cu::Zn::Ni::C::Zinc is used in galvanizing to coat iron and prevent corrosion.
+30::The formula of chromate ion is::CrO₄²⁻::Cr₂O₇²⁻::CrO₂⁻::CrO₃⁻::A::The chromate ion is CrO₄²⁻, where Cr is in the +6 oxidation state.
+31::Which ligand is monodentate?::Oxalate::Ethylenediamine::Ammoni::aEDTA::C::Ammonia (NH₃) is a monodentate ligand, donating one electron pair to the metal.
+32::What is the shape of [Fe(CO)₅]?::Tetrahedral::Trigonal bipyramidal::Square planar::Octahedral::B::[Fe(CO)₅] has a trigonal bipyramidal shape with five CO ligands.
+33::Which transition metal is used in catalytic converters?::Fe::Pt::Cu::Zn::B::Platinum (Pt) is used in catalytic converters to reduce vehicle emissions.
+34::The oxidation state of Co in [Co(NH₃)₅Cl]²⁺ is::+2::+3::+4::+5::B::Let x be Co’s oxidation state. 5NH₃ = 0, Cl = -1, so x - 1 = +2, x = +3.
+35::Which ion is responsible for the red color in rubies?::Fe³⁺::Cr³⁺::Cu²⁺::Ni²⁺::B::Cr³⁺ ions in Al₂O₃ lattice cause the red color in rubies.
+36::What is the geometry of [NiCl₄]²⁻?::Tetrahedral::Square planar::Octahedral::Linear::A::[NiCl₄]²⁻ (Ni²⁺, d⁸) is tetrahedral due to weak-field Cl⁻ ligands causing sp³ hybridization.
+37::Which compound is used in electro System:: the treatment of steel?::FeSO₄::ZnSO₄::Cr₂O₃::NiSO₄::A::FeSO₄ (ferrous sulfate) is used in the treatment of steel to prevent corrosion.
+38::The maximum oxidation state of vanadium is::+3::+4::+5::+6::C::Vanadium exhibits a maximum oxidation state of +5, as in V₂O₅.
+39::Which complex ion has a coordination number of 6?::[Ni(CN)₄]²⁻::[Cu(NH₃)₄]²⁺::[Co(NH₃)₆]³⁺::[Fe(CO)₅]::C::[Co(NH₃)₆]³⁺ has six NH₃ ligands, giving a coordination number of 6.
+40::What is the color of anhydrous CuSO₄?::Blue::Green::White::Yellow::C::Anhydrous CuSO₄ is white, while the hydrated form is blue.
+41::Which transition metal is used in the Contact process?::Fe::V::Ni::Cu::B::Vanadium (V₂O₅) is used as a catalyst in the Contact process for sulfuric acid production.
+42::The electronic configuration of Fe²⁺ is::[Ar]3d⁶::[Ar]3d⁵4s¹::[Ar]3d⁴4s²::[Ar]3d⁷::A::Fe (3d⁶4s²) loses two 4s electrons to form Fe²⁺:: [Ar]3d⁶.
+43::Which ligand causes strong crystal field splitting?::F⁻::Cl⁻::CN⁻::H₂O::C::CN⁻ is a strong-field ligand, causing large crystal field splitting in complexes.
+44::What is the oxidation state of Cr in Cr₂O₇²⁻?::+5::+6::+7::+8::B::Let x be Cr’s oxidation state. 2x + 7(-2) = -2, 2x - 14 = -2, x = +6.
+45::Which transition metal is used in coins?::Fe::Cu::Zn::Mn::B::Copper is commonly used in coins due to its durability and malleability.
+46::The geometry of [Zn(NH₃)₄]²⁺ is::Tetrahedral::Square planar::Octahedral::Linear::A::[Zn(NH₃)₄]²⁺ (Zn²⁺, d¹⁰) is tetrahedral due to sp³ hybridization.
+47::Which compound is used in electroplating?::FeCl₃::CuSO₄::NiSO₄::ZnCl₂::B::CuSO₄ is used in copper electroplating processes.
+48::What is the oxidation state of Ni in [Ni(NH₃)₆]²⁺?::0::+2::+3::+4::B::Let x be Ni’s oxidation state. 6NH₃ = 0, so x = +2.
+49::Which transition metal forms a violet-colored solution?::Fe::Mn::Cu::Ni::B::Mn²⁺ ions form a violet-colored solution, as seen in MnSO₄.
+50::The crystal field splitting energy is highest for::Low-spin complexes::High-spin complexes::Tetrahedral complexes::Square planar complexes::A::Low-spin complexes have higher crystal field splitting energy due to strong-field ligands.

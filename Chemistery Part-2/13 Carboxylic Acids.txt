@@ -1,0 +1,50 @@
+1::The functional group in carboxylic acids is::–OH::–COOH::–CHO::–CO–::B::Carboxylic acids contain the carboxyl group (–COOH).
+2::The general formula of carboxylic acids is::CnH2n+1COOH::CnH2nCOOH::CnH2n–1COOH::CnHnCOOH::A::Carboxylic acids have the formula CnH2n+1COOH for saturated monocarboxylic acids.
+3::The IUPAC name of CH3COOH is::Methanoic acid::Ethanoic acid::Propanoic acid::Butanoic acid::B::CH3COOH is ethanoic acid, a two-carbon carboxylic acid.
+4::Carboxylic acids are prepared by the oxidation of::Alkenes::Alkynes::Primary alcohols::Ethers::C::Primary alcohols are oxidized to carboxylic acids using strong oxidizing agents like KMnO4.
+5::The boiling points of carboxylic acids are higher than alcohols due to::Covalent bonding::Ionic bonding::Hydrogen bonding::Van der Waals forces::C::Carboxylic acids form strong intermolecular hydrogen bonds, leading to high boiling points.
+6::Carboxylic acids are weak acids because they::Completely ionize in water::Partially ionize in water::Do not ionize in water::Form covalent bonds::B::Carboxylic acids partially ionize in water, releasing H⁺ ions.
+7::The reaction of a carboxylic acid with a base produces::An ester::A salt::An alcohol::An alkene::B::Carboxylic acids react with bases to form salts (e.g., CH3COOH + NaOH → CH3COONa).
+8::The reagent used to prepare carboxylic acids from alkyl halides is::NaOH::KCN::CO2 with Mg::LiAlH4::C::Alkyl halides form Grignard reagents with Mg, which react with CO2 to yield carboxylic acids.
+9::The IUPAC name of HCOOH is::Methanoic acid::Ethanoic acid::Propanoic acid::Butanoic acid::A::HCOOH is methanoic acid, a one-carbon carboxylic acid.
+10::The reaction of a carboxylic acid with an alcohol in the presence of an acid catalyst produces::An ester::An ether::An aldehyde::An amine::A::Esterification produces esters (e.g., CH3COOH + C2H5OH → CH3COOC2H5).
+11::The smell of ethanoic acid resembles::Vinegar::Fruits::Ammoni::aRotten eggs::A::Ethanoic acid (acetic acid) has a vinegar-like smell.
+12::The product of the reduction of a carboxylic acid with LiAlH4 is::An aldehyde::A ketone::A primary alcohol::An alkene::C::LiAlH4 reduces carboxylic acids to primary alcohols (e.g., CH3COOH → CH3CH2OH).
+13::The IUPAC name of CH3CH2COOH is::Methanoic acid::Ethanoic acid::Propanoic acid::Butanoic acid::C::CH3CH2COOH is propanoic acid, a three-carbon carboxylic acid.
+14::Carboxylic acids react with NaHCO3 to produce::CO2 gas::H2 gas::O2 gas::N2 gas::A::Carboxylic acids release CO2 gas with NaHCO3, forming a salt and water.
+15::The hybridization of the carbonyl carbon in carboxylic acids is::sp::sp²::sp³::sp³d::B::The carbonyl carbon in –COOH is sp² hybridized, forming a trigonal planar structure.
+16::The reaction of a carboxylic acid with PCl5 produces::An ester::An acid chloride::An alcohol::An alkene::B::PCl5 converts carboxylic acids to acid chlorides (e.g., CH3COOH → CH3COCl).
+17::The IUPAC name of CH3(CH2)2COOH is::Propanoic acid::Butanoic acid::Pentanoic acid::Hexanoic acid::B::CH3(CH2)2COOH is butanoic acid, a four-carbon carboxylic acid.
+18::The common name of HCOOH is::Acetic acid::Formic acid::Propionic acid::Butyric acid::B::HCOOH is commonly known as formic acid.
+19::The decarboxylation of carboxylic acids produces::Alkanes::Alkenes::Alcohols::Esters::A::Decarboxylation (e.g., with soda lime) removes CO2, forming alkanes (CH3COOH → CH4).
+20::The reagent used for decarboxylation of carboxylic acids is::NaOH::Soda lime::H2SO4::KMnO4::B::Soda lime (NaOH + CaO) is used for decarboxylation.
+21::The product of the reaction of ethanoic acid with ethanol is::Ethyl ethanoate::Methyl ethanoate::Ethyl methanoate::Methyl methanoate::A::CH3COOH + C2H5OH → CH3COOC2H5 (ethyl ethanoate).
+22::Carboxylic acids are soluble in water due to::Covalent bonding::Hydrogen bonding::Ionic bonding::Van der Waals forces::B::The –COOH group forms hydrogen bonds with water, enhancing solubility.
+23::The IUPAC name of CH3CH2CH2CH2COOH is::Butanoic acid::Pentanoic acid::Hexanoic acid::Heptanoic acid::B::CH3CH2CH2CH2COOH is pentanoic acid, a five-carbon carboxylic acid.
+24::The common name of CH3CH2COOH is::Acetic acid::Formic acid::Propionic acid::Butyric acid::C::CH3CH2COOH is commonly known as propionic acid.
+25::The reaction of a carboxylic acid with ammonia produces::An amine::An amide::An ester::A nitrile::B::Carboxylic acids react with NH3 to form ammonium salts, which dehydrate to amides.
+26::The product of the reaction of CH3COOH with NH3 followed by heating is::CH3NH2::CH3CONH2::CH3CN::CH3OH::B::CH3COOH + NH3 → CH3CONH2 (ethanamide) after dehydration.
+27::The acidity of carboxylic acids is due to::The –OH group::Resonance stabilization of the carboxylate ion::The C–C bond::The alkyl group::B::The carboxylate ion is stabilized by resonance, enhancing acidity.
+28::The IUPAC name of HOOC–CH2–COOH is::Ethanedioic acid::Propanedioic acid::Butanedioic acid::Pentanedioic acid::B::HOOC–CH2–COOH is propanedioic acid (malonic acid).
+29::The common name of CH3(CH2)2COOH is::Propionic acid::Butyric acid::Valeric acid::Caproic acid::B::CH3(CH2)2COOH is commonly called butyric acid.
+30::The reaction of a carboxylic acid with SOCl2 produces::An acid chloride::An ester::An alcohol::An anhydride::A::SOCl2 converts carboxylic acids to acid chlorides (e.g., CH3COOH → CH3COCl).
+31::The product of the reaction of propanoic acid with methanol is::Methyl ethanoate::Methyl propanoate::Ethyl ethanoate::Ethyl propanoate::B::CH3CH2COOH + CH3OH → CH3CH2COOCH3 (methyl propanoate).
+32::Carboxylic acids can be prepared from nitriles by::Hydrolysis::Reduction::Oxidation::Dehydration::A::Nitriles (R–CN) hydrolyze to carboxylic acids (R–COOH) under acidic or basic conditions.
+33::The IUPAC name of CH3CH(COOH)CH3 is::2-Methylpropanoic acid::2-Methylbutanoic acid::3-Methylpropanoic acid::2-Methylpentanoic acid::A::CH3CH(COOH)CH3 is 2-methylpropanoic acid.
+34::The common name of HOOC–COOH is::Acetic acid::Oxalic acid::Malonic acid::Succinic acid::B::HOOC–COOH is oxalic acid, a two-carbon dicarboxylic acid.
+35::The reaction of a carboxylic acid with Na2CO3 produces::CO2 gas::H2 gas::O2 gas::N2 gas::A::Carboxylic acids react with Na2CO3 to release CO2, forming a salt.
+36::The product of the reaction of butanoic acid with propanol is::Propyl butanoate::Butyl propanoate::Propyl ethanoate::Butyl ethanoate::A::CH3CH2CH2COOH + C3H7OH → CH3CH2CH2COOC3H7 (propyl butanoate).
+37::The acidity of carboxylic acids increases with::Longer alkyl chains::Electron-donating groups::Electron-withdrawing groups::More hydrogen bonds::C::Electron-withdrawing groups (e.g., –Cl) stabilize the carboxylate ion, increasing acidity.
+38::The IUPAC name of HOOC–(CH2)2–COOH is::Propanedioic acid::Butanedioic acid::Pentanedioic acid::Hexanedioic acid::B::HOOC–(CH2)2–COOH is butanedioic acid (succinic acid).
+39::The product of the reaction of ethanoic acid with PBr3 is::CH3COBr::CH3Br::CH3CHO::CH3OH::A::PBr3 converts carboxylic acids to acid bromides (e.g., CH3COOH → CH3COBr).
+40::The common name of CH3CH2CH2COOH is::Propionic acid::Butyric acid::Valeric acid::Caproic acid::B::CH3CH2CH2COOH is butyric acid.
+41::The reaction of a carboxylic acid with an amine produces::An ester::An amide::An alcohol::An alkene::B::Carboxylic acids react with amines to form amides via dehydration.
+42::The IUPAC name of CH3(CH2)3COOH is::Butanoic acid::Pentanoic acid::Hexanoic acid::Heptanoic acid::B::CH3(CH2)3COOH is pentanoic acid.
+43::The product of the Kolbe’s electrolysis of sodium ethanoate is::Ethane::Ethene::Methane::Propane::A::Kolbe’s electrolysis of CH3COONa produces ethane (C2H6) at the anode.
+44::The common name of HOOC–CH2–COOH is::Oxalic acid::Malonic acid::Succinic acid::Glutaric acid::B::HOOC–CH2–COOH is malonic acid.
+45::The reaction of a carboxylic acid with diazomethane (CH2N2) produces::An ester::An amide::An acid chloride::An anhydride::A::CH2N2 methylates carboxylic acids to form methyl esters (e.g., CH3COOH → CH3COOCH3).
+46::The IUPAC name of CH3CH2CH(COOH)CH3 is::2-Methylbutanoic acid::3-Methylbutanoic acid::2-Methylpentanoic acid::3-Methylpentanoic acid::B::CH3CH2CH(COOH)CH3 is 3-methylbutanoic acid.
+47::The product of the reaction of methanoic acid with LiAlH4 is::Methanol::Ethanol::Methanal::Ethanal::A::HCOOH is reduced to methanol (CH3OH) by LiAlH4.
+48::The common name of CH3(CH2)3COOH is::Butyric acid::Valeric acid::Caproic acid::Heptanoic acid::B::CH3(CH2)3COOH is valeric acid.
+49::The reaction of a carboxylic acid with another carboxylic acid in the presence of P2O5 produces::An ester::An anhydride::An amide::An alcohol::B::P2O5 dehydrates two carboxylic acid molecules to form an anhydride.
+50::The IUPAC name of HOOC–(CH2)3–COOH is::Butanedioic acid::Pentanedioic acid::Hexanedioic acid::Heptanedioic acid::B::HOOC–(CH2)3–COOH is pentanedioic acid (glutaric acid).

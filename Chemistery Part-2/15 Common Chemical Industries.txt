@@ -1,0 +1,50 @@
+1::Which raw material is primarily used in the cement industry in Pakistan?::Limestone::Gypsum::Clay::All of these::D::The cement industry uses limestone, clay, and gypsum as primary raw materials for production.
+2::What is the main product of the fertilizer industry in Pakistan?::Ure::aAmmonium nitrate::Potassium chloride::Superphosphate::A::Urea is the most widely produced fertilizer in Pakistan due to its high nitrogen content.
+3::Which gas is used as a raw material in the ammonia synthesis process?::Oxygen::Nitrogen::Carbon dioxide::Sulfur dioxide::B::Nitrogen gas, obtained from air, reacts with hydrogen in the Haber-Bosch process to produce ammonia.
+4::The Haber-Bosch process operates at a temperature of approximately::200°C::400°C::600°C::800°C::B::The Haber-Bosch process for ammonia synthesis typically operates at 400–500°C under high pressure.
+5::Which catalyst is used in the Haber-Bosch process?::Iron::Nickel::Platinum::Copper::A::Iron, often promoted with traces of other oxides, is used as a catalyst in the Haber-Bosch process.
+6::What is the primary source of sulfuric acid production in Pakistan?::Sulfur::Pyrites::Gypsum::Limestone::A::Sulfur is the primary raw material for sulfuric acid production via the Contact process.
+7::Which process is used to manufacture sulfuric acid?::Haber process::Contact process::Solvay process::Ostwald process::B::The Contact process is used to produce sulfuric acid by oxidizing sulfur dioxide to sulfur trioxide.
+8::The main raw material for the paper industry in Pakistan is::Wood pulp::Bagasse::Cotton::Limestone::B::Bagasse, a byproduct of sugarcane, is widely used in Pakistan’s paper industry.
+9::Which compound is a key ingredient in the production of cement clinker?::CaCO₃::CaSO₄::SiO₂::Al₂O₃::A::Calcium carbonate (CaCO₃) from limestone is heated to form calcium oxide in cement clinker.
+10::What is the approximate percentage of nitrogen in urea?::36%::46%::56%::66%::B::Urea (NH₂CONH₂) contains approximately 46% nitrogen by mass.
+11::Which gas is produced as a byproduct in the cement industry?::CO₂::SO₂::NO₂::O₂::A::Carbon dioxide (CO₂) is released during the calcination of limestone in cement production.
+12::The Contact process involves the oxidation of::SO₂ to SO₃::S to SO₂::SO₃ to H₂SO₄::H₂S to S::A::In the Contact process, sulfur dioxide (SO₂) is oxidized to sulfur trioxide (SO₃) using a catalyst.
+13::Which catalyst is used in the Contact process?::Iron::Vanadium pentoxide::Nickel::Platinum::B::Vanadium pentoxide (V₂O₅) is the catalyst used to oxidize SO₂ to SO₃ in the Contact process.
+14::What is the primary use of ammonia in Pakistan’s chemical industry?::Fertilizer production::Explosives::Dyes::Plastics::A::Ammonia is mainly used to produce nitrogenous fertilizers like urea and ammonium nitrate.
+15::Which raw material is used in the production of soda ash?::Limestone::Salt::Gypsum::Sulfur::B::Salt (NaCl) is a key raw material in the Solvay process for soda ash (Na₂CO₃) production.
+16::The Solvay process produces which compound as the main product?::Sulfuric acid::Soda ash::Ure::aCement::B::The Solvay process is used to manufacture soda ash (sodium carbonate, Na₂CO₃).
+17::Which byproduct is obtained in the Solvay process?::CaCl₂::NaCl::NH₄Cl::CO₂::A::Calcium chloride (CaCl₂) is a major byproduct of the Solvay process.
+18::What is the main source of gypsum used in Pakistan’s cement industry?::Khewr::aKohat::Dera Ghazi Khan::All of these::D::Gypsum is sourced from various regions in Pakistan, including Khewra, Kohat, and Dera Ghazi Khan.
+19::Which industry in Pakistan uses bagasse as a raw material?::Cement::Fertilizer::Paper::Sulfuric acid::C::The paper industry uses bagasse, a sugarcane residue, as a raw material for pulp production.
+20::What is the role of gypsum in cement production?::Increases strength::Retards setting time::Provides color::Reduces cost::B::Gypsum is added to cement to retard the setting time, allowing proper hardening.
+21::Which gas is used to produce hydrogen for ammonia synthesis?::Natural gas::Oxygen::Nitrogen::Carbon dioxide::A::Natural gas (methane) is reformed with steam to produce hydrogen for ammonia synthesis.
+22::The fertilizer industry in Pakistan primarily produces fertilizers based on::Nitrogen::Phosphorus::Potassium::All of these::D::The industry produces nitrogenous (e.g., urea), phosphatic, and potassic fertilizers.
+23::Which compound is used as a bleaching agent in the paper industry?::Cl₂::SO₂::H₂SO₄::NaOH::A::Chlorine (Cl₂) or its derivatives are used for bleaching pulp in the paper industry.
+24::What is the approximate pressure in the Haber-Bosch process?::100 atm::200 atm::300 atm::400 atm::B::The Haber-Bosch process operates at high pressures of about 200–300 atm.
+25::Which of the following is a phosphatic fertilizer?::Ure::aAmmonium nitrate::Diammonium phosphate::Potassium chloride::C::Diammonium phosphate (DAP) is a phosphatic fertilizer containing phosphorus.
+26::The main raw material for producing caustic soda in Pakistan is::Limestone::Salt::Sulfur::Gypsum::B::Salt (NaCl) is electrolyzed in the chlor-alkali process to produce caustic soda (NaOH).
+27::Which process is used to produce caustic soda?::Solvay process::Contact process::Chlor-alkali process::Haber process::C::The chlor-alkali process involves the electrolysis of NaCl to produce NaOH, Cl₂, and H₂.
+28::What is the byproduct of the chlor-alkali process?::CO₂::SO₂::Cl₂::CaCl₂::C::Chlorine gas (Cl₂) is a major byproduct of the chlor-alkali process.
+29::Which industry consumes the most sulfuric acid in Pakistan?::Fertilizer::Cement::Paper::Textile::A::The fertilizer industry uses sulfuric acid to produce phosphatic fertilizers like superphosphate.
+30::What is the chemical formula of soda ash?::NaCl::Na₂CO₃::NaOH::NaHCO₃::B::Soda ash is sodium carbonate, with the formula Na₂CO₃.
+31::Which region in Pakistan is known for cement production?::Karachi::Chakwal::Lahore::Quett::aB::Chakwal is a major hub for cement production due to abundant limestone deposits.
+32::The main component of cement clinker is::CaSO₄::CaO::SiO₂::Al₂O₃::B::Calcium oxide (CaO) is the primary component of cement clinker, derived from limestone.
+33::Which gas is used to purge impurities in the Contact process?::N₂::O₂::CO₂::H₂::B::Oxygen is used to oxidize SO₂ and purge impurities during sulfuric acid production.
+34::What is the role of ammonia in the Solvay process?::Reactant::Catalyst::Byproduct::Solvent::A::Ammonia is a reactant in the Solvay process, reacting with CO₂ and NaCl to form NaHCO₃.
+35::Which fertilizer is known as “nitrogen fertilizer”?::DAP::SSP::Ure::aNPK::C::Urea is a nitrogen fertilizer, providing 46% nitrogen to plants.
+36::The paper industry in Pakistan primarily uses which chemical for pulping?::H₂SO₄::NaOH::Cl₂::NH₃::B::Sodium hydroxide (NaOH) is used in the kraft process for pulping in the paper industry.
+37::Which of the following is a raw material for urea production?::CO₂::SO₂::O₂::N₂::A::Carbon dioxide (CO₂) reacts with ammonia to produce urea in the fertilizer industry.
+38::What is the approximate composition of SiO₂ in cement?::20–25%::30–35%::40–45%::50–55%::A::Silica (SiO₂) constitutes about 20–25% of cement, contributing to its strength.
+39::Which industry in Pakistan is located near salt mines for raw material?::Soda ash::Cement::Fertilizer::Paper::A::The soda ash industry is located near salt mines (e.g., Khewra) for access to NaCl.
+40::What is the final product of the reaction between ammonia and CO₂ in urea production?::NH₄NO₃::NH₂CONH₂::NaHCO₃::CaCO₃::B::Ammonia and CO₂ react to form urea (NH₂CONH₂) via ammonium carbamate.
+41::Which compound is used to control pH in the paper industry?::H₂SO₄::NaOH::CaCO₃::Cl₂::C::Calcium carbonate (CaCO₃) is used as a filler and to control pH in paper production.
+42::The cement industry in Pakistan primarily uses which fuel?::Coal::Natural gas::Oil::All of these::D::Coal, natural gas, and oil are used as fuels in cement kilns, depending on availability.
+43::Which fertilizer provides both nitrogen and phosphorus?::Ure::aDAP::SSP::KCl::B::Diammonium phosphate (DAP) contains both nitrogen and phosphorus.
+44::What is the role of V₂O₅ in the Contact process?::Reactant::Catalyst::Solvent::Byproduct::B::Vanadium pentoxide (V₂O₅) catalyzes the oxidation of SO₂ to SO₃.
+45::Which chemical is used in the bleaching of textiles in Pakistan?::H₂SO₄::NaOH::H₂O₂::SO₂::C::Hydrogen peroxide (H₂O₂) is used as a bleaching agent in the textile industry.
+46::The main raw material for superphosphate fertilizer is::Rock phosphate::Limestone::Gypsum::Salt::A::Rock phosphate is treated with sulfuric acid to produce superphosphate fertilizer.
+47::Which industry in Pakistan is energy-intensive?::Cement::Paper::Soda ash::All of these::D::Cement, paper, and soda ash industries are all energy-intensive due to high-temperature processes.
+48::What is the approximate temperature in the cement kiln?::1000°C::1450°C::2000°C::2500°C::B::Cement kilns operate at approximately 1450°C to form clinker.
+49::Which byproduct of the fertilizer industry is used in explosives?::Ammonium nitrate::CaCl₂::NaHCO₃::CO₂::A::Ammonium nitrate is used in explosives due to its high nitrogen content and reactivity.
+50::Which chemical industry in Pakistan relies on limestone deposits?::Cement::Soda ash::Fertilizer::All of these::D::Limestone is used in cement (CaO), soda ash (Solvay process), and fertilizer industries.

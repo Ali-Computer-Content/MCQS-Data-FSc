@@ -1,0 +1,50 @@
+1::The scientific name of an organism consists of::Genus and species::Family and genus::Order and family::Class and order::A::The binomial nomenclature system uses the genus and species names, e.g., *Homo sapiens* for humans.
+2::The basic unit of classification is::Genus::Species::Family::Order::B::Species is the smallest unit of classification, representing organisms capable of interbreeding to produce fertile offspring.
+3::Which kingdom includes organisms with cell walls made of chitin?::Monera::Protista::Fungi::Plantae::C::Fungi have cell walls made of chitin, unlike Plantae (cellulose) or Monera (peptidoglycan in bacteria).
+4::Viruses are considered non-living outside a host because they lack::Cell membrane::Metabolism::DNA::RNA::B::Viruses lack metabolic processes outside a host, making them non-living until they infect a cell.
+5::The five-kingdom classification was proposed by::Linnaeus::Whittaker::Margulis::Haeckel::B::Robert Whittaker proposed the five-kingdom system (Monera, Protista, Fungi, Plantae, Animalia) in 1969.
+6::Which of the following is a prokaryotic organism?::Amoeba::Yeast::E. coli::Paramecium::C::*Escherichia coli* is a bacterium, a prokaryote lacking a nucleus, unlike the eukaryotic Amoeba, yeast, and Paramecium.
+7::The term 'binomial nomenclature' was introduced by::Whittaker::Linnaeus::Margulis::Pasteur::B::Carl Linnaeus developed binomial nomenclature for naming organisms using genus and species.
+8::Which kingdom includes unicellular eukaryotes?::Monera::Protista::Fungi::Animalia::B::Protista includes unicellular eukaryotes like Amoeba and Paramecium, while Monera contains prokaryotes.
+9::The capsid of a virus is made of::Lipids::Proteins::Carbohydrates::Nucleic acids::B::The capsid, a virus’s protein coat, surrounds its genetic material (DNA or RNA).
+10::Bacteria with a thick peptidoglycan layer are classified as::Gram-negative::Gram-positive::Spirochetes::Cyanobacteria::B::Gram-positive bacteria retain the crystal violet stain due to their thick peptidoglycan cell wall.
+11::Which of the following is NOT a characteristic of viruses?::Have DNA or RNA::Reproduce independently::Crystalline form outside host::Obligate parasites::B::Viruses cannot reproduce independently; they require a host cell to replicate.
+12::The largest taxonomic group is::Species::Genus::Kingdom::Phylum::C::Kingdom is the highest taxonomic rank in the five-kingdom classification system.
+13::Fungi are primarily::Autotrophic::Heterotrophic::Photosynthetic::Chemosynthetic::B::Fungi are heterotrophic, obtaining nutrients by absorbing organic matter, often as saprophytes or parasites.
+14::Which structure is absent in bacteria?::Cell wall::Nucleus::Ribosomes::Flagella::B::Bacteria are prokaryotes and lack a true nucleus; their DNA is in a nucleoid region.
+15::The study of classification is called::Taxonomy::Ecology::Genetics::Morphology::A::Taxonomy is the science of naming, describing, and classifying organisms.
+16::Which virus causes AIDS?::Hepatitis B::HIV::Influenza::Herpes::B::Human Immunodeficiency Virus (HIV) is responsible for causing AIDS.
+17::The cell wall of bacteria is made of::Chitin::Cellulose::Peptidoglycan::Lignin::C::Peptidoglycan is the primary component of bacterial cell walls, providing structural support.
+18::Which kingdom includes multicellular, photosynthetic organisms?::Fungi::Plantae::Animalia::Protista::B::Plantae includes multicellular, photosynthetic organisms like plants with cellulose cell walls.
+19::Viruses are measured in::Micrometers::Nanometers::Millimeters::Centimeters::B::Viruses are extremely small, typically measured in nanometers (nm), e.g., 20–300 nm.
+20::The mode of nutrition in bacteria can be::Autotrophic::Heterotrophic::Both A and B::None of these::C::Bacteria can be autotrophic (e.g., cyanobacteria) or heterotrophic (e.g., decomposers or parasites).
+21::Which of the following is a characteristic of Monera?::Eukaryotic cells::Multicellular::Prokaryotic cells::Chitin cell wall::C::Monera includes prokaryotic organisms like bacteria, lacking a true nucleus.
+22::The genetic material in viruses can be::DNA only::RNA only::DNA or RNA::Protein::C::Viruses may contain either DNA or RNA as their genetic material, but not both simultaneously.
+23::Which group includes slime molds?::Fungi::Protista::Monera::Plantae::B::Slime molds are unicellular or multicellular eukaryotes classified under Protista.
+24::The classification level between class and family is::Genus::Order::Phylum::Species::B::Order is the taxonomic rank between class and family in the hierarchy.
+25::Which scientist introduced the three-domain system?::Linnaeus::Whittaker::Woese::Margulis::C::Carl Woese proposed the three-domain system (Bacteria, Archaea, Eukarya) based on rRNA analysis.
+26::Cyanobacteria are also known as::Green algae::Blue-green algae::Red algae::Brown algae::B::Cyanobacteria, or blue-green algae, are photosynthetic bacteria classified under Monera.
+27::Which of the following is a retrovirus?::Influenza virus::HIV::Hepatitis B::Bacteriophage::B::HIV is a retrovirus, using reverse transcriptase to convert RNA to DNA.
+28::The shape of cocci bacteria is::Rod-shaped::Spiral::Spherical::Comma-shaped::C::Cocci bacteria are spherical, unlike bacilli (rod-shaped) or spirilla (spiral).
+29::Which kingdom lacks cell walls?::Plantae::Fungi::Animalia::Protista::C::Animalia includes organisms without cell walls, unlike Plantae (cellulose) and Fungi (chitin).
+30::Bacteriophages are viruses that infect::Plants::Animals::Bacteria::Fungi::C::Bacteriophages specifically infect bacteria, injecting their genetic material to replicate.
+31::The two-name system of naming organisms is called::Taxonomy::Binomial nomenclature::Classification::Systematics::B::Binomial nomenclature assigns each organism a two-part name: genus and species.
+32::Which of the following is a eukaryotic kingdom?::Monera::Fungi::Bacteria::Archaea::B::Fungi are eukaryotic, with membrane-bound nuclei, unlike Monera and Archaea (prokaryotes).
+33::The process of viral replication inside a host is called::Lytic cycle::Lysogenic cycle::Both A and B::Binary fission::C::Viruses replicate via the lytic cycle (destroying the host) or lysogenic cycle (integrating into the host genome).
+34::Which structure helps bacteria move?::Pili::Flagella::Capsule::Cell wall::B::Flagella are whip-like structures enabling bacterial motility.
+35::The primary basis for classifying organisms is::Morphology::Genetics::Ecology::Behavior::A::Morphology (structural characteristics) is a primary basis for classification, though genetics is increasingly used.
+36::Which kingdom includes organisms with both unicellular and multicellular forms?::Monera::Protista::Fungi::Animalia::B::Protista includes both unicellular (e.g., Amoeba) and multicellular (e.g., algae) organisms.
+37::The envelope of some viruses is derived from::Host cell membrane::Viral capsid::Bacterial cell wall::Fungal cell wall::A::The viral envelope, if present, is derived from the host cell’s membrane during budding.
+38::Which of the following is NOT a domain in the three-domain system?::Bacteria::Archaea::Eukarya::Monera::D::Monera is a kingdom, not a domain; the domains are Bacteria, Archaea, and Eukarya.
+39::Gram-negative bacteria have::Thick peptidoglycan layer::Thin peptidoglycan layer::No cell wall::Chitin cell wall::B::Gram-negative bacteria have a thin peptidoglycan layer and an outer lipid membrane, unlike Gram-positive.
+40::Which organism is an example of Protista?::E. coli::Paramecium::Mushroom::Fern::B::Paramecium is a unicellular eukaryote in Protista, unlike E. coli (Monera), mushroom (Fungi), or fern (Plantae).
+41::The classification of viruses is based on::Cell wall::Genetic material::Nucleus::Ribosomes::B::Viruses are classified by their genetic material (DNA/RNA) and structure, as they lack cells.
+42::Which bacterial shape is rod-like?::Cocci::Bacilli::Spirilla::Vibrio::B::Bacilli are rod-shaped bacteria, unlike cocci (spherical) or spirilla (spiral).
+43::The five-kingdom system places bacteria in::Protista::Monera::Fungi::Plantae::B::Monera includes all prokaryotes, such as bacteria and cyanobacteria.
+44::Which of the following is a characteristic of Archaea?::Peptidoglycan cell wall::Live in extreme environments::Multicellular::Photosynthetic only::B::Archaea often inhabit extreme environments (e.g., hot springs) and lack peptidoglycan in their cell walls.
+45::The term 'taxonomy' is derived from Greek words meaning::Naming and law::Order and law::Species and order::Genus and species::B::Taxonomy comes from 'taxis' (order) and 'nomos' (law), referring to the science of classification.
+46::Which virus causes the common cold?::Influenza virus::Rhinovirus::HIV::Hepatitis A::B::Rhinovirus is the primary cause of the common cold.
+47::The cell wall of fungi is made of::Cellulose::Peptidoglycan::Chitin::Lignin::C::Fungi have cell walls made of chitin, distinguishing them from plants (cellulose) and bacteria (peptidoglycan).
+48::Which kingdom includes heterotrophic, multicellular organisms without cell walls?::Plantae::Fungi::Animalia::Protista::C::Animalia includes multicellular, heterotrophic organisms lacking cell walls.
+49::The lysogenic cycle of a virus involves::Immediate host cell lysis::Integration into host DNA::Binary fission::Photosynthesis::B::In the lysogenic cycle, viral DNA integrates into the host genome and replicates without immediate lysis.
+50::The hierarchical order of classification is::Kingdom, phylum, class, order, family, genus, species::Species, genus, family, order, class, phylum, kingdom::Kingdom, class, phylum, order, family, genus, species::Phylum, kingdom, class, order, family, genus, species::A::The correct hierarchy is Kingdom, Phylum, Class, Order, Family, Genus, Species.

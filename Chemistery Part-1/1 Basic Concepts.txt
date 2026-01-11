@@ -1,0 +1,50 @@
+1::The soul of chemistry is its dealing with::Composition of matter::Properties of matter::Internal structural changes in matter::Composition and properties of matter::D::Chemistry focuses on both the composition (what matter is made of) and properties (how matter behaves) of substances.
+2::A pure substance which contains only one type of atom is called::Element::Compound::Mixture::Solution::A::An element is made up of only one type of atom, as defined in basic chemistry concepts.
+3::The smallest particle that can take part in chemical reactions is::Atom::Molecule::Ion::All of these::D::Atoms, molecules, and ions can all participate in chemical reactions depending on the context.
+4::The mass of one mole of electrons is::0.008 mg::0.55 mg::0.184 mg::1.673 mg::B::The mass of one mole of electrons is approximately 0.55 mg, calculated based on the mass of an electron and Avogadro’s number.
+5::27 g of Al will react completely with how much mass of O2 to produce Al2O3::8 g of oxygen::16 g of oxygen::32 g of oxygen::24 g of oxygen::D::Using stoichiometry, 4Al + 3O2 → 2Al2O3, 27 g (1 mole) of Al reacts with 24 g of O2.
+6::The number of moles of CO2 which contain 8.0 g of oxygen::0.25::0.50::1.0::1.50::A::8 g of oxygen corresponds to 0.5 moles of O atoms; since CO2 has 2 O atoms, 0.25 moles of CO2 are needed.
+7::The largest number of molecules are present in::3.6 g of H2O::4.8 g of C2H5OH::2.8 g of CO::5.4 g of N2O5::A::3.6 g of H2O (MW=18) gives 0.2 moles, which has the highest number of molecules (0.2 × 6.02×10^23).
+8::One mole of SO2 contains::6.02×10^23 atoms of oxygen::18.1×10^23 molecules of SO2::6.02×10^23 atoms of sulphur::4 gram atoms of SO2::C::One mole of SO2 contains 1 mole (6.02×10^23) of sulfur atoms, as there is one S atom per SO2 molecule.
+9::The volume occupied by 1.4 g of N2 at STP is::2.24 dm^3::22.4 dm^3::1.12 dm^3::112 cm^3::C::1.4 g of N2 (MW=28) is 0.05 moles; at STP, 1 mole occupies 22.4 dm^3, so 0.05 moles occupies 1.12 dm^3.
+10::A limiting reactant is the one which::Is taken in lesser quantity in grams::Is taken in lesser quantity in volume::Gives the maximum amount of product::Gives the minimum amount of product::D::The limiting reactant determines the amount of product formed and is consumed completely, giving the minimum product yield.
+11::The empirical formula of a compound with 20% X (At.wt=40) and 80% Y (At.wt=80) is::XY::X2Y::XY2::X2Y2::A::Dividing percentages by atomic weights, X:: 20/40 = 0.5, Y:: 80/80 = 1; ratio 0.5::1 simplifies to 1::1, so XY.
+12::Boron has two isotopes, B10 (19%) and B11 (81%). The average atomic weight is::10.19::10.81::11.19::11.81::B::Average atomic weight = (0.19×10) + (0.81×11) = 1.9 + 8.91 = 10.81.
+13::In the reaction 4NH3 + 5O2 → 4NO + 6H2O, if 1 mole NH3 and 1 mole O2 react completely, the limiting reactant is::NH3::O2::NO::H2O::B::O2 is limiting as 1 mole NH3 requires 1.25 moles O2, but only 1 mole O2 is available.
+14::The volume of CO2 formed when x liters of CO are oxidized completely at STP is 11.207 liters. The value of x is::11.207::22.414::5.6035::10::A::At STP, 1 mole of CO produces 1 mole of CO2 (same volume). Thus, x = 11.207 liters.
+15::8 g of O2 reacts with 8 g of H2 to produce water. The limiting reactant is::O2::H2::Water::None::A::For 2H2 + O2 → 2H2O, 8 g H2 (4 moles) requires 16 g O2, but only 8 g O2 is available, so O2 is limiting.
+16::The relative atomic mass of an element is based on::C-12 isotope::H-1 isotope::O-16 isotope::N-14 isotope::A::The relative atomic mass is defined relative to the C-12 isotope, which is assigned a mass of 12 u.
+17::The number of atoms in 9 g of water is::3.01×10^23::6.02×10^23::9.03×10^23::18.06×10^23::C::9 g H2O (0.5 moles) has 0.5×3×6.02×10^23 = 9.03×10^23 atoms (2H + 1O per molecule).
+18::The molar mass of a substance is expressed in::g/mol::kg/mol::mg/mol::μg/mol::A::Molar mass is defined as the mass of one mole of a substance in grams per mole.
+19::The Avogadro’s number is::6.02×10^23::6.02×10^22::6.02×10^24::6.02×10^21::A::Avogadro’s number is 6.02×10^23 particles per mole, a fundamental constant in chemistry.
+20::The mass of one molecule of water is::18 g::18 u::3×10^-23 g::3×10^-26 kg::D::Mass of one H2O molecule = 18/(6.02×10^23) ≈ 3×10^-23 g, or in kg, 3×10^-26 kg.
+21::The percentage composition of carbon in CO2 is::12%::27.3%::44%::72.7%::B::MW of CO2 = 44; carbon = 12/44 × 100 = 27.3%.
+22::The number of moles in 44 g of CO2 is::1::2::3::4::A::MW of CO2 = 44; 44 g = 1 mole.
+23::The molecular formula of a compound is determined by::Empirical formula and molar mass::Percentage composition only::Atomic masses only::Isotopic abundance::A::Molecular formula is found using the empirical formula and the compound’s molar mass.
+24::The mass spectrometry technique identifies chemicals based on::Mass and charge::Atomic number::Density::Boiling point::A::Mass spectrometry measures the mass-to-charge ratio of ions to identify substances.
+25::The number of ions in 1 mole of NaCl is::6.02×10^23::1.204×10^24::3.01×10^23::2.408×10^24::B::1 mole of NaCl produces 1 mole Na+ and 1 mole Cl-, so 2×6.02×10^23 = 1.204×10^24 ions.
+26::The molar volume of an ideal gas at STP is::22.4 dm^3::24.0 dm^3::22.4 cm^3::24.0 cm^3::A::At STP (0°C, 1 atm), 1 mole of an ideal gas occupies 22.4 dm^3.
+27::The atomic mass unit (u) is defined as::1/12th of C-12::1/16th of O-16::1/14th of N-14::1/1st of H-1::A::1 u is 1/12th the mass of a C-12 atom, approximately 1.66×10^-27 kg.
+28::The number of molecules in 16 g of methane (CH4) is::6.02×10^23::3.01×10^23::1.204×10^24::4.08×10^23::A::16 g CH4 (MW=16) is 1 mole, so 6.02×10^23 molecules.
+29::The empirical formula of C6H12O6 is::CH2O::C2H4O2::C3H6O3::C6H12O6::A::Dividing subscripts by 6, C6H12O6 reduces to CH2O.
+30::The percentage of oxygen in H2O is::88.9%::11.1%::50%::80%::A::MW of H2O = 18; oxygen = 16/18 × 100 = 88.9%.
+31::The number of moles in 98 g of H2SO4 is::1::2::3::4::A::MW of H2SO4 = 98; 98 g = 1 mole.
+32::The mass of 0.5 moles of NaOH is::20 g::40 g::80 g::10 g::A::MW of NaOH = 40; 0.5 moles = 0.5×40 = 20 g.
+33::The number of atoms in 0.1 mole of SO3 is::2.408×10^23::6.02×10^22::1.806×10^23::3.01×10^23::A::0.1 mole SO3 has 0.1×4×6.02×10^23 = 2.408×10^23 atoms (1S + 3O).
+34::The formula mass of CaCO3 is::50 u::75 u::100 u::125 u::C::Ca=40, C=12, O3=48; total = 100 u.
+35::The number of moles in 11 g of CO2 is::0.25::0.50::1.0::2.0::A::MW of CO2 = 44; 11 g = 11/44 = 0.25 moles.
+36::The mass of 2 moles of NH3 is::17 g::34 g::51 g::68 g::B::MW of NH3 = 17; 2 moles = 2×17 = 34 g.
+37::The percentage of nitrogen in NH3 is::82.4%::17.6%::50%::25%::A::MW of NH3 = 17; nitrogen = 14/17 × 100 = 82.4%.
+38::The number of molecules in 8 g of O2 is::1.505×10^23::3.01×10^23::6.02×10^23::1.204×10^24::A::8 g O2 (MW=32) is 0.25 moles; 0.25×6.02×10^23 = 1.505×10^23 molecules.
+39::The empirical formula of a compound with 40% C, 6.7% H, 53.3% O is::CH2O::C2H4O2::C3H6O3::CHO::A::Assuming 100 g, moles:: C=40/12=3.33, H=6.7/1=6.7, O=53.3/16=3.33; ratio 1::2::1, so CH2O.
+40::The number of moles in 36 g of H2O is::1::2::3::4::B::MW of H2O = 18; 36 g = 36/18 = 2 moles.
+41::The mass of 3 moles of CO is::28 g::56 g::84 g::112 g::C::MW of CO = 28; 3 moles = 3×28 = 84 g.
+42::The number of atoms in 4 g of He is::6.02×10^23::1.204×10^24::3.01×10^23::2.408×10^24::A::4 g He (AW=4) is 1 mole; 1 mole = 6.02×10^23 atoms.
+43::The percentage of hydrogen in C2H6 is::20%::80%::33.3%::66.7%::A::MW of C2H6 = 30; hydrogen = 6/30 × 100 = 20%.
+44::The number of molecules in 28 g of N2 is::6.02×10^23::3.01×10^23::1.204×10^24::2.408×10^24::A::28 g N2 (MW=28) is 1 mole; 1 mole = 6.02×10^23 molecules.
+45::The molar mass of Na2CO3 is::83 g/mol::106 g/mol::123 g/mol::146 g/mol::B::Na2=46, C=12, O3=48; total = 106 g/mol.
+46::The number of moles in 64 g of SO2 is::1::2::3::4::A::MW of SO2 = 64; 64 g = 64/64 = 1 mole.
+47::The mass of 0.25 moles of CaCl2 is::27.75 g::55.5 g::111 g::222 g::A::MW of CaCl2 = 111; 0.25 moles = 0.25×111 = 27.75 g.
+48::The percentage of oxygen in Na2SO4 is::45.1%::54.9%::32.4%::67.6%::A::MW of Na2SO4 = 142; oxygen = 64/142 × 100 = 45.1%.
+49::The number of atoms in 0.2 mole of CO2 is::3.612×10^23::6.02×10^23::1.806×10^23::1.204×10^24::A::0.2 mole CO2 has 0.2×3×6.02×10^23 = 3.612×10^23 atoms (1C + 2O).
+50::The empirical formula of a compound with molar mass 30 g/mol and composition 80% C, 20% H is::CH3::C2H6::CH4::C2H5::A::Moles:: C=80/12=6.67, H=20/1=20; ratio 1::3, so CH3. Molar mass matches empirical formula.

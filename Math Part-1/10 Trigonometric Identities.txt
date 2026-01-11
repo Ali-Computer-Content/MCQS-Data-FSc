@@ -1,0 +1,100 @@
+1::What is the value of sin²θ + cos²θ?::0::1::sinθ::cosθ::B::The Pythagorean identity states that sin²θ + cos²θ = 1 for all θ.
+2::Which of the following is equivalent to 1 - cos²θ?::sin²θ::tan²θ::sec²θ::csc²θ::A::Using sin²θ + cos²θ = 1, we get 1 - cos²θ = sin²θ.
+3::What is the reciprocal of sinθ?::cosθ::secθ::cscθ::tanθ::C::The reciprocal of sinθ is cscθ, as cscθ = 1/sinθ.
+4::Simplify tanθ × cotθ.::0::1::sinθ::cosθ::B::Since cotθ = 1/tanθ, tanθ × cotθ = tanθ × (1/tanθ) = 1.
+5::What is the value of sec²θ - tan²θ?::0::1::sin²θ::cos²θ::B::Using the identity sec²θ = 1 + tan²θ, sec²θ - tan²θ = (1 + tan²θ) - tan²θ = 1.
+6::Which identity is equivalent to 1 + cot²θ?::sin²θ::cos²θ::sec²θ::csc²θ::D::The Pythagorean identity states 1 + cot²θ = csc²θ.
+7::Simplify sinθ / cscθ.::sin²θ::cos²θ::1::sinθ::A::Since cscθ = 1/sinθ, sinθ / cscθ = sinθ × sinθ = sin²θ.
+8::What is cos(-θ) in terms of cosθ?::-cosθ::cosθ::sinθ::-sinθ::B::Cosine is an even function, so cos(-θ) = cosθ.
+9::What is sin(90° - θ) equivalent to?::sinθ::cosθ::-sinθ::-cosθ::B::Using the co-function identity, sin(90° - θ) = cosθ.
+10::Simplify 1 - sin²θ.::cos²θ::tan²θ::sec²θ::csc²θ::A::Using sin²θ + cos²θ = 1, 1 - sin²θ = cos²θ.
+11::What is the value of tan²θ + 1?::sec²θ::csc²θ::sin²θ::cos²θ::A::The Pythagorean identity states tan²θ + 1 = sec²θ.
+12::What is sinθ × cscθ?::0::1::sin²θ::cos²θ::B::Since cscθ = 1/sinθ, sinθ × cscθ = sinθ × (1/sinθ) = 1.
+13::What is cos(180° - θ) equivalent to?::cosθ::-cosθ::sinθ::-sinθ::B::Using the angle identity, cos(180° - θ) = -cosθ.
+14::Simplify cotθ × tanθ.::0::1::sinθ::cosθ::B::Since cotθ = 1/tanθ, cotθ × tanθ = 1.
+15::What is the value of csc²θ - cot²θ?::0::1::sin²θ::cos²θ::B::Using 1 + cot²θ = csc²θ, csc²θ - cot²θ = 1.
+16::What is tan(90° - θ) equivalent to?::tanθ::cotθ::-tanθ::-cotθ::B::Using the co-function identity, tan(90° - θ) = cotθ.
+17::Simplify sinθ / cosθ.::tanθ::cotθ::secθ::cscθ::A::By definition, sinθ / cosθ = tanθ.
+18::What is sin(180° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(180° + θ) = -sinθ.
+19::What is the value of 1 + tan²θ?::sec²θ::csc²θ::sin²θ::cos²θ::A::The Pythagorean identity states 1 + tan²θ = sec²θ.
+20::Simplify cosθ × secθ.::0::1::sin²θ::cos²θ::B::Since secθ = 1/cosθ, cosθ × secθ = cosθ × (1/cosθ) = 1.
+21::What is cos(90° - θ) equivalent to?::sinθ::cosθ::-sinθ::-cosθ::A::Using the co-function identity, cos(90° - θ) = sinθ.
+22::What is the value of sin²θ - cos²θ in terms of cos2θ?::cos2θ::-cos2θ::sin2θ::-sin2θ::B::Using the double-angle identity, sin²θ - cos²θ = -cos2θ.
+23::Simplify secθ / cscθ.::tanθ::cotθ::sinθ::cosθ::A::Since secθ = 1/cosθ and cscθ = 1/sinθ, secθ / cscθ = (1/cosθ) × (sinθ/1) = sinθ/cosθ = tanθ.
+24::What is sin(360° - θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(360° - θ) = -sinθ.
+25::What is the double-angle identity for sin2θ?::2sinθcosθ::sin²θ + cos²θ::2sin²θ::2cos²θ::A::The double-angle identity for sine is sin2θ = 2sinθcosθ.
+26::What is cos2θ in terms of cos²θ?::2cos²θ - 1::1 - 2cos²θ::2sin²θ::1 - 2sin²θ::A::The double-angle identity for cosine is cos2θ = 2cos²θ - 1.
+27::Simplify 1 - 2sin²θ.::cos2θ::-cos2θ::sin2θ::-sin2θ::A::Using the double-angle identity, 1 - 2sin²θ = cos2θ.
+28::What is tan(180° + θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::A::Using the angle identity, tan(180° + θ) = tanθ.
+29::What is the double-angle identity for cos2θ?::cos²θ - sin²θ::2sinθcosθ::tan²θ - 1::1 + tan²θ::A::The double-angle identity for cosine is cos2θ = cos²θ - sin²θ.
+30::Simplify sin²θ / (1 + cosθ).::1 - cosθ::1 + cosθ::sinθ::cosθ::A::Using the identity sin²θ = (1 - cosθ)(1 + cosθ), sin²θ / (1 + cosθ) = 1 - cosθ.
+31::What is the value of sin²(45°) + cos²(45°)?::0::1::√2/2::1/2::B::Using sin²θ + cos²θ = 1, for θ = 45°, sin²(45°) + cos²(45°) = (√2/2)² + (√2/2)² = 1/2 + 1/2 = 1.
+32::What is cot(90° - θ) equivalent to?::tanθ::cotθ::-tanθ::-cotθ::A::Using the co-function identity, cot(90° - θ) = tanθ.
+33::Simplify cos²θ - sin²θ.::cos2θ::-cos2θ::sin2θ::-sin2θ::A::Using the double-angle identity, cos²θ - sin²θ = cos2θ.
+34::What is sin(270° - θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(270° - θ) = -sinθ.
+35::What is the half-angle identity for sin²(θ/2)?::(1 - cosθ)/2::(1 + cosθ)/2::(1 - sinθ)/2::(1 + sinθ)/2::A::The half-angle identity is sin²(θ/2) = (1 - cosθ)/2.
+36::What is cos2θ in terms of sin²θ?::1 - 2sin²θ::2sin²θ - 1::sin²θ + cos²θ::2cos²θ - 1::A::The double-angle identity for cosine is cos2θ = 1 - 2sin²θ.
+37::Simplify tanθ × cosθ.::sinθ::cosθ::tanθ::cotθ::A::Since tanθ = sinθ/cosθ, tanθ × cosθ = (sinθ/cosθ) × cosθ = sinθ.
+38::What is cos(270° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::A::Using the angle identity, cos(270° + θ) = sinθ.
+39::What is the half-angle identity for cos²(θ/2)?::(1 + cosθ)/2::(1 - cosθ)/2::(1 + sinθ)/2::(1 - sinθ)/2::A::The half-angle identity is cos²(θ/2) = (1 + cosθ)/2.
+40::Simplify 2sinθcosθ.::sin2θ::cos2θ::tan2θ::cot2θ::A::Using the double-angle identity, 2sinθcosθ = sin2θ.
+41::What is the value of sec²θ - 1?::tan²θ::cot²θ::sin²θ::cos²θ::A::Using sec²θ = 1 + tan²θ, sec²θ - 1 = tan²θ.
+42::What is sin(360° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::A::Using the angle identity, sin(360° + θ) = sinθ.
+43::Simplify (1 - cosθ)/(sinθ).::tan(θ/2)::cot(θ/2)::sin(θ/2)::cos(θ/2)::A::Using the half-angle identity, (1 - cosθ)/sinθ = tan(θ/2).
+44::What is the product-to-sum identity for sinAcosB?::[sin(A+B) + sin(A-B)]/2::[cos(A+B) - cos(A-B)]/2::[sin(A+B) - sin(A-B)]/2::[cos(A+B) + cos(A-B)]/2::A::The product-to-sum identity is sinAcosB = [sin(A+B) + sin(A-B)]/2.
+45::What is tan2θ in terms of tanθ?::2tanθ/(1 - tan²θ)::2tanθ/(1 + tan²θ)::tan²θ/(1 - tan²θ)::tan²θ/(1 + tan²θ)::A::The double-angle identity for tangent is tan2θ = 2tanθ/(1 - tan²θ).
+46::Simplify cos²θ / (1 + sinθ).::1 - sinθ::1 + sinθ::cosθ::sinθ::A::Using cos²θ = (1 - sinθ)(1 + sinθ), cos²θ / (1 + sinθ) = 1 - sinθ.
+47::What is sin(90° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::C::Using the angle identity, sin(90° + θ) = cosθ.
+48::What is the sum-to-product identity for sinA + sinB?::2sin((A+B)/2)cos((A-B)/2)::2cos((A+B)/2)sin((A-B)/2)::sin(A+B)::cos(A-B)::A::The sum-to-product identity is sinA + sinB = 2sin((A+B)/2)cos((A-B)/2).
+49::Simplify cscθ / secθ.::tanθ::cotθ::sinθ::cosθ::B::Since cscθ = 1/sinθ and secθ = 1/cosθ, cscθ / secθ = (1/sinθ) × (cosθ/1) = cosθ/sinθ = cotθ.
+50::What is cos(180° + θ) equivalent to?::cosθ::-cosθ::sinθ::-sinθ::B::Using the angle identity, cos(180° + θ) = -cosθ.
+51::What is the value of 2cos²θ - 1?::cos2θ::-cos2θ::sin2θ::-sin2θ::A::Using the double-angle identity, 2cos²θ - 1 = cos2θ.
+52::Simplify (sinθ + cosθ)².::1 + 2sinθcosθ::1 - 2sinθcosθ::sin²θ + cos²θ::2sin²θ::A::(sinθ + cosθ)² = sin²θ + 2sinθcosθ + cos²θ = 1 + 2sinθcosθ.
+53::What is tan(360° - θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::B::Using the angle identity, tan(360° - θ) = -tanθ.
+54::What is the product-to-sum identity for cosAcosB?::[cos(A+B) + cos(A-B)]/2::[sin(A+B) + sin(A-B)]/2::[cos(A+B) - cos(A-B)]/2::[sin(A+B) - sin(A-B)]/2::A::The product-to-sum identity is cosAcosB = [cos(A+B) + cos(A-B)]/2.
+55::Simplify sin²θ / (1 - cosθ).::1 + cosθ::1 - cosθ::sinθ::cosθ::A::Using sin²θ = (1 - cosθ)(1 + cosθ), sin²θ / (1 - cosθ) = 1 + cosθ.
+56::What is sin(270° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(270° + θ) = -cosθ.
+57::What is the half-angle identity for tan(θ/2)?::sinθ/(1 + cosθ)::cosθ/(1 + sinθ)::(1 - cosθ)/sinθ::All of these::D::The half-angle identity for tangent is tan(θ/2) = sinθ/(1 + cosθ) = (1 - cosθ)/sinθ = √((1 - cosθ)/(1 + cosθ)).
+58::Simplify 2sin²(θ/2).::1 - cosθ::1 + cosθ::sinθ::cosθ::A::Using the half-angle identity, 2sin²(θ/2) = 2 × (1 - cosθ)/2 = 1 - cosθ.
+59::What is cos(360° - θ) equivalent to?::cosθ::-cosθ::sinθ::-sinθ::A::Using the angle identity, cos(360° - θ) = cosθ.
+60::What is the sum-to-product identity for cosA - cosB?::2sin((A+B)/2)sin((B-A)/2)::2cos((A+B)/2)sin((B-A)/2)::2sin((A+B)/2)cos((A-B)/2)::2cos((A+B)/2)cos((A-B)/2)::B::The sum-to-product identity is cosA - cosB = -2sin((A+B)/2)sin((A-B)/2) = 2sin((A+B)/2)sin((B-A)/2).
+61::Simplify (1 + cosθ)/(sinθ).::cot(θ/2)::tan(θ/2)::sin(θ/2)::cos(θ/2)::A::Using the half-angle identity, (1 + cosθ)/sinθ = cot(θ/2).
+62::What is tan(180° - θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::B::Using the angle identity, tan(180° - θ) = -tanθ.
+63::Simplify 2cos²(θ/2).::1 + cosθ::1 - cosθ::sinθ::cosθ::A::Using the half-angle identity, 2cos²(θ/2) = 2 × (1 + cosθ)/2 = 1 + cosθ.
+64::What is the product-to-sum identity for sinAsinB?::[cos(A-B) - cos(A+B)]/2::[sin(A+B) + sin(A-B)]/2::[cos(A+B) + cos(A-B)]/2::[sin(A+B) - sin(A-B)]/2::A::The product-to-sum identity is sinAsinB = [cos(A-B) - cos(A+B)]/2.
+65::What is sin²(30°) + cos²(30°)?::0::1::3/4::1/2::B::Using sin²θ + cos²θ = 1, for θ = 30°, sin²(30°) + cos²(30°) = (1/2)² + (√3/2)² = 1/4 + 3/4 = 1.
+66::What is sin(180° - θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::A::Using the angle identity, sin(180° - θ) = sinθ.
+67::Simplify (sinθ - cosθ)².::1 - 2sinθcosθ::1 + 2sinθcosθ::sin²θ - cos²θ::2sin²θ::A::(sinθ - cosθ)² = sin²θ - 2sinθcosθ + cos²θ = 1 - 2sinθcosθ.
+68::What is cos(90° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, cos(90° + θ) = -sinθ.
+69::Simplify tan²θ / (1 + tan²θ).::sin²θ::cos²θ::sec²θ::1::B::Since 1 + tan²θ = sec²θ, tan²θ / (1 + tan²θ) = tan²θ / sec²θ = (sin²θ/cos²θ) × (cos²θ/1) = sin²θ.
+70::What is the double-angle identity for tan2θ?::2tanθ/(1 - tan²θ)::2tanθ/(1 + tan²θ)::tan²θ/(1 - tan²θ)::tan²θ/(1 + tan²θ)::A::The double-angle identity is tan2θ = 2tanθ/(1 - tan²θ).
+71::Simplify (1 - cosθ)/(1 + cosθ).::tan²(θ/2)::cot²(θ/2)::sin²(θ/2)::cos²(θ/2)::A::Using half-angle identities, (1 - cosθ)/(1 + cosθ) = tan²(θ/2).
+72::What is sin(360° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::A::Using the angle identity, sin(360° + θ) = sinθ.
+73::Simplify cosθ / (1 - sinθ).::1 + sinθ::1 - sinθ::cosθ::sinθ::A::Using cos²θ = (1 - sinθ)(1 + sinθ), cosθ / (1 - sinθ) = (1 + sinθ)cosθ/cosθ = 1 + sinθ.
+74::What is the sum-to-product identity for sinA - sinB?::2cos((A+B)/2)sin((A-B)/2)::2sin((A+B)/2)cos((A-B)/2)::2cos((A+B)/2)cos((A-B)/2)::2sin((A+B)/2)sin((A-B)/2)::A::The sum-to-product identity is sinA - sinB = 2cos((A+B)/2)sin((A-B)/2).
+75::Simplify sec²θ / (1 + tan²θ).::1::sin²θ::cos²θ::tan²θ::A::Since 1 + tan²θ = sec²θ, sec²θ / (1 + tan²θ) = sec²θ / sec²θ = 1.
+76::What is tan(270° - θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::C::Using the angle identity, tan(270° - θ) = cotθ.
+77::Simplify 2sin(θ/2)cos(θ/2).::sinθ::cosθ::sin2θ::cos2θ::A::Using the double-angle identity, 2sin(θ/2)cos(θ/2) = sin(2×θ/2) = sinθ.
+78::What is cos(360° + θ) equivalent to?::cosθ::-cosθ::sinθ::-sinθ::A::Using the angle identity, cos(360° + θ) = cosθ.
+79::Simplify (1 + cosθ)/(1 - cosθ).::cot²(θ/2)::tan²(θ/2)::sin²(θ/2)::cos²(θ/2)::B::Using half-angle identities, (1 + cosθ)/(1 - cosθ) = tan²(θ/2).
+80::What is the product-to-sum identity for cosAsinB?::[sin(A+B) - sin(A-B)]/2::[cos(A+B) + cos(A-B)]/2::[sin(A+B) + sin(A-B)]/2::[cos(A+B) - cos(A-B)]/2::A::The product-to-sum identity is cosAsinB = [sin(A+B) - sin(A-B)]/2.
+81::Simplify sin²θ / cos²θ.::tan²θ::cot²θ::sec²θ::csc²θ::A::Since sinθ/cosθ = tanθ, sin²θ / cos²θ = (sinθ/cosθ)² = tan²θ.
+82::What is sin(270° - θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(270° - θ) = -cosθ.
+83::Simplify (sinθ + cosθ)/(sinθ - cosθ).::(1 + cotθ)/(1 - cotθ)::(1 + tanθ)/(1 - tanθ)::cotθ::tanθ::B::Divide numerator and denominator by cosθ:: (sinθ/cosθ + 1)/(sinθ/cosθ - 1) = (tanθ + 1)/(tanθ - 1).
+84::What is the double-angle identity for sin2θ?::2sinθcosθ::cos²θ - sin²θ::2sin²θ::2cos²θ::A::The double-angle identity is sin2θ = 2sinθcosθ.
+85::Simplify csc²θ - 1.::cot²θ::tan²θ::sin²θ::cos²θ::A::Using 1 + cot²θ = csc²θ, csc²θ - 1 = cot²θ.
+86::What is cos(180° - θ) equivalent to?::cosθ::-cosθ::sinθ::-sinθ::B::Using the angle identity, cos(180° - θ) = -cosθ.
+87::Simplify 2tan(θ/2)/(1 - tan²(θ/2)).::sinθ::cosθ::tanθ::cotθ::C::Using the double-angle identity, 2tan(θ/2)/(1 - tan²(θ/2)) = tanθ.
+88::What is tan(90° + θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::D::Using the angle identity, tan(90° + θ) = -cotθ.
+89::Simplify (cosθ - sinθ)².::1 - 2sinθcosθ::1 + 2sinθcosθ::sin²θ - cos²θ::2cos²θ::A::(cosθ - sinθ)² = cos²θ - 2sinθcosθ + sin²θ = 1 - 2sinθcosθ.
+90::What is the sum-to-product identity for cosA + cosB?::2cos((A+B)/2)cos((A-B)/2)::2sin((A+B)/2)cos((A-B)/2)::2cos((A+B)/2)sin((A-B)/2)::2sin((A+B)/2)sin((A-B)/2)::A::The sum-to-product identity is cosA + cosB = 2cos((A+B)/2)cos((A-B)/2).
+91::Simplify sinθ / (1 + cosθ).::tan(θ/2)::cot(θ/2)::sin(θ/2)::cos(θ/2)::A::Using the half-angle identity, sinθ / (1 + cosθ) = tan(θ/2).
+92::What is sin(180° + θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::B::Using the angle identity, sin(180° + θ) = -sinθ.
+93::Simplify 1 - 2cos²θ.::-cos2θ::cos2θ::-sin2θ::sin2θ::A::Using the double-angle identity, 1 - 2cos²θ = -(2cos²θ - 1) = -cos2θ.
+94::What is tan(360° + θ) equivalent to?::tanθ::-tanθ::cotθ::-cotθ::A::Using the angle identity, tan(360° + θ) = tanθ.
+95::Simplify (1 - sinθ)/(1 + sinθ).::cot²(θ/2)::tan²(θ/2)::sin²(θ/2)::cos²(θ/2)::B::Using half-angle identities, (1 - sinθ)/(1 + sinθ) = tan²(θ/2).
+96::What is the product-to-sum identity for sinAcosB?::[sin(A+B) + sin(A-B)]/2::[cos(A+B) - cos(A-B)]/2::[sin(A+B) - sin(A-B)]/2::[cos(A+B) + cos(A-B)]/2::A::The product-to-sum identity is sinAcosB = [sin(A+B) + sin(A-B)]/2.
+97::Simplify cos²θ / sin²θ.::cot²θ::tan²θ::sec²θ::csc²θ::A::Since cosθ/sinθ = cotθ, cos²θ / sin²θ = (cosθ/sinθ)² = cot²θ.
+98::What is cos(270° - θ) equivalent to?::sinθ::-sinθ::cosθ::-cosθ::A::Using the angle identity, cos(270° - θ) = sinθ.
+99::Simplify (sinθ + cosθ)/(cosθ - sinθ).::(1 + tanθ)/(1 - tanθ)::(1 + cotθ)/(1 - cotθ)::tanθ::cotθ::A::Divide by cosθ:: (tanθ + 1)/(1 - tanθ).
+100::What is the value of 1 + csc²θ - cot²θ?::0::1::2::3::B::Since csc²θ = 1 + cot²θ, csc²θ - cot²θ = 1, so 1 + csc²θ - cot²θ = 1 + 1 = 2.

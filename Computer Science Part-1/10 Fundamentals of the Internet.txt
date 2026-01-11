@@ -1,0 +1,50 @@
+1::What is the Internet?::A single computer network::A global network of networks::A software application::A hardware device::B::The Internet is a worldwide network of interconnected computer networks.
+2::Which protocol is used for transferring web pages?::FTP::HTTP::SMTP::DNS::B::HTTP (Hypertext Transfer Protocol) is used for accessing and transferring web pages.
+3::What does URL stand for?::Uniform Resource Locator::Universal Resource Link::Unique Resource Locator::Uniform Reference Link::A::URL is an address that identifies a resource on the Internet.
+4::Which part of a URL specifies the protocol?::Domain::Path::Protocol::Query::C::The protocol (e.g., http://) defines how data is transferred.
+5::What is the purpose of a web browser?::Send emails::Display web pages::Store data::Edit documents::B::A web browser retrieves and displays web pages from the Internet.
+6::Which of the following is a popular web browser?::Microsoft Word::Google Chrome::Microsoft Excel::Notepad::B::Google Chrome is a widely used web browser.
+7::What does DNS stand for?::Domain Name System::Dynamic Network Service::Data Network System::Direct Name Service::A::DNS translates domain names into IP addresses.
+8::What is an IP address?::A physical address::A unique numerical address::A web page address::A software address::B::An IP address uniquely identifies a device on a network.
+9::Which protocol is used for sending emails?::HTTP::FTP::SMTP::POP3::C::SMTP (Simple Mail Transfer Protocol) is used for sending emails.
+10::Which protocol retrieves emails from a server?::SMTP::POP3::HTTP::FTP::B::POP3 (Post Office Protocol 3) retrieves emails from a mail server.
+11::What is the function of FTP?::Transfer files::Display web pages::Send emails::Resolve domain names::A::FTP (File Transfer Protocol) is used for transferring files over the Internet.
+12::What is a search engine?::A web browser::A tool to find information online::A protocol::A network device::B::Search engines like Google help locate information on the Internet.
+13::Which of the following is a search engine?::Firefox::Bing::Internet Explorer::Safari::B::Bing is a search engine developed by Microsoft.
+14::What is the purpose of a modem in Internet connectivity?::Routes data::Converts digital to analog signals::Stores data::Encrypts data::B::A modem converts digital signals to analog for Internet access.
+15::What is a website?::A single web page::A collection of related web pages::A protocol::A hardware device::B::A website is a collection of web pages under a domain.
+16::What does WWW stand for?::World Wide Web::World Web Wide::Wide Web World::Web World Wide::A::WWW refers to the World Wide Web, a system of interlinked resources.
+17::Which protocol is secure for web browsing?::HTTP::FTP::HTTPS::SMTP::C::HTTPS (HTTP Secure) encrypts data for secure communication.
+18::What is a domain name?::A numerical IP address::A human-readable address::A protocol::A browser::B::A domain name (e.g., google.com) is a readable address for a website.
+19::Which part of a URL specifies the website’s address?::Protocol::Domain::Path::Query::B::The domain (e.g., www.example.com) identifies the website.
+20::What is the purpose of a router in Internet connectivity?::Converts signals::Directs data between networks::Stores data::Displays web pages::B::A router directs data traffic between networks, like LAN to WAN.
+21::What is bandwidth in the context of the Internet?::Physical cable length::Data transfer rate::Storage capacity::Signal frequency::B::Bandwidth measures the amount of data transferred per unit time.
+22::What is a hyperlink?::A network cable::A clickable link to another resource::A search engine::A protocol::B::A hyperlink connects to another web page or resource when clicked.
+23::Which protocol is used for remote login to a computer?::FTP::HTTP::Telnet::SMTP::C::Telnet allows remote access to a computer over the Internet.
+24::What is a firewall?::A web browser::A security system::A search engine::A protocol::B::A firewall protects networks by controlling incoming/outgoing traffic.
+25::What does ISP stand for?::Internet Service Provider::Internet Security Protocol::Internal Service Provider::Internet System Protocol::A::An ISP provides access to the Internet for users.
+26::Which device connects a LAN to the Internet?::Switch::Router::Hub::Modem::B::A router connects a local network to the Internet.
+27::What is a web server?::A computer storing web pages::A web browser::A network cable::A search engine::A::A web server hosts and delivers web pages to clients.
+28::What is the purpose of a cookie in browsing?::Store passwords::Track user activity::Send emails::Edit web pages::B::Cookies store user data to track activity or preferences.
+29::Which of the following is an example of a top-level domain?::.com::www::http::ftp::A::.com is a top-level domain (TLD) in a URL.
+30::What is a webpage?::A collection of websites::A single document on the web::A protocol::A network::B::A webpage is a single document accessed via a browser.
+31::Which protocol is used for video conferencing?::FTP::HTTP::SIP::SMTP::C::SIP (Session Initiation Protocol) is used for initiating video calls.
+32::What is the main function of a search engine?::Store data::Index and retrieve information::Send emails::Host websites::B::Search engines index web content and retrieve relevant results.
+33::What is phishing?::A search engine::A type of cyberattack::A protocol::A browser::B::Phishing is a cyberattack to steal sensitive information via fake emails or sites.
+34::What does HTML stand for?::Hypertext Markup Language::High Transfer Markup Language::Hyperlink Text Markup Language::Home Text Markup Language::A::HTML is used to structure content on web pages.
+35::Which device amplifies Internet signals over long distances?::Router::Repeater::Switch::Gateway::B::A repeater regenerates signals to extend network range.
+36::What is a blog?::A search engine::A personal online journal::A protocol::A browser::B::A blog is a regularly updated website or page, often personal.
+37::What is the purpose of an email client?::Browse websites::Manage emails::Store files::Edit documents::B::An email client (e.g., Outlook) manages sending and receiving emails.
+38::Which protocol is used for secure file transfer?::FTP::SFTP::HTTP::SMTP::B::SFTP (Secure File Transfer Protocol) encrypts file transfers.
+39::What is a LAN in the context of the Internet?::A global network::A local network::A search engine::A protocol::B::A LAN (Local Area Network) connects devices in a small area.
+40::What is the purpose of a VPN?::Store data::Secure online connections::Browse websites::Send emails::B::A VPN (Virtual Private Network) secures connections over public networks.
+41::Which of the following is a cloud storage service?::Google Drive::Microsoft Word::Firefox::Telnet::A::Google Drive is a cloud service for storing and sharing files.
+42::What is a browser cache?::A permanent storage::Temporary storage for web data::A protocol::A search engine::B::Browser cache stores web data temporarily to speed up browsing.
+43::What is the purpose of a digital certificate?::Store files::Verify website authenticity::Send emails::Edit documents::B::Digital certificates ensure a website’s identity and security.
+44::What does VoIP stand for?::Voice over Internet Protocol::Video over Internet Protocol::Virtual Office Internet Protocol::Voice Online Internet Protocol::A::VoIP enables voice communication over the Internet.
+45::Which technology allows wireless Internet access?::Ethernet::Wi-Fi::Coaxial::Fiber optic::B::Wi-Fi provides wireless Internet connectivity.
+46::What is a homepage?::A search engine::The main page of a website::A protocol::A browser::B::The homepage is the main or introductory page of a website.
+47::Which protocol resolves IP addresses to MAC addresses?::DNS::ARP::HTTP::FTP::B::ARP (Address Resolution Protocol) maps IP addresses to MAC addresses.
+48::What is a Trojan horse in the context of the Internet?::A web browser::A type of malware::A search engine::A protocol::B::A Trojan horse is malware disguised as legitimate software.
+49::What is the purpose of a proxy server?::Store web pages::Act as an intermediary::Send emails::Edit documents::B::A proxy server acts as an intermediary between a user and the Internet.
+50::What is the main advantage of using HTTPS over HTTP?::Faster speed::Better graphics::Enhanced security::More storage::C::HTTPS encrypts data for secure communication over the Internet.

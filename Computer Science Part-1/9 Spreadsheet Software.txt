@@ -1,0 +1,50 @@
+1::What is a spreadsheet?::A word processing tool::A grid of cells for data analysis::A presentation slide::A database table::B::A spreadsheet organizes data in rows and columns for calculations and analysis.
+2::Which software is commonly used for spreadsheets?::Microsoft Word::Microsoft Excel::Microsoft PowerPoint::Microsoft Access::B::Microsoft Excel is a popular spreadsheet application.
+3::What is a cell in a spreadsheet?::A slide in a presentation::The intersection of a row and column::A database record::A document page::B::A cell is where data is entered at the intersection of a row and column.
+4::What is the file extension for Excel files?::.docx::.xlsx::.pptx::.accdb::B::.xlsx is the file extension for Microsoft Excel spreadsheets.
+5::What is a worksheet in Excel?::A single spreadsheet within a workbook::A database table::A presentation slide::A text document::A::A worksheet is a single spreadsheet in an Excel workbook.
+6::What is a workbook in Excel?::A single cell::A collection of worksheets::A chart type::A formula::B::A workbook is an Excel file containing multiple worksheets.
+7::Which feature in Excel performs calculations?::Formula::Slide::Query::Template::A::Formulas in Excel (e.g., =A1+B1) perform calculations.
+8::Which Excel function calculates the total of a range?::SUM::AVERAGE::COUNT::MAX::A::The SUM function adds values (e.g., =SUM(A1:A5)).
+9::Which key is used to start an Excel formula?::+::=::*::/::B::Formulas in Excel begin with the equals sign (=).
+10::What is the address of the cell in the first row and second column?::A1::B1::A2::B2::B::The cell in the first row and second column is B1.
+11::Which Excel function calculates the mean of a range?::SUM::AVERAGE::MAX::MIN::B::The AVERAGE function computes the mean (e.g., =AVERAGE(A1:A5)).
+12::Which feature visually represents data in Excel?::Chart::Formula::Filter::Macro::A::Charts (e.g., bar, pie) visualize data in Excel.
+13::Which Excel feature organizes data in ascending or descending order?::Sorting::Filtering::Charting::Formatting::A::Sorting arranges data based on selected criteria.
+14::Which Excel feature displays only specific data?::Sorting::Filtering::Charting::Formatting::B::Filtering shows data that meets specified conditions.
+15::What is the default number of worksheets in a new Excel workbook?::1::2::3::4::C::A new Excel workbook typically has three worksheets.
+16::Which Excel function finds the highest value in a range?::SUM::MAX::AVERAGE::COUNT::B::The MAX function returns the highest value (e.g., =MAX(A1:A5)).
+17::Which Excel function finds the lowest value in a range?::MIN::MAX::AVERAGE::SUM::A::The MIN function returns the lowest value (e.g., =MIN(A1:A5)).
+18::Which Excel function counts the number of cells with numeric values?::SUM::COUNT::AVERAGE::MAX::B::The COUNT function counts numeric cells (e.g., =COUNT(A1:A5)).
+19::Which symbol is used for absolute cell references in Excel?::$::%::&::#::A::The $ symbol fixes a row or column (e.g., $A$1).
+20::What is conditional formatting in Excel?::Sorting data::Applying styles based on cell values::Creating charts::Writing formulas::B::Conditional formatting changes cell appearance based on conditions.
+21::Which Excel function checks a condition and returns a value?::SUM::IF::MAX::COUNT::B::The IF function evaluates a condition (e.g., =IF(A1>10, "Pass", "Fail")).
+22::Which Excel feature summarizes large datasets?::Pivot table::Chart::Formula::Filter::A::Pivot tables summarize and analyze data in Excel.
+23::What is a pivot table used for?::Creating slides::Data analysis and summarization::Text formatting::Database queries::B::Pivot tables organize and summarize large datasets.
+24::Which Excel function searches for a value in a table?::SUM::VLOOKUP::AVERAGE::IF::B::VLOOKUP searches vertically in a table (e.g., =VLOOKUP(A1, B1:C10, 2, FALSE)).
+25::Which Excel feature protects a worksheet from changes?::Password protection::Sorting::Filtering::Charting::A::Password protection secures worksheets from unauthorized edits.
+26::What is the purpose of a chart in Excel?::Perform calculations::Visualize data::Sort data::Filter data::B::Charts represent data graphically for easier interpretation.
+27::Which Excel function combines text from multiple cells?::SUM::CONCATENATE::AVERAGE::IF::B::CONCATENATE joins text (e.g., =CONCATENATE(A1, " ", B1)).
+28::Which Excel feature copies formatting from one cell to another?::Format painter::Conditional formatting::Sorting::Filtering::A::Format painter copies cell formatting to other cells.
+29::What is the result of the formula =A1+B1 if A1=5 and B1=3?::8::15::2::53::A::The formula adds 5 + 3 = 8.
+30::Which Excel function counts all non-empty cells?::COUNT::COUNTA::SUM::AVERAGE::B::COUNTA counts all non-empty cells (e.g., =COUNTA(A1:A5)).
+31::Which Excel function returns the current date?::TODAY::NOW::DATE::TIME::A::The TODAY function returns the current date (e.g., =TODAY()).
+32::What is the result of =SUM(A1:A3) if A1=2, A2=4, A3=6?::12::2::4::6::A::SUM adds 2 + 4 + 6 = 12.
+33::Which Excel feature adjusts cell size to fit content?::AutoFit::Sorting::Filtering::Conditional formatting::A::AutoFit resizes columns or rows to fit data.
+34::Which Excel function rounds a number to a specified number of digits?::ROUND::SUM::AVERAGE::IF::A::The ROUND function rounds numbers (e.g., =ROUND(A1, 2)).
+35::What is the purpose of freezing panes in Excel?::Lock cells for editing::Keep rows/columns visible while scrolling::Sort data::Create charts::B::Freezing panes keeps headers visible during scrolling.
+36::Which Excel function finds a value horizontally in a table?::VLOOKUP::HLOOKUP::IF::SUM::B::HLOOKUP searches horizontally (e.g., =HLOOKUP(A1, A1:C10, 2, FALSE)).
+37::What is the result of =AVERAGE(A1:A3) if A1=10, A2=20, A3=30?::20::60::10::30::A::AVERAGE computes (10 + 20 + 30) / 3 = 20.
+38::Which Excel feature groups rows or columns for easier viewing?::Outline::Sorting::Filtering::Charting::A::Outline groups data to collapse or expand sections.
+39::Which Excel function checks if a cell is empty?::ISBLANK::IF::SUM::COUNT::A::ISBLANK returns TRUE if a cell is empty (e.g., =ISBLANK(A1)).
+40::What is the result of =IF(A1>5, "Yes", "No") if A1=7?::Yes::No::5::7::A::The IF function returns "Yes" since 7 > 5.
+41::A company tracks sales data in Excel. Which function calculates total sales?::SUM::AVERAGE::COUNT::IF::A::The SUM function totals sales values (e.g., =SUM(B1:B100)).
+42::A student needs to highlight cells with grades above 80. Which feature is best?::Sorting::Conditional formatting::Filtering::Charting::B::Conditional formatting highlights cells based on criteria like grades > 80.
+43::Which function would find the second-highest score in a range?::MAX::MIN::LARGE::SMALL::C::The LARGE function with 2 returns the second-highest value (e.g., =LARGE(A1:A10, 2)).
+44::A business needs to analyze sales by region. Which feature is most suitable?::Pivot table::Sorting::Filtering::Formula::A::Pivot tables summarize sales data by categories like region.
+45::What is the result of =VLOOKUP(1001, A1:B10, 2, FALSE) if A1:A10 has IDs and B1:B10 has names?::Name corresponding to ID 1001::Error::1001::FALSE::A::VLOOKUP returns the name for ID 1001 if found exactly.
+46::A teacher uses Excel to calculate pass/fail based on scores. Which function is best?::IF::SUM::AVERAGE::COUNT::A::The IF function checks scores (e.g., =IF(A1>=50, "Pass", "Fail")).
+47::Which feature in Excel prevents unauthorized access to a workbook?::Password protection::Conditional formatting::Sorting::Filtering::A::Password protection secures the entire workbook.
+48::A company wants to visualize monthly sales trends. Which chart type is best?::Line chart::Pie chart::Bar chart::Scatter chart::A::Line charts show trends over time, like monthly sales.
+49::Which function combines multiple conditions in Excel?::IF::AND::SUM::VLOOKUP::B::The AND function checks multiple conditions (e.g., =IF(AND(A1>10, B1<5), "Yes", "No")).
+50::A financial analyst needs to calculate loan interest rates. Which function is most appropriate?::PMT::SUM::AVERAGE::IF::A::The PMT function calculates loan payments, including interest (e.g., =PMT(rate, periods, loan_amount)).

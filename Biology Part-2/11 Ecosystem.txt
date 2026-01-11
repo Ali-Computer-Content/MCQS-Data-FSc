@@ -1,0 +1,50 @@
+1::An ecosystem consists of::Living organisms only::Non-living components only::Both living and non-living components::Atmosphere only::C::An ecosystem includes biotic (living) and abiotic (non-living) components interacting together.
+2::The living components of an ecosystem are called::Abiotic factors::Biotic factors::Physical factors::Chemical factors::B::Biotic factors include plants, animals, and microorganisms.
+3::The non-living components of an ecosystem are called::Biotic factors::Abiotic factors::Trophic factors::Ecological factors::B::Abiotic factors include sunlight, water, air, and temperature.
+4::The primary source of energy in an ecosystem is::Glucose::Sunlight::Oxygen::Carbon dioxide::B::Sunlight drives photosynthesis, providing energy for ecosystems.
+5::Organisms that produce their own food are called::Consumers::Decomposers::Producers::Scavengers::C::Producers, like plants and algae, synthesize food via photosynthesis.
+6::The organisms that feed on producers are::Primary consumers::Secondary consumers::Tertiary consumers::Decomposers::A::Primary consumers, such as herbivores, eat producers.
+7::The organisms that feed on primary consumers are::Producers::Secondary consumers::Tertiary consumers::Decomposers::B::Secondary consumers, like carnivores, eat primary consumers.
+8::The role of decomposers in an ecosystem is to::Produce energy::Consume plants::Break down dead matter::Hunt prey::C::Decomposers, like fungi and bacteria, recycle nutrients by decomposing organic matter.
+9::The sequence of organisms through which energy flows is called::Food chain::Food web::Trophic level::Ecological pyramid::A::A food chain shows a linear path of energy transfer between organisms.
+10::The interconnected food chains in an ecosystem form a::Food chain::Food web::Trophic level::Niche::B::A food web is a network of interconnected food chains.
+11::The position of an organism in a food chain is called::Niche::Habitat::Trophic level::Biome::C::Trophic levels indicate an organism’s feeding position in the ecosystem.
+12::The graphical representation of energy flow is::Food chain::Ecological pyramid::Food web::Trophic level::B::Ecological pyramids show energy, biomass, or number of organisms at each trophic level.
+13::The percentage of energy transferred to the next trophic level is approximately::10%::50%::90%::100%::A::Only about 10% of energy is transferred, with the rest lost as heat.
+14::The type of ecological pyramid that represents organism numbers is::Pyramid of energy::Pyramid of biomass::Pyramid of numbers::Pyramid of productivity::C::The pyramid of numbers shows the count of organisms at each trophic level.
+15::The region where one ecosystem transitions to another is called::Habitat::Niche::Ecotone::Biome::C::An ecotone is a transitional zone between two ecosystems, e.g., forest and grassland.
+16::The specific role of an organism in its ecosystem is called::Habitat::Niche::Trophic level::Biome::B::A niche includes an organism’s role, interactions, and resource use.
+17::The place where an organism lives is called::Niche::Habitat::Biome::Ecosystem::B::A habitat is the physical environment where an organism resides.
+18::A large ecological area with similar climate and organisms is::Ecosystem::Biome::Habitat::Niche::B::Biomes, like deserts or forests, are defined by climate and dominant species.
+19::The process of gradual change in an ecosystem is::Succession::Evolution::Adaptation::Competition::A::Ecological succession is the sequential change in species composition over time.
+20::The initial stage of ecological succession is called::Climax community::Pioneer community::Secondary succession::Seral community::B::Pioneer species, like lichens, colonize barren areas to start succession.
+21::The final stable stage of succession is::Pioneer community::Seral community::Climax community::Ecotone::C::The climax community is a stable, mature ecosystem.
+22::The succession that occurs on bare rock is::Primary succession::Secondary succession::Tertiary succession::Hydrosere::A::Primary succession starts on lifeless areas like rocks or lava.
+23::The succession that occurs after a disturbance is::Primary succession::Secondary succession::Climax succession::Pioneer succession::B::Secondary succession occurs on previously inhabited but disturbed areas, e.g., after fires.
+24::The interaction where both species benefit is::Predation::Competition::Mutualism::Parasitism::C::Mutualism benefits both species, e.g., bees and flowers.
+25::The interaction where one species benefits and the other is harmed is::Mutualism::Commensalism::Parasitism::Competition::C::Parasitism benefits the parasite while harming the host, e.g., ticks on mammals.
+26::The interaction where one species benefits and the other is unaffected is::Mutualism::Commensalism::Parasitism::Predation::B::Commensalism benefits one species without affecting the other, e.g., barnacles on whales.
+27::The interaction where both species compete for resources is::Mutualism::Competition::Parasitism::Commensalism::B::Competition occurs when species vie for limited resources like food or space.
+28::The process of nutrient recycling in ecosystems is driven by::Producers::Consumers::Decomposers::Predators::C::Decomposers break down organic matter, releasing nutrients back into the ecosystem.
+29::The gas that forms the largest part of the atmosphere is::Oxygen::Carbon dioxide::Nitrogen::Helium::C::Nitrogen makes up about 78% of Earth’s atmosphere.
+30::The process that fixes atmospheric nitrogen into usable forms is::Denitrification::Nitrification::Nitrogen fixation::Ammonification::C::Nitrogen fixation converts atmospheric nitrogen into ammonia by bacteria.
+31::The organisms that perform nitrogen fixation are::Fungi::Algae::Bacteria::Protozoa::C::Bacteria, like Rhizobium, fix nitrogen in symbiotic relationships with plants.
+32::The process of converting ammonia to nitrates is::Nitrogen fixation::Nitrification::Denitrification::Ammonification::B::Nitrification is carried out by bacteria like Nitrosomonas and Nitrobacter.
+33::The gas released during decomposition is::Oxygen::Carbon dioxide::Nitrogen::Helium::B::Carbon dioxide is produced as decomposers break down organic matter.
+34::The cycle that involves water movement in ecosystems is::Carbon cycle::Nitrogen cycle::Water cycle::Phosphorus cycle::C::The water cycle includes evaporation, condensation, and precipitation.
+35::The process of water loss from plants is::Evaporation::Transpiration::Condensation::Precipitation::B::Transpiration is the release of water vapor through plant stomata.
+36::The largest reservoir of carbon is::Atmosphere::Oceans::Forests::Soil::B::Oceans store the most carbon as dissolved bicarbonate and carbonate.
+37::The process that removes carbon dioxide from the atmosphere is::Respiration::Combustion::Photosynthesis::Decomposition::C::Photosynthesis by plants fixes carbon dioxide into organic compounds.
+38::The human activity that increases carbon dioxide levels is::Afforestation::Deforestation::Recycling::Conservation::B::Deforestation releases stored carbon and reduces carbon sequestration.
+39::The type of ecosystem with high biodiversity is::Desert::Tundra::Tropical rainforest::Grassland::C::Tropical rainforests support a vast diversity of species due to favorable conditions.
+40::The type of biome with extreme cold and low precipitation is::Desert::Tundra::Savanna::Temperate forest::B::Tundra has harsh cold climates and limited precipitation.
+41::The type of ecosystem dominated by grasses is::Forest::Grassland::Desert::Tundra::B::Grasslands are characterized by grasses with few trees due to moderate rainfall.
+42::The factor that limits population growth in ecosystems is::Biotic factor::Abiotic factor::Limiting factor::Trophic factor::C::Limiting factors, like food or water, restrict population size.
+43::The process of energy flow in ecosystems is::Unidirectional::Bidirectional::Cyclic::Random::A::Energy flows unidirectionally from producers to consumers and is lost as heat.
+44::The type of pyramid that is always upright is::Pyramid of numbers::Pyramid of biomass::Pyramid of energy::Pyramid of productivity::C::The pyramid of energy is always upright due to the 10% energy transfer rule.
+45::The type of succession in a pond is::Xerosere::Hydrosere::Lithosere::Psammosere::B::Hydrosere is succession in aquatic environments like ponds.
+46::The organism that occupies multiple trophic levels is::Producer::Omnivore::Herbivore::Carnivore::B::Omnivores, like humans, feed on both plants and animals.
+47::The process that converts nitrates back to nitrogen gas is::Nitrification::Denitrification::Nitrogen fixation::Ammonification::B::Denitrification by bacteria returns nitrogen to the atmosphere.
+48::The type of ecosystem with low rainfall and extreme temperatures is::Tundra::Desert::Grassland::Forest::B::Deserts have scarce rainfall and high temperature variations.
+49::The human activity that disrupts ecosystems is::Conservation::Pollution::Recycling::Reforestation::B::Pollution, like oil spills or emissions, harms ecosystems and biodiversity.
+50::The ecological role of ecosystems includes::Maintaining biodiversity::Producing energy::Fixing carbon::Recycling nutrients::A::Ecosystems sustain biodiversity, supporting life and ecological balance.

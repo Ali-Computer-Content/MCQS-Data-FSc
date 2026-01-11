@@ -1,0 +1,50 @@
+1::What is a loop in C programming?::A conditional statement::A repetitive execution of code::A function call::A variable declaration::B::A loop allows a block of code to be executed repeatedly based on a condition.
+2::Which loop is known as an entry-controlled loop?::for::do-while::Both for and while::None of these::C::for and while loops check the condition before executing the loop body.
+3::Which loop is known as an exit-controlled loop?::for::while::do-while::None of these::C::do-while checks the condition after executing the loop body.
+4::What is the syntax of a for loop in C?::for (init; condition; update)::for (condition; init; update)::for (init; update; condition)::for (condition; update; init)::A::for (init; condition; update) initializes, tests, and updates in one line.
+5::How many times does a for loop execute if the condition is initially false?::Once::Twice::Never::Infinite times::C::If the condition is false initially, the loop body is not executed.
+6::What is the output of:: for (int i = 1; i <= 3; i++) printf("%d ", i);?::1 2 3::1 2::2 3::1 3::A::The loop prints i from 1 to 3, inclusive:: 1 2 3.
+7::Which loop executes at least once regardless of the condition?::for::while::do-while::None of these::C::do-while executes the body once before checking the condition.
+8::What is the syntax of a while loop in C?::while (condition) {code}::for (condition) {code}::do {code} while (condition)::while {code} (condition)::A::while (condition) {code} executes as long as the condition is true.
+9::What is the syntax of a do-while loop in C?::do {code} while (condition);::while (condition) {code}::for (condition) {code}::do {code} (condition)::A::do {code} while (condition); executes code then checks the condition.
+10::What does the break statement do in a loop?::Skips current iteration::Exits the loop::Restarts the loop::Pauses the loop::B::break terminates the loop and transfers control outside it.
+11::What does the continue statement do in a loop?::Exits the loop::Skips current iteration::Restarts the loop::Pauses the loop::B::continue skips the rest of the current iteration and proceeds to the next.
+12::What is the output of:: int i = 1; while (i <= 3) { printf("%d ", i); i++; }?::1 2 3::1 2::2 3::1 3::A::The while loop prints i from 1 to 3:: 1 2 3.
+13::What is the output of:: int i = 1; do { printf("%d ", i); i++; } while (i <= 3);?::1 2 3::1 2::2 3::1 3::A::The do-while loop prints i from 1 to 3:: 1 2 3.
+14::What happens if a loop has no update statement?::Executes once::Infinite loop::Syntax error::Skips iterations::B::Without updating the control variable, the condition may never become false.
+15::What is the output of:: for (int i = 5; i >= 3; i--) printf("%d ", i);?::5 4 3::5 4::4 3::3 4 5::A::The loop prints i from 5 to 3 in descending order:: 5 4 3.
+16::Which loop is best for a known number of iterations?::while::do-while::for::None of these::C::for is ideal when the number of iterations is predetermined.
+17::What is the output of:: int i = 1; while (i <= 5) { if (i == 3) break; printf("%d ", i); i++; }?::1 2::1 2 3::1 3::1 2 3 4::A::The loop breaks when i == 3, printing:: 1 2.
+18::What is the output of:: int i = 1; while (i <= 5) { if (i == 3) { i++; continue; } printf("%d ", i); i++; }?::1 2 4 5::1 2 3 4 5::1 3 4 5::1 2 5::A::continue skips i == 3, printing:: 1 2 4 5.
+19::What is a nested loop in C?::A loop inside another loop::A loop with break::A loop with continue::A single loop::A::A nested loop is one loop contained within another loop.
+20::What is the output of:: for (int i = 1; i <= 2; i++) { for (int j = 1; j <= 2; j++) printf("%d ", j); }?::1 2 1 2::1 1 2 2::1 2::1 1::A::The inner loop prints 1 2 for each outer loop iteration:: 1 2 1 2.
+21::How many times does the body of a do-while loop execute if the condition is false?::Never::Once::Infinite times::Twice::B::do-while executes at least once before checking the condition.
+22::What is the output of:: for (int i = 1; i <= 4; i += 2) printf("%d ", i);?::1 3::1 2 3 4::1 4::2 4::A::The loop increments i by 2, printing:: 1 3.
+23::What is the output of:: int i = 0; while (i < 3) { printf("%d ", i); i += 2; }?::0 2::0 1 2::0 1::1 3::A::The loop prints i from 0 to 2, incrementing by 2:: 0 2.
+24::What is the output of:: int i = 5; do { printf("%d ", i); i--; } while (i >= 3);?::5 4 3::5 4::4 3::3 4 5::A::The do-while prints i from 5 to 3:: 5 4 3.
+25::Which loop is suitable when the number of iterations is unknown?::for::while::do-while::Both while and do-while::D::while and do-while are used when iterations depend on a condition.
+26::What is the output of:: for (int i = 1; i <= 3; i++) { printf("%d ", i); if (i == 2) break; }?::1 2::1 2 3::1 3::1::A::The loop breaks at i == 2, printing:: 1 2.
+27::What is the output of:: for (int i = 1; i <= 3; i++) { if (i == 2) continue; printf("%d ", i); }?::1 3::1 2 3::2 3::1 2::A::continue skips i == 2, printing:: 1 3.
+28::What is the output of:: int i = 1, j; while (i <= 2) { j = 1; while (j <= 2) { printf("%d ", j); j++; } i++; }?::1 2 1 2::1 1 2 2::1 2::1 1::A::The inner loop prints 1 2 for each outer loop iteration:: 1 2 1 2.
+29::What is an infinite loop in C?::A loop that never executes::A loop that runs forever::A loop with no condition::A nested loop::B::An infinite loop runs indefinitely due to a condition that never becomes false.
+30::How can an infinite loop be created using for?::for ( ; ; )::for (int i = 1; i <= 10; i++)::for (int i = 10; i >= 1; i--)::for (int i = 1; i == 1; i++)::A::for ( ; ; ) omits all parts, creating an infinite loop.
+31::What is the output of:: int i = 1; while (i <= 5) { printf("%d ", i); if (i == 3) break; i++; }?::1 2 3::1 2::1 3::1 2 3 4::A::The loop breaks at i == 3, printing:: 1 2 3.
+32::What is the output of:: int i = 0; do { i++; printf("%d ", i); } while (i < 3);?::1 2 3::0 1 2::1 2::0 1::A::The loop increments i and prints 1 to 3:: 1 2 3.
+33::What is the output of:: for (int i = 1; i <= 5; i++) { if (i % 2 == 0) printf("%d ", i); }?::2 4::1 3 5::1 2 3 4 5::2 3 4::A::The loop prints even numbers:: 2 4.
+34::What is the output of:: int i, sum = 0; for (i = 1; i <= 4; i++) sum += i; printf("%d", sum);?::10::15::6::8::A::The loop adds 1 + 2 + 3 + 4 = 10.
+35::What is the output of:: int i = 1; while (i <= 4) { printf("%d ", i); i += 2; }?::1 3::1 2 3 4::1 4::2 4::A::The loop increments i by 2, printing:: 1 3.
+36::What is the output of:: for (int i = 1; i <= 3; i++) { for (int j = i; j <= 3; j++) printf("%d ", j); }?::1 2 3 2 3 3::1 2 3::1 1 2 2 3 3::1 2 3 1 2 3::A::The inner loop prints j from i to 3:: 1 2 3 (i=1), 2 3 (i=2), 3 (i=3).
+37::What is the output of:: int i = 5; do { printf("%d ", i); i -= 2; } while (i >= 1);?::5 3 1::5 3::3 1::5 4 3 2 1::A::The loop decrements i by 2, printing:: 5 3 1.
+38::What is the output of:: for (int i = 1; i <= 3; i++) { if (i == 2) continue; printf("%d ", i * i); }?::1 9::1 4 9::4 9::1 4::A::continue skips i == 2, printing 1² and 3²:: 1 9.
+39::What is the output of:: int i = 1; while (i <= 10) { if (i % 3 == 0) printf("%d ", i); i++; }?::3 6 9::3 6::6 9::1 4 7 10::A::The loop prints multiples of 3:: 3 6 9.
+40::What is the output of:: for (int i = 1; i <= 2; i++) { for (int j = 1; j <= i; j++) printf("%d ", j); }?::1 1 2::1 2::1 1::1 2 1 2::A::The inner loop prints j from 1 to i:: 1 (i=1), 1 2 (i=2).
+41::What is the output of:: int i = 0; do { printf("%d ", i); i++; } while (i < 0);?::0::1::0 1::No output::A::The loop executes once, printing 0, as the condition is false after the first iteration.
+42::What is the output of:: for (int i = 3; i >= 1; i--) { printf("%d ", i * 2); }?::6 4 2::2 4 6::3 2 1::1 2 3::A::The loop prints i * 2 in descending order:: 6 4 2.
+43::What is the output of:: int i = 1, count = 0; while (i <= 5) { if (i % 2 == 0) count++; i++; } printf("%d", count);?::2::3::1::4::A::The loop counts even numbers (2, 4), so count = 2.
+44::What is the output of:: for (int i = 1; i <= 3; i++) { for (int j = 1; j <= 2; j++) printf("%d ", i + j); }?::2 3 3 4 4 5::1 2 3 4 5 6::2 3 4 5::1 2 3::A::The inner loop prints i + j:: 2 3 (i=1), 3 4 (i=2), 4 5 (i=3).
+45::What is the output of:: int i = 10; while (i >= 5) { printf("%d ", i); i -= 5; }?::10 5::10 5 0::5 10::10::A::The loop decrements i by 5, printing:: 10 5.
+46::What is the output of:: for (int i = 1; i <= 4; i++) { if (i % 2 == 0) break; printf("%d ", i); }?::1::1 2::1 3::1 2 3 4::A::The loop breaks at i == 2 (even), printing:: 1.
+47::What is the output of:: int i = 1; do { printf("%d ", i); i++; } while (i <= 1);?::1::1 2::2::No output::A::The loop executes once, printing 1, as i becomes 2 after the first iteration.
+48::What is the output of:: for (int i = 1; i <= 3; i++) { for (int j = 1; j <= i; j++) printf("* "); }?::* * * * * *::* * *::* * * *::*::C::The inner loop prints * j times for each i:: * (i=1), * * (i=2), * * * (i=3).
+49::What is the output of:: int i, product = 1; for (i = 1; i <= 3; i++) product *= i; printf("%d", product);?::6::3::9::1::A::The loop calculates 1 * 2 * 3 = 6 (factorial of 3).
+50::What is the output of:: int i = 1; while (i <= 5) { printf("%d ", i); if (i == 4) break; i++; }?::1 2 3 4::1 2 3::1 4::1 2 3 4 5::A::The loop breaks at i == 4, printing:: 1 2 3 4.

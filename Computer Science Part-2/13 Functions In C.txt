@@ -1,0 +1,50 @@
+1::What is a function in C?::A variable type::A block of code performing a task::A loop structure::A data type::B::A function is a reusable block of code designed for a specific task.
+2::Which keyword is used to define a function’s return type?::void::int::return::function::B::int (or other data types like void, float) specifies the return type.
+3::What is a function prototype?::Function definition::Function call::Function declaration::Function execution::C::A prototype declares a function’s signature without its body.
+4::Which header file is typically included for standard functions?::stdio.h::math.h::string.h::stdlib.h::A::stdio.h includes standard I/O functions like printf and scanf.
+5::What does the return statement do in a function?::Calls the function::Ends the function and sends a value::Declares a variable::Loops the function::B::return ends the function and sends a value to the caller.
+6::What is the default return type of a function if not specified?::void::int::float::char::B::If unspecified, C assumes int as the return type.
+7::What is a void function?::Returns an integer::Returns no value::Returns a character::Returns a float::B::A void function performs a task but returns no value.
+8::What is a function call?::Defining a function::Declaring a function::Invoking a function::Ending a function::C::A function call executes the function’s code.
+9::What is a parameter in a function?::A return value::A variable passed to a function::A loop counter::A global variable::B::Parameters are variables passed to a function for processing.
+10::What is the scope of a local variable?::Entire program::Within its function or block::Across all functions::Within main only::B::Local variables are accessible only within their function or block.
+11::What is a global variable?::Defined inside a function::Accessible throughout the program::A parameter::A return value::B::Global variables are defined outside functions and accessible everywhere.
+12::Which symbol is used to pass parameters by reference?::*::&::%::$::B::& is used to pass parameters by reference, modifying the original variable.
+13::What is the output of int add(int a, int b) { return a+b; } called as add(3,4)?::7::34::Error::Nothing::A::The function returns 3 + 4 = 7.
+14::What is a function definition?::Function call::Function prototype::Code block with function body::Variable declaration::C::The definition includes the function’s body and logic.
+15::What is recursion in C?::A loop structure::A function calling itself::Multiple function calls::No function calls::B::Recursion occurs when a function calls itself to solve a problem.
+16::What is the output of void print() { printf("Hi"); } called once?::Hi::Error::Nothing::Hi\n::A::The void function outputs "Hi" without a newline.
+17::Which function is automatically called at program start?::start()::main()::begin()::init()::B::main() is the entry point of a C program.
+18::What is pass-by-value in C?::Modifying original variable::Copying parameter value::Using pointers::No parameters::B::Pass-by-value copies the parameter’s value, leaving the original unchanged.
+19::What is pass-by-reference in C?::Copying parameter value::Modifying original variable via address::No parameters::Returning a value::B::Pass-by-reference uses pointers to modify the original variable.
+20::What is the output of int square(int x) { return x*x; } called as square(5)?::25::5::Error::Nothing::A::The function returns 5 * 5 = 25.
+21::What is the error in void func() { return 5; }?::Void functions can’t return values::Missing parameters::Missing prototype::No error::A::Void functions cannot return a value like 5.
+22::What is the scope of a variable declared inside a function?::Global::Local::Static::External::B::Variables inside a function are local to that function.
+23::What does int func(int x, int y); represent?::Function definition::Function call::Function prototype::Function return::C::It’s a prototype declaring the function’s signature.
+24::What is the output of int max(int a, int b) { return a>b?a::b; } called as max(10,7)?::10::7::Error::Nothing::A::The function returns the larger value, 10.
+25::What is a static variable in a function?::Changes every call::Retains value between calls::Global variable::Parameter::B::Static variables keep their value across function calls.
+26::What is the error in int func(a, b) { return a+b; }?::Missing parameter types::Missing return statement::Missing prototype::No error::A::Parameters a and b need data types, e.g., int a, int b.
+27::What is the output of void swap(int x, int y) { int t=x; x=y; y=t; } called as swap(5,10)?::5 10::10 5::Error::No output::A::Pass-by-value doesn’t swap original variables; no output is printed.
+28::What is the correct way to swap two variables in a function?::Use pass-by-value::Use pointers with & and *::Return both values::No swap possible::B::Pointers allow swapping by modifying original variables’ addresses.
+29::What is the output of int cube(int n) { return n*n*n; } called as cube(3)?::9::27::3::Error::B::The function returns 3 * 3 * 3 = 27.
+30::What is a function’s return value if no return statement is used?::0::Undefined::Error::Void::B::Non-void functions without return have undefined behavior.
+31::What is the output of int factorial(int n) { if(n==0) return 1; return n*factorial(n-1); } called as factorial(3)?::6::3::1::Error::A::Factorial(3) = 3 * 2 * 1 = 6 via recursion.
+32::What is the error in func(int x) { return x; } called without declaration?::Missing return type::Missing prototype::Missing parameters::No error::B::Functions need a prototype or definition before calling.
+33::What is the output of void greet(char *s) { printf("Hello %s", s); } called as greet("Ali")?::Hello Ali::Ali::Error::Nothing::A::The function prints "Hello Ali" using %s.
+34::What is the lifetime of a local variable?::Entire program::Function execution::Until main ends::Permanent::B::Local variables exist only during their function’s execution.
+35::What is the output of int sum(int a, int b=5) { return a+b; } called as sum(10)?::15::10::5::Error::D::C does not support default parameters; this causes an error.
+36::What is the correct prototype for a function returning float?::float func(int x);::int func(float x);::void func(float x);::float func();::A::float func(int x); declares a float-returning function.
+37::What is the output of int power(int b, int e) { int r=1; for(int i=0; i<e; i++) r*=b; return r; } called as power(2,3)?::8::6::4::Error::A::Power(2,3) = 2 * 2 * 2 = 8.
+38::What is the error in int func() { x=5; return x; }?::Undeclared variable x::Missing parameters::Missing return type::No error::A::Variable x must be declared, e.g., int x.
+39::What is the output of void print(int n) { if(n>0) { printf("%d ", n); print(n-1); } } called as print(3)?::3 2 1 ::1 2 3::Error::Nothing::A::Recursive calls print 3, 2, 1 in order.
+40::What is the role of * in int *func(int x)?::Pointer parameter::Multiplication::Reference::No role::A::* indicates the function returns a pointer to an int.
+41::A function needs to return the square of a number. Which is correct?::void square(int x) { printf("%d", x*x); }::int square(int x) { return x*x; }::int square(int x) { printf("%d", x*x); }::void square(int x) { return x*x; }::B::int square(int x) returns the computed value x*x.
+42::What is the output of int add(int *a, int *b) { return *a+*b; } called with pointers to 5 and 10?::15::510::Error::Nothing::A::*a and *b dereference to 5 and 10, returning 5 + 10 = 15.
+43::A function swaps two numbers using pointers. What is the correct header?::void swap(int x, int y)::void swap(int *x, int *y)::int swap(int x, int y)::int swap(int &x, int &y)::B::Pointers (*x, *y) allow swapping original values.
+44::What is the error in int func(int x) { return x; } called as func(5,10)?::Too many arguments::Missing prototype::Missing return type::No error::A::The function expects one parameter, not two.
+45::What is the output of int fib(int n) { if(n<=1) return n; return fib(n-1)+fib(n-2); } called as fib(4)?::3::5::2::Error::B::Fibonacci(4) = fib(3)+fib(2) = (2+1)+(1+0) = 5.
+46::A function calculates the average of two floats. Which is correct?::float avg(float a, float b) { return (a+b)/2; }::int avg(float a, float b) { return (a+b)/2; }::void avg(float a, float b) { printf("%f", (a+b)/2); }::float avg(int a, int b) { return (a+b)/2; }::A::float avg returns the correct float average.
+47::What is the output of void update(int *p) { *p+=10; } called with a pointer to 20?::30::20::Error::Nothing::A::The function modifies the original value to 20 + 10 = 30.
+48::What is the error in int func() { return; }?::No error::Missing return value for int function::Missing parameters::Missing prototype::B::An int function must return an integer value.
+49::A function checks if a number is even. Which is correct?::int isEven(int n) { return n%2==0; }::void isEven(int n) { printf("%d", n%2); }::int isEven(int n) { printf("%d", n%2==0); }::float isEven(int n) { return n%2; }::A::int isEven returns 1 (true) or 0 (false) for even numbers.
+50::What is the output of int sum(int n) { if(n==0) return 0; return n+sum(n-1); } called as sum(5)?::15::5::0::Error::A::Recursive sum(5) = 5 + 4 + 3 + 2 + 1 = 15.

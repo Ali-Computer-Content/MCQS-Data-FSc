@@ -1,0 +1,50 @@
+1::The branch of physics dealing with stationary electric charges is called::Electromagnetism::Electrostatics::Electrodynamics::Quantum mechanics::B::Electrostatics studies electric charges at rest.
+2::The SI unit of electric charge is::Coulomb::Ampere::Volt::Ohm::A::Electric charge is measured in coulombs (C).
+3::Coulomb’s law describes the force between::Moving charges::Stationary charges::Magnetic poles::Neutral particles::B::Coulomb’s law applies to stationary point charges, F = k|q1q2|/r².
+4::The value of Coulomb’s constant (k) in SI units is::8.99 × 10^9 N·m²/C²::9.81 × 10^9 N·m²/C²::8.85 × 10^-12 N·m²/C²::1/(4πε₀)::A::k = 8.99 × 10^9 N·m²/C², where k = 1/(4πε₀).
+5::The permittivity of free space (ε₀) is::8.85 × 10^-12 C²/N·m²::8.99 × 10^9 N·m²/C²::4π × 10^-7 T·m/A::1.6 × 10^-19 C::A::ε₀ = 8.85 × 10^-12 C²/N·m², used in Coulomb’s law.
+6::The electric force between two charges is proportional to::1/r::r::1/r²::r²::C::According to Coulomb’s law, F ∝ 1/r², where r is the distance between charges.
+7::The electric field (E) is defined as::Force per unit charge::Charge per unit force::Voltage per unit distance::Energy per unit charge::A::E = F/q, where E is the electric field and F is the force on charge q.
+8::The SI unit of electric field is::N/C::V/m::Both N/C and V/m::J/C::C::Electric field is measured in newtons per coulomb (N/C) or volts per meter (V/m).
+9::The electric field due to a point charge q at distance r is::kq/r::kq/r²::q/r::q/r²::B::E = kq/r², directed radially outward (positive q) or inward (negative q).
+10::Electric field lines point::From positive to negative charge::From negative to positive charge::In random directions::Parallel to charges::A::Field lines originate from positive charges and terminate on negative charges.
+11::The electric potential (V) at a point is defined as::Work per unit charge::Force per unit charge::Energy per unit force::Charge per unit work::A::V = W/q, where W is work done to bring charge q to the point.
+12::The SI unit of electric potential is::Volt::Joule::Coulomb::Newton::A::Electric potential is measured in volts (V), where 1 V = 1 J/C.
+13::The electric potential due to a point charge q at distance r is::kq/r::kq/r²::q/r::q/r²::A::V = kq/r, positive for positive charges and negative for negative charges.
+14::The relationship between electric field (E) and electric potential (V) is::E = V/d::E = -dV/dr::E = V·d::E = V/r::B::E = -dV/dr, where E is the negative gradient of potential V.
+15::The work done in moving a charge in an equipotential surface is::Zero::Maximum::Minimum::Infinite::A::On an equipotential surface, V is constant, so no work is done (W = qΔV = 0).
+16::The capacitance (C) of a capacitor is defined as::Q/V::V/Q::Q·V::Q²/V::A::Capacitance C = Q/V, where Q is charge stored and V is potential difference.
+17::The SI unit of capacitance is::Farad::Coulomb::Volt::Ohm::A::Capacitance is measured in farads (F), where 1 F = 1 C/V.
+18::The capacitance of a parallel plate capacitor is proportional to::1/d::d::A/d::d/A::C::C = ε₀A/d, where A is plate area and d is separation distance.
+19::The energy stored in a capacitor is given by::½CV²::CV::CV²::½C/V::A::Energy U = ½CV² = ½QV = ½Q²/C, where C is capacitance, V is voltage, and Q is charge.
+20::The electric field inside a charged conductor is::Zero::Maximum::Infinite::Proportional to charge::A::In electrostatic equilibrium, the electric field inside a conductor is zero.
+21::The charge resides on a conductor’s::Surface::Center::Interior::Edges only::A::Excess charge on a conductor distributes itself on the outer surface.
+22::The electric field just outside a charged conductor is::Zero::kQ/r²::σ/ε₀::Q/ε₀::C::E = σ/ε₀, where σ is surface charge density, perpendicular to the surface.
+23::The potential inside a charged conductor is::Zero::Constant::Maximum::Minimum::B::The potential inside a conductor in equilibrium is constant and equal to the surface potential.
+24::Gauss’s law relates electric flux to::Enclosed charge::Surface are::aElectric field::Potential difference::A::Gauss’s law:: Φ_E = Q_enc/ε₀, where Φ_E is electric flux and Q_enc is enclosed charge.
+25::The electric flux through a closed surface with no charge inside is::Zero::Maximum::Infinite::Proportional to surface are::aA::If no charge is enclosed (Q_enc = 0), the net electric flux is zero by Gauss’s law.
+26::The unit of electric flux is::N·m²/C::N/C::V/m::J/C::A::Electric flux Φ_E = E·A·cosθ is measured in N·m²/C.
+27::The dielectric constant (κ) of a material is the ratio of::Permittivity of material to free space::Capacitance with air to material::Electric field with material to without::Charge with material to without::A::κ = ε/ε₀, where ε is the permittivity of the material and ε₀ is that of free space.
+28::The capacitance of a capacitor increases when a dielectric is inserted because::Charge decreases::Potential difference increases::Permittivity increases::Distance increases::C::C = κε₀A/d; inserting a dielectric (κ > 1) increases permittivity, thus increasing C.
+29::The electric field between the plates of a parallel plate capacitor is::σ/ε₀::Q/ε₀A::V/d::All of these::D::E = σ/ε₀ = Q/(ε₀A) = V/d, where σ is charge density, Q is charge, A is area, and d is separation.
+30::The force on a charge q in an electric field E is::F = qE::F = q/E::F = E/q::F = q²E::A::F = qE, where F is the force, q is the charge, and E is the electric field.
+31::The electric potential energy of two point charges is::kq1q2/r::kq1q2/r²::q1q2/r::kq1q2/r³::A::U = kq1q2/r, where U is potential energy, q1 and q2 are charges, and r is separation.
+32::The torque on an electric dipole in a uniform electric field is::pE sinθ::pE cosθ::p/E sinθ::pE::A::Torque τ = pE sinθ, where p is the dipole moment, E is the field, and θ is the angle.
+33::The electric dipole moment is measured in::Coulomb-meter::Coulomb/meter::Ampere-meter::Volt-meter::A::Dipole moment p = qd is measured in coulomb-meters (C·m).
+34::The electric field at the center of a uniformly charged ring is::Zero::kq/r²::kq/r::q/ε₀r²::A::Due to symmetry, the electric field at the center of a charged ring cancels out to zero.
+35::The electric field inside a uniformly charged spherical shell is::Zero::kq/r²::σ/ε₀::q/ε₀r²::A::By Gauss’s law, the electric field inside a charged spherical shell is zero.
+36::The potential difference between two points is measured in::Joule::Volt::Coulomb::Newton::B::Potential difference (V) is measured in volts (V), where 1 V = 1 J/C.
+37::The work done in moving a charge q through a potential difference V is::qV::q/V::V/q::q²V::A::Work W = qV, where q is charge and V is potential difference.
+38::The electric field lines are::Continuous and never cross::Discontinuous::Always cross::Parallel only::A::Electric field lines are continuous, start at positive charges, end at negative charges, and never intersect.
+39::The capacitance of a capacitor decreases when::Area increases::Distance decreases::Dielectric is inserted::Distance increases::D::C = ε₀A/d; increasing d decreases capacitance.
+40::The energy density in an electric field is::½ε₀E²::ε₀E::½ε₀/E²::E²/ε₀::A::Energy density u = ½ε₀E², where E is the electric field strength.
+41::The electric field due to an infinite sheet of charge is::σ/2ε₀::σ/ε₀::kq/r²::q/ε₀r²::B::E = σ/ε₀, independent of distance from the sheet, where σ is surface charge density.
+42::The potential energy of an electric dipole in a uniform field is::-pE cosθ::pE cosθ::-pE sinθ::pE sinθ::A::U = -pE cosθ, where p is dipole moment, E is field, and θ is the angle.
+43::The electric flux through a surface is maximum when::Surface is parallel to field::Surface is perpendicular to field::No field lines pass through::Surface is closed::B::Φ_E = E·A·cosθ is maximum when θ = 0°, i.e., surface is perpendicular to the field.
+44::The charge stored by a capacitor with capacitance 2 μF and voltage 10 V is::5 μC::10 μC::20 μC::40 μC::C::Q = CV = 2 × 10^-6 × 10 = 20 × 10^-6 = 20 μC.
+45::The electric field at a distance r from an infinite line of charge is::λ/2πε₀r::λ/ε₀r::kq/r²::λ/4πε₀r::A::E = λ/(2πε₀r), where λ is linear charge density.
+46::The equivalent capacitance of two capacitors in series is::C1 + C2::C1C2/(C1 + C2)::C1/C2::C1C2::B::For capacitors in series, 1/C_eq = 1/C1 + 1/C2, so C_eq = C1C2/(C1 + C2).
+47::The equivalent capacitance of two capacitors in parallel is::C1 + C2::C1C2/(C1 + C2)::C1/C2::C1C2::A::For capacitors in parallel, C_eq = C1 + C2.
+48::The electric potential at infinity is assumed to be::Zero::Infinite::Maximum::Minimum::A::By convention, electric potential V is zero at infinity for point charges.
+49::The force between two charges 1 μC each, separated by 1 m, is::8.99 × 10^3 N::8.99 × 10^-3 N::8.99 N::8.99 × 10^6 N::B::F = kq1q2/r² = (8.99 × 10^9 × 10^-6 × 10^-6)/1² = 8.99 × 10^-3 N.
+50::The electric field inside a parallel plate capacitor with plate separation 0.01 m and potential difference 100 V is::1000 V/m::10000 V/m::100 V/m::10 V/m::B::E = V/d = 100/0.01 = 10000 V/m.

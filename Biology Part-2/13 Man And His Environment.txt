@@ -1,0 +1,50 @@
+1::The study of interactions between humans and their environment is::Ecology::Biotechnology::Genetics::Anthropology::A::Ecology examines relationships between organisms, including humans, and their environment.
+2::The natural resource that is non-renewable is::Forests::Water::Coal::Wildlife::C::Coal is a fossil fuel that takes millions of years to form, making it non-renewable.
+3::The primary source of energy for Earth’s climate system is::Wind::Sunlight::Geothermal::Fossil fuels::B::Sunlight drives climate processes like evaporation and wind patterns.
+4::The gas contributing most to the greenhouse effect is::Carbon dioxide::Methane::Nitrogen::Oxygen::A::Carbon dioxide traps heat, significantly contributing to global warming.
+5::The process of removing forests is called::Afforestation::Deforestation::Reforestation::Conservation::B::Deforestation involves clearing forests, often for agriculture or development.
+6::The major cause of soil erosion is::Deforestation::Overgrazing::Both A and B::Urbanization::C::Deforestation and overgrazing remove vegetation, exposing soil to erosion.
+7::The pollutant that depletes the ozone layer is::Carbon dioxide::Sulfur dioxide::CFCs::Nitrogen oxides::C::Chlorofluorocarbons (CFCs) break down ozone molecules in the stratosphere.
+8::The layer of the atmosphere that protects life from UV rays is::Troposphere::Stratosphere::Mesosphere::Thermosphere::B::The stratosphere contains the ozone layer, which absorbs harmful UV radiation.
+9::The process of recycling nutrients in the environment is driven by::Producers::Consumers::Decomposers::Predators::C::Decomposers break down organic matter, releasing nutrients back into ecosystems.
+10::The gas that causes acid rain is::Carbon dioxide::Sulfur dioxide::Methane::Oxygen::B::Sulfur dioxide forms sulfuric acid in the atmosphere, leading to acid rain.
+11::The human activity that increases carbon dioxide levels is::Reforestation::Recycling::Burning fossil fuels::Conservation::C::Burning fossil fuels releases stored carbon as carbon dioxide.
+12::The consequence of ozone depletion is::Global warming::Increased UV radiation::Acid rain::Soil erosion::B::Ozone depletion allows more UV radiation to reach Earth’s surface.
+13::The process of excessive nutrient enrichment in water bodies is::Eutrophication::Desertification::Deforestation::Ozone depletion::A::Eutrophication causes algal blooms due to excess nitrogen and phosphorus.
+14::The major source of water pollution is::Rainwater::Industrial waste::Glaciers::Underground springs::B::Industrial waste, including chemicals and effluents, pollutes water bodies.
+15::The disease caused by water pollution is::Cholera::Tuberculosis::Asthma::Malaria::A::Cholera is caused by drinking water contaminated with Vibrio cholerae.
+16::The renewable resource among the following is::Coal::Natural gas::Wind::Petroleum::C::Wind is replenished naturally, making it a renewable resource.
+17::The process of converting waste into reusable material is::Incineration::Recycling::Landfilling::Composting::B::Recycling reprocesses waste materials into new products.
+18::The gas that contributes to smog formation is::Carbon dioxide::Ozone::Methane::Nitrogen::B::Ground-level ozone, formed from pollutants, contributes to smog.
+19::The human activity that reduces biodiversity is::Conservation::Habitat destruction::Reforestation::Recycling::B::Habitat destruction, like deforestation, reduces species diversity.
+20::The process of restoring degraded land is::Desertification::Reclamation::Eutrophication::Deforestation::B::Reclamation restores land for productive use, e.g., through reforestation.
+21::The pollutant that causes respiratory issues is::Carbon dioxide::Particulate matter::Methane::Oxygen::B::Particulate matter, like dust and soot, irritates lungs and causes respiratory problems.
+22::The international agreement to protect the ozone layer is::Kyoto Protocol::Montreal Protocol::Paris Agreement::CITES::B::The Montreal Protocol phases out ozone-depleting substances like CFCs.
+23::The gas that is a byproduct of rice cultivation is::Carbon dioxide::Methane::Sulfur dioxide::Nitrogen oxides::B::Methane is produced by anaerobic decomposition in rice paddies.
+24::The process of soil becoming infertile due to overuse is::Eutrophication::Desertification::Deforestation::Reclamation::B::Desertification results from overgrazing and intensive farming, reducing soil fertility.
+25::The major source of air pollution is::Volcanoes::Vehicle emissions::Forests::Oceans::B::Vehicle emissions release pollutants like carbon monoxide and nitrogen oxides.
+26::The effect of acid rain on ecosystems is::Increased biodiversity::Soil acidification::Ozone depletion::Global cooling::B::Acid rain lowers soil pH, harming plants and aquatic life.
+27::The resource that supports sustainable development is::Coal::Petroleum::Solar energy::Natural gas::C::Solar energy is renewable and environmentally friendly, supporting sustainability.
+28::The process of protecting natural habitats is::Conservation::Urbanization::Deforestation::Pollution::A::Conservation preserves ecosystems and biodiversity.
+29::The pollutant that causes global warming is::Sulfur dioxide::Carbon dioxide::Particulate matter::Ozone::B::Carbon dioxide traps heat, contributing to the greenhouse effect.
+30::The human activity that promotes biodiversity is::Deforestation::Overfishing::Afforestation::Mining::C::Afforestation restores habitats, supporting diverse species.
+31::The consequence of eutrophication is::Clear water::Algal blooms::Increased oxygen::Reduced nutrients::B::Algal blooms deplete oxygen, harming aquatic life.
+32::The gas that forms a protective layer in the stratosphere is::Carbon dioxide::Ozone::Methane::Nitrogen::B::Ozone in the stratosphere absorbs harmful UV radiation.
+33::The process of reducing waste production is::Recycling::Incineration::Waste minimization::Landfilling::C::Waste minimization reduces the amount of waste generated.
+34::The disease caused by air pollution is::Cholera::Asthma::Typhoid::Dengue::B::Asthma is triggered by air pollutants like particulate matter and ozone.
+35::The renewable energy source among the following is::Coal::Natural gas::Wind::Petroleum::C::Wind energy is harnessed sustainably without depletion.
+36::The process of treating polluted water is::Eutrophication::Bioremediation::Desertification::Deforestation::B::Bioremediation uses microbes to clean contaminated water or soil.
+37::The major cause of global warming is::Ozone depletion::Deforestation::Volcanic eruptions::Solar radiation::B::Deforestation reduces carbon sequestration, increasing atmospheric carbon dioxide.
+38::The international agreement to reduce greenhouse gases is::Montreal Protocol::Kyoto Protocol::CITES::Biodiversity Convention::B::The Kyoto Protocol sets targets for reducing greenhouse gas emissions.
+39::The pollutant that contaminates soil is::Carbon dioxide::Heavy metals::Methane::Ozone::B::Heavy metals, like lead and mercury, accumulate in soil, harming ecosystems.
+40::The process of planting trees to restore forests is::Deforestation::Afforestation::Desertification::Urbanization::B::Afforestation establishes new forests to enhance ecosystems.
+41::The consequence of overpopulation is::Increased resources::Reduced pollution::Habitat loss::Improved biodiversity::C::Overpopulation leads to habitat destruction and resource depletion.
+42::The gas that contributes to both global warming and acid rain is::Carbon dioxide::Sulfur dioxide::Methane::Ozone::B::Sulfur dioxide forms acid rain and acts as a greenhouse gas.
+43::The method of waste disposal that produces methane is::Recycling::Incineration::Landfilling::Composting::C::Landfills produce methane from anaerobic decomposition of organic waste.
+44::The process of protecting endangered species is::Conservation::Poaching::Deforestation::Overfishing::A::Conservation efforts protect threatened species and their habitats.
+45::The pollutant that causes water turbidity is::Sulfur dioxide::Suspended solids::Carbon dioxide::Methane::B::Suspended solids, like silt, cloud water, reducing light penetration.
+46::The human activity that reduces soil fertility is::Crop rotation::Overgrazing::Reforestation::Organic farming::B::Overgrazing removes vegetation, leading to soil erosion and nutrient loss.
+47::The gas that is a byproduct of livestock digestion is::Carbon dioxide::Methane::Sulfur dioxide::Nitrogen oxides::B::Methane is produced in the digestive systems of ruminants like cows.
+48::The process of using natural predators to control pests is::Chemical control::Biological control::Mechanical control::Cultural control::B::Biological control uses organisms like ladybugs to manage pest populations.
+49::The consequence of urban sprawl is::Increased biodiversity::Habitat fragmentation::Reduced pollution::Improved soil fertility::B::Urban sprawl fragments habitats, disrupting ecosystems and wildlife.
+50::The ecological role of humans in the environment includes::Maintaining balance::Producing energy::Fixing nitrogen::Recycling nutrients::A::Humans can maintain ecological balance through conservation and sustainable practices.

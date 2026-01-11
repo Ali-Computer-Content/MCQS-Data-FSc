@@ -1,0 +1,50 @@
+1::The C programming language is a::High-level language::Low-level language::Assembly language::Scripting language::A::Structured and portable.
+2::C was developed by::Dennis Ritchie::Bill Gates::James Gosling::Guido van Rossum::A::At Bell Labs in 1972.
+3::The purpose of C language is::General-purpose programming::Web development::Database management::None::A::Used for systems and applications.
+4::A C program must include which function::main()::start()::begin()::run()::A::Entry point of execution.
+5::The file extension for a C source file is::.c::.cpp::.exe::.txt::A::Standard for C code.
+6::The process of converting C code to machine code is::Compilation::Interpretation::Execution::Debugging::A::Done by a compiler.
+7::The header file for input/output functions in C is::stdio.h::conio.h::math.h::stdlib.h::A::Standard Input/Output.
+8::The function used to display output in C is::printf()::scanf()::getch()::puts()::A::Prints formatted output.
+9::The function used to read input in C is::scanf()::printf()::getchar()::puts()::A::Reads formatted input.
+10::The symbol used to end a C statement is::;::.::,::::A::Semicolon terminates statements.
+11::A variable in C must be::Declared before use::Initialized::Global::None::A::Specifies data type and name.
+12::The data type for whole numbers in C is::int::float::char::double::A::Stores integers.
+13::The data type for decimal numbers in C is::float::int::char::void::A::Stores floating-point values.
+14::The data type for single characters in C is::char::int::float::string::A::Stores one character.
+15::The size of an int data type in C (32-bit system) is::4 bytes::2 bytes::1 byte::8 bytes::A::Standard for 32-bit systems.
+16::The size of a char data type in C is::1 byte::2 bytes::4 bytes::8 bytes::A::Stores ASCII characters.
+17::The keyword to declare a constant in C is::const::define::static::volatile::A::Prevents value modification.
+18::A preprocessor directive in C starts with::#:://::/*::%::A::E.g., #include, #define.
+19::The header file for mathematical functions is::math.h::stdio.h::conio.h::stdlib.h::A::E.g., sqrt(), pow().
+20::The escape sequence for a newline in C is::\n::\t::\b::\r::A::Moves cursor to next line.
+21::The format specifier for an integer in printf() is::%d::%f::%c::%s::A::Displays integer values.
+22::The format specifier for a float in printf() is::%f::%d::%c::%s::A::Displays decimal numbers.
+23::The format specifier for a character in printf() is::%c::%d::%f::%s::A::Displays single characters.
+24::The format specifier for a string in printf() is::%s::%c::%d::%f::A::Displays character arrays.
+25::The return type of main() function by default is::int::void::float::char::A::Returns status code.
+26::A comment in C starts with::// or /*::#::%::;::A::Single-line (//) or multi-line (/* */).
+27::The purpose of the #include directive is::Import header files::Define variables::Execute code::None::A::Accesses library functions.
+28::The scanf() function requires::Address of variables::Variable names::Data types::None::A::Uses & for variable addresses.
+29::The output of printf("Hello\nWorld"); is::Hello (new line) World::Hello World::HelloWorld::None::A::\n adds a newline.
+30::The keyword void in C indicates::No return value::Any value::Zero value::None::A::Used in functions.
+31::The size of a float data type in C is::4 bytes::2 bytes::8 bytes::1 byte::A::Single-precision floating-point.
+32::The process of finding errors in a C program is::Debugging::Compiling::Linking::Executing::A::Fixes logical/syntax errors.
+33::The linker in C combines::Object files into executable::Source code::Header files::None::A::Creates final program.
+34::The escape sequence for a tab in C is::\t::\n::\b::\r::A::Horizontal tab spacing.
+35::The header file for getch() function is::conio.h::stdio.h::stdlib.h::math.h::A::Non-standard, for console input.
+36::The function getch() in C::Reads a character without echo::Displays output::Reads a string::None::A::Waits for keypress.
+37::The keyword to define a macro in C is::#define::const::static::volatile::A::Preprocessor directive.
+38::The output of printf("%d", 5 + 3); is::8::5::3::None::A::Evaluates expression first.
+39::The range of a signed char in C is::-128 to 127::0 to 255::-127 to 127::0 to 127::A::8-bit signed integer.
+40::The purpose of a compiler is::Convert C code to machine code::Execute code::Debug code::None::A::Generates object code.
+41::The function to clear the screen in C is::clrscr()::clear()::cls()::None::A::Non-standard, in conio.h.
+42::The format specifier for a double in printf() is::%lf::%f::%d::%c::A::Long float for double.
+43::The keyword static in C::Preserves variable value::Changes value::Deletes variable::None::A::Retains value between calls.
+44::The escape sequence for backspace in C is::\b::\n::\t::\r::A::Moves cursor left.
+45::The header file for dynamic memory allocation is::stdlib.h::stdio.h::conio.h::math.h::A::E.g., malloc(), free().
+46::The function puts() in C::Displays a string::Reads a string::Clears screen::None::A::Outputs string with newline.
+47::The purpose of a C program’s header files is::Provide function declarations::Store dat::aExecute code::None::A::E.g., printf() in stdio.h.
+48::The output of printf("%c", 65); is::A::65::B::None::A::ASCII value 65 is ‘A’.
+49::The keyword extern in C is used to::Declare external variables::Define constants::Clear memory::None::A::Accesses variables from other files.
+50::The first step in executing a C program is::Writing source code::Compiling::Linking::Running::A::Creating .c file.

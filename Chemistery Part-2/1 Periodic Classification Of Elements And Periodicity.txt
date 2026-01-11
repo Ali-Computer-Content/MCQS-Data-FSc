@@ -1,0 +1,50 @@
+1::The modern periodic table is based on::Atomic mass::Atomic number::Atomic volume::Atomic density::B::The modern periodic table arranges elements by increasing atomic number.
+2::The horizontal rows in the periodic table are called::Groups::Periods::Families::Blocks::B::Periods are the horizontal rows, indicating energy levels.
+3::The vertical columns in the periodic table are called::Periods::Groups::Blocks::Series::B::Groups are vertical columns, containing elements with similar properties.
+4::The number of elements in the third period of the periodic table is::2::8::18::32::B::The third period contains 8 elements (Na to Ar).
+5::Elements in group 1 are called::Alkali metals::Alkaline earth metals::Halogens::Noble gases::A::Group 1 elements (except H) are alkali metals.
+6::Which block of the periodic table contains transition elements?::s-block::p-block::d-block::f-block::C::Transition elements belong to the d-block.
+7::The f-block elements are also known as::Transition metals::Inner transition metals::Halogens::Noble gases::B::f-block elements (lanthanides and actinides) are inner transition metals.
+8::The atomic radius of elements generally::Increases down a group::Decreases down a group::Remains constant down a group::Varies randomly::A::Atomic radius increases down a group due to additional electron shells.
+9::Across a period, the atomic radius generally::Increases::Decreases::Remains constant::Varies randomly::B::Atomic radius decreases across a period due to increasing nuclear charge.
+10::The ionization energy of an element is the energy required to remove::A proton::A neutron::An electron::A nucleus::C::Ionization energy is the energy needed to remove an electron from a gaseous atom.
+11::Ionization energy generally::Increases down a group::Decreases across a period::Increases across a period::Remains constant across a period::C::Ionization energy increases across a period due to higher nuclear charge.
+12::Down a group, ionization energy::Increases::Decreases::Remains constant::Varies randomly::B::Ionization energy decreases down a group due to increased atomic size and shielding effect.
+13::Which element has the highest ionization energy?::Li::N::aF::Ne::D::Neon has the highest ionization energy due to its stable noble gas configuration.
+14::Electronegativity is the ability of an atom to::Lose electrons::Gain electrons::Share electrons::Attract shared electrons::D::Electronegativity measures how strongly an atom attracts shared electrons in a bond.
+15::Which element has the highest electronegativity?::O::F::Cl::N::B::Fluorine has the highest electronegativity (4.0 on the Pauling scale).
+16::Electronegativity generally::Increases down a group::Decreases across a period::Increases across a period::Remains constant across a period::C::Electronegativity increases across a period due to increasing nuclear charge.
+17::Down a group, electronegativity::Increases::Decreases::Remains constant::Varies randomly::B::Electronegativity decreases down a group due to increased atomic size.
+18::Electron affinity is the energy change when::An electron is added to a neutral atom::An electron is removed from an atom::A proton is added to an atom::A neutron is added to an atom::A::Electron affinity is the energy released (or absorbed) when an electron is added to a neutral atom.
+19::Which element has the highest electron affinity?::F::Cl::Br::I::B::Chlorine has the highest electron affinity due to its favorable electron gain.
+20::The s-block elements include::Groups 1 and 2::Groups 3 to 12::Groups 13 to 18::Lanthanides and actinides::A::s-block includes groups 1 (alkali metals) and 2 (alkaline earth metals).
+21::The p-block elements include::Groups 1 and 2::Groups 3 to 12::Groups 13 to 18::Lanthanides and actinides::C::p-block includes groups 13 to 18, with diverse properties.
+22::The d-block elements are located in::Groups 1 and 2::Groups 3 to 12::Groups 13 to 18::Inner transition series::B::d-block elements (transition metals) are in groups 3 to 12.
+23::The lanthanides belong to::s-block::p-block::d-block::f-block::D::Lanthanides are f-block elements, filling the 4f orbitals.
+24::The metallic character of elements::Increases across a period::Decreases down a group::Increases down a group::Remains constant down a group::C::Metallic character increases down a group due to larger atomic size and lower ionization energy.
+25::Across a period, metallic character::Increases::Decreases::Remains constant::Varies randomly::B::Metallic character decreases across a period as elements become more non-metallic.
+26::Which element is a metalloid?::N::aSi::Cl::K::B::Silicon (Si) is a metalloid, with properties between metals and non-metals.
+27::The shielding effect is caused by::Outer electrons::Inner electrons::Protons::Neutrons::B::Inner electrons shield outer electrons from the nuclear charge.
+28::The shielding effect increases::Across a period::Down a group::In transition elements only::In noble gases only::B::Shielding effect increases down a group due to more inner electron shells.
+29::The atomic radius of Na is larger than that of::K::Mg::Cl::Cs::B::Na has a larger atomic radius than Mg, as atomic radius decreases across a period.
+30::The ionic radius of Na⁺ is::Larger than N::aSmaller than N::aEqual to N::aUnrelated to N::aB::Na⁺ loses an electron, reducing its radius compared to neutral Na.
+31::The ionic radius of Cl⁻ is::Smaller than Cl::Larger than Cl::Equal to Cl::Unrelated to Cl::B::Cl⁻ gains an electron, increasing its radius compared to neutral Cl.
+32::The first ionization energy of Mg is higher than that of::N::aAl::Cl::Ar::A::Mg has a higher ionization energy than Na, as it is further across the period.
+33::The second ionization energy is always::Lower than the first::Higher than the first::Equal to the first::Zero::B::Second ionization energy is higher, as removing an electron from a cation is harder.
+34::Which group contains the most reactive metals?::Group 1::Group 2::Group 17::Group 18::A::Group 1 (alkali metals) are the most reactive metals due to low ionization energy.
+35::Which group contains the most reactive non-metals?::Group 1::Group 2::Group 17::Group 18::C::Group 17 (halogens) are the most reactive non-metals due to high electronegativity.
+36::The noble gases are found in::Group 1::Group 2::Group 17::Group 18::D::Group 18 contains the noble gases, which are inert due to stable electron configurations.
+37::The atomic radius of F is smaller than that of::O::Ne::Cl::All of these::D::F has a smaller atomic radius than O, Ne, and Cl due to higher nuclear charge in the same period.
+38::The ionization energy of N is higher than that of::O::F::C::B::A::N has a higher ionization energy than O due to its half-filled stable 2p orbital.
+39::The electronegativity of O is higher than that of::F::N::Cl::S::B::O has a higher electronegativity (3.5) than N (3.0), but lower than F (4.0).
+40::The electron affinity of F is lower than that of Cl because::F is smaller::F has a stable configuration::F has higher nuclear charge::F experiences more electron repulsion::D::F’s smaller size causes greater electron repulsion, lowering its electron affinity.
+41::The alkaline earth metals are found in::Group 1::Group 2::Group 17::Group 18::B::Group 2 contains the alkaline earth metals (Be, Mg, Ca, etc.).
+42::The transition elements show variable::Atomic radius::Oxidation states::Electronegativity::Electron affinity::B::d-block elements exhibit variable oxidation states due to d-orbital electrons.
+43::The atomic radius of Cs is larger than that of::Rb::K::N::aAll of these::D::Cs, at the bottom of group 1, has the largest atomic radius among Rb, K, and Na.
+44::The ionization energy of Be is higher than that of::B::Li::Mg::C::aA::Be has a higher ionization energy than B due to its filled 2s orbital.
+45::The electronegativity of noble gases is::High::Low::Zero::Variable::C::Noble gases have zero electronegativity due to their stable configurations.
+46::The atomic radius of Al is larger than that of::G::aIn::Tl::All of these::A::Al has a larger atomic radius than Ga due to d-block contraction in Ga.
+47::The oxidation state of elements in group 2 is::+1::+2::+3::+4::B::Group 2 elements (alkaline earth metals) have a +2 oxidation state.
+48::The periodic trend that does not change significantly across a period is::Atomic radius::Ionization energy::Electronegativity::Shielding effect::D::Shielding effect remains relatively constant across a period, as the number of inner electrons does not change.
+49::The element with the electronic configuration [Ar] 4s² belongs to::s-block::p-block::d-block::f-block::A::[Ar] 4s² is Ca, an s-block element in group 2.
+50::The element with the highest melting point in period 3 is::N::aMg::Si::Cl::C::Si has the highest melting point due to its giant covalent structure.

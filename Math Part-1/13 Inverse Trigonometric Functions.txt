@@ -1,0 +1,100 @@
+1::The domain of sin⁻¹x is::[-1, 1]::[0, 1]::(-∞, ∞)::[-π/2, π/2]::A::sin⁻¹x is defined for x ∈ [-1, 1].
+2::The range of sin⁻¹x is::[-π/2, π/2]::[0, π]::[-1, 1]::[0, 2π]::A::Principal values of sin⁻¹x lie in [-π/2, π/2].
+3::The domain of cos⁻¹x is::[-1, 1]::[0, 1]::(-∞, ∞)::[0, π]::A::cos⁻¹x is defined for x ∈ [-1, 1].
+4::The range of cos⁻¹x is::[0, π]::[-π/2, π/2]::[-1, 1]::[0, 2π]::A::Principal values of cos⁻¹x lie in [0, π].
+5::The domain of tan⁻¹x is::(-∞, ∞)::[-1, 1]::[0, ∞)::[-π/2, π/2]::A::tan⁻¹x is defined for all real x.
+6::The range of tan⁻¹x is::(-π/2, π/2)::[0, π]::[-1, 1]::[-π, π]::A::Principal values of tan⁻¹x lie in (-π/2, π/2).
+7::The value of sin⁻¹(1) is::π/2::π/4::0::π::A::sin(π/2) = 1, so sin⁻¹(1) = π/2.
+8::The value of cos⁻¹(0) is::π/2::π/4::0::π::A::cos(π/2) = 0, so cos⁻¹(0) = π/2.
+9::The value of tan⁻¹(1) is::π/4::π/2::0::π/3::A::tan(π/4) = 1, so tan⁻¹(1) = π/4.
+10::The identity sin⁻¹x + cos⁻¹x equals::π/2::π::0::π/4::A::For x ∈ [-1, 1], sin⁻¹x + cos⁻¹x = π/2.
+11::The value of sin⁻¹(-1) is::-π/2::π/2::-π::0::A::sin(-π/2) = -1, so sin⁻¹(-1) = -π/2.
+12::The value of cos⁻¹(-1) is::π::0::π/2::-π::A::cos(π) = -1, so cos⁻¹(-1) = π.
+13::The value of tan⁻¹(-√3) is::-π/3::π/3::-π/6::π/6::A::tan(-π/3) = -√3, so tan⁻¹(-√3) = -π/3.
+14::The value of sin⁻¹(√3/2) is::π/3::π/4::π/6::π/2::A::sin(π/3) = √3/2, so sin⁻¹(√3/2) = π/3.
+15::The value of cos⁻¹(1/2) is::π/3::π/4::π/6::π/2::A::cos(π/3) = 1/2, so cos⁻¹(1/2) = π/3.
+16::The value of tan⁻¹(0) is::0::π/2::π/4::π::A::tan(0) = 0, so tan⁻¹(0) = 0.
+17::The domain of csc⁻¹x is::(-∞, -1] ∪ [1, ∞)::[-1, 1]::(-∞, ∞)::[0, π]::A::csc⁻¹x is defined for |x| ≥ 1.
+18::The range of csc⁻¹x is::[-π/2, π/2] - {0}::[0, π]::(-π/2, π/2)::[0, π] - {π/2}::A::Principal values of csc⁻¹x are in [-π/2, π/2] excluding 0.
+19::The domain of sec⁻¹x is::(-∞, -1] ∪ [1, ∞)::[-1, 1]::(-∞, ∞)::[0, π]::A::sec⁻¹x is defined for |x| ≥ 1.
+20::The range of sec⁻¹x is::[0, π] - {π/2}::[-π/2, π/2]::[0, π]::(-π/2, π/2)::A::Principal values of sec⁻¹x are in [0, π] excluding π/2.
+21::The value of sin⁻¹(1/2) is::π/6::π/3::π/4::π/2::A::sin(π/6) = 1/2, so sin⁻¹(1/2) = π/6.
+22::The value of cos⁻¹(-1/2) is::2π/3::π/3::π/2::π/4::A::cos(2π/3) = -1/2, so cos⁻¹(-1/2) = 2π/3.
+23::The value of tan⁻¹(√3) is::π/3::π/6::π/4::π/2::A::tan(π/3) = √3, so tan⁻¹(√3) = π/3.
+24::The identity sin⁻¹(-x) equals::-sin⁻¹x::sin⁻¹x::-cos⁻¹x::cos⁻¹x::A::sin⁻¹(-x) = -sin⁻¹x, as sine is odd.
+25::The identity cos⁻¹(-x) equals::π - cos⁻¹x::cos⁻¹x::π + cos⁻¹x::-cos⁻¹x::A::cos⁻¹(-x) = π - cos⁻¹x, as cos(π - θ) = -cosθ.
+26::The identity tan⁻¹(-x) equals::-tan⁻¹x::tan⁻¹x::π - tan⁻¹x::π + tan⁻¹x::A::tan⁻¹(-x) = -tan⁻¹x, as tangent is odd.
+27::The value of sin⁻¹(0) is::0::π/2::π::π/4::A::sin(0) = 0, so sin⁻¹(0) = 0.
+28::The value of cos⁻¹(√2/2) is::π/4::π/3::π/6::π/2::A::cos(π/4) = √2/2, so cos⁻¹(√2/2) = π/4.
+29::The value of tan⁻¹(-1) is::-π/4::π/4::-π/2::π/2::A::tan(-π/4) = -1, so tan⁻¹(-1) = -π/4.
+30::The identity sin(sin⁻¹x) equals::x::1/x::sinx::cosx::A::sin(sin⁻¹x) = x for x ∈ [-1, 1].
+31::The identity cos⁻¹(cosθ) equals::θ::π - θ::π/2 - θ::2π - θ::A::cos⁻¹(cosθ) = θ for θ ∈ [0, π].
+32::The identity tan⁻¹(tanθ) equals::θ::π - θ::π/2 - θ::2π - θ::A::tan⁻¹(tanθ) = θ for θ ∈ (-π/2, π/2).
+33::The value of sin⁻¹(√2/2) is::π/4::π/3::π/6::π/2::A::sin(π/4) = √2/2, so sin⁻¹(√2/2) = π/4.
+34::The value of cos⁻¹(-√3/2) is::5π/6::π/6::π/3::2π/3::A::cos(5π/6) = -√3/2, so cos⁻¹(-√3/2) = 5π/6.
+35::The value of tan⁻¹(1/√3) is::π/6::π/3::π/4::π/2::A::tan(π/6) = 1/√3, so tan⁻¹(1/√3) = π/6.
+36::The identity 2sin⁻¹x equals::sin⁻¹(2x√(1-x²))::cos⁻¹(1-2x²)::tan⁻¹(2x/(1-x²))::All of these::A::Let sin⁻¹x = θ, then 2sin⁻¹x = sin⁻¹(2sinθcosθ) = sin⁻¹(2x√(1-x²)).
+37::The identity 2cos⁻¹x equals::cos⁻¹(2x²-1)::sin⁻¹(2x√(1-x²))::tan⁻¹(2x/(1-x²))::None of these::A::Let cos⁻¹x = θ, then 2cos⁻¹x = cos⁻¹(2cos²θ-1) = cos⁻¹(2x²-1).
+38::The identity 2tan⁻¹x equals::tan⁻¹(2x/(1-x²))::sin⁻¹(2x√(1-x²))::cos⁻¹(2x²-1)::None of these::A::Let tan⁻¹x = θ, then 2tan⁻¹x = tan⁻¹(2tanθ/(1-tan²θ)) = tan⁻¹(2x/(1-x²)).
+39::The value of sin⁻¹(-√2/2) is::-π/4::π/4::-π/3::π/3::A::sin(-π/4) = -√2/2, so sin⁻¹(-√2/2) = -π/4.
+40::The value of cos⁻¹(√3/2) is::π/6::π/3::π/4::π/2::A::cos(π/6) = √3/2, so cos⁻¹(√3/2) = π/6.
+41::The identity tan⁻¹x + tan⁻¹y equals::tan⁻¹((x+y)/(1-xy))::tan⁻¹(x+y)::tan⁻¹(x-y)::tan⁻¹((x-y)/(1+xy))::A::tan⁻¹x + tan⁻¹y = tan⁻¹((tanθ+tanφ)/(1-tanθtanφ)) = tan⁻¹((x+y)/(1-xy)).
+42::The value of sin⁻¹(1/√2) is::π/4::π/3::π/6::π/2::A::sin(π/4) = 1/√2, so sin⁻¹(1/√2) = π/4.
+43::The value of cos⁻¹(-√2/2) is::3π/4::π/4::π/2::π/3::A::cos(3π/4) = -√2/2, so cos⁻¹(-√2/2) = 3π/4.
+44::The value of tan⁻¹(-1/√3) is::-π/6::π/6::-π/3::π/3::A::tan(-π/6) = -1/√3, so tan⁻¹(-1/√3) = -π/6.
+45::The identity sin⁻¹x = cos⁻¹y if::y = √(1-x²)::y = 1-x²::y = x::y = √x::A::If sin⁻¹x = θ, then cos⁻¹y = θ implies y = cosθ = √(1-x²).
+46::The value of sin⁻¹(1) + cos⁻¹(1) is::π/2::π::3π/2::2π::A::sin⁻¹(1) = π/2, cos⁻¹(1) = 0, so π/2 + 0 = π/2.
+47::The value of tan⁻¹(1) + tan⁻¹(-1) is::0::π/2::-π/2::π/4::A::tan⁻¹(1) = π/4, tan⁻¹(-1) = -π/4, so π/4 + (-π/4) = 0.
+48::The identity sin⁻¹x = tan⁻¹y if::y = x/√(1-x²)::y = √(1-x²)/x::y = x::y = 1/x::A::If sin⁻¹x = θ, then tan⁻¹y = θ implies y = tanθ = sinθ/cosθ = x/√(1-x²).
+49::The value of sin⁻¹(-1/2) is::-π/6::π/6::-π/3::π/3::A::sin(-π/6) = -1/2, so sin⁻¹(-1/2) = -π/6.
+50::The value of cos⁻¹(1/√2) is::π/4::π/3::π/6::π/2::A::cos(π/4) = 1/√2, so cos⁻¹(1/√2) = π/4.
+51::The identity tan⁻¹x - tan⁻¹y equals::tan⁻¹((x-y)/(1+xy))::tan⁻¹(x-y)::tan⁻¹((x+y)/(1-xy))::tan⁻¹(y-x)::A::tan⁻¹x - tan⁻¹y = tan⁻¹((tanθ-tanφ)/(1+tanθtanφ)) = tan⁻¹((x-y)/(1+xy)).
+52::The value of sin⁻¹(0.5) is::π/6::π/4::π/3::π/2::A::sin(π/6) = 1/2, so sin⁻¹(0.5) = π/6.
+53::The value of cos⁻¹(-0.5) is::2π/3::π/3::π/2::π/4::A::cos(2π/3) = -1/2, so cos⁻¹(-0.5) = 2π/3.
+54::The value of tan⁻¹(√3/3) is::π/6::π/3::π/4::π/2::A::tan(π/6) = √3/3, so tan⁻¹(√3/3) = π/6.
+55::The identity cos⁻¹x = sin⁻¹y if::y = √(1-x²)::y = x::y = 1-x²::y = 1/x::A::cos⁻¹x = θ implies sin⁻¹y = θ, so y = sinθ = √(1-x²).
+56::The value of sin⁻¹(-√3/2) is::-π/3::π/3::-π/6::π/6::A::sin(-π/3) = -√3/2, so sin⁻¹(-√3/2) = -π/3.
+57::The value of cos⁻¹(0.5) is::π/3::π/4::π/6::π/2::A::cos(π/3) = 1/2, so cos⁻¹(0.5) = π/3.
+58::The identity sin⁻¹(2x/(1+x²)) equals::2tan⁻¹x::tan⁻¹x::sin⁻¹x::cos⁻¹x::A::Let tan⁻¹x = θ, then sin⁻¹(2tanθ/(1+tan²θ)) = sin⁻¹(sin2θ) = 2θ = 2tan⁻¹x.
+59::The value of tan⁻¹(2) + tan⁻¹(3) is::π - tan⁻¹(1/5)::tan⁻¹(5)::π/4::π/2::A::tan⁻¹(2) + tan⁻¹(3) = tan⁻¹((2+3)/(1-2·3)) = tan⁻¹(-5), adjust to π - tan⁻¹(1/5).
+60::The value of sin⁻¹(1/√5) + cos⁻¹(2/√5) is::π/2::π/4::π/3::π/6::A::sin⁻¹(1/√5) = θ, cosθ = 2/√5, so cos⁻¹(2/√5) = θ, and θ + θ = π/2.
+61::The identity cos⁻¹(2x²-1) equals::2cos⁻¹x::sin⁻¹x::tan⁻¹x::2sin⁻¹x::A::Already derived (see Q37).
+62::The value of sin⁻¹(-0.707) is::-π/4::π/4::-π/3::π/3::A::sin(-π/4) ≈ -0.707, so sin⁻¹(-0.707) = -π/4.
+63::The value of cos⁻¹(0.866) is::π/6::π/3::π/4::π/2::A::cos(π/6) ≈ 0.866, so cos⁻¹(0.866) = π/6.
+64::The value of tan⁻¹(-√3/3) is::-π/6::π/6::-π/3::π/3::A::tan(-π/6) = -√3/3, so tan⁻¹(-√3/3) = -π/6.
+65::The identity sin⁻¹x + sin⁻¹(-x) equals::0::π/2::π::-π/2::A::sin⁻¹x + sin⁻¹(-x) = sin⁻¹x - sin⁻¹x = 0.
+66::The value of sin⁻¹(3/5) + cos⁻¹(4/5) is::π/2::π/4::π/3::π/6::A::sin⁻¹(3/5) = θ, cosθ = 4/5, so cos⁻¹(4/5) = θ, and θ + θ = π/2.
+67::The value of tan⁻¹(1/2) + tan⁻¹(1/3) is::π/4::π/3::π/6::π/2::A::tan⁻¹(1/2) + tan⁻¹(1/3) = tan⁻¹((1/2+1/3)/(1-1/6)) = tan⁻¹(1) = π/4.
+68::The identity cos⁻¹x + cos⁻¹(-x) equals::π::π/2::0::2π::A::cos⁻¹x + cos⁻¹(-x) = cos⁻¹x + (π - cos⁻¹x) = π.
+69::The value of sin⁻¹(-0.5) is::-π/6::π/6::-π/3::π/3::A::sin(-π/6) = -0.5, so sin⁻¹(-0.5) = -π/6.
+70::The value of cos⁻¹(0.707) is::π/4::π/3::π/6::π/2::A::cos(π/4) ≈ 0.707, so cos⁻¹(0.707) = π/4.
+71::The identity tan⁻¹(2x/(1-x²)) equals::2sin⁻¹x::2cos⁻¹x::2tan⁻¹x::sin⁻¹x::C::Already derived (see Q38).
+72::The value of sin⁻¹(4/5) + sin⁻¹(3/5) is::π/2::π::π/4::π/3::A::sin⁻¹(4/5) + cos⁻¹(4/5) = π/2, adjust for sin⁻¹(3/5).
+73::The value of cos⁻¹(-0.866) is::5π/6::π/6::π/3::2π/3::A::cos(5π/6) ≈ -0.866, so cos⁻¹(-0.866) = 5π/6.
+74::The value of tan⁻¹(-2) + tan⁻¹(-3) is::π - tan⁻¹(1/5)::tan⁻¹(5)::π/4::-π/2::A::Similar to Q59, adjust for negative values.
+75::The identity sin⁻¹(√(1-x²)) equals::cos⁻¹x::sin⁻¹x::tan⁻¹x::π/2 - cos⁻¹x::A::If sin⁻¹(√(1-x²)) = θ, then sinθ = √(1-x²), so cosθ = x, thus θ = cos⁻¹x.
+76::The value of sin⁻¹(0.8) + cos⁻¹(0.6) is::π/2::π/4::π/3::π/6::A::sin⁻¹(0.8) = θ, cosθ = 0.6, so cos⁻¹(0.6) = θ, and θ + θ = π/2.
+77::The value of tan⁻¹(1/√3) + tan⁻¹(√3) is::π/2::π/3::π/4::2π/3::A::tan⁻¹(1/√3) + tan⁻¹(√3) = π/6 + π/3 = π/2.
+78::The identity cos⁻¹(1-2x²) equals::2sin⁻¹x::2cos⁻¹x::tan⁻¹x::sin⁻¹x::B::Already derived (see Q37).
+79::The value of sin⁻¹(-0.866) is::-π/3::π/3::-π/6::π/6::A::sin(-π/3) ≈ -0.866, so sin⁻¹(-0.866) = -π/3.
+80::The value of cos⁻¹(0) + sin⁻¹(0) is::π/2::π::0::π/4::A::cos⁻¹(0) = π/2, sin⁻¹(0) = 0, so π/2 + 0 = π/2.
+81::The identity sin⁻¹x = sec⁻¹y if::y = 1/x::y = x::y = √(1-x²)::y = 1/√(1-x²)::A::sin⁻¹x = θ, sec⁻¹y = θ, so y = secθ = 1/cosθ = 1/√(1-x²).
+82::The value of sin⁻¹(0.6) + cos⁻¹(0.8) is::π/2::π/4::π/3::π/6::A::sin⁻¹(0.6) = θ, cosθ = 0.8, so cos⁻¹(0.8) = θ, and θ + θ = π/2.
+83::The value of tan⁻¹(1) + tan⁻¹(1/2) is::tan⁻¹(3)::π/4::π/3::π/2::A::tan⁻¹(1) + tan⁻¹(1/2) = tan⁻¹((1+1/2)/(1-1·1/2)) = tan⁻¹(3).
+84::The identity tan⁻¹x + cot⁻¹x equals::π/2::π::0::π/4::A::tan⁻¹x + cot⁻¹x = tan⁻¹x + (π/2 - tan⁻¹x) = π/2.
+85::The value of sin⁻¹(-0.707) + cos⁻¹(0.707) is::0::π/2::π::-π/2::A::sin⁻¹(-0.707) = -π/4, cos⁻¹(0.707) = π/4, so -π/4 + π/4 = 0.
+86::The value of cos⁻¹(-0.707) is::3π/4::π/4::π/2::π/3::A::cos(3π/4) ≈ -0.707, so cos⁻¹(-0.707) = 3π/4.
+87::The identity sin⁻¹(2x/(1+x²)) equals::2tan⁻¹x::tan⁻¹x::sin⁻¹x::cos⁻¹x::A::Already derived (see Q58).
+88::The value of tan⁻¹(1/3) + tan⁻¹(1/5) is::tan⁻¹(4/7)::π/4::π/6::π/3::A::tan⁻¹(1/3) + tan⁻¹(1/5) = tan⁻¹((1/3+1/5)/(1-1/15)) = tan⁻¹(4/7).
+89::The value of sin⁻¹(0.3) + cos⁻¹(0.4) is::π/2::π/4::π/3::π/6::A::sin⁻¹(0.3) + cos⁻¹(0.4) = π/2 if cosθ = 0.4, sinθ = 0.3.
+90::The identity cos⁻¹x = tan⁻¹y if::y = √(1-x²)/x::y = x/√(1-x²)::y = x::y = 1/x::A::cos⁻¹x = θ, tan⁻¹y = θ, so y = tanθ = sinθ/cosθ = √(1-x²)/x.
+91::The value of sin⁻¹(-0.6) is::-π/6::-sin⁻¹(0.6)::-π/3::π/3::B::sin⁻¹(-x) = -sin⁻¹x, so sin⁻¹(-0.6) = -sin⁻¹(0.6).
+92::The value of cos⁻¹(-0.8) is::π - cos⁻¹(0.8)::cos⁻¹(0.8)::π/2::π/4::A::cos⁻¹(-x) = π - cos⁻¹x.
+93::The value of tan⁻¹(-0.5) is::-tan⁻¹(0.5)::tan⁻¹(0.5)::-π/4::π/4::A::tan⁻¹(-x) = -tan⁻¹x.
+94::The identity sin⁻¹x + cos⁻¹x + tan⁻¹y equals::π/2::π::0::π/4::A::sin⁻¹x + cos⁻¹x = π/2, adjust for tan⁻¹y.
+95::The value of sin⁻¹(0.866) is::π/3::π/4::π/6::π/2::A::sin(π/3) ≈ 0.866, so sin⁻¹(0.866) = π/3.
+96::The value of cos⁻¹(-0.707) + sin⁻¹(0.707) is::π/2::0::π::-π/2::A::cos⁻¹(-0.707) = 3π/4, sin⁻¹(0.707) = π/4, so 3π/4 + π/4 = π.
+97::The value of tan⁻¹(1/4) + tan⁻¹(1/5) is::tan⁻¹(9/19)::π/4::π/6::π/3::A::tan⁻¹(1/4) + tan⁻¹(1/5) = tan⁻¹((1/4+1/5)/(1-1/20)) = tan⁻¹(9/19).
+98::The identity sin⁻¹(√x) equals::cos⁻¹(√(1-x))::sin⁻¹x::tan⁻¹x::π/2 - cos⁻¹x::A::sin⁻¹(√x) = θ, so cosθ = √(1-x), thus θ = cos⁻¹(√(1-x)).
+99::The value of sin⁻¹(0.707) is::π/4::π/3::π/6::π/2::A::sin(π/4) ≈ 0.707, so sin⁻¹(0.707) = π/4.
+100::The value of tan⁻¹(1) + tan⁻¹(1/3) is::tan⁻¹(2)::π/4::π/3::π/2::A::tan⁻¹(1) + tan⁻¹(1/3) = tan⁻¹((1+1/3)/(1-1/3)) = tan⁻¹(2).

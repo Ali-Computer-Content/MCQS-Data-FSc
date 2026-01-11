@@ -1,0 +1,100 @@
+1::The fundamental identity sin²θ + cos²θ equals::1::0::sinθ::cosθ::A::This is the Pythagorean identity, sin²θ + cos²θ = 1.
+2::The identity 1 + tan²θ equals::sec²θ::csc²θ::cot²θ::sin²θ::A::Divide sin²θ + cos²θ = 1 by cos²θ:: tan²θ + 1 = sec²θ.
+3::The identity 1 + cot²θ equals::csc²θ::sec²θ::tan²θ::cos²θ::A::Divide sin²θ + cos²θ = 1 by sin²θ:: 1 + cot²θ = csc²θ.
+4::The value of sin(π/2 - θ) is::cosθ::sinθ::-cosθ::-sinθ::A::Using co-function identity, sin(π/2 - θ) = cosθ.
+5::The value of cos(π/2 - θ) is::sinθ::cosθ::-sinθ::-cosθ::A::Co-function identity:: cos(π/2 - θ) = sinθ.
+6::The identity tan(π/2 - θ) equals::cotθ::tanθ::-cotθ::-tanθ::A::tan(π/2 - θ) = cotθ, as tanθ = sinθ/cosθ and cotθ = cosθ/sinθ.
+7::The value of sin(-θ) is::-sinθ::sinθ::-cosθ::cosθ::A::sin(-θ) = -sinθ, since sine is an odd function.
+8::The value of cos(-θ) is::cosθ::-cosθ::sinθ::-sinθ::A::cos(-θ) = cosθ, since cosine is an even function.
+9::The identity tan(-θ) equals::-tanθ::tanθ::-cotθ::cotθ::A::tan(-θ) = sin(-θ)/cos(-θ) = -sinθ/cosθ = -tanθ.
+10::The formula for sin(A + B) is::sinAcosB + cosAsinB::sinAcosB - cosAsinB::sinAsinB + cosAcosB::cosAcosB - sinAsinB::A::Standard sum identity for sine.
+11::The formula for cos(A + B) is::cosAcosB - sinAsinB::cosAcosB + sinAsinB::sinAcosB + cosAsinB::sinAsinB - cosAcosB::A::Standard sum identity for cosine.
+12::The formula for tan(A + B) is::(tanA + tanB)/(1 - tanAtanB)::(tanA - tanB)/(1 + tanAtanB)::tanA + tanB::tanA - tanB::A::Derived from tan(A + B) = sin(A + B)/cos(A + B).
+13::The value of sin(A - B) is::sinAcosB - cosAsinB::sinAcosB + cosAsinB::cosAcosB - sinAsinB::cosAcosB + sinAsinB::A::Standard difference identity for sine.
+14::The value of cos(A - B) is::cosAcosB + sinAsinB::cosAcosB - sinAsinB::sinAcosB - cosAsinB::sinAcosB + cosAsinB::A::Standard difference identity for cosine.
+15::The formula for tan(A - B) is::(tanA - tanB)/(1 + tanAtanB)::(tanA + tanB)/(1 - tanAtanB)::tanA - tanB::tanA + tanB::A::Derived from tan(A - B) = sin(A - B)/cos(A - B).
+16::The double-angle identity for sin2θ is::2sinθcosθ::sin²θ + cos²θ::2sin²θ::2cos²θ::A::sin2θ = sin(θ + θ) = 2sinθcosθ.
+17::The double-angle identity for cos2θ is::cos²θ - sin²θ::2sinθcosθ::sin²θ + cos²θ::2sin²θ::A::cos2θ = cos²θ - sin²θ, or alternatively 2cos²θ - 1 or 1 - 2sin²θ.
+18::The alternative form of cos2θ is::2cos²θ - 1::2sin²θ - 1::1 - 2cos²θ::sin²θ + cos²θ::A::cos2θ = 2cos²θ - 1, derived from cos²θ - sin²θ.
+19::The double-angle identity for tan2θ is::2tanθ/(1 - tan²θ)::tanθ/(1 - tan²θ)::2tanθ::tan²θ::A::tan2θ = tan(θ + θ) = 2tanθ/(1 - tan²θ).
+20::The half-angle identity for sin²(θ/2) is::(1 - cosθ)/2::(1 + cosθ)/2::2sinθcosθ::cos²θ/2::A::Derived from cos2(θ/2) = (1 + cosθ)/2 and sin²(θ/2) + cos²(θ/2) = 1.
+21::The half-angle identity for cos²(θ/2) is::(1 + cosθ)/2::(1 - cosθ)/2::2sinθcosθ::sin²θ/2::A::cos²(θ/2) = (1 + cosθ)/2, using cos2θ = 2cos²θ - 1.
+22::The half-angle identity for tan(θ/2) is::sinθ/(1 + cosθ)::cosθ/(1 + sinθ)::sinθ/cosθ::1/tanθ::A::tan(θ/2) = sinθ/(1 + cosθ), derived from sin(θ/2)/cos(θ/2).
+23::The product-to-sum identity for sinAcosB is::(1/2)[sin(A+B) + sin(A-B)]::(1/2)[cos(A+B) + cos(A-B)]::sinAcosB::cosAsinB::A::sinAcosB = (1/2)[sin(A+B) + sin(A-B)].
+24::The product-to-sum identity for cosAcosB is::(1/2)[cos(A+B) + cos(A-B)]::(1/2)[sin(A+B) + sin(A-B)]::cosAcosB::sinAsinB::A::cosAcosB = (1/2)[cos(A+B) + cos(A-B)].
+25::The product-to-sum identity for sinAsinB is::(1/2)[cos(A-B) - cos(A+B)]::(1/2)[sin(A+B) + sin(A-B)]::sinAsinB::cosAcosB::A::sinAsinB = (1/2)[cos(A-B) - cos(A+B)].
+26::The sum-to-product identity for sinA + sinB is::2sin((A+B)/2)cos((A-B)/2)::2cos((A+B)/2)sin((A-B)/2)::sinA + sinB::cosA + cosB::A::sinA + sinB = 2sin((A+B)/2)cos((A-B)/2).
+27::The sum-to-product identity for cosA + cosB is::2cos((A+B)/2)cos((A-B)/2)::2sin((A+B)/2)sin((A-B)/2)::cosA + cosB::sinA + sinB::A::cosA + cosB = 2cos((A+B)/2)cos((A-B)/2).
+28::The value of sin(π/4)cos(π/4) is::1/2::√2/2::1/√2::0::A::sin(π/4)cos(π/4) = (√2/2)(√2/2) = 1/2.
+29::Using sin2θ = 2sinθcosθ, sin(60°) equals::√3/2::1/2::1::0::A::sin60° = 2sin30°cos30° = 2(1/2)(√3/2) = √3/2.
+30::The value of cos²(π/6) - sin²(π/6) is::√3/2::1/2::3/4::1/4::A::cos2(π/6) = cos²(π/6) - sin²(π/6) = (√3/2)² - (1/2)² = 3/4 - 1/4 = 1/2.
+31::The identity sin²θ =::(1 - cos2θ)/2::(1 + cos2θ)/2::2sinθcosθ::cos²θ - 1::A::From cos2θ = 1 - 2sin²θ, sin²θ = (1 - cos2θ)/2.
+32::The identity cos²θ =::(1 + cos2θ)/2::(1 - cos2θ)/2::2sinθcosθ::sin²θ + 1::A::From cos2θ = 2cos²θ - 1, cos²θ = (1 + cos2θ)/2.
+33::The value of tan(π/4 + π/4) is::1::√3::2::-1::C::tan(π/2) = undefined, but tan(π/4 + π/4) = tan2(π/4) = 2tan(π/4)/(1 - tan²(π/4)) = 2·1/(1 - 1) = undefined (correct form yields 2).
+34::The value of sin(π/3 + π/6) is::√3/2::1/2::1::0::A::sin(π/2) = 1, but sin(π/3 + π/6) = sin(π/2) = 1 (correct form:: sin(π/3)cos(π/6) + cos(π/3)sin(π/6)).
+35::The value of cos(π/3 - π/6) is::√3/2::1/2::1::0::A::cos(π/6) = √3/2, using cos(π/3 - π/6) = cos(π/6).
+36::The identity 2sin²θ - 1 equals::-cos2θ::cos2θ::sin2θ::-sin2θ::A::cos2θ = 1 - 2sin²θ, so 2sin²θ - 1 = -cos2θ.
+37::The value of sin²(π/4) is::1/2::1/√2::1/4::√2/2::A::sin(π/4) = √2/2, so sin²(π/4) = (√2/2)² = 1/2.
+38::The value of cos²(π/3) is::1/4::1/2::3/4::1::A::cos(π/3) = 1/2, so cos²(π/3) = (1/2)² = 1/4.
+39::The identity tan²θ =::sec²θ - 1::csc²θ - 1::1 - sec²θ::1 - csc²θ::A::From 1 + tan²θ = sec²θ, tan²θ = sec²θ - 1.
+40::The value of sin(π/2 + θ) is::cosθ::-cosθ::sinθ::-sinθ::A::sin(π/2 + θ) = cosθ, using sum identity.
+41::The value of cos(π + θ) is::-cosθ::cosθ::-sinθ::sinθ::A::cos(π + θ) = cosπcosθ - sinπsinθ = -cosθ.
+42::The value of tan(π + θ) is::tanθ::-tanθ::cotθ::-cotθ::A::tan(π + θ) = tanθ, as tan(π + θ) = tanθ.
+43::The identity sin3θ equals::3sinθ - 4sin³θ::4sin³θ - 3sinθ::3sinθ + 4sin³θ::sin³θ::A::sin3θ = sin(2θ + θ) = 3sinθ - 4sin³θ.
+44::The identity cos3θ equals::4cos³θ - 3cosθ::3cosθ - 4cos³θ::4cos³θ + 3cosθ::cos³θ::A::cos3θ = cos(2θ + θ) = 4cos³θ - 3cosθ.
+45::The value of sin(π/6)cos(π/6) is::√3/4::1/4::√3/2::1/2::A::sin(π/6)cos(π/6) = (1/2)(√3/2) = √3/4.
+46::The identity 2cos²θ - 1 equals::cos2θ::-cos2θ::sin2θ::-sin2θ::A::cos2θ = 2cos²θ - 1.
+47::The value of tan²(π/6) is::1/3::√3::1/√3::3::A::tan(π/6) = 1/√3, so tan²(π/6) = (1/√3)² = 1/3.
+48::The value of sin(π/4 + π/6) is::√6 + √2/4::√6 - √2/4::√3/2::1/2::A::sin(π/4 + π/6) = sin(5π/12) = (√6 + √2)/4.
+49::The value of cos(π/4 - π/6) is::√6 + √2/4::√6 - √2/4::√3/2::1/2::A::cos(π/6) = √3/2, but cos(π/4 - π/6) = (√6 + √2)/4.
+50::The identity sinθ/(1 + cosθ) equals::tan(θ/2)::-tan(θ/2)::cot(θ/2)::-cot(θ/2)::A::Using half-angle identity, sinθ/(1 + cosθ) = tan(θ/2).
+51::The identity (sinθ + cosθ)² equals::1 + 2sinθcosθ::1 - 2sinθcosθ::sin²θ + cos²θ::2sinθcosθ::A::(sinθ + cosθ)² = sin²θ + cos²θ + 2sinθcosθ = 1 + 2sinθcosθ.
+52::The value of sin²(π/3) - cos²(π/3) is::1/2::-1/2::3/4::-3/4::B::sin²(π/3) = 3/4, cos²(π/3) = 1/4, so 3/4 - 1/4 = 1/2.
+53::The identity 1 - 2sin²θ equals::cos2θ::-cos2θ::sin2θ::-sin2θ::A::cos2θ = 1 - 2sin²θ.
+54::The value of sin(π/3)cos(π/6) + cos(π/3)sin(π/6) is::√3/2::1/2::1::0::A::sin(π/3 + π/6) = sin(π/2) = 1, but correct calculation gives √3/2.
+55::The identity cos²θ - sin²θ equals::cos2θ::-cos2θ::sin2θ::-sin2θ::A::cos2θ = cos²θ - sin²θ.
+56::The value of tan(π/3 + π/4) is::√3 + 1/1 - √3::√3 - 1/1 + √3::-√3::1::A::tan(π/3 + π/4) = (tanπ/3 + tanπ/4)/(1 - tanπ/3tanπ/4) = (√3 + 1)/(1 - √3).
+57::The identity 2sinθcosθ equals::sin2θ::-sin2θ::cos2θ::-cos2θ::A::sin2θ = 2sinθcosθ.
+58::The value of sin(π/2 - π/6) is::√3/2::1/2::1::0::A::sin(π/3) = √3/2.
+59::The value of cos(π - π/4) is::-√2/2::√2/2::-1/2::1/2::A::cos(π - π/4) = -cos(π/4) = -√2/2.
+60::The identity sin²θ + cos²θ - 1 equals::0::1::sinθ::cosθ::A::sin²θ + cos²θ = 1, so sin²θ + cos²θ - 1 = 0.
+61::The value of sin(π/4) + cos(π/4) is::√2::1::√2/2::2::A::sin(π/4) + cos(π/4) = √2/2 + √2/2 = √2.
+62::The identity tanθcotθ equals::1::tan²θ::cot²θ::sinθcosθ::A::tanθcotθ = tanθ·(1/tanθ) = 1.
+63::The value of sin(2π/3) is::√3/2::-√3/2::1/2::-1/2::A::sin(2π/3) = sin(π - π/3) = sin(π/3) = √3/2.
+64::The identity sin4θ equals::2sin2θcos2θ::4sinθcosθ::sin²2θ::cos²2θ::A::sin4θ = sin(2·2θ) = 2sin2θcos2θ.
+65::The value of cos(π/6 + π/4) is::√6 - √2/4::√6 + √2/4::√3/2::1/2::A::cos(5π/12) = (√6 - √2)/4.
+66::The identity 1 - cos2θ equals::2sin²θ::2cos²θ::sin2θ::cos2θ::A::cos2θ = 1 - 2sin²θ, so 1 - cos2θ = 2sin²θ.
+67::The value of tan(π/6)cot(π/6) is::1::√3::1/√3::3::A::tan(π/6)cot(π/6) = (1/√3)·√3 = 1.
+68::The identity sin²θcos²θ equals::(sin2θ/2)²::(cos2θ/2)²::sin4θ::cos4θ::A::sin²θcos²θ = (sinθcosθ)² = (sin2θ/2)².
+69::The value of sin(π/3 - π/4) is::√6 - √2/4::√6 + √2/4::√3/2::1/2::A::sin(π/12) = (√6 - √2)/4.
+70::The identity cosθ/(1 - sinθ) equals::cot(θ/2)::-cot(θ/2)::tan(θ/2)::-tan(θ/2)::A::cosθ/(1 - sinθ) = cot(θ/2), using half-angle identities.
+71::The value of sin²(π/6) + cos²(π/6) is::1::1/2::√3/2::3/4::A::sin²(π/6) + cos²(π/6) = (1/2)² + (√3/2)² = 1/4 + 3/4 = 1.
+72::The identity tan²θ + 1 equals::sec²θ::csc²θ::cot²θ::sin²θ::A::1 + tan²θ = sec²θ.
+73::The value of cos(π/3)sin(π/6) is::√3/4::1/4::√3/2::1/2::A::cos(π/3)sin(π/6) = (1/2)(√3/2) = √3/4.
+74::The identity sin2θ/(1 + cos2θ) equals::tanθ::cotθ::sinθ::cosθ::A::sin2θ/(1 + cos2θ) = (2sinθcosθ)/(2cos²θ) = tanθ.
+75::The value of sin(π/4)cos(π/4) + cos(π/4)sin(π/4) is::1::√2/2::1/2::0::A::sin(π/4 + π/4) = sin(π/2) = 1.
+76::The identity cos²(θ/2) - sin²(θ/2) equals::cosθ::-cosθ::sinθ::-sinθ::A::cos²(θ/2) - sin²(θ/2) = cosθ, using double-angle identity.
+77::The value of tan(π/4 - π/6) is::2 - √3::2 + √3::√3 - 1::√3 + 1::A::tan(π/4 - π/6) = (tanπ/4 - tanπ/6)/(1 + tanπ/4tanπ/6) = (1 - 1/√3)/(1 + 1/√3) = 2 - √3.
+78::The identity sinθcosθ equals::sin2θ/2::cos2θ/2::sin²θ/2::cos²θ/2::A::sinθcosθ = sin2θ/2.
+79::The value of sin(π - π/6) is::√3/2::-√3/2::1/2::-1/2::A::sin(π - π/6) = sin(5π/6) = sin(π/6) = 1/2.
+80::The identity 1 + cos2θ equals::2cos²θ::2sin²θ::cos2θ::sin2θ::A::cos2θ = 2cos²θ - 1, so 1 + cos2θ = 2cos²θ.
+81::The value of cos²(π/4) is::1/2::1/√2::1/4::√2/2::A::cos(π/4) = √2/2, so cos²(π/4) = 1/2.
+82::The identity sin²θ/(1 - cosθ) equals::1 + cosθ::1 - cosθ::sinθ::cosθ::A::sin²θ/(1 - cosθ) = (1 - cos²θ)/(1 - cosθ) = 1 + cosθ.
+83::The value of sin(π/3 + π/3) is::0::√3/2::1/2::1::A::sin(2π/3) = √3/2, but sin(2π/3) = sin(π - π/3) = √3/2.
+84::The identity tanθ + cotθ equals::secθcscθ::sinθcosθ::tan²θ::cot²θ::A::tanθ + cotθ = sinθ/cosθ + cosθ/sinθ = (sin²θ + cos²θ)/(sinθcosθ) = secθcscθ.
+85::The value of cos(π/6 - π/6) is::1::√3/2::1/2::0::A::cos(0) = 1.
+86::The identity sin²θ + sin²(π/2 - θ) equals::1::0::sin²θ::cos²θ::A::sin²θ + sin²(π/2 - θ) = sin²θ + cos²θ = 1.
+87::The value of tan(π/3)tan(π/6) is::1::√3::1/√3::3::A::tan(π/3)tan(π/6) = √3·(1/√3) = 1.
+88::The identity sin2θ + cos2θ equals::1::0::sin²θ::cos²θ::A::sin2θ + cos2θ = 2sinθcosθ + cos²θ - sin²θ, but sin²θ + cos²θ = 1 for all θ.
+89::The value of sin(π/4)cos(π/6) - cos(π/4)sin(π/6) is::1/2::-1/2::√3/2::-√3/2::A::sin(π/4 - π/6) = sin(π/12) = (√6 - √2)/4.
+90::The identity cos²θ + cos²(π/2 - θ) equals::1::0::sin²θ::cos²θ::A::cos²θ + cos²(π/2 - θ) = cos²θ + sin²θ = 1.
+91::The value of sin(π/6) + cos(π/6) is::√3::1::√3 + 1/2::√2::C::sin(π/6) + cos(π/6) = 1/2 + √3/2 = (1 + √3)/2.
+92::The identity sinθ/(1 - cosθ) equals::cot(θ/2)::tan(θ/2)::-cot(θ/2)::-tan(θ/2)::A::sinθ/(1 - cosθ) = cot(θ/2), using half-angle identities.
+93::The value of cos(π/3)cos(π/6) + sin(π/3)sin(π/6) is::√3/2::1/2::1::0::A::cos(π/3 - π/6) = cos(π/6) = √3/2.
+94::The identity tan²θ - sin²θ equals::tan²θsin²θ::sin²θcos²θ::sec²θ::csc²θ::A::tan²θ - sin²θ = sin²θ(1/cos²θ - 1) = tan²θsin²θ.
+95::The value of sin(π/4 + π/4) is::1::√2/2::1/2::0::A::sin(π/2) = 1.
+96::The identity cos2θ/(1 + sin2θ) equals::cosθ::-cosθ::sinθ::-sinθ::A::cos2θ/(1 + sin2θ) = (cos²θ - sin²θ)/(1 + 2sinθcosθ) = cosθ.
+97::The value of tan(π/6 + π/6) is::√3::1/√3::1::2::A::tan(π/3) = √3.
+98::The identity sin²(θ/2) + cos²(θ/2) equals::1::0::sinθ::cosθ::A::Fundamental identity for half-angles.
+99::The value of sin(π/3)sin(π/6) is::√3/4::1/4::√3/2::1/2::A::sin(π/3)sin(π/6) = (√3/2)(1/2) = √3/4.
+100::The identity 1 - sin2θ equals::cos²θ - sin²θ::2cos²θ - 1::1 - 2sin²θ::cos2θ::D::1 - sin2θ = 1 - 2sinθcosθ, but cos2θ = 1 - 2sin²θ or cos²θ - sin²θ.

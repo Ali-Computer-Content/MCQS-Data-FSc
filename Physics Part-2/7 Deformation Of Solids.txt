@@ -1,0 +1,50 @@
+1::The property of a material to resist deformation is called::Elasticity::Plasticity::Rigidity::Ductility::A::Elasticity is the ability of a material to resist deformation and return to its original shape.
+2::Stress is defined as::Force per unit are::aForce per unit length::Deformation per unit length::Energy per unit volume::A::Stress (σ) = F/A, where F is force and A is cross-sectional area.
+3::The SI unit of stress is::Newton::Pascal::Joule::Meter::B::Stress is measured in Pascals (Pa), where 1 Pa = 1 N/m².
+4::Strain is defined as::Force per unit are::aChange in dimension per original dimension::Force per unit volume::Energy per unit are::aB::Strain (ε) = ΔL/L (for tensile strain), a dimensionless quantity.
+5::Strain has::No units::Units of meter::Units of Pascal::Units of Newton::A::Strain is a ratio of lengths, making it dimensionless.
+6::Hooke’s law states that::Stress is proportional to strain::Force is proportional to displacement::Energy is conserved::Momentum is conserved::A::Hooke’s law (σ ∝ ε) applies within the elastic limit.
+7::The constant of proportionality in Hooke’s law is called::Young’s modulus::Bulk modulus::Shear modulus::Elastic limit::A::Young’s modulus (Y) = stress/strain for tensile or compressive stress.
+8::The SI unit of Young’s modulus is::Newton::Pascal::Joule::No unit::B::Young’s modulus has the same units as stress, Pascals (Pa).
+9::Young’s modulus is a measure of::Compressibility::Rigidity::Stiffness::Ductility::C::Young’s modulus measures a material’s stiffness under tensile or compressive stress.
+10::The formula for Young’s modulus is::Y = F/A::Y = σ/ε::Y = F/ΔL::Y = A/ΔL::B::Y = stress (σ) / strain (ε) = (F/A) / (ΔL/L).
+11::Bulk modulus is related to::Tensile stress::Shear stress::Volumetric stress::Compressive stress::C::Bulk modulus measures resistance to uniform volumetric compression.
+12::The SI unit of bulk modulus is::Newton::Pascal::Joule::Meter::B::Bulk modulus (K) is measured in Pascals (Pa).
+13::The formula for bulk modulus is::K = ΔP / (ΔV/V)::K = ΔV / (ΔP/V)::K = ΔP × ΔV::K = V / ΔP::A::K = ΔP / (–ΔV/V), where ΔP is pressure change and ΔV/V is volumetric strain.
+14::Shear modulus is a measure of::Compressibility::Stiffness::Rigidity::Ductility::C::Shear modulus (G) measures resistance to shear deformation.
+15::The SI unit of shear modulus is::Newton::Pascal::Joule::No unit::B::Shear modulus has units of Pascals (Pa).
+16::The formula for shear modulus is::G = σ/ε::G = ΔP / (ΔV/V)::G = F/Aθ::G = τ/θ::D::Shear modulus (G) = shear stress (τ) / shear strain (θ).
+17::A material that returns to its original shape after deformation is::Plastic::Elastic::Brittle::Ductile::B::Elastic materials obey Hooke’s law and recover their shape within the elastic limit.
+18::The point beyond which a material does not return to its original shape is called::Elastic limit::Yield point::Breaking point::Plastic limit::A::Beyond the elastic limit, permanent deformation occurs.
+19::A material that undergoes permanent deformation is::Elastic::Plastic::Brittle::Rigid::B::Plastic materials retain deformation after stress is removed.
+20::The energy stored per unit volume in a deformed elastic material is::½ × stress × strain::Stress × strain::½ × force × displacement::Force × displacement::A::Elastic potential energy per unit volume = ½ × σ × ε.
+21::The unit of energy per unit volume is::Joule::Pascal::Newton::Meter::B::Energy per unit volume has units of J/m³ = N/m² = Pa.
+22::A brittle material::Deforms plastically::Breaks without significant deformation::Is highly elastic::Is ductile::B::Brittle materials, like glass, fracture with little deformation.
+23::A ductile material::Breaks suddenly::Can be drawn into wires::Is highly rigid::Has low elasticity::B::Ductile materials, like copper, undergo significant plastic deformation.
+24::The slope of the stress-strain graph within the elastic limit represents::Elastic limit::Young’s modulus::Bulk modulus::Shear modulus::B::The slope (σ/ε) in the linear region is Young’s modulus.
+25::The stress required to break a material is called::Yield stress::Ultimate stress::Breaking stress::Elastic stress::C::Breaking stress is the stress at which a material fractures.
+26::The region of the stress-strain curve where permanent deformation occurs is::Elastic region::Plastic region::Yield region::Breaking region::B::The plastic region follows the elastic limit, where deformation is permanent.
+27::The Poisson’s ratio is defined as::Longitudinal strain / lateral strain::Lateral strain / longitudinal strain::Stress / strain::Force / are::aB::Poisson’s ratio (ν) = – (lateral strain / longitudinal strain).
+28::Poisson’s ratio is::Positive for most materials::Negative for all materials::Zero for all materials::Infinite for brittle materials::A::Most materials have a positive Poisson’s ratio (0 < ν < 0.5).
+29::The value of Poisson’s ratio for an ideal incompressible material is::0::0.5::1::–1::B::For incompressible materials, ν = 0.5, as volume remains constant.
+30::The modulus of elasticity depends on::Material only::Temperature only::Both material and temperature::Shape of the object::C::Elastic moduli vary with material properties and temperature.
+31::The elastic limit is the::Maximum stress::Maximum strain::Point of fracture::Point of no return::A::Elastic limit is the maximum stress a material can withstand elastically.
+32::The work done in deforming a material is stored as::Kinetic energy::Potential energy::Thermal energy::Chemical energy::B::Work done is stored as elastic potential energy within the elastic limit.
+33::The stress due to a force applied parallel to the surface is::Tensile stress::Compressive stress::Shear stress::Volumetric stress::C::Shear stress acts parallel to the surface, causing shear deformation.
+34::The strain produced by shear stress is called::Tensile strain::Compressive strain::Shear strain::Volumetric strain::C::Shear strain is the angular deformation due to shear stress.
+35::The Young’s modulus of a perfectly rigid body is::Zero::Infinite::One::Negative::B::A perfectly rigid body has no strain, so Y = σ/ε → ∞.
+36::The bulk modulus of an incompressible material is::Zero::Infinite::One::Negative::B::Incompressible materials have no volume change, so K = ΔP / (–ΔV/V) → ∞.
+37::The stress applied perpendicular to the surface is::Shear stress::Tensile stress::Volumetric stress::Tangential stress::B::Tensile stress is perpendicular, causing elongation.
+38::The stress that causes a decrease in volume is::Tensile stress::Shear stress::Compressive stress::Volumetric stress::C::Compressive stress reduces the dimensions of a material.
+39::The elastic potential energy stored in a wire is::½FL::FL::½F/ΔL::FΔL::A::Energy = ½ × force × extension = ½FΔL.
+40::The Young’s modulus of rubber is::High::Low::Zero::Infinite::B::Rubber has a low Young’s modulus due to its high elasticity.
+41::The material with the highest Young’s modulus is::Rubber::Steel::Aluminum::Wood::B::Steel has a high Young’s modulus, indicating greater stiffness.
+42::The stress-strain curve for a brittle material is::Linear up to fracture::Curved throughout::Linear then curved::No curve::A::Brittle materials show a linear stress-strain curve until breaking.
+43::The yield point is the point where::Elastic deformation begins::Plastic deformation begins::Material fractures::Strain becomes zero::B::Beyond the yield point, plastic deformation occurs.
+44::The ultimate tensile strength is the::Maximum stress before fracture::Minimum stress before deformation::Stress at elastic limit::Stress at yield point::A::Ultimate tensile strength is the maximum stress a material can withstand.
+45::The shear strain is measured in::Meters::Pascals::Radians::No unit::C::Shear strain (θ) is an angle, measured in radians.
+46::The elastic modulus is independent of::Material::Shape of object::Temperature::All of these::B::Elastic moduli depend on material and temperature, not object shape.
+47::The energy stored in a deformed material is proportional to::Stress only::Strain only::Both stress and strain::None of these::C::Energy per unit volume = ½ × stress × strain.
+48::The Young’s modulus for a wire is calculated using::F = YAΔL/L::F = YL/ΔL::F = YA/L::F = YΔL/A::A::F = YA(ΔL/L), where Y = (F/A) / (ΔL/L).
+49::The material that undergoes large deformation before fracture is::Brittle::Ductile::Elastic::Rigid::B::Ductile materials deform significantly before breaking.
+50::The relation between Young’s modulus (Y), bulk modulus (K), and Poisson’s ratio (ν) is::Y = 3K(1 – 2ν)::Y = 2K(1 + ν)::Y = K(1 – ν)::Y = K(1 + 2ν)::A::Y = 3K(1 – 2ν) relates the elastic moduli for isotropic materials.

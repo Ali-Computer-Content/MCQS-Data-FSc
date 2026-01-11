@@ -1,0 +1,50 @@
+1::What is data communication?::The transfer of data between devices::The storage of data on a device::The processing of data in a CPU::The display of data on a monitor::A::Data communication involves transmitting data between devices.
+2::Which of the following is a component of data communication?::Sender::CPU::RAM::Hard Disk::A::The sender is a key component that initiates data transmission.
+3::The medium through which data is transmitted is called::Protocol::Transmission medium::Topology::Device::B::Transmission media (e.g., cables, air) carry data signals.
+4::Which of the following is an example of guided media?::Coaxial cable::Radio waves::Microwaves::Infrared::A::Coaxial cable is a guided medium with physical connections.
+5::Which of the following is an example of unguided media?::Fiber optic cable::Twisted pair cable::Satellite::Ethernet cable::C::Satellite uses wireless signals, an unguided medium.
+6::What is a computer network?::A single computer::A group of interconnected computers::A software application::A storage device::B::A network connects computers to share resources and data.
+7::Which type of network covers a small geographic area?::LAN::WAN::MAN::PAN::A::LAN (Local Area Network) covers areas like an office or building.
+8::Which type of network spans large geographic areas?::LAN::WAN::MAN::PAN::B::WAN (Wide Area Network) covers cities, countries, or globally (e.g., the internet).
+9::Which network topology connects all devices to a central point?::Bus::Star::Ring::Mesh::B::Star topology connects devices to a central hub or switch.
+10::Which network device connects different networks?::Router::Switch::Hub::Modem::A::A router directs data between different networks.
+11::The basic unit of data transmission in a network is::Bit::Byte::Packet::Frame::C::Data is transmitted in small units called packets.
+12::Which protocol is used for web browsing?::FTP::HTTP::SMTP::POP3::B::HTTP (HyperText Transfer Protocol) is used for accessing web pages.
+13::Which protocol is used for sending emails?::HTTP::FTP::SMTP::TELNET::C::SMTP (Simple Mail Transfer Protocol) sends emails.
+14::The OSI model has how many layers?::5::6::7::8::C::The OSI model consists of 7 layers (Physical to Application).
+15::Which layer of the OSI model is responsible for data transmission?::Application::Transport::Physical::Network::C::The Physical layer handles the physical transmission of data.
+16::Which device connects a computer to a network?::NIC::CPU::RAM::GPU::A::A Network Interface Card (NIC) enables network connectivity.
+17::Which topology uses a single cable to connect all devices?::Star::Ring::Bus::Mesh::C::Bus topology connects devices along a single cable.
+18::Which topology connects each device to every other device?::Bus::Star::Ring::Mesh::D::Mesh topology provides direct connections between all devices.
+19::Which device regenerates network signals?::Router::Switch::Repeater::Gateway::C::A repeater amplifies signals to extend network range.
+20::Which protocol is used for file transfer?::HTTP::FTP::SMTP::POP3::B::FTP (File Transfer Protocol) transfers files between computers.
+21::What is the function of a modem?::Connects networks::Converts digital to analog signals::Switches data packets::Amplifies signals::B::A modem converts digital signals to analog for internet access.
+22::Which layer of the OSI model handles error detection?::Data Link::Network::Transport::Application::A::The Data Link layer ensures error-free data transfer.
+23::Which network type is used for personal devices?::LAN::WAN::MAN::PAN::D::PAN (Personal Area Network) connects personal devices like smartphones.
+24::Which topology passes data in a circular manner?::Bus::Star::Ring::Mesh::C::Ring topology passes data from one device to the next in a loop.
+25::Which device forwards data within a single network?::Router::Switch::Modem::Repeater::B::A switch directs data within a network based on MAC addresses.
+26::What is bandwidth in data communication?::The amount of data stored::The speed of data transfer::The type of cable used::The number of devices connected::B::Bandwidth measures the data transfer rate, usually in bits per second.
+27::Which protocol resolves domain names to IP addresses?::DNS::HTTP::FTP::SMTP::A::DNS (Domain Name System) maps domain names to IP addresses.
+28::Which transmission mode sends data in both directions simultaneously?::Simplex::Half-duplex::Full-duplex::None of these::C::Full-duplex allows simultaneous two-way communication (e.g., telephone).
+29::Which transmission mode sends data in one direction only?::Simplex::Half-duplex::Full-duplex::Multiplex::A::Simplex allows one-way communication (e.g., radio broadcast).
+30::Which cable type is immune to electromagnetic interference?::Twisted pair::Coaxial::Fiber optic::Ethernet::C::Fiber optic cables use light signals, avoiding electromagnetic interference.
+31::What is the purpose of a hub in a network?::Routes data::Switches data::Broadcasts data::Converts signals::C::A hub broadcasts incoming data to all connected devices.
+32::Which layer of the OSI model formats data for presentation?::Session::Presentation::Application::Transport::B::The Presentation layer handles data formatting and encryption.
+33::Which protocol is used for secure web browsing?::HTTP::HTTPS::FTP::SMTP::B::HTTPS (Secure HTTP) encrypts data for secure web communication.
+34::What is the maximum range of a Bluetooth PAN?::10 meters::100 meters::1 kilometer::10 kilometers::A::Bluetooth PANs typically have a range of about 10 meters.
+35::Which device connects LANs to WANs?::Router::Switch::Hub::Repeater::A::A router connects local networks to wide area networks like the internet.
+36::Which of the following is a wireless transmission medium?::Twisted pair::Fiber optic::Wi-Fi::Coaxial::C::Wi-Fi uses radio waves, a wireless (unguided) medium.
+37::Which protocol is used for remote login?::TELNET::HTTP::FTP::SMTP::A::TELNET allows users to log into remote computers.
+38::Which layer of the TCP/IP model corresponds to the OSI Network layer?::Internet::Transport::Application::Link::A::The Internet layer handles routing, similar to OSI’s Network layer.
+39::What is an IP address?::A physical address::A unique network identifier::A software name::A cable type::B::An IP address uniquely identifies devices on a network.
+40::Which topology is most fault-tolerant?::Bus::Star::Ring::Mesh::D::Mesh topology is fault-tolerant due to multiple connections.
+41::In a school with 50 computers in one building, which network type is most suitable?::LAN::WAN::MAN::PAN::A::A LAN is ideal for connecting computers within a single building.
+42::Which device is best for connecting two different network types (e.g., LAN to WAN)?::Router::Switch::Hub::Repeater::A::A router connects different network types by routing data.
+43::A company needs to extend its network signal over 1 km. Which device is most appropriate?::Router::Switch::Repeater::Modem::C::A repeater extends signal range over long distances.
+44::Which protocol ensures reliable data delivery?::TCP::UDP::FTP::HTTP::A::TCP (Transmission Control Protocol) ensures reliable, error-checked delivery.
+45::In a star topology, what happens if the central hub fails?::Network continues::Network fails::Data reroutes::Devices disconnect partially::B::The entire network fails if the central hub in a star topology fails.
+46::Which transmission medium has the highest data transfer rate?::Twisted pair::Coaxial::Fiber optic::Radio waves::C::Fiber optic cables offer the highest data transfer rates.
+47::A small office uses Wi-Fi to connect devices. Which network type is this?::LAN::WAN::MAN::PAN::A::A Wi-Fi network in an office is typically a LAN.
+48::Which OSI layer establishes connections between applications?::Session::Presentation::Application::Transport::A::The Session layer manages connections between applications.
+49::Which protocol is used to retrieve emails from a server?::POP3::SMTP::HTTP::FTP::A::POP3 (Post Office Protocol) retrieves emails from a mail server.
+50::A city-wide network connecting multiple offices is an example of::LAN::WAN::MAN::PAN::C::A MAN (Metropolitan Area Network) connects devices across a city.

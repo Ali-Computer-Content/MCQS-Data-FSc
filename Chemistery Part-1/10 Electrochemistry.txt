@@ -1,0 +1,50 @@
+1::The branch of chemistry that deals with the relationship between electricity and chemical reactions is called::Thermochemistry::Electrochemistry::Biochemistry::Analytical chemistry::B::Electrochemistry studies the interconversion of electrical and chemical energy.
+2::The process in which a species loses electrons is called::Reduction::Oxidation::Neutralization::Precipitation::B::Oxidation involves the loss of electrons.
+3::In a redox reaction, the substance that gains electrons is called::Oxidizing agent::Reducing agent::Catalyst::Electrolyte::A::The oxidizing agent gains electrons, causing the reduction of itself.
+4::The oxidation number of oxygen in most compounds is::+2::–2::0::+1::B::Oxygen typically has an oxidation number of –2, except in peroxides or with fluorine.
+5::In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, the reducing agent is::Zn::Cu²⁺::Zn²⁺::Cu::A::Zn loses electrons to reduce Cu²⁺, making Zn the reducing agent.
+6::An electrochemical cell converts::Chemical energy to electrical energy::Electrical energy to chemical energy::Mechanical energy to electrical energy::Thermal energy to chemical energy::A::Electrochemical cells (e.g., galvanic cells) convert chemical energy to electrical energy.
+7::In a galvanic cell, the electrode where oxidation occurs is called::Cathode::Anode::Salt bridge::Electrolyte::B::The anode is the site of oxidation (electron loss).
+8::The function of a salt bridge in a galvanic cell is to::Conduct electricity::Prevent mixing of solutions::Maintain electrical neutrality::Increase voltage::C::The salt bridge allows ion flow to maintain electrical neutrality in the cell.
+9::The standard electrode potential is measured at::0°C and 1 atm::25°C and 1 atm::0 K and 1 atm::100°C and 1 atm::B::Standard conditions are 25°C (298 K), 1 atm, and 1 M concentration.
+10::The standard hydrogen electrode has an electrode potential of::+0.76 V::–0.76 V::0.00 V::+1.23 V::C::The standard hydrogen electrode is assigned a potential of 0.00 V as a reference.
+11::The electrode potential of Zn²⁺/Zn is –0.76 V. This indicates that Zn is::Oxidized easily::Reduced easily::Stable::Inert::A::A negative potential means Zn is more likely to oxidize (lose electrons) than hydrogen.
+12::In a Daniell cell, the anode is made of::Cu::Zn::Ag::Fe::B::Zn is the anode, where oxidation (Zn → Zn²⁺ + 2e⁻) occurs.
+13::Electrolysis is the process that converts::Chemical energy to electrical energy::Electrical energy to chemical energy::Thermal energy to electrical energy::Mechanical energy to chemical energy::B::Electrolysis uses electrical energy to drive non-spontaneous chemical reactions.
+14::During electrolysis, cations move towards the::Anode::Cathode::Salt bridge::Electrolyte::B::Cations (positive ions) are attracted to the cathode, where reduction occurs.
+15::The product at the cathode during the electrolysis of aqueous NaCl is::Na::Cl₂::H₂::O₂::C::H₂ is produced at the cathode due to the reduction of water (2H₂O + 2e⁻ → H₂ + 2OH⁻).
+16::The Faraday constant is the charge of::One electron::One proton::One mole of electrons::One ion::C::The Faraday constant (96,485 C/mol) is the charge of one mole of electrons.
+17::One Faraday is equal to approximately::96,485 Coulombs::48,242 Coulombs::19,297 Coulombs::9,648 Coulombs::A::One Faraday equals 96,485 C, the charge of one mole of electrons.
+18::The cell notation for a galvanic cell is written as::Cathode | Electrolyte || Anode | Electrolyte::Anode | Electrolyte || Cathode | Electrolyte::Anode || Cathode::Cathode || Anode::B::Cell notation is written as anode | anode electrolyte || cathode electrolyte | cathode.
+19::The E°cell for a galvanic cell is calculated as::E°anode – E°cathode::E°cathode – E°anode::E°anode + E°cathode::E°cathode / E°anode::B::E°cell = E°cathode – E°anode, where E° is the standard reduction potential.
+20::A positive E°cell indicates that the reaction is::Non-spontaneous::Spontaneous::At equilibrium::Reversible::B::A positive E°cell means the cell reaction is spontaneous under standard conditions.
+21::The electrolyte in a lead-acid battery is::H₂SO₄::NaCl::KOH::NH₄Cl::A::Lead-acid batteries use sulfuric acid (H₂SO₄) as the electrolyte.
+22::The anode in a dry cell is made of::Carbon::Zinc::Copper::Silver::B::Zinc serves as the anode in a dry cell, undergoing oxidation.
+23::The cathode in an alkaline battery is typically::Zn::MnO₂::Cu::Ag::B::MnO₂ acts as the cathode in alkaline batteries, where reduction occurs.
+24::The process of coating a metal with zinc to prevent corrosion is called::Electroplating::Galvanization::Anodizing::Cathodization::B::Galvanization involves coating with zinc to protect against corrosion.
+25::During electroplating, the object to be plated is made the::Anode::Cathode::Electrolyte::Salt bridge::B::The object is the cathode, where metal ions are reduced and deposited.
+26::The oxidation number of Cr in Cr₂O₇²⁻ is::+3::+6::+7::+12::B::Each Cr has an oxidation number of +6, calculated as 2x + 7(–2) = –2.
+27::In the electrolysis of water, the gas produced at the anode is::H₂::O₂::Cl₂::N₂::B::O₂ is produced at the anode due to the oxidation of water (2H₂O → O₂ + 4H⁺ + 4e⁻).
+28::The Nernst equation relates cell potential to::Temperature and concentration::Pressure and volume::Mass and charge::Time and current::A::The Nernst equation adjusts Ecell for non-standard conditions based on temperature and concentration.
+29::The standard reduction potential of Cu²⁺/Cu is::–0.34 V::+0.34 V::0.00 V::–0.76 V::B::The standard reduction potential of Cu²⁺/Cu is +0.34 V.
+30::The cell potential of a Zn/Cu galvanic cell under standard conditions is::–1.10 V::+1.10 V::0.00 V::+0.76 V::B::E°cell = E°cathode (Cu, +0.34 V) – E°anode (Zn, –0.76 V) = +1.10 V.
+31::The electrolyte in a nickel-cadmium battery is::H₂SO₄::KOH::NaCl::NH₄Cl::B::Nickel-cadmium batteries use KOH as the electrolyte.
+32::The oxidation state of Mn in MnO₄⁻ is::+4::+6::+7::+8::C::Mn has an oxidation number of +7, calculated as x + 4(–2) = –1.
+33::The product at the anode during electrolysis of aqueous CuSO₄ with copper electrodes is::Cu::O₂::H₂::SO₂::B::O₂ is produced at the anode due to water oxidation, as Cu electrodes are inert.
+34::The number of Faradays required to deposit 1 mole of Cu from Cu²⁺ is::1::2::3::4::B::Cu²⁺ + 2e⁻ → Cu, so 2 moles of electrons (2 Faradays) are needed for 1 mole of Cu.
+35::The electrochemical series arranges elements in order of::Increasing atomic mass::Decreasing atomic mass::Increasing reduction potential::Decreasing reduction potential::C::The electrochemical series lists elements by increasing standard reduction potential.
+36::The cathode in a fuel cell is where::Oxidation occurs::Reduction occurs::Electrolyte is stored::Salt bridge is placed::B::Reduction occurs at the cathode in all electrochemical cells.
+37::The electrolyte in a Leclanché cell (dry cell) is::NH₄Cl::KOH::H₂SO₄::NaOH::A::The Leclanché cell uses a paste of NH₄Cl as the electrolyte.
+38::The oxidation number of S in SO₄²⁻ is::+2::+4::+6::+8::C::S has an oxidation number of +6, calculated as x + 4(–2) = –2.
+39::The E°cell for a reaction is negative. This means the reaction is::Spontaneous::Non-spontaneous::At equilibrium::Irreversible::B::A negative E°cell indicates a non-spontaneous reaction under standard conditions.
+40::The process of corrosion is an example of::Electrolysis::Galvanic cell::Electroplating::Neutralization::B::Corrosion is a spontaneous redox process, similar to a galvanic cell.
+41::The anode in an electrolytic cell is::Positive::Negative::Neutral::Variable::A::In electrolysis, the anode is positive, attracting anions for oxidation.
+42::The standard reduction potential of Ag⁺/Ag is::+0.80 V::–0.80 V::+0.34 V::–0.34 V::A::The standard reduction potential of Ag⁺/Ag is +0.80 V.
+43::The number of Faradays required to liberate 1 mole of Cl₂ gas during electrolysis is::1::2::3::4::B::Cl₂ production requires 2e⁻ per molecule (2Cl⁻ → Cl₂ + 2e⁻), so 2 Faradays.
+44::The primary cell is a cell that::Can be recharged::Cannot be recharged::Produces no voltage::Uses electrolysis::B::Primary cells, like dry cells, cannot be recharged.
+45::The secondary cell is a cell that::Cannot be recharged::Can be recharged::Produces no current::Is non-spontaneous::B::Secondary cells, like lead-acid batteries, can be recharged.
+46::The oxidation number of N in NO₃⁻ is::+3::+5::+7::+9::B::N has an oxidation number of +5, calculated as x + 3(–2) = –1.
+47::The cathode reaction in a Zn/Cu galvanic cell is::Zn → Zn²⁺ + 2e⁻::Cu²⁺ + 2e⁻ → Cu::Zn²⁺ + 2e⁻ → Zn::Cu → Cu²⁺ + 2e⁻::B::Reduction (Cu²⁺ + 2e⁻ → Cu) occurs at the cathode.
+48::The electrolyte in a silver oxide battery is::H₂SO₄::KOH::NaCl::NH₄Cl::B::Silver oxide batteries use KOH as the electrolyte.
+49::The cell potential depends on::Temperature::Concentration::Both A and B::None of these::C::Cell potential varies with temperature and concentration, as per the Nernst equation.
+50::The electrolysis of molten NaCl produces::Na at anode, Cl₂ at cathode::Na at cathode, Cl₂ at anode::H₂ at cathode, O₂ at anode::NaCl at both electrodes::B::Na⁺ is reduced to Na at the cathode, and Cl⁻ is oxidized to Cl₂ at the anode.

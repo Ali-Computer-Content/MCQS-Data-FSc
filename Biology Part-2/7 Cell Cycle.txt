@@ -1,0 +1,50 @@
+1::The cell cycle is the series of events leading to::Cell division::Cell death::Cell growth::Cell differentiation::A::The cell cycle encompasses processes resulting in cell division and replication.
+2::The phase of the cell cycle where DNA replication occurs is::G1 phase::S phase::G2 phase::M phase::B::The S (synthesis) phase is when DNA is replicated in the nucleus.
+3::The longest phase of the cell cycle is::Prophase::Interphase::Metaphase::Telophase::B::Interphase, including G1, S, and G2, is the longest, involving growth and preparation.
+4::The phase where the cell prepares for division is::G1 phase::S phase::G2 phase::M phase::C::The G2 phase involves protein synthesis and organelle replication for division.
+5::Mitosis is the division of::Nucleus::Cytoplasm::Organelles::Chromosomes::A::Mitosis divides the nucleus, distributing chromosomes to daughter cells.
+6::The number of phases in mitosis is::Two::Three::Four::Five::C::Mitosis includes prophase, metaphase, anaphase, and telophase.
+7::The structure that organizes chromosomes during mitosis is::Centriole::Spindle fiber::Nucleolus::Nuclear envelope::B::Spindle fibers attach to chromosomes to align and separate them.
+8::The phase of mitosis where chromosomes condense is::Prophase::Metaphase::Anaphase::Telophase::A::In prophase, chromosomes become visible as they condense.
+9::Chromosomes align at the equatorial plate during::Prophase::Metaphase::Anaphase::Telophase::B::Metaphase involves chromosomes lining up at the cell’s equator.
+10::The phase where sister chromatids separate is::Prophase::Metaphase::Anaphase::Telophase::C::In anaphase, sister chromatids are pulled to opposite poles.
+11::The formation of the nuclear envelope occurs in::Prophase::Metaphase::Anaphase::Telophase::D::Telophase reforms the nuclear envelope around separated chromosomes.
+12::The division of cytoplasm is called::Mitosis::Cytokinesis::Karyokinesis::Meiosis::B::Cytokinesis divides the cytoplasm, completing cell division.
+13::The structure that forms the cleavage furrow in animal cells is::Cell plate::Actin filaments::Microtubules::Centrioles::B::Actin filaments contract to form the cleavage furrow during cytokinesis.
+14::The process of cell division in plants involves::Cleavage furrow::Cell plate::Spindle fibers::Centrioles::B::A cell plate forms in plant cells, developing into a new cell wall.
+15::The phase where the cell grows and performs normal functions is::S phase::G1 phase::G2 phase::M phase::B::The G1 phase involves cell growth and metabolic activity.
+16::The checkpoint that ensures DNA replication is complete is::G1 checkpoint::S checkpoint::G2 checkpoint::M checkpoint::C::The G2 checkpoint verifies DNA replication before mitosis.
+17::The protein that regulates the cell cycle is::Cyclin::Histone::Actin::Tubulin::A::Cyclins bind to kinases to control cell cycle progression.
+18::The enzyme that activates cyclins is::Cyclin-dependent kinase::Polymerase::Ligase::Helicase::A::Cyclin-dependent kinases (CDKs) phosphorylate targets to advance the cycle.
+19::The phase where the cell may enter a quiescent state is::G0 phase::G1 phase::S phase::G2 phase::A::The G0 phase is a resting state where cells exit the cycle.
+20::The process that reduces chromosome number by half is::Mitosis::Meiosis::Cytokinesis::Apoptosis::B::Meiosis produces gametes with half the chromosome number.
+21::The number of divisions in meiosis is::One::Two::Three::Four::B::Meiosis involves two divisions: meiosis I and meiosis II.
+22::The phase of meiosis where crossing over occurs is::Prophase I::Metaphase I::Anaphase I::Telophase I::A::Crossing over in prophase I exchanges genetic material between homologous chromosomes.
+23::Homologous chromosomes pair up during::Prophase I::Metaphase II::Anaphase I::Telophase II::A::In prophase I, homologous chromosomes form tetrads for crossing over.
+24::The separation of homologous chromosomes occurs in::Anaphase I::Anaphase II::Metaphase I::Telophase I::A::Anaphase I separates homologous chromosomes to opposite poles.
+25::The phase where sister chromatids separate in meiosis is::Anaphase I::Anaphase II::Metaphase I::Telophase II::B::Anaphase II separates sister chromatids, similar to mitosis.
+26::The result of meiosis in humans is::Two diploid cells::Four diploid cells::Two haploid cells::Four haploid cells::D::Meiosis produces four haploid gametes in humans.
+27::The structure that holds sister chromatids together is::Centromere::Kinetochore::Centriole::Chiasma::A::The centromere links sister chromatids until they separate.
+28::The process that ensures genetic variation in meiosis is::Crossing over::Cytokinesis::Mitosis::Apoptosis::A::Crossing over shuffles alleles, increasing genetic diversity.
+29::The phase where chromosomes are fully condensed is::Prophase::Metaphase::Anaphase::Telophase::A::Chromosomes are most condensed and visible in prophase.
+30::The checkpoint that prevents damaged DNA from proceeding is::G1 checkpoint::G2 checkpoint::M checkpoint::S checkpoint::A::The G1 checkpoint halts the cycle if DNA is damaged.
+31::The condition caused by failure of chromosomes to separate is::Apoptosis::Nondisjunction::Crossing over::Mutation::B::Nondisjunction leads to abnormal chromosome numbers in daughter cells.
+32::The disorder caused by an extra chromosome 21 is::Klinefelter’s syndrome::Turner’s syndrome::Down’s syndrome::Trisomy 18::C::Down’s syndrome results from trisomy 21, causing developmental issues.
+33::The number of chromosomes in human somatic cells is::23::46::69::92::B::Human somatic cells are diploid, containing 46 chromosomes.
+34::The number of chromosomes in human gametes is::23::46::69::92::A::Human gametes are haploid, containing 23 chromosomes.
+35::The phase where the spindle apparatus forms is::Prophase::Metaphase::Anaphase::Telophase::A::The spindle apparatus assembles during prophase for chromosome movement.
+36::The process that repairs damaged cells is::Mitosis::Apoptosis::Meiosis::Cytokinesis::B::Apoptosis eliminates damaged or unnecessary cells.
+37::The structure that attaches spindle fibers to chromosomes is::Centromere::Kinetochore::Centriole::Chiasma::B::Kinetochores on chromosomes bind to spindle fibers.
+38::The phase where the nucleolus disappears is::Prophase::Metaphase::Anaphase::Telophase::A::The nucleolus and nuclear envelope break down in prophase.
+39::The result of mitosis in humans is::Two haploid cells::Four haploid cells::Two diploid cells::Four diploid cells::C::Mitosis produces two identical diploid daughter cells.
+40::The process that occurs only in germ cells is::Mitosis::Meiosis::Cytokinesis::Apoptosis::B::Meiosis occurs in germ cells to produce gametes.
+41::The phase where chromosomes decondense is::Prophase::Metaphase::Anaphase::Telophase::D::In telophase, chromosomes unravel and become less visible.
+42::The condition caused by an extra X chromosome in males is::Turner’s syndrome::Klinefelter’s syndrome::Down’s syndrome::Trisomy 13::B::Klinefelter’s syndrome (XXY) results in male sterility and other traits.
+43::The structure that moves chromosomes during mitosis is::Centriole::Spindle fiber::Nucleolus::Nuclear envelope::B::Spindle fibers pull chromosomes to opposite poles.
+44::The phase where the cell plate forms in plants is::Prophase::Metaphase::Anaphase::Telophase::D::The cell plate forms during telophase in plant cytokinesis.
+45::The process that increases genetic diversity is::Mitosis::Meiosis::Cytokinesis::Apoptosis::B::Meiosis introduces variation via crossing over and independent assortment.
+46::The checkpoint that ensures proper chromosome attachment is::G1 checkpoint::G2 checkpoint::M checkpoint::S checkpoint::C::The M checkpoint verifies spindle attachment before anaphase.
+47::The disorder caused by a missing X chromosome is::Klinefelter’s syndrome::Turner’s syndrome::Down’s syndrome::Trisomy 18::B::Turner’s syndrome (XO) affects females, causing short stature and infertility.
+48::The phase where the cell is metabolically active but not dividing is::G0 phase::G1 phase::S phase::M phase::A::The G0 phase is a non-dividing, quiescent state.
+49::The structure that duplicates during interphase is::Centriole::Spindle fiber::Nucleolus::Cell plate::A::Centrioles replicate in preparation for mitosis.
+50::The ecological role of the cell cycle is::Maintaining cell populations::Producing energy::Fixing nitrogen::Recycling nutrients::A::The cell cycle ensures cell replacement and organism growth.

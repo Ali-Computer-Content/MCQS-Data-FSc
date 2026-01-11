@@ -1,0 +1,200 @@
+1::The process of maintaining internal balance is called::Respiration::Homeostasis::Excretion::Nutrition::B::Homeostasis is the regulation of internal conditions like temperature and pH to maintain stability.
+2::The organ responsible for filtering blood in humans is::Liver::Kidney::Lungs::Heart::B::Kidneys filter blood to remove waste, forming urine through nephrons.
+3::The functional unit of the kidney is::Neuron::Nephron::Alveolus::Glomerulus::B::Nephrons are the structural and functional units of kidneys, responsible for filtration and urine formation.
+4::The hormone that regulates water reabsorption in kidneys is::Insulin::ADH::Glucagon::Cortisol::B::Antidiuretic hormone (ADH) increases water reabsorption in the collecting ducts.
+5::The condition caused by excess water loss is::Dehydration::Edema::Osmosis::Hypertension::A::Dehydration occurs when water loss exceeds intake, disrupting homeostasis.
+6::The process of removing nitrogenous waste is called::Respiration::Excretion::Osmoregulation::Assimilation::B::Excretion eliminates metabolic wastes like urea from the body.
+7::The main nitrogenous waste in humans is::Ammonia::Urea::Uric acid::Creatinine::B::Urea, formed in the liver, is the primary nitrogenous waste excreted by kidneys.
+8::The structure in plants that regulates water loss is::Stomata::Lenticels::Cuticle::Xylem::A::Stomata control water vapor loss during transpiration in plants.
+9::The osmoregulatory organ in fish is::Gills::Kidney::Skin::Liver::B::Kidneys in fish regulate water and ion balance, adapting to freshwater or marine environments.
+10::The condition of high blood sugar is::Hypoglycemia::Hyperglycemia::Diabetes insipidus::Anemia::B::Hyperglycemia is elevated blood glucose, often associated with diabetes mellitus.
+11::The human skeleton consists of how many bones?::206::208::200::210::A::The adult human skeleton has 206 bones, including axial and appendicular components.
+12::The tissue that connects bone to bone is::Tendon::Ligament::Cartilage::Muscle::B::Ligaments join bones at joints, providing stability.
+13::The type of joint in the elbow is::Ball-and-socket::Hinge::Pivot::Gliding::B::The elbow is a hinge joint, allowing flexion and extension in one plane.
+14::The muscle type under voluntary control is::Smooth::Cardiac::Skeletal::Visceral::C::Skeletal muscles are voluntary, controlled by the somatic nervous system.
+15::The functional unit of muscle contraction is::Myofibril::Sarcomere::Actin::Myosin::B::The sarcomere is the contractile unit where actin and myosin slide during contraction.
+16::The energy source for muscle contraction is::Glucose::ATP::Oxygen::Glycogen::B::ATP provides the energy for actin-myosin interactions in muscle contraction.
+17::The condition caused by calcium deficiency in bones is::Arthritis::Osteoporosis::Rickets::Gout::B::Osteoporosis is reduced bone density due to calcium loss, increasing fracture risk.
+18::The locomotion in earthworms is aided by::Cilia::Flagella::Setae::Wings::C::Setae, bristle-like structures, anchor earthworms during peristaltic movement.
+19::The protein responsible for muscle contraction is::Collagen::Actin::Keratin::Elastin::B::Actin, with myosin, forms contractile filaments in muscle fibers.
+20::The disease caused by vitamin D deficiency in children is::Scurvy::Rickets::Beriberi::Pellagra::B::Rickets causes bone deformities in children due to vitamin D deficiency.
+21::The structural and functional unit of the nervous system is::Nephron::Neuron::Alveolus::Osteocyte::B::Neurons transmit nerve impulses, forming the basis of nervous system function.
+22::The part of the brain that controls balance is::Cerebrum::Cerebellum::Medulla::Hypothalamus::B::The cerebellum coordinates balance, posture, and fine motor movements.
+23::The chemical messengers of the nervous system are::Hormones::Neurotransmitters::Enzymes::Antibodies::B::Neurotransmitters, like acetylcholine, transmit signals across synapses.
+24::The hormone secreted by the thyroid gland is::Insulin::Thyroxine::Adrenaline::Cortisol::B::Thyroxine regulates metabolism and growth, produced by the thyroid.
+25::The gland that controls other endocrine glands is::Thyroid::Adrenal::Pituitary::Pancreas::C::The pituitary gland, often called the master gland, regulates other endocrine glands.
+26::The reflex arc involves::Brain only::Spinal cord only::Brain and spinal cord::Peripheral nerves only::B::A reflex arc typically involves sensory neurons, spinal cord, and motor neurons for rapid response.
+27::The part of the eye that controls light entry is::Cornea::Iris::Lens::Retina::B::The iris adjusts pupil size to regulate the amount of light entering the eye.
+28::The hormone that prepares the body for stress is::Insulin::Thyroxine::Adrenaline::Progesterone::C::Adrenaline, from adrenal glands, triggers the fight-or-flight response.
+29::The nerve that carries visual information is::Optic nerve::Auditory nerve::Vagus nerve::Facial nerve::A::The optic nerve transmits visual signals from the retina to the brain.
+30::The condition caused by iodine deficiency is::Diabetes::Goiter::Rickets::Scurvy::B::Goiter is an enlarged thyroid gland due to insufficient iodine for thyroxine production.
+31::The process of producing offspring is called::Reproduction::Respiration::Excretion::Nutrition::B::Reproduction ensures species continuity through offspring production.
+32::The male gametes in humans are produced in::Prostate::Testes::Epididymis::Vas deferens::B::Testes produce sperm through spermatogenesis.
+33::The process of egg release from the ovary is::Fertilization::Ovulation::Implantation::Menstruation::B::Ovulation is the release of a mature egg, triggered by luteinizing hormone.
+34::The site of fertilization in humans is::Ovary::Uterus::Fallopian tube::Vagina::C::Fertilization occurs in the fallopian tube where sperm meets the egg.
+35::The hormone that maintains pregnancy is::Estrogen::Progesterone::Testosterone::FSH::B::Progesterone prevents uterine contractions and supports pregnancy.
+36::The structure that nourishes the plant embryo is::Endosperm::Cotyledon::Ovule::Pollen::A::Endosperm provides nutrients to the developing plant embryo in seeds.
+37::The type of pollination in the same flower is::Cross-pollination::Self-pollination::Wind pollination::Insect pollination::B::Self-pollination involves pollen transfer within the same flower.
+38::The condition of low sperm count is::Impotence::Infertility::Sterility::Hernia::B::Infertility in males can result from low sperm count, reducing fertilization chances.
+39::The structure connecting the fetus to the placenta is::Amnion::Umbilical cord::Chorion::Yolk sac::B::The umbilical cord transports nutrients and oxygen between fetus and placenta.
+40::The process of double fertilization occurs in::Gymnosperms::Angiosperms::Ferns::Mosses::B::Double fertilization in angiosperms forms a zygote and endosperm.
+41::The hereditary material in cells is::RNA::DNA::Protein::Lipid::B::DNA carries genetic information for inheritance and cellular function.
+42::The number of chromosomes in a human somatic cell is::23::46::22::44::B::Somatic cells are diploid, with 46 chromosomes (23 pairs).
+43::The basic unit of chromatin is::Centromere::Nucleosome::Telomere::Chromatid::B::Nucleosomes consist of DNA wrapped around histone proteins.
+44::The process of DNA copying is called::Transcription::Translation::Replication::Mutation::C::Replication duplicates DNA during cell division.
+45::The enzyme that unwinds DNA during replication is::Polymerase::Helicase::Ligase::Primase::B::Helicase unwinds the DNA double helix, forming replication forks.
+46::The process of protein synthesis from RNA is::Replication::Transcription::Translation::Mutation::C::Translation converts mRNA into a polypeptide at ribosomes.
+47::The sequence of three nucleotides on mRNA is::Anticodon::Codon::Intron::Exon::B::A codon specifies an amino acid during translation.
+48::The genetic disorder caused by an extra chromosome 21 is::Sickle-cell anemia::Down syndrome::Hemophilia::Cystic fibrosis::B::Down syndrome (trisomy 21) causes developmental and intellectual challenges.
+49::The enzyme that synthesizes RNA is::DNA polymerase::RNA polymerase::Ligase::Helicase::B::RNA polymerase transcribes DNA into RNA.
+50::The start codon for protein synthesis is::UAA::AUG::UAG::UGA::B::AUG codes for methionine and initiates translation.
+51::The division of the nucleus during cell division is::Cytokinesis::Karyokinesis::Meiosis::Mitosis::B::Karyokinesis is the division of the nucleus, part of mitosis.
+52::The phase of mitosis where chromosomes align at the equator is::Prophase::Metaphase::Anaphase::Telophase::B::In metaphase, chromosomes line up at the spindle equator.
+53::The process that produces gametes is::Mitosis::Meiosis::Cytokinesis::Binary fission::B::Meiosis reduces chromosome number by half, forming haploid gametes.
+54::The stage of meiosis where crossing over occurs is::Prophase I::Metaphase I::Anaphase I::Telophase I::A::Crossing over in prophase I exchanges genetic material between homologous chromosomes.
+55::The number of daughter cells formed in mitosis is::Two::Four::One::Three::A::Mitosis produces two genetically identical daughter cells.
+56::The number of daughter cells formed in meiosis is::Two::Four::One::Three::B::Meiosis produces four haploid daughter cells.
+57::The phase where chromosomes condense is::Interphase::Prophase::Metaphase::Anaphase::B::In prophase, chromatin condenses into visible chromosomes.
+58::The process of cell division in prokaryotes is::Mitosis::Meiosis::Binary fission::Cytokinesis::C::Binary fission is the simple division of prokaryotic cells.
+59::The checkpoint that ensures DNA replication is complete is::G1 checkpoint::G2 checkpoint::M checkpoint::S checkpoint::B::The G2 checkpoint verifies DNA replication before mitosis.
+60::The failure of chromosomes to separate during meiosis is::Nondisjunction::Crossing over::Mutation::Recombination::A::Nondisjunction leads to abnormal chromosome numbers, e.g., Down syndrome.
+61::The study of heredity is called::Evolution::Genetics::Ecology::Embryology::B::Genetics studies how traits are inherited and vary.
+62::The father of genetics is::Darwin::Mendel::Morgan::Lamarck::B::Gregor Mendel established inheritance principles with pea plant experiments.
+63::The phenotypic ratio of a monohybrid cross is::1:1::3:1::9:3:3:1::1:2:1::B::A monohybrid cross (Tt × Tt) yields a 3:1 phenotypic ratio in F2.
+64::The law of segregation states that::Alleles blend::Alleles separate during gamete formation::Genes assort independently::Dominant traits mask recessive::B::Alleles segregate during meiosis, each gamete carrying one allele.
+65::The blood group system is an example of::Incomplete dominance::Codominance::Complete dominance::Polygenic inheritance::B::ABO blood groups show codominance (e.g., AB) and multiple alleles.
+66::The genetic disorder caused by a recessive allele is::Down syndrome::Sickle-cell anemia::Huntington’s disease::Klinefelter syndrome::B::Sickle-cell anemia is caused by a recessive mutation in the hemoglobin gene.
+67::The condition with genotype XXY is::Turner syndrome::Klinefelter syndrome::Down syndrome::Hemophilia::B::Klinefelter syndrome (47, XXY) affects males, causing infertility.
+68::The exchange of genetic material between chromosomes is::Mutation::Crossing over::Segregation::Drift::B::Crossing over during meiosis I increases genetic diversity.
+69::The inheritance of height is::Monogenic::Polygenic::Codominant::Incomplete dominant::B::Height is a polygenic trait, influenced by multiple genes.
+70::A point mutation involves::Change in one nucleotide::Deletion of a chromosome::Inversion of a segment::Insertion of a chromosome::A::A point mutation alters a single nucleotide, e.g., in sickle-cell anemia.
+71::The process of introducing foreign DNA into a cell is::Replication::Transformation::Transduction::Conjugation::B::Transformation involves uptake of foreign DNA, used in genetic engineering.
+72::The enzyme that cuts DNA at specific sites is::Ligase::Polymerase::Restriction enzyme::Helicase::C::Restriction enzymes cut DNA at recognition sites, essential in biotechnology.
+73::The vector used to transfer genes is often::Virus::Plasmid::Bacterium::Fungus::B::Plasmids, small circular DNA, are common vectors in genetic engineering.
+74::The technique to amplify DNA is::PCR::Gel electrophoresis::Cloning::Hybridization::A::Polymerase chain reaction (PCR) amplifies specific DNA segments.
+75::The process of creating identical copies of an organism is::Cloning::Transformation::Transduction::Mutagenesis::A::Cloning produces genetically identical organisms, e.g., Dolly the sheep.
+76::The enzyme that joins DNA fragments is::Polymerase::Helicase::Ligase::Primase::C::DNA ligase seals DNA fragments, used in recombinant DNA technology.
+77::The product of insulin gene insertion is::Antibiotics::Vaccines::Insulin::Enzymes::C::Recombinant DNA technology produces insulin for diabetes treatment.
+78::The analysis of DNA fragments is done by::PCR::Gel electrophoresis::Cloning::Sequencing::B::Gel electrophoresis separates DNA fragments by size for analysis.
+79::The genetically modified organisms are called::Transgenic::Mutant::Hybrid::Cloned::A::Transgenic organisms contain foreign DNA, e.g., Bt crops.
+80::The technique to determine DNA sequence is::PCR::Cloning::DNA sequencing::Transformation::C::DNA sequencing determines the exact order of nucleotides in a DNA molecule.
+81::The process by which new species form is::Evolution::Speciation::Adaptation::Mutation::B::Speciation is the formation of new species due to evolutionary processes.
+82::The theory of natural selection was proposed by::Lamarck::Darwin::Mendel::Wallace::B::Charles Darwin proposed natural selection as a mechanism for evolution.
+83::The structures with similar origins but different functions are::Analogous::Homologous::Vestigial::Convergent::B::Homologous structures, e.g., human arm and whale flipper, share a common origin.
+84::The raw material for evolution is::Adaptation::Variation::Fitness::Speciation::B::Variation, from mutations and recombination, fuels natural selection.
+85::The type of selection favoring extreme phenotypes is::Stabilizing::Directional::Disruptive::Artificial::C::Disruptive selection favors extreme traits, potentially leading to speciation.
+86::The isolation preventing interbreeding due to habitat is::Temporal::Behavioral::Geographical::Reproductive::C::Geographical isolation separates populations by physical barriers.
+87::The formation of species in the same area is::Allopatric speciation::Sympatric speciation::Parapatric speciation::Artificial speciation::B::Sympatric speciation occurs without geographical barriers.
+88::The human appendix is a::Homologous structure::Analogous structure::Vestigial structure::Functional organ::C::The appendix is a vestigial remnant of an ancestral digestive organ.
+89::The peppered moth case is an example of::Stabilizing selection::Directional selection::Disruptive selection::Artificial selection::B::Directional selection favored dark moths during industrial pollution.
+90::The evidence from similarities in early development is::Fossil record::Embryology::Biogeography::Molecular biology::B::Embryology shows similar developmental stages, supporting common ancestry.
+91::An ecosystem includes::Biotic components only::Abiotic components only::Biotic and abiotic components::Producers only::C::Ecosystems comprise living (biotic) and non-living (abiotic) components.
+92::The organisms that produce food are::Consumers::Producers::Decomposers::Scavengers::B::Producers, like plants, synthesize food via photosynthesis.
+93::The biome with low rainfall and extreme temperatures is::Tundra::Desert::Grassland::Forest::B::Deserts have sparse vegetation due to low precipitation.
+94::The process of ecosystem change is::Evolution::Succession::Adaptation::Mutation::B::Ecological succession is the gradual replacement of species over time.
+95::The first organisms in succession are::Climax species::Pioneer species::Secondary species::Keystone species::B::Pioneer species, like lichens, colonize barren areas.
+96::The stable community in succession is::Pioneer community::Climax community::Seral community::Primary community::B::The climax community is the mature, stable ecosystem.
+97::The biome with frozen soil is::Desert::Tundra::Grassland::Taiga::B::Tundra has permafrost, limiting plant growth.
+98::The major producer in marine ecosystems is::Seaweed::Phytoplankton::Coral::Mangroves::B::Phytoplankton are primary producers in marine food chains.
+99::The energy flow in ecosystems is::Cyclic::Unidirectional::Bidirectional::Random::B::Energy flows unidirectionally, with losses at each trophic level.
+100::The biome with high biodiversity is::Desert::Tundra::Tropical rainforest::Grassland::C::Tropical rainforests have high species diversity due to favorable conditions.
+101::The increase in Earth’s average temperature is called::Global warming::Ozone depletion::Acid rain::Deforestation::A::Global warming results from greenhouse gas accumulation.
+102::The gas primarily responsible for global warming is::Oxygen::Nitrogen::Carbon dioxide::Sulfur dioxide::C::Carbon dioxide traps heat, contributing to global warming.
+103::The depletion of the ozone layer is caused by::CO2::CFCs::SO2::NO2::B::Chlorofluorocarbons (CFCs) break down ozone in the stratosphere.
+104::The process of soil loss due to water or wind is::Deforestation::Erosion::Pollution::Desertification::B::Erosion removes topsoil, reducing land fertility.
+105::The major source of water pollution is::Rain::Sewage::Wind::Sunlight::B::Sewage introduces pathogens and nutrients, polluting water bodies.
+106::The condition caused by excessive nutrient enrichment is::Eutrophication::Desertification::Ozone depletion::Global warming::A::Eutrophication leads to algal blooms and oxygen depletion in water.
+107::The practice of clearing forests is::Afforestation::Deforestation::Reforestation::Desertification::B::Deforestation removes trees, impacting ecosystems and carbon cycles.
+108::The gas that forms acid rain is::Carbon dioxide::Sulfur dioxide::Oxygen::Nitrogen::B::Sulfur dioxide reacts with water to form sulfuric acid, causing acid rain.
+109::The renewable resource is::Coal::Oil::Solar energy::Natural gas::C::Solar energy is renewable, unlike finite fossil fuels.
+110::The major threat to biodiversity is::Natural selection::Human activities::Mutation::Gene flow::B::Human activities like habitat destruction reduce biodiversity.
+111::The hormone that regulates blood glucose is::Thyroxine::Insulin::Adrenaline::Cortisol::B::Insulin lowers blood glucose by promoting uptake into cells.
+112::The type of cartilage in the nose is::Elastic::Hyaline::Fibrocartilage::Calcified::B::Hyaline cartilage, smooth and glassy, forms the nose and joint surfaces.
+113::The neurotransmitter at the neuromuscular junction is::Dopamine::Acetylcholine::Serotonin::Adrenaline::B::Acetylcholine triggers muscle contraction at the neuromuscular junction.
+114::The structure that protects the plant embryo is::Fruit::Endosperm::Ovule::Pollen::A::The fruit, developed from the ovary, protects seeds.
+115::The nitrogenous base found only in DNA is::Uracil::Thymine::Adenine::Cytosine::B::Thymine pairs with adenine in DNA, while uracil is in RNA.
+116::The phase of the cell cycle where DNA replicates is::G1::S::G2::M::B::The S phase of interphase is when DNA replication occurs.
+117::The law of independent assortment applies to::Genes on the same chromosome::Genes on different chromosomes::Linked genes::Identical alleles::B::Genes on different chromosomes assort independently during meiosis.
+118::The enzyme used in gene cloning is::Polymerase::Ligase::Helicase::Primase::B::DNA ligase joins DNA fragments in recombinant DNA technology.
+119::The type of selection favoring intermediate traits is::Stabilizing::Directional::Disruptive::Artificial::A::Stabilizing selection favors average traits, reducing variation.
+120::The transitional zone between freshwater and marine is::Lake::River::Estuary::Pond::C::Estuaries have mixed salinity, supporting diverse organisms.
+121::The bone of the upper arm is::Radius::Ulna::Humerus::Femur::C::The humerus is the single bone of the upper arm.
+122::The hormone that triggers ovulation is::Estrogen::Progesterone::LH::FSH::C::Luteinizing hormone (LH) causes the follicle to rupture, releasing the egg.
+123::The short DNA segments in replication are::Leading strands::Okazaki fragments::Primers::Telomeres::B::Okazaki fragments are synthesized on the lagging strand.
+124::The condition caused by nondisjunction is::Sickle-cell anemia::Down syndrome::Hemophilia::Cystic fibrosis::B::Down syndrome results from an extra chromosome 21.
+125::The phenotypic ratio of a dihybrid cross is::3:1::1:2:1::9:3:3:1::1:1:1:1::C::A dihybrid cross (RrYy × RrYy) yields a 9:3:3:1 ratio.
+126::The product of biotechnology used in agriculture is::Insulin::Vaccines::Bt crops::Antibiotics::C::Bt crops are genetically modified to resist pests.
+127::The evidence of evolution from fossils is studied in::Embryology::Paleontology::Biogeography::Molecular biology::B::Paleontology examines fossils to trace evolutionary history.
+128::The biome with tall grasses is::Forest::Grassland::Tundra::Desert::B::Grasslands have grasses as dominant vegetation.
+129::The major cause of ozone depletion is::CO2::CFCs::SO2::NO2::B::CFCs release chlorine, which breaks down ozone.
+130::The process of nutrient cycling is::Unidirectional::Cyclic::Linear::Random::B::Nutrients like carbon are recycled through ecosystems.
+131::The part of the brain that regulates breathing is::Cerebrum::Cerebellum::Medulla::Hypothalamus::C::The medulla oblongata controls involuntary functions like breathing.
+132::The structure that anchors the plant embryo is::Cotyledon::Endosperm::Seed coat::Ovule::C::The seed coat protects the embryo and seed contents.
+133::The enzyme that joins Okazaki fragments is::Helicase::Polymerase::Ligase::Primase::C::DNA ligase seals gaps between Okazaki fragments.
+134::The phase of meiosis where chromosomes separate is::Prophase I::Metaphase I::Anaphase I::Telophase I::C::In anaphase I, homologous chromosomes are pulled apart.
+135::The universal donor blood group is::A::B::AB::O::D::Blood group O lacks antigens, safe for all recipients.
+136::The technique to separate DNA fragments is::PCR::Gel electrophoresis::Cloning::Sequencing::B::Gel electrophoresis separates DNA by size.
+137::The wings of bats and birds are::Homologous::Analogous::Vestigial::Embryonic::B::Bat and bird wings are analogous, evolved independently for flight.
+138::The succession on bare rock is::Primary succession::Secondary succession::Hydrosere::Xerosere::A::Primary succession starts on barren surfaces with no soil.
+139::The gas that traps heat in the atmosphere is::Oxygen::Nitrogen::Carbon dioxide::Sulfur dioxide::C::Carbon dioxide is a greenhouse gas, causing global warming.
+140::The major producer in terrestrial ecosystems is::Phytoplankton::Grass::Trees::Algae::C::Trees and other plants are primary producers on land.
+141::The condition caused by sustained muscle contraction is::Cramp::Tetanus::Fatigue::Sprain::B::Tetanus is prolonged muscle contraction due to rapid nerve impulses.
+142::The hormone that induces labor is::Estrogen::Progesterone::Oxytocin::Prolactin::C::Oxytocin stimulates uterine contractions during labor.
+143::The molecule that carries amino acids is::mRNA::tRNA::rRNA::DNA::B::Transfer RNA (tRNA) delivers amino acids to ribosomes.
+144::The number of daughter cells in meiosis is::Two::Four::One::Three::B::Meiosis produces four haploid daughter cells.
+145::The genetic disorder caused by a dominant allele is::Sickle-cell anemia::Cystic fibrosis::Huntington’s disease::Hemophilia::C::Huntington’s disease is caused by a dominant allele.
+146::The process of creating transgenic organisms is::Cloning::Genetic engineering::Mutation::Hybridization::B::Genetic engineering introduces foreign genes into organisms.
+147::The type of evolution where unrelated species develop similar traits is::Divergent::Convergent::Adaptive radiation::Genetic drift::B::Convergent evolution produces similar traits, e.g., dolphin and shark shapes.
+148::The stable community in succession is::Pioneer community::Climax community::Seral community::Primary community::B::The climax community is the final, stable stage of succession.
+149::The major source of air pollution is::Rain::Fossil fuels::Wind::Sunlight::B::Burning fossil fuels releases pollutants like CO2 and SO2.
+150::The biome with coniferous trees is::Tundra::Taiga::Desert::Grassland::B::Taiga is dominated by evergreen coniferous forests.
+151::The excretory organ in insects is::Nephridia::Malpighian tubules::Kidney::Gills::B::Malpighian tubules excrete nitrogenous waste in insects.
+152::The male gametophyte in plants is::Ovule::Pollen grain::Embryo sac::Anther::B::Pollen grains contain the male gametes in flowering plants.
+153::The base pairing in DNA follows::Mendel’s rule::Chargaff’s rule::Franklin’s rule::Watson’s rule::B::Chargaff’s rule states A pairs with T, and G with C.
+154::The checkpoint before mitosis is::G1::S::G2::M::C::The G2 checkpoint ensures DNA replication is complete.
+155::The test cross ratio for a heterozygous individual is::1:1::3:1::1:2:1::9:3:3:1::A::A test cross (Tt × tt) produces a 1:1 phenotypic ratio.
+156::The product of biotechnology used in medicine is::Bt crops::Insulin::Vaccines::Both B and C::D::Insulin and vaccines are produced via recombinant DNA technology.
+157::The finches on the Galapagos Islands are an example of::Convergent evolution::Adaptive radiation::Genetic drift::Lamarckism::B::Adaptive radiation led to diverse beak shapes in Darwin’s finches.
+158::The succession in a pond is::Xerosere::Hydrosere::Mesosere::Lithosere::B::Hydrosere is the succession in aquatic habitats like ponds.
+159::The condition caused by excessive CO2 is::Ozone depletion::Global warming::Acid rain::Eutrophication::B::CO2 contributes to global warming by trapping heat.
+160::The major consumer in grasslands is::Carnivore::Herbivore::Omnivore::Detritivore::B::Herbivores, like deer, are primary consumers in grasslands.
+161::The joint between skull bones is::Synovial::Fibrous::Cartilaginous::Hinge::B::Fibrous joints, like sutures, are immovable in the skull.
+162::The hormone that regulates metabolism is::Insulin::Thyroxine::Adrenaline::Cortisol::B::Thyroxine increases metabolic rate in cells.
+163::The stop codon signals the end of::Replication::Transcription::Translation::Mutation::C::Stop codons (UAA, UAG, UGA) halt protein synthesis.
+164::The phase where sister chromatids separate is::Prophase::Metaphase::Anaphase::Telophase::C::In anaphase, sister chromatids are pulled to opposite poles.
+165::The universal recipient blood group is::A::B::AB::O::C::Blood group AB can receive blood from any group.
+166::The vector in gene cloning is::Virus::Plasmid::Bacterium::Fungus::B::Plasmids are used to transfer genes in genetic engineering.
+167::The resistance of bacteria to antibiotics is::Lamarckism::Natural selection::Genetic drift::Convergent evolution::B::Natural selection favors resistant bacteria.
+168::The biome with seasonal rainfall is::Savanna::Tundra::Taiga::Desert::A::Savannas have wet and dry seasons with scattered trees.
+169::The major cause of acid rain is::CO2::SO2::O2::N2::B::Sulfur dioxide forms sulfuric acid, causing acid rain.
+170::The pyramid showing organism count is::Energy pyramid::Biomass pyramid::Number pyramid::Trophic pyramid::C::The pyramid of numbers shows organism numbers per trophic level.
+171::The bone marrow that produces blood cells is::Yellow marrow::Red marrow::White marrow::Gray marrow::B::Red marrow produces red and white blood cells.
+172::The structure that attracts pollinators is::Sepal::Petal::Anther::Stigma::B::Petals, often colorful, attract pollinators like bees.
+173::The bond between DNA bases is::Covalent::Ionic::Hydrogen::Peptide::C::Hydrogen bonds hold base pairs (A-T, G-C) in DNA.
+174::The failure of chromosome separation is::Crossing over::Nondisjunction::Mutation::Recombination::B::Nondisjunction causes abnormal chromosome numbers.
+175::The law of dominance was proposed by::Darwin::Mendel::Morgan::Lamarck::B::Mendel’s law states one allele can mask another.
+176::The analysis of DNA for identification is::PCR::DNA fingerprinting::Cloning::Sequencing::B::DNA fingerprinting identifies individuals based on unique DNA patterns.
+177::The human arm and whale flipper are::Analogous::Homologous::Vestigial::Convergent::B::Homologous structures share a common evolutionary origin.
+178::The first organisms in primary succession are::Trees::Grasses::Lichens::Shrubs::C::Lichens break down rock, initiating soil formation.
+179::The renewable energy source is::Coal::Oil::Solar energy::Natural gas::C::Solar energy is sustainable, unlike fossil fuels.
+180::The interaction where both species benefit is::Mutualism::Commensalism::Parasitism::Predation::A::Mutualism benefits both species, e.g., pollination.
+181::The condition of muscle fatigue is caused by::Glucose::Lactic acid::ATP::Oxygen::B::Lactic acid buildup during anaerobic respiration causes fatigue.
+182::The type of fertilization in amphibians is::Internal::External::Both::None::B::Amphibians use external fertilization in water.
+183::The non-coding regions of a gene are::Exons::Introns::Codons::Promoters::B::Introns are removed during RNA processing.
+184::The phase where the nuclear envelope reforms is::Prophase::Metaphase::Anaphase::Telophase::D::In telophase, the nuclear envelope reforms around daughter nuclei.
+185::The genetic disorder affecting males is::Sickle-cell anemia::Hemophilia::Down syndrome::Cystic fibrosis::B::Hemophilia, X-linked, is more common in males.
+186::The process of amplifying DNA in a test tube is::Cloning::PCR::Transformation::Sequencing::B::PCR amplifies DNA for analysis.
+187::The type of selection by humans is::Natural::Artificial::Stabilizing::Disruptive::B::Artificial selection breeds organisms for desired traits.
+188::The biome with deciduous trees is::Tropical rainforest::Taiga::Temperate forest::Tundra::C::Temperate forests have trees that shed leaves seasonally.
+189::The major source of soil pollution is::Rain::Pesticides::Wind::Sunlight::B::Pesticides contaminate soil, harming ecosystems.
+190::The major abiotic factor in ecosystems is::Producers::Consumers::Water::Decomposers::C::Water influences organism distribution and ecosystem function.
+191::The number of cervical vertebrae is::5::7::12::33::B::Humans have 7 cervical vertebrae in the neck.
+192::The male reproductive hormone is::Estrogen::Progesterone::Testosterone::Prolactin::C::Testosterone regulates male reproductive functions.
+193::The replication of DNA is::Conservative::Semi-conservative::Dispersive::Random::B::Each new DNA molecule has one old and one new strand.
+194::The number of autosomes in humans is::44::46::22::23::A::Humans have 44 autosomes and 2 sex chromosomes.
+195::The inheritance of skin color is::Monogenic::Polygenic::Codominant::Incomplete dominant::B::Skin color is controlled by multiple genes.
+196::The enzyme that cuts DNA is::Ligase::Polymerase::Restriction enzyme::Helicase::C::Restriction enzymes cut DNA at specific sites.
+197::The study of ancient life is::Biogeography::Embryology::Paleontology::Molecular biology::C::Paleontology studies fossils to understand evolution.
+198::The succession after a fire is::Primary succession::Secondary succession::Hydrosere::Xerosere::B::Secondary succession occurs on disturbed areas with soil.
+199::The gas forming the ozone layer is::CO2::O3::SO2::NO2::B::Ozone (O3) protects Earth from UV radiation.
+200::The organisms indicating environmental health are::Keystone species::Indicator species::Pioneer species::Climax species::B::Indicator species reflect ecosystem health.

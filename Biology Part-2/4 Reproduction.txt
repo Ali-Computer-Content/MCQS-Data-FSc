@@ -1,0 +1,50 @@
+1::The process by which organisms produce new individuals is called::Respiration::Reproduction::Excretion::Nutrition::B::Reproduction is the biological process of producing offspring to ensure species continuity.
+2::The type of reproduction involving a single parent is::Sexual::Asexual::Conjugation::Fertilization::B::Asexual reproduction involves one parent and produces genetically identical offspring.
+3::Which of the following is an example of asexual reproduction?::Budding::Pollination::Fertilization::Conjugation::A::Budding, seen in organisms like Hydra, is a form of asexual reproduction where a new individual grows from the parent.
+4::The male gametes in animals are called::Ova::Sperm::Zygotes::Spores::B::Sperm are the male gametes produced in the testes for fertilization.
+5::The female gametes in humans are produced in the::Ovary::Uterus::Fallopian tube::Vagina::A::Ovaries produce ova (eggs), the female gametes, in humans.
+6::The process of sperm formation is called::Oogenesis::Spermatogenesis::Gametogenesis::Fertilization::B::Spermatogenesis is the production of sperm in the testes through meiosis.
+7::The process of egg formation in females is called::Spermatogenesis::Oogenesis::Embryogenesis::Ovulation::B::Oogenesis is the formation of ova in the ovaries, involving meiosis.
+8::The fusion of male and female gametes is called::Fertilization::Pollination::Conjugation::Budding::A::Fertilization is the union of sperm and egg to form a zygote.
+9::The site of fertilization in humans is usually the::Ovary::Uterus::Fallopian tube::Vagina::C::Fertilization typically occurs in the fallopian tube, where sperm meets the egg.
+10::The structure that protects the embryo in mammals is::Amnion::Chorion::Allantois::Yolk sac::A::The amnion forms a fluid-filled sac that cushions and protects the embryo.
+11::The male reproductive organ in flowering plants is::Ovary::Stigma::Anther::Petal::C::The anther, part of the stamen, produces pollen (male gametes) in plants.
+12::The female reproductive organ in flowering plants is::Anther::Style::Carpel::Sepal::C::The carpel (or pistil) contains the ovary, which produces ovules (female gametes).
+13::The transfer of pollen from anther to stigma is called::Fertilization::Pollination::Gametogenesis::Embryogenesis::B::Pollination is the transfer of pollen, enabling fertilization in plants.
+14::The type of pollination involving the same flower is::Cross-pollination::Self-pollination::Wind pollination::Insect pollination::B::Self-pollination occurs when pollen from an anther lands on the stigma of the same flower.
+15::The zygote develops into::Gamete::Embryo::Sperm::Ovum::B::The zygote, formed by fertilization, develops into an embryo.
+16::The number of chromosomes in human gametes is::46::23::92::12::B::Human gametes (sperm and egg) are haploid, containing 23 chromosomes.
+17::The process of releasing an egg from the ovary is called::Fertilization::Ovulation::Implantation::Menstruation::B::Ovulation is the release of a mature egg from the ovary, typically mid-cycle.
+18::The hormone that regulates ovulation is::Estrogen::Progesterone::Luteinizing hormone::Follicle-stimulating hormone::C::Luteinizing hormone (LH) triggers ovulation by causing the follicle to rupture.
+19::The menstrual cycle occurs in the::Ovary::Uterus::Fallopian tube::Vagina::B::The menstrual cycle involves changes in the uterus, preparing it for pregnancy.
+20::The phase of the menstrual cycle where the uterine lining is shed is::Follicular phase::Ovulatory phase::Luteal phase::Menstrual phase::D::The menstrual phase involves the shedding of the uterine lining if no pregnancy occurs.
+21::The structure that nourishes the embryo in plants is::Endosperm::Cotyledon::Amnion::Yolk sac::A::The endosperm provides nutrients to the developing plant embryo.
+22::The type of reproduction in Hydra is::Binary fission::Budding::Fragmentation::Spore formation::B::Hydra reproduces asexually by budding, forming a new individual from an outgrowth.
+23::The male reproductive hormone is::Estrogen::Progesterone::Testosterone::Prolactin::C::Testosterone, produced by the testes, regulates male reproductive functions.
+24::The female reproductive hormone that thickens the uterine lining is::Testosterone::Estrogen::Prolactin::Oxytocin::B::Estrogen promotes the growth of the uterine lining during the follicular phase.
+25::The process of embryo implantation occurs in the::Ovary::Fallopian tube::Uterus::Vagina::C::Implantation is the attachment of the embryo to the uterine wall.
+26::The organ that connects the fetus to the placenta is::Amnion::Umbilical cord::Chorion::Allantois::B::The umbilical cord transports nutrients and oxygen between the fetus and placenta.
+27::The type of fertilization in amphibians is::Internal::External::Both::None::B::Amphibians, like frogs, exhibit external fertilization, with eggs fertilized outside the body.
+28::The reproductive system of mammals is::Oviparous::Viviparous::Ovoviviparous::Asexual::B::Mammals are viviparous, giving birth to live young nourished in the uterus.
+29::The structure in plants that contains the ovule is::Anther::Ovary::Stigma::Style::B::The ovary in the carpel contains ovules, which develop into seeds after fertilization.
+30::The number of polar bodies formed during oogenesis is::One::Two::Three::Four::C::Oogenesis produces one ovum and three polar bodies, which degenerate.
+31::The type of asexual reproduction in yeast is::Budding::Binary fission::Fragmentation::Spore formation::A::Yeast reproduces asexually by budding, forming a new cell from an outgrowth.
+32::The hormone that maintains pregnancy is::Estrogen::Progesterone::Testosterone::LH::B::Progesterone maintains pregnancy by preventing uterine contractions and further ovulation.
+33::The structure formed after fertilization in plants is::Zygote::Embryo::Seed::Fruit::A::The zygote is the initial cell formed by the fusion of male and female gametes.
+34::The process of double fertilization occurs in::Animals::Gymnosperms::Angiosperms::Ferns::C::Double fertilization in angiosperms involves one sperm fertilizing the egg and another forming the endosperm.
+35::The male gametophyte in flowering plants is::Ovule::Pollen grain::Embryo sac::Anther::B::The pollen grain is the male gametophyte, containing the male gametes.
+36::The female gametophyte in flowering plants is::Pollen grain::Ovule::Embryo sac::Stigma::C::The embryo sac, within the ovule, is the female gametophyte containing the egg.
+37::The condition where sperm count is low is::Impotence::Infertility::Sterility::Erectile dysfunction::B::Infertility in males can result from a low sperm count, reducing fertilization chances.
+38::The reproductive cycle in females is regulated by::Pituitary gland::Thyroid gland::Adrenal gland::Pancreas::A::The pituitary gland releases FSH and LH, regulating the menstrual cycle.
+39::The structure that protects the seed in plants is::Ovary::Fruit::Endosperm::Cotyledon::B::The fruit, developed from the ovary, protects the seed and aids in dispersal.
+40::The type of reproduction in starfish is::Budding::Fragmentation::Binary fission::Parthenogenesis::B::Starfish can reproduce asexually by fragmentation, regenerating new individuals from parts.
+41::The gestation period in humans is approximately::6 months::9 months::12 months::3 months::B::The human gestation period is about 9 months (approximately 40 weeks).
+42::The structure that forms the seed coat in plants is::Ovary::Integument::Endosperm::Embryo sac::B::The integument of the ovule develops into the seed coat, protecting the seed.
+43::The type of fertilization in birds is::External::Internal::Both::None::B::Birds exhibit internal fertilization, with sperm transferred to the female’s reproductive tract.
+44::The hormone that induces labor in mammals is::Estrogen::Progesterone::Oxytocin::Prolactin::C::Oxytocin stimulates uterine contractions during labor.
+45::The process of sperm release is called::Ovulation::Ejaculation::Implantation::Fertilization::B::Ejaculation is the release of sperm from the male reproductive system.
+46::The condition caused by failure of testes to descend is::Cryptorchidism::Impotence::Infertility::Hernia::A::Cryptorchidism is when one or both testes fail to descend into the scrotum.
+47::The part of the flower that attracts pollinators is::Sepal::Petal::Anther::Stigma::B::Petals, often colorful, attract pollinators like bees and butterflies.
+48::The type of reproduction without gamete formation is::Sexual::Asexual::Conjugation::Fertilization::B::Asexual reproduction, like budding or binary fission, does not involve gametes.
+49::The structure that delivers sperm in mammals is::Ureter::Urethra::Vas deferens::Epididymis::B::The urethra in males transports both sperm and urine out of the body.
+50::The parthenogenesis is a type of::Sexual reproduction::Asexual reproduction::Internal fertilization::External fertilization::B::Parthenogenesis is an asexual process where an egg develops into an offspring without fertilization.

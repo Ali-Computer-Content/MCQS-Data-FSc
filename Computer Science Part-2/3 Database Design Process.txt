@@ -1,0 +1,50 @@
+1::What is the first step in database design?::Normalization::Requirement analysis::ER‑diagram drawing::Physical design::B::You start by gathering requirements from users
+2::What does ER in ER‑diagram stand for?::Entity–Relation::Entity–Relationship::Electronic–Resource::Entry–Record::B::ER stands for Entity–Relationship
+3::In an ER‑diagram, a rectangle represents ::aRelationship::Attribute::Entity::Primary key::C::Entities are shown as rectangles
+4::A diamond shape in ER‑diagram shows ::aRelationship::Attribute::Entity::Constraint::A::Relationships are depicted with diamonds
+5::In ER‑diagram, ovals represent::Entities::Attributes::Relationships::Foreign keys::B::Attributes are shown as ovals
+6::What indicates composite attribute?::Double oval::Dashed oval::Underlined attribute::Single oval::A::Composite attributes are shown as double ovals
+7::A weak entity is depicted by::Double rectangle::Dashed rectangle::Rounded rectangle::Single rectangle::A::Weak entities use double rectangles
+8::What identifies a weak entity?::Primary key only::Foreign key only::Owner entity’s key + partial key::Composite key::C::Weak entities use owner’s primary key + a partial key
+9::Cardinality “1::M” means::One owner, many members::Many owners, one member::Single attribute::One key only::A::One-to-many relationship
+10::Total participation is shown by::Double line::Single dashed line::Single solid line::Dashed arrow::A::Double lines show total participation
+11::Partial participation uses::Single line::Dashed line::Double line::Arrow::B::Dashed line indicates partial
+12::In logical design phase, you create::ER‑diagram::Relational schem::aUser interface::Backup plan::B::Logical design defines tables, keys, relationships
+13::What is a primary key?::A field that may repeat::A field that uniquely identifies records::A field with NULLs::A foreign key::B::Primary key ensures row uniqueness
+14::Foreign key is used to::Encrypt dat::aRelate tables::Store files::Index attributes::B::It links tables together
+15::Normalization mainly aims to::Increase redundancy::Remove redundancy and anomalies::Reduce security::Increase data size::B::Normalization reduces redundancy and anomalies
+16::1NF means::Atomic values only::Single table only::Composite keys mandatory::Foreign key only::A::First Normal Form requires atomic data values
+17::2NF requires::1NF and no partial dependency::3NF only::No foreign keys::No primary keys::A::2NF builds on 1NF by eliminating partial dependencies
+18::3NF requires::No transitive dependency::Only 1NF met::Only 2NF met::Many‑to‑many relationships::A::3NF eliminates transitive dependencies
+19::BCNF is stricter than::1NF::2NF::3NF::4NF::C::Boyce–Codd NF is stricter than 3NF
+20::What problem does normalization address?::Storage increase::Data anomalies::Faster queries::More UI::B::Normalization fixes anomalies like update, insert, delete
+21::A relations schema is ::aGraphical ER‑diagram::Textual table structure::Spreadsheet file::Query result::B::Logical design:: tables definitions
+22::Which is an example of 2NF violation?::Non‑atomic values::Partial dependency on PK::Transitive dependency::All atomic::B::Partial dependency shows 2NF violation
+23::Transitive dependency occurs when::A→B, B→C::Only single PK::Foreign key mismatch::Duplicate values::A::Transitive dependency is A→B and B→C
+24::An employee schema with emp_no and dept_name where dept_name depends on emp_no→dept_no and dept_no→dept_name violates::1NF::2NF::3NF::BCNF::C::It’s a transitive dependency, thus violates 3NF
+25::Logical design is before::Requirement analysis::Physical design::Requirement gathering::Post implementation::B::Logical design comes before physical design
+26::Physical design includes::ER‑diagram::Hardware specs and indexing strategy::Normalization only::Query writing::B::Physical design covers implementation details like indexing
+27::In database design, relationship degree refers to::Number of attributes::Number of entities in relationship::Number of rows::Number of columns::B::It’s about how many entity sets participate
+28::A ternary relationship involves::3 attributes::3 entities::3 tables only::3 keys only::B::Ternary relationships involve three entities
+29::What is denormalization?::Removing tables::Adding redundancy for performance::Process of 1NF only::Creating ERDs::B::Denormalization is reintroducing redundancy to speed up
+30::When do we denormalize?::Always::When performance is critical after normalization::Never::Before normalization::B::Applied when query speed matters after normalization
+31::What enforces referential integrity?::Primary key only::Foreign key with constraints::Attribute only::Query tools::B::Foreign key with constraints enforce referential integrity
+32::A surrogate key is::Natural composite key::Artificial primary key like auto‑increment::Foreign key only::Alternate key::B::It’s an artificial key assigned by system
+33::Composite key is::Single attribute::Multiple attributes as primary key::Foreign key composite::Index only::B::Composite key uses more than one attribute
+34::Which is an example of weak entity?::Employee::Country::Dependent of employee::Department::C::Dependent cannot exist without employee
+35::Participation constraint shows::Optional/mandatory participation::Only key presence::Only cardinality::Attribute type::A::Shows whether entity participation is total or partial
+36::In relational schema, “Student(sid, name, age)” parenthesis list shows::Table creation only::Column names only::Keys only::ER shape only::B::Represents table columns
+37::A candidate key is::Non‑unique field::Potential primary key::Foreign key only::Index field only::B::Candidate key can become primary key
+38::Alternate key is::Chosen primary key::Secondary potential key not selected as primary::Foreign key only::Derived key only::B::Alternate keys are candidates not chosen as primary
+39::Which step follows normalization?::ERD drawing::Physical design::Requirement gathering::Query writing::B::Normalization is part of logical design before physical
+40::Schema refinement includes::Indexing and views::ER‑diagram only::Backup scripts only::User training only::A::Logical refining includes indexing, views as preservation, but main in physical
+41::In ERD, a double diamond indicates::Weak relationship::Identifying relationship::M::N relationship::Hierarchical relationship::B::Identifying relationship uses double diamond
+42::Mapping ERD to relations involves converting::Entities and relationships into tables::UI into tables::Hardware into tables::Queries into tables::A::ERD mapping converts entities/relations to tables
+43::Foreign key must reference::Non‑key attribute::Candidate key or primary key::Any attribute::Composite key only::B::Foreign keys reference candidate/primary keys
+44::Which is not normalized?::Table with repeated groups::Table in 1NF+2NF+3NF::Table in BCNF::Perfectly designed table::A::A table with repeated groups is unnormalized
+45::Every table must have::At least one foreign key::At least one primary/unique key::Indexes only::Composite keys only::B::Primary or unique key ensures record identification
+46::Which relationship allows same entity set twice?::Unary relationship::Binary relationship::Ternary::Quaternary::A::Unary relationship is recursive within same set
+47::Data dictionary belongs to::Requirement analysis::Logical design::Physical design::Maintenance phase::B::Defined during logical design, documenting schema
+48::What is a domain in database?::Column width only::Set of permissible attribute values::Number of rows::User types only::B::Domain defines valid values for attribute
+49::What is meant by end‐user view?::Internal storage only::Logical schema for user & applications::Backup details only::ER diagram only::B::Defines how users view data
+50::Why do we choose ER model?::For performance only::For conceptual abstraction and clarity of relationships::For UI design::For network design only::B::ER model is for conceptual modelling and clarity

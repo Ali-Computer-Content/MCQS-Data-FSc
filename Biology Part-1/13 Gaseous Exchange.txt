@@ -1,0 +1,50 @@
+1::Gaseous exchange in organisms involves the intake of::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::A::Oxygen is taken in for cellular respiration to produce energy.
+2::The primary site of gaseous exchange in humans is::Trachea::Bronchi::Alveoli::Nasal cavity::C::Alveoli provide a large surface area for gas exchange in the lungs.
+3::The process of gaseous exchange in plants occurs mainly through::Roots::Stomata::Bark::Flowers::B::Stomata on leaves allow the exchange of oxygen and carbon dioxide.
+4::The respiratory surface in animals must be::Dry::Thick::Moist::Hard::C::A moist surface facilitates the diffusion of gases across membranes.
+5::Which gas is produced as a byproduct of cellular respiration?::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide is released during the breakdown of glucose in respiration.
+6::The structure that prevents food from entering the trachea is::Epiglottis::Larynx::Pharynx::Diaphragm::A::The epiglottis closes the trachea during swallowing to prevent choking.
+7::The muscle involved in human breathing is::Bicep::Diaphragm::Quadricep::Deltoid::B::The diaphragm contracts and relaxes to facilitate inhalation and exhalation.
+8::Inhalation in humans is caused by::Contraction of diaphragm::Relaxation of diaphragm::Contraction of lungs::Relaxation of ribs::A::Diaphragm contraction increases thoracic volume, causing air to enter lungs.
+9::The number of lobes in the human right lung is::Two::Three::Four::Five::B::The right lung has three lobes, while the left lung has two.
+10::The process of diffusion in gaseous exchange depends on::Concentration gradient::Temperature::Both A and B::Pressure only::C::Diffusion occurs due to a concentration gradient and is influenced by temperature.
+11::The respiratory pigment in human blood is::Hemocyanin::Chlorophyll::Hemoglobin::Myoglobin::C::Hemoglobin binds oxygen in red blood cells for transport.
+12::The site of gaseous exchange in insects is::Lungs::Tracheae::Gills::Skin::B::Tracheae are tubes that deliver oxygen directly to insect tissues.
+13::The respiratory organ in fish is::Lungs::Gills::Tracheae::Skin::B::Gills extract dissolved oxygen from water in fish.
+14::The maximum amount of air a person can exhale after maximum inhalation is::Tidal volume::Vital capacity::Residual volume::Inspiratory reserve volume::B::Vital capacity is the total air moved during maximum inhalation and exhalation.
+15::The normal breathing rate in adult humans at rest is::12–20 breaths/min::30–40 breaths/min::50–60 breaths/min::5–10 breaths/min::A::The average resting breathing rate is 12–20 breaths per minute.
+16::The gas that regulates breathing rate in humans is::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide levels in blood influence the respiratory center in the brain.
+17::The structure in alveoli that facilitates gas exchange is::Capillaries::Bronchioles::Trachea::Pleura::A::Capillaries surround alveoli, allowing oxygen and carbon dioxide exchange.
+18::The process of gaseous exchange in earthworms occurs through::Gills::Lungs::Skin::Tracheae::C::Earthworms exchange gases through their moist skin.
+19::The protective layer around human lungs is::Pleura::Pericardium::Meninges::Epidermis::A::The pleura is a double membrane that protects and lubricates the lungs.
+20::The part of the brain that controls breathing is::Cerebellum::Medulla oblongata::Cerebrum::Hypothalamus::B::The medulla oblongata regulates involuntary breathing.
+21::The condition caused by insufficient oxygen in tissues is::Hypoxia::Emphysema::Asthma::Pneumonia::A::Hypoxia results from inadequate oxygen supply to body tissues.
+22::The disease characterized by inflamed airways and difficulty breathing is::Tuberculosis::Emphysema::Asthma::Pneumonia::C::Asthma causes airway inflammation and constriction, leading to breathing issues.
+23::The destruction of alveolar walls is associated with::Asthma::Emphysema::Tuberculosis::Bronchitis::B::Emphysema reduces surface area for gas exchange due to alveolar damage.
+24::The infection of lungs caused by Mycobacterium tuberculosis is::Asthma::Pneumonia::Tuberculosis::Emphysema::C::Tuberculosis is a bacterial lung infection caused by Mycobacterium tuberculosis.
+25::The gas that binds more strongly to hemoglobin than oxygen is::Carbon dioxide::Nitrogen::Carbon monoxide::Hydrogen::C::Carbon monoxide binds irreversibly to hemoglobin, reducing oxygen transport.
+26::The volume of air remaining in lungs after normal exhalation is::Tidal volume::Residual volume::Vital capacity::Expiratory reserve volume::B::Residual volume is the air that cannot be exhaled, keeping lungs inflated.
+27::The process of gaseous exchange in amphibians occurs through::Lungs only::Skin only::Gills only::Lungs and skin::D::Amphibians use both lungs and moist skin for gas exchange.
+28::The structure in birds that aids in efficient gaseous exchange is::Lungs::Air sacs::Gills::Tracheae::B::Air sacs in birds allow continuous airflow through lungs, enhancing efficiency.
+29::The pH of blood decreases due to high levels of::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide forms carbonic acid in blood, lowering pH.
+30::The cartilage rings in the trachea prevent::Infection::Collapse::Expansion::Inflammation::B::C-shaped cartilage rings keep the trachea open for airflow.
+31::The process by which oxygen is transported in human blood is::Diffusion::Active transport::Binding to hemoglobin::Osmosis::C::Oxygen binds to hemoglobin in red blood cells for transport to tissues.
+32::The site of gaseous exchange in frogs during hibernation is::Lungs::Gills::Skin::Tracheae::C::Frogs rely on cutaneous respiration through their skin during hibernation.
+33::The condition caused by bacterial infection of alveoli is::Asthma::Emphysema::Pneumonia::Tuberculosis::C::Pneumonia is an infection of alveoli, often caused by bacteria like Streptococcus pneumoniae.
+34::The percentage of oxygen in inhaled air is approximately::21%::78%::0.04%::5%::A::Inhaled air contains about 21% oxygen, with nitrogen making up most of the rest.
+35::The percentage of carbon dioxide in exhaled air is approximately::0.04%::4%::21%::78%::B::Exhaled air contains about 4% carbon dioxide due to respiration.
+36::The structure in plants that regulates gas exchange is::Lenticel::Stoma::Root hair::Cuticle::B::Stomata open and close to control gas exchange and water loss.
+37::The respiratory organ in spiders is::Gills::Tracheae::Book lungs::Skin::C::Book lungs are layered structures in spiders for gas exchange.
+38::The process of breathing out is called::Inhalation::Exhalation::Ventilation::Diffusion::B::Exhalation is the expulsion of air from the lungs.
+39::The gas exchange in hydra occurs through::Gills::Skin::Lungs::Tracheae::B::Hydra lacks specialized organs and exchanges gases through its body surface.
+40::The condition caused by chronic inflammation of bronchi is::Bronchitis::Asthma::Emphysema::Pneumonia::A::Bronchitis involves inflammation and mucus buildup in the bronchi.
+41::The protein in red blood cells that transports oxygen is::Myoglobin::Hemoglobin::Keratin::Collagen::B::Hemoglobin binds oxygen in the lungs and releases it in tissues.
+42::The structure that warms and moistens air in humans is::Nasal cavity::Trachea::Bronchi::Alveoli::A::The nasal cavity filters, warms, and humidifies inhaled air.
+43::The process of gaseous exchange in grasshoppers involves::Lungs::Gills::Tracheae::Skin::C::Tracheae deliver oxygen directly to tissues in grasshoppers.
+44::The volume of air inhaled or exhaled during normal breathing is::Vital capacity::Tidal volume::Residual volume::Inspiratory reserve volume::B::Tidal volume is the air moved during normal, resting breathing.
+45::The respiratory control center is located in::Lungs::Heart::Brain::Spinal cord::C::The medulla oblongata in the brain regulates breathing rate.
+46::The gas that makes up the majority of Earth’s atmosphere is::Oxygen::Carbon dioxide::Nitrogen::Helium::C::Nitrogen constitutes about 78% of the atmosphere.
+47::The structure in alveoli that increases surface area for gas exchange is::Bronchiole::Capillary::Pleura::Diaphragm::B::Capillaries form a dense network around alveoli for efficient gas exchange.
+48::The process of gaseous exchange in jellyfish occurs through::Gills::Skin::Lungs::Tracheae::B::Jellyfish exchange gases through their thin body surface.
+49::The condition caused by narrowing of airways due to allergens is::Emphysema::Asthma::Pneumonia::Tuberculosis::B::Asthma is triggered by allergens, causing airway constriction.
+50::The ecological role of gaseous exchange in plants includes::Oxygen production::Carbon dioxide fixation::Both A and B::Nitrogen fixation::C::Plants release oxygen and take in carbon dioxide during photosynthesis.

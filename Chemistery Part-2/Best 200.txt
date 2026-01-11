@@ -1,0 +1,200 @@
+1::Which group in the periodic table is known as alkali metals?::Group IA::Group IIA::Group VIIA::Group VIIIA::A::Alkali metals are in Group IA, characterized by one valence electron and high reactivity.
+2::What is the trend of ionization energy across a period?::Increases::Decreases::Remains constant::First increases then decreases::A::Ionization energy increases across a period due to increasing nuclear charge.
+3::Which element has the highest electronegativity?::Fluorine::Chlorine::Oxygen::Nitrogen::A::Fluorine has the highest electronegativity (4.0) on the Pauling scale.
+4::What is the general formula of alkanes?::CnH2n+2::CnH2n::CnH2n-2::CnHn::A::Alkanes are saturated hydrocarbons with the formula CnH2n+2.
+5::Which gas is produced when sodium reacts with water?::Oxygen::Hydrogen::Carbon dioxide::Nitrogen::B::Sodium reacts with water to produce hydrogen gas and sodium hydroxide.
+6::What is the oxidation state of sulfur in SO₄²⁻?::+6::+4::+2::-2::A::Let oxidation state of S be x; 4(-2) + x = -2, so x = +6.
+7::Which s-block element is a liquid at room temperature?::Mercury::Cesium::Francium::None::D::No s-block element is liquid at room temperature; mercury (d-block) is.
+8::What is the hybridization of carbon in methane?::sp³::sp²::sp::dsp³::A::Methane (CH₄) has tetrahedral geometry, indicating sp³ hybridization.
+9::Which compound is an example of an alkene?::Ethene::Ethane::Methane::Propane::A::Ethene (C₂H₄) contains a carbon-carbon double bond, characteristic of alkenes.
+10::What is the product of complete combustion of alkanes?::CO₂ and H₂O::CO and H₂O::C and H₂::CO₂ and H₂::A::Complete combustion of alkanes produces carbon dioxide and water.
+11::Which group in the periodic table forms amphoteric oxides?::Group IIIA::Group IA::Group VIIA::Group VIIIA::A::Group IIIA elements like aluminum form amphoteric oxides (e.g., Al₂O₃).
+12::What is the shape of NH₃ molecule?::Trigonal pyramidal::Tetrahedral::Linear::Trigonal planar::A::NH₃ has a lone pair on nitrogen, resulting in trigonal pyramidal shape.
+13::Which is a characteristic of benzene?::Aromaticity::Aliphatic nature::Saturated hydrocarbon::Polar molecule::A::Benzene (C₆H₆) exhibits aromaticity due to delocalized π-electrons.
+14::What is the catalyst used in Haber’s process?::Iron::Nickel::Platinum::Vanadium::A::Iron is used as a catalyst in the Haber process for ammonia synthesis.
+15::Which acid is produced in the stomach?::HCl::H₂SO₄::HNO₃::H₃PO₄::A::Hydrochloric acid (HCl) is secreted in the stomach for digestion.
+16::What is the functional group of alcohols?::-OH::-COOH::-CHO::-NH₂::A::The hydroxyl group (-OH) is the functional group of alcohols.
+17::Which gas is known as laughing gas?::N₂O::NO::NO₂::NH₃::A::Nitrous oxide (N₂O) is called laughing gas due to its euphoric effects.
+18::What is the main source of sulfur dioxide in the atmosphere?::Volcanic eruptions::Burning fossil fuels::Photosynthesis::Oceanic activity::B::Burning fossil fuels releases sulfur dioxide, a major air pollutant.
+19::Which element is essential for the formation of hemoglobin?::Iron::Calcium::Magnesium::Potassium::A::Iron is a key component of hemoglobin, enabling oxygen transport.
+20::What is the pH of a neutral solution at 25°C?::7::0::14::1::A::At 25°C, a neutral solution has a pH of 7, where [H⁺] = [OH⁻].
+21::Which compound is used as an antacid?::Mg(OH)₂::NaCl::KNO₃::CaSO₄::A::Magnesium hydroxide (Mg(OH)₂) neutralizes stomach acid, acting as an antacid.
+22::What is the oxidation number of chlorine in HClO₄?::+7::+5::+3::+1::A::In HClO₄, H = +1, O₄ = -8; x + 1 - 8 = 0, so x = +7.
+23::Which process is used to extract sodium?::Down’s process::Hall-Héroult process::Contact process::Solvay process::A::Sodium is extracted by electrolysis in Down’s process.
+24::What is the common name of ethyne?::Acetylene::Ethylene::Methane::Propylene::A::Ethyne (C₂H₂) is commonly known as acetylene.
+25::Which gas is used in the manufacture of urea?::NH₃::CO₂::N₂::O₂::A::Ammonia (NH₃) reacts with CO₂ to produce urea.
+26::What is the shape of CO₂ molecule?::Linear::Bent::Trigonal planar::Tetrahedral::A::CO₂ has a linear shape due to sp hybridization of carbon.
+27::Which element is the most abundant in Earth’s crust?::Oxygen::Silicon::Aluminum::Iron::A::Oxygen constitutes about 46.6% of Earth’s crust by mass.
+28::What is the product of the reaction between ethene and Br₂?::1,2-Dibromoethane::Bromoethane::Ethane::Ethanol::A::Ethene reacts with Br₂ to form 1,2-dibromoethane via electrophilic addition.
+29::Which compound is used as a refrigerant?::CCl₂F₂::CH₄::NH₃::CO₂::A::Freon (CCl₂F₂) is commonly used as a refrigerant.
+30::What is the hybridization of carbon in ethene?::sp²::sp³::sp::dsp²::A::Ethene (C₂H₄) has a double bond, indicating sp² hybridization.
+31::Which ion is responsible for hardness in water?::Ca²⁺::Cl⁻::Na⁺::NO₃⁻::A::Calcium (Ca²⁺) and magnesium ions cause water hardness.
+32::What is the main product of the Contact process?::H₂SO₄::HNO₃::HCl::H₃PO₄::A::The Contact process produces sulfuric acid (H₂SO₄).
+33::Which compound is a ketone?::CH₃COCH₃::CH₃CHO::CH₃OH::CH₃COOH::A::Acetone (CH₃COCH₃) contains the carbonyl group (C=O) characteristic of ketones.
+34::What is the catalyst in the hydrogenation of alkenes?::Nickel::Iron::Platinum::Vanadium::A::Nickel is commonly used as a catalyst in alkene hydrogenation.
+35::Which gas is produced during the electrolysis of brine?::Cl₂::H₂::O₂::N₂::A::Chlorine gas (Cl₂) is produced at the anode during brine electrolysis.
+36::What is the oxidation state of nitrogen in NH₃?::-3::+3::-1::+1::A::In NH₃, H = +1; x + 3(1) = 0, so x = -3.
+37::Which element is used in the manufacture of glass?::Silicon::Carbon::Nitrogen::Phosphorus::A::Silicon, as silica (SiO₂), is a primary component of glass.
+38::What is the functional group of aldehydes?::-CHO::-OH::-COOH::-NH₂::A::Aldehydes have the -CHO group (carbonyl at the end of the chain).
+39::Which process is used to manufacture ammonia?::Haber process::Contact process::Solvay process::Ostwald process::A::The Haber process synthesizes ammonia from N₂ and H₂.
+40::What is the common name of CH₃COOH?::Acetic acid::Formic acid::Propanoic acid::Butanoic acid::A::CH₃COOH is acetic acid, found in vinegar.
+41::Which gas causes acid rain?::SO₂::CO::N₂::O₂::A::Sulfur dioxide (SO₂) reacts with water to form acid rain.
+42::What is the shape of BF₃ molecule?::Trigonal planar::Tetrahedral::Linear::Pyramidal::A::BF₃ has trigonal planar shape due to sp² hybridization.
+43::Which compound is used as a fertilizer?::NH₄NO₃::NaCl::CaCO₃::MgSO₄::A::Ammonium nitrate (NH₄NO₃) is a nitrogen-rich fertilizer.
+44::What is the oxidation number of carbon in CO₂?::+4::+2::-2::-4::A::In CO₂, O = -2; x + 2(-2) = 0, so x = +4.
+45::Which element is used in the vulcanization of rubber?::Sulfur::Carbon::Nitrogen::Oxygen::A::Sulfur is used to cross-link polymer chains in rubber vulcanization.
+46::What is the product of the reaction between ethanol and concentrated H₂SO₄ at 140°C?::Ethene::Ethane::Ether::Acetic acid::A::Ethanol dehydrates to form ethene at 140°C with conc. H₂SO₄.
+47::Which gas is used in welding?::Acetylene::Methane::Ethane::Propane::A::Acetylene (C₂H₂) is used in oxy-acetylene welding.
+48::What is the hybridization of carbon in benzene?::sp²::sp³::sp::dsp³::A::Benzene has delocalized π-bonds, with carbon in sp² hybridization.
+49::Which compound is an ester?::CH₃COOCH₃::CH₃CHO::CH₃OH::CH₃COOH::A::Methyl acetate (CH₃COOCH₃) is an ester (RCOOR’).
+50::What is the main source of nitrogen in the atmosphere?::N₂::NO₂::NH₃::N₂O::A::Nitrogen gas (N₂) constitutes about 78% of the atmosphere.
+51::Which element forms the strongest hydrogen bonds?::Fluorine::Oxygen::Nitrogen::Chlorine::A::Fluorine, due to its high electronegativity, forms the strongest H-bonds.
+52::What is the product of the reaction of methane with chlorine in sunlight?::CH₃Cl::CH₂Cl₂::CCl₄::All of these::D::Methane undergoes substitution with Cl₂, forming CH₃Cl, CH₂Cl₂, etc.
+53::Which compound is used as a bleaching agent?::NaOCl::H₂O₂::KMnO₄::K₂Cr₂O₇::A::Sodium hypochlorite (NaOCl) is a common bleaching agent.
+54::What is the oxidation state of phosphorus in H₃PO₄?::+5::+3::-3::-5::A::In H₃PO₄, H = +1, O = -2; 3(1) + x + 4(-2) = 0, so x = +5.
+55::Which gas is used in the manufacture of nitric acid?::NO::NH₃::N₂::O₂::B::Ammonia (NH₃) is oxidized in the Ostwald process to produce HNO₃.
+56::What is the shape of PCl₅ molecule?::Trigonal bipyramidal::Tetrahedral::Octahedral::Square planar::A::PCl₅ has five bond pairs, resulting in trigonal bipyramidal shape.
+57::Which compound is a carboxylic acid?::CH₃COOH::CH₃CHO::CH₃COCH₃::CH₃OH::A::Acetic acid (CH₃COOH) contains the -COOH group.
+58::What is the catalyst used in the Ostwald process?::Platinum::Iron::Nickel::Vanadium::A::Platinum catalyzes the oxidation of ammonia in the Ostwald process.
+59::Which element is used in the manufacture of matches?::Phosphorus::Sulfur::Potassium::Chlorine::A::Red phosphorus is used in the striking surface of matches.
+60::What is the functional group of amines?::-NH₂::-OH::-CHO::-COOH::A::Amines have the amino group (-NH₂).
+61::Which gas is produced during the Solvay process?::CO₂::NH₃::Cl₂::H₂::A::Carbon dioxide (CO₂) is a byproduct of the Solvay process.
+62::What is the oxidation number of manganese in KMnO₄?::+7::+5::+3::+1::A::In KMnO₄, K = +1, O = -2; 1 + x + 4(-2) = 0, so x = +7.
+63::Which compound is used as an antiseptic?::C₆H₅OH::CH₃OH::C₂H₅OH::CH₃COOH::A::Phenol (C₆H₅OH) is used as an antiseptic.
+64::What is the product of the reaction between benzene and Cl₂ in the presence of FeCl₃?::Chlorobenzene::Dichlorobenzene::Benzene hexachloride::Toluene::A::Benzene undergoes electrophilic substitution to form chlorobenzene.
+65::Which element is used in the manufacture of cement?::Calcium::Silicon::Aluminum::Iron::A::Calcium, as limestone (CaCO₃), is a key ingredient in cement.
+66::What is the hybridization of nitrogen in NH₃?::sp³::sp²::sp::dsp³::A::NH₃ has three bond pairs and one lone pair, indicating sp³ hybridization.
+67::Which gas is used in the manufacture of soda ash?::CO₂::NH₃::Cl₂::O₂::A::Carbon dioxide (CO₂) is used in the Solvay process for soda ash.
+68::What is the shape of SF₆ molecule?::Octahedral::Tetrahedral::Square planar::Trigonal bipyramidal::A::SF₆ has six bond pairs, resulting in octahedral shape.
+69::Which compound is used as a preservative?::C₆H₅COOH::CH₃OH::CH₃COOH::C₂H₅OH::A::Benzoic acid (C₆H₅COOH) is used as a food preservative.
+70::What is the oxidation state of chromium in K₂Cr₂O₇?::+6::+4::+2::-2::A::In K₂Cr₂O₇, K = +1, O = -2; 2(1) + 2x + 7(-2) = 0, so x = +6.
+71::Which process is used to manufacture ethanol?::Fermentation::Hydration::Cracking::Dehydrogenation::A::Ethanol is produced by fermentation of sugars.
+72::What is the functional group of ethers?::-O-::-OH::-CHO::-COOH::A::Ethers have the R-O-R’ linkage.
+73::Which gas is used in the manufacture of hydrochloric acid?::Cl₂::H₂::O₂::N₂::A::Chlorine (Cl₂) reacts with H₂ to produce HCl.
+74::What is the shape of CH₄ molecule?::Tetrahedral::Linear::Trigonal planar::Pyramidal::A::CH₄ has four bond pairs, resulting in tetrahedral shape.
+75::Which compound is used as an analgesic?::C₉H₈O₄::C₆H₅OH::C₂H₅OH::CH₃COOH::A::Aspirin (C₉H₈O₄) is used as an analgesic.
+76::What is the oxidation number of carbon in CH₄?::-4::+4::-2::+2::A::In CH₄, H = +1; x + 4(1) = 0, so x = -4.
+77::Which element is used in the manufacture of fertilizers?::Nitrogen::Carbon::Oxygen::Sulfur::A::Nitrogen is a key component of fertilizers like urea and ammonium nitrate.
+78::What is the product of the reaction between ethene and H₂O in the presence of H₂SO₄?::Ethanol::Ethane::Ether::Acetic acid::A::Ethene undergoes hydration to form ethanol.
+79::Which gas is used in the manufacture of bleaching powder?::Cl₂::O₂::N₂::CO₂::A::Chlorine (Cl₂) is used to produce bleaching powder (Ca(OCl)Cl).
+80::What is the hybridization of oxygen in H₂O?::sp³::sp²::sp::dsp³::A::H₂O has two bond pairs and two lone pairs, indicating sp³ hybridization.
+81::Which compound is used as a disinfectant?::C₂H₅OH::CH₃OH::C₆H₅OH::CH₃COOH::A::Ethanol (C₂H₅OH) is used as a disinfectant.
+82::What is the oxidation state of iron in Fe₂O₃?::+3::+2::-3::-2::A::In Fe₂O₃, O = -2; 2x + 3(-2) = 0, so x = +3.
+83::Which process is used to manufacture chlorine?::Electrolysis of brine::Haber process::Contact process::Solvay process::A::Chlorine is produced by electrolysis of brine (NaCl solution).
+84::What is the functional group of amides?::-CONH₂::-NH₂::-OH::-CHO::A::Amides have the -CONH₂ group.
+85::Which gas is used in the manufacture of methanol?::CO::CO₂::N₂::O₂::A::Carbon monoxide (CO) reacts with H₂ to produce methanol.
+86::What is the shape of XeF₄ molecule?::Square planar::Tetrahedral::Octahedral::Trigonal bipyramidal::A::XeF₄ has four bond pairs and two lone pairs, resulting in square planar shape.
+87::Which compound is used as an insecticide?::C₆H₆Cl₆::C₆H₆::C₂H₅OH::CH₃COOH::A::Benzene hexachloride (C₆H₆Cl₆) is used as an insecticide.
+88::What is the oxidation number of nitrogen in N₂O?::+1::+2::-1::-2::A::In N₂O, O = -2; 2x - 2 = 0, so x = +1.
+89::Which element is used in the manufacture of paper?::Chlorine::Carbon::Nitrogen::Sulfur::A::Chlorine is used for bleaching in paper production.
+90::What is the product of the reaction between ethanol and Na?::C₂H₅ON::aC₂H₆::C₂H₄::CH₃CHO::A::Ethanol reacts with sodium to form sodium ethoxide (C₂H₅ONa) and H₂.
+91::Which gas is used in the manufacture of explosives?::HNO₃::NH₃::N₂::O₂::B::Ammonia (NH₃) is used to produce nitric acid for explosives.
+92::What is the hybridization of carbon in CO₂?::sp::sp²::sp³::dsp²::A::CO₂ has two double bonds, indicating sp hybridization.
+93::Which compound is used as a solvent?::C₂H₅OH::CH₃COOH::C₆H₅OH::CH₃CHO::A::Ethanol (C₂H₅OH) is a common solvent.
+94::What is the oxidation state of sulfur in H₂SO₄?::+6::+4::+2::-2::A::In H₂SO₄, H = +1, O = -2; 2(1) + x + 4(-2) = 0, so x = +6.
+95::Which process is used to manufacture sulfuric acid?::Contact process::Haber process::Solvay process::Ostwald process::A::The Contact process produces sulfuric acid.
+96::What is the shape of SO₂ molecule?::Bent::Linear::Trigonal planar::Tetrahedral::A::SO₂ has a lone pair on sulfur, resulting in a bent shape.
+97::Which compound is used as a food preservative?::NaNO₂::NaCl::KNO₃::CaCO₃::A::Sodium nitrite (NaNO₂) is used as a food preservative.
+98::What is the oxidation number of carbon in C₂H₅OH?::-2::+2::-1::+1::A::In C₂H₅OH, H = +1, O = -2; 2x + 6(1) - 2 = 0, so x = -2.
+99::Which element is used in the manufacture of steel?::Iron::Carbon::Nitrogen::Sulfur::A::Iron is the primary component of steel.
+100::What is the product of the reaction between benzene and HNO₃ in the presence of H₂SO₄?::Nitrobenzene::Toluene::Phenol::Aniline::A::Benzene undergoes nitration to form nitrobenzene.
+101::Which gas is used in the manufacture of fertilizers?::NH₃::CO₂::N₂::O₂::A::Ammonia (NH₃) is used to produce nitrogenous fertilizers.
+102::What is the hybridization of sulfur in SO₂?::sp²::sp³::sp::dsp²::A::SO₂ has two sigma bonds and one lone pair, indicating sp² hybridization.
+103::Which compound is used as an antiknock agent?::C₂H₅OH::C₆H₆::Pb(C₂H₅)₄::CH₃COOH::C::Tetraethyllead (Pb(C₂H₅)₄) was used as an antiknock agent.
+104::What is the oxidation state of chlorine in Cl₂?::0::+1::-1::+2::A::In elemental form (Cl₂), chlorine has an oxidation state of 0.
+105::Which process is used to manufacture sodium carbonate?::Solvay process::Haber process::Contact process::Ostwald process::A::The Solvay process produces sodium carbonate (soda ash).
+106::What is the shape of NH₄⁺ ion?::Tetrahedral::Trigonal pyramidal::Linear::Square planar::A::NH₄⁺ has four bond pairs, resulting in tetrahedral shape.
+107::Which compound is used as a pesticide?::DDT::C₆H₆::C₂H₅OH::CH₃COOH::A::DDT is a well-known pesticide.
+108::What is the oxidation number of oxygen in O₂?::0::-1::-2::+2::A::In elemental form (O₂), oxygen has an oxidation state of 0.
+109::Which element is used in the manufacture of batteries?::Lead::Carbon::Nitrogen::Sulfur::A::Lead is used in lead-acid batteries.
+110::What is the product of the reaction between ethyne and H₂ in the presence of Ni?::Ethene::Ethane::Ethanol::Acetaldehyde::B::Ethyne is fully hydrogenated to ethane with Ni catalyst.
+111::Which gas is used in the manufacture of dyes?::N₂::NH₃::NO::CO::C::Nitric oxide (NO) is used in dye production.
+112::What is the hybridization of phosphorus in PCl₅?::sp³d::sp³::sp²::dsp³::A::PCl₅ has five bond pairs, indicating sp³d hybridization.
+113::Which compound is used as a flavoring agent?::C₆H₅CHO::C₂H₅OH::CH₃COOH::CH₃OH::A::Benzaldehyde (C₆H₅CHO) is used as a flavoring agent.
+114::What is the oxidation state of nitrogen in NO₂?::+4::+2::-2::-4::A::In NO₂, O = -2; x + 2(-2) = 0, so x = +4.
+115::Which process is used to manufacture aluminum?::Hall-Héroult process::Down’s process::Contact process::Solvay process::A::The Hall-Héroult process extracts aluminum by electrolysis.
+116::What is the shape of ClF₃ molecule?::T-shaped pyramidal = T::Tetrahedral::Linear::Trigonal planar::A::ClF₃ has three bond pairs and two lone pair, resulting in T-shaped geometry.
+117::Which compound is used in the manufacture of soap?::NaOH::HCl::H₂SO₄::HNO₃::A::Sodium hydroxide (NaOH) in saponification of fats.
+118::What is the oxidation number of carbon in CH₃⁻?::+4::+2::-2::-4::A::In HCO₃⁻, H = +1, O = -2, charge = -1; 1 + x + 3(-2) = -1, so x = +4.
+119::Which element is used in the manufacture of gunpowder?::Sulfur::Carbon::Nitrogen::Oxygen::A::Sulfur is a key ingredient in gunpowder.
+220::What is the product of the reaction between toluene and KMnO₄?::Benzoic acid::Phenol::Nitrobenzene::Aniline::A::Toluene (C₆H₅CH₃) oxidizes to benzoic acid (C₆H₅COOH) with KMnO₄.
+121::Which gas Ursprung used in the manufacture of vanaspati ghee?::H₂::N₂::O₂::CO₂::A::Hydrogen gas (H₂) is used in the hydrogenation process to produce vanaspati ghee.
+122::What is the hybridization of carbon in C₂H₂?::sp::sp²::sp³::dsp²::A::Ethyne (C₂H₂) has a triple bond, indicating sp hybridization.
+123::Which compound is used as an antifreeze?::C₂H₅OH::CH₃OH::C₂H₄(OH)₂::CH₃COOH::C::Ethylene glycol (C₂H₄(OH)₂) is used as antifreeze.
+124::What is the oxidation state of sulfur in H₂S?::-2::+2::-1::+1::A::In H₂S, H = +1; x + 2(1) = 0, so x = -2.
+125::Which process is used to manufacture nitric acid?::Ostwald process::Contact process::Haber process::Solvay process::A::The Ostwald process oxidizes ammonia to produce nitric acid.
+126::What is the shape of ICl₃ molecule?::T-shaped::Tetrahedral::Linear::Trigonal planar::A::ICl₃ has three bond pairs and two lone pairs, resulting in T-shaped geometry.
+127::Which compound is used as a refrigerant?::NH₃::CO₂::CCl₂F₂::N₂O::C::Freon (CCl₂F₂) is commonly used as a refrigerant.
+128::What is the oxidation number of carbon in C₆H₁₂O₆?::0::+6::-6::+12::A::In C₆H₁₂O₆, H = +1, O = -2; 6x + 12(1) + 6(-2) = 0, so x = 0.
+129::Which element is used in the manufacture of paints?::Titanium::Carbon::Nitrogen::Sulfur::A::Titanium dioxide (TiO₂) is used as a white pigment in paints.
+130::What is the product of the reaction between ethanol and PCl₅?::C₂H₅Cl::C₂H₄::C₂H₅OH::CH₃CHO::A::Ethanol reacts with PCl₅ to form chloroethane (C₂H₅Cl).
+131::Which gas is used in the manufacture of ammonia?::N₂::O₂::CO₂::H₂::A::Nitrogen (N₂) reacts with H₂ in the Haber process to produce NH₃.
+132::What is the hybridization of nitrogen in NO₂?::sp²::sp³::sp::dsp²::A::NO₂ has two sigma bonds and one lone electron, indicating sp² hybridization.
+133::Which compound is used as a plasticizer?::Phthalates::Ethanol::Benzene::Acetic acid::A::Phthalates are commonly used as plasticizers to soften plastics.
+134::What is the oxidation state of phosphorus in PCl₃?::+3::+5::-3::-5::A::In PCl₃, Cl = -1; x + 3(-1) = 0, so x = +3.
+135::Which process is used to manufacture urea?::Ammonia process::Solvay process::Contact process::Ostwald process::A::Urea is synthesized from ammonia and CO₂.
+136::What is the shape of COCl₂?::Trigonal planar::Tetrahedral::Linear::Bent::A::COCl₂ has three sigma bonds, resulting in trigonal planar geometry.
+137::Which compound is used as an explosive?::TNT::Ethanol::Benzene::Acetic acid::A::Trinitrotoluene (TNT) is a well-known explosive.
+138::What is the oxidation number of nitrogen in NH₄⁺?::-3::+3::-2::+2::A::In NH₄⁺, H = +1; x + 4(1) = +1, so x = -3.
+139::Which element is used in the manufacture of detergents?::Phosphorus::Carbon::Nitrogen::Sulfur::A::Phosphates are used in detergents as builders.
+140::What is the product of the reaction between ethene and KMnO₄?::Ethylene glycol::Ethanol::Ethanoic acid::Ethane::A::Ethene reacts with KMnO₄ to form ethylene glycol (C₂H₄(OH)₂).
+141::Which gas is used in the manufacture of sulfuric acid?::SO₂::O₂::N₂::CO₂::A::Sulfur dioxide (SO₂) is oxidized in the Contact process.
+142::What is the hybridization of sulfur in SF₆?::sp³d²::sp³d::sp³::sp²::A::SF₆ has six bond pairs, indicating sp³d² hybridization.
+143::Which compound is used as a herbicide?::2,4-D::Ethanol::Benzene::Acetic acid::A::2,4-Dichlorophenoxyacetic acid (2,4-D) is a herbicide.
+144::What is the oxidation state of carbon in CO?::+2::+4::-2::-4::A::In CO, O = -2; x - 2 = 0, so x = +2.
+145::Which process is used to manufacture ethanol industrially?::Hydration of ethene::Fermentation::Cracking::Oxidation::A::Ethanol is produced by hydration of ethene with H₂SO₄.
+146::What is the shape of PF₅?::Trigonal bipyramidal::Tetrahedral::Octahedral::Square planar::A::PF₅ has five bond pairs, resulting in trigonal bipyramidal geometry.
+147::Which compound is used as a water purifier?::Al₂(SO₄)₃::NaCl::CaCO₃::KNO₃::A::Aluminum sulfate (Al₂(SO₄)₃) is used as a coagulant in water purification.
+148::What is the oxidation number of chlorine in KClO₃?::+5::+3::-3::-5::A::In KClO₃, K = +1, O = -2; 1 + x + 3(-2) = 0, so x = +5.
+149::Which element is used in the manufacture of explosives?::Nitrogen::Carbon::Sulfur::Oxygen::A::Nitrogen is used in the form of nitrates in explosives.
+150::What is the product of the reaction between benzene and CH₃Cl in the presence of AlCl₃?::Toluene::Chlorobenzene::Phenol::Aniline::A::Benzene undergoes Friedel-Crafts alkylation to form toluene.
+151::Which gas is used in the manufacture of nitric acid?::NH₃::N₂::O₂::CO₂::A::Ammonia (NH₃) is oxidized in the Ostwald process.
+152::What is the hybridization of carbon in HCHO?::sp²::sp³::sp::dsp²::A::Formaldehyde (HCHO) has a carbonyl group, indicating sp² hybridization.
+153::Which compound is used as an antacid?::CaCO₃::NaCl::KNO₃::MgSO₄::A::Calcium carbonate (CaCO₃) neutralizes stomach acid.
+154::What is the oxidation state of manganese in MnO₂?::+4::+2::-2::-4::A::In MnO₂, O = -2; x + 2(-2) = 0, so x = +4.
+155::Which process is used to manufacture chlorine?::Electrolysis of brine::Contact process::Haber process::Solvay process::A::Chlorine is produced by electrolysis of NaCl solution.
+156::What is the shape of BrF₅?::Square pyramidal::Tetrahedral::Octahedral::Trigonal bipyramidal::A::BrF₅ has five bond pairs and one lone pair, resulting in square pyramidal geometry.
+157::Which compound is used as a germicide?::C₆H₅OH::C₂H₅OH::CH₃OH::CH₃COOH::A::Phenol (C₆H₅OH) is used as a germicide.
+158::What is the oxidation number of nitrogen in HNO₂?::+3::+5::-3::-5::A::In HNO₂, H = +1, O = -2; 1 + x + 2(-2) = 0, so x = +3.
+159::Which element is used in the manufacture of cement?::Calcium::Silicon::Nitrogen::Sulfur::A::Calcium, as limestone, is a key component of cement.
+160::What is the product of the reaction between ethanol and H₂SO₄ at 170°C?::Ethene::Ether::Ethane::Acetic acid::A::Ethanol dehydrates to ethene at 170°C with conc. H₂SO₄.
+161::Which gas is used in the manufacture of urea?::NH₃::CO₂::N₂::O₂::A::Ammonia (NH₃) reacts with CO₂ to produce urea.
+162::What is the hybridization of nitrogen in N₂?::sp::sp²::sp³::dsp²::A::N₂ has a triple bond, indicating sp hybridization.
+163::Which compound is used as a solvent in paints?::C₆H₆::C₂H₅OH::CH₃COOH::CH₃OH::A::Benzene (C₆H₆) is used as a solvent in paints.
+164::What is the oxidation state of sulfur in SO₄²⁻?::+6::+4::+2::-2::A::In SO₄²⁻, O = -2; x + 4(-2) = -2, so x = +6.
+165::Which process is used to manufacture soap?::Saponification::Esterification::Cracking::Fermentation::A::Soap is made by saponification of fats with NaOH.
+166::What is the shape of XeF₂?::Linear::Tetrahedral::Trigonal::Bent::A::XeF₂ has two bond pairs and three lone pairs, resulting in linear geometry.
+167::Which compound is used as a sweetener?::C₇H₅NO₃S::C₂H₅OH::CH₃COOH::C₆H₆::A::Saccharin (C₇H₅NO₃S) is an artificial sweetener.
+168::What is the oxidation number of carbon in CH₃OH?::-2::+2::0::-1::A::In CH₃OH, H = +1, O = -2; x + 3(1) - 2 = 0, so x = -2.
+169::Which element is used in the manufacture of glass?::Silicon::Carbon::Nitrogen::Sulfur::A::Silicon, as silica (SiO₂), is used in glass production.
+170::What is the product of the reaction between ethene and HBr?::Bromoethane::Ethanol::Ethane::Dibromoethane::A::Ethene undergoes electrophilic addition with HBr to form bromoethane.
+171::Which gas is used in the manufacture of methanol?::CO::N₂::O₂::NH₃::A::Carbon monoxide (CO) reacts with H₂ to produce methanol.
+172::What is the hybridization of sulfur in SO₃?::sp²::sp³::sp::dsp²::A::SO₃ has three sigma bonds, indicating sp² hybridization.
+173::Which compound is used as an anesthetic?::CHCl₃::C₂H₅OH::C₆H₆::CH₃COOH::A::Chloroform (CHCl₃) was historically used as an anesthetic.
+174::What is the oxidation state of nitrogen in NH₂OH?::-1::+1::-2::+2::A::In NH₂OH, H = +1, O = -2; x + 3(1) - 2 = 0, so x = -1.
+175::Which process is used to manufacture paper?::Pulping::Saponification::Cracking::Fermentation::A::Paper is made by pulping wood fibers.
+176::What is the shape of SF₂?::Bent::Linear::Tetrahedral::Trigonal::A::SF₂ has two bond pairs and two lone pairs, resulting in bent shape.
+177::Which compound is used as a food coloring?::Tartrazine::Ethanol::Benzene::Acetic acid::A::Tartrazine is a synthetic food coloring.
+178::What is the oxidation number of chlorine in ClO₃⁻?::+5::+3::-1::-3::A::In ClO₃⁻, O = -2; x + 3(-2) = -1, so x = +5.
+179::Which element is used in the manufacture of steel?::Iron::Carbon::Nitrogen::Sulfur::A::Iron is the primary component of steel.
+180::What is the product of the reaction between benzene and Br₂ in the presence of FeBr₃?::Bromobenzene::Dibromobenzene::Toluene::Phenol::A::Benzene undergoes electrophilic substitution to form bromobenzene.
+181::Which gas is used in the manufacture of ammonia?::N₂::O₂::CO₂::H₂::A::Nitrogen (N₂) is used in the Haber process for ammonia synthesis.
+182::What is the hybridization of oxygen in CH₃OH?::sp³::sp²::sp::dsp²::A::Methanol (CH₃OH) has two bond pairs and two lone pairs on oxygen, indicating sp³ hybridization.
+183::Which compound is used as a preservative in beverages?::C₆H₅COOH::C₂H₅OH::CH₃COOH::C₆H₆::A::Benzoic acid (C₆H₅COOH) is used as a preservative.
+184::What is the oxidation state of phosphorus in H₃PO₃?::+3::+5::-3::-5::A::In H₃PO₃, H = +1, O = -2; 3(1) + x + 3(-2) = 0, so x = +3.
+185::Which process is used to manufacture chlorine gas?::Electrolysis of brine::Contact process::Haber process::Solvay process::A::Chlorine is produced by electrolysis of NaCl solution.
+186::What is the shape of XeF₆?::Distorted octahedral::Tetrahedral::Octahedral::Square planar::A::XeF₆ has six bond pairs and one lone pair, resulting in distorted octahedral geometry.
+187::Which compound is used as an antipyretic?::C₉H₈O₄::C₂H₅OH::C₆H₆::CH₃COOH::A::Aspirin (C₉H₈O₄) is used as an antipyretic.
+188::What is the oxidation number of sulfur in S₂O₃²⁻?::+2::+4::-2::-4::A::In S₂O₃²⁻, O = -2; 2x + 3(-2) = -2, so x = +2.
+189::Which element is used in the manufacture of fertilizers?::Nitrogen::Carbon::Oxygen::Sulfur::A::Nitrogen is essential for nitrogenous fertilizers.
+190::What is the product of the reaction between ethanol and CH₃COOH?::Ethyl acetate::Ethyl chloride::Ethene::Acetaldehyde::A::Ethanol and acetic acid form ethyl acetate (ester) via esterification.
+191::Which gas is used in the manufacture of sulfuric acid?::SO₂::N₂::O₂::CO₂::A::Sulfur dioxide (SO₂) is oxidized in the Contact process.
+192::What is the hybridization of carbon in CH₃CHO?::sp²::sp³::sp::dsp²::A::The carbonyl carbon in acetaldehyde (CH₃CHO) is sp² hybridized.
+193::Which compound is used as an antiseptic?::C₂H₅OH::CH₃OH::C₆H₆::CH₃COOH::A::Ethanol (C₂H₅OH) is used as an antiseptic.
+194::What is the oxidation state of iron in FeSO₄?::+2::+3::-2::-3::A::In FeSO₄, SO₄²⁻ = -2; x - 2 = 0, so x = +2.
+195::Which process is used to manufacture cement?::Rotary kiln process::Solvay process::Contact process::Haber process::A::Cement is produced in a rotary kiln.
+196::What is the shape of ClO₃⁻ ion?::Trigonal pyramidal::Tetrahedral::Linear::Trigonal planar::A::ClO₃⁻ has three bond pairs and one lone pair, resulting in trigonal pyramidal geometry.
+197::Which compound is used as a bleaching agent?::H₂O₂::C₂H₅OH::C₆H₆::CH₃COOH::A::Hydrogen peroxide (H₂O₂) is used as a bleaching agent.
+198::What is the oxidation number of nitrogen in N₂H₄?::-2::+2::0::-1::A::In N₂H₄, H = +1; 2x + 4(1) = 0, so x = -2.
+199::Which element is used in the manufacture of explosives?::Nitrogen::Carbon::Sulfur::Oxygen::A::Nitrogen, in the form of nitrates, is used in explosives.
+200::What is the product of the reaction between benzene and H₂ in the presence of Ni?::Cyclohexane::Toluene::Phenol::Aniline::A::Benzene is hydrogenated to cyclohexane with Ni catalyst.

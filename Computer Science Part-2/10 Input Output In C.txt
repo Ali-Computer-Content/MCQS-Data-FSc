@@ -1,0 +1,50 @@
+1::Which function is used for output in C?::scanf::printf::getchar::putchar::B::printf is used to display output to the console.
+2::Which function is used for input in C?::printf::scanf::putchar::getch::B::scanf reads input from the user via the console.
+3::Which header file is required for printf and scanf?::stdlib.h::string.h::stdio.h::math.h::C::stdio.h provides standard input/output functions like printf and scanf.
+4::What is the format specifier for an integer in C?::%f::%c::%d::%s::C::%d is used for integer values in printf and scanf.
+5::What is the format specifier for a float in C?::%d::%f::%c::%s::B::%f is used for floating-point values in printf and scanf.
+6::What does the escape sequence \n do?::Tab space::New line::Backspace::Carriage return::B::\n moves the cursor to the next line.
+7::Which function reads a single character from input?::scanf::printf::getchar::putchar::C::getchar reads one character from the console.
+8::Which function outputs a single character?::scanf::printf::getchar::putchar::D::putchar displays one character to the console.
+9::What is the format specifier for a character in C?::%d::%f::%c::%s::C::%c is used for single characters in printf and scanf.
+10::What is the format specifier for a string in C?::%d::%f::%c::%s::D::%s is used for strings in printf and scanf.
+11::What is the output of printf("Hello");?::Hello::Hello\n::Error::Nothing::A::printf("Hello") outputs "Hello" without a newline.
+12::Which escape sequence creates a tab space?::\n::\t::\b::\r::B::\t inserts a horizontal tab space.
+13::What is the role of & in scanf?::Address operator::Value operator::Addition operator::Multiplication operator::A::& provides the memory address of a variable for scanf to store input.
+14::What is the output of printf("%d", 10);?::10::%d::Error::Nothing::A::%d formats the integer 10 as output.
+15::Which library is needed for getchar and putchar?::stdlib.h::string.h::stdio.h::conio.h::C::stdio.h includes getchar and putchar functions.
+16::What is the output of printf("%%d");?::%d::Error::d::Nothing::A::%% in printf outputs a single % character.
+17::What does scanf("%d", &x); do?::Prints x::Reads an integer into x::Reads a float into x::Reads a character into x::B::scanf("%d", &x) reads an integer and stores it in variable x.
+18::What is the output of printf("%f", 5.5);?::5.5::Error::5::Nothing::A::%f formats the float 5.5 as output.
+19::What is the error in scanf("%d", x);?::Missing & before x::Missing %d::Missing quotes::No error::A::& is required to pass the address of x to scanf.
+20::What is the output of printf("%c", 'A');?::A::Error::65::Nothing::A::%c outputs the character 'A'.
+21::What is the output of printf("%s", "Hello");?::Hello::Error::H::Nothing::A::%s outputs the string "Hello".
+22::What does getchar return?::An integer::A float::A string::A double::A::getchar returns the ASCII value of the character as an integer.
+23::What is the output of putchar('B');?::B::66::Error::Nothing::A::putchar('B') outputs the character 'B'.
+24::What is the escape sequence for a backspace?::\n::\t::\b::\r::C::\b moves the cursor one position back.
+25::What is the output of printf("%d %d", 5, 10);?::5 10::510::Error::Nothing::A::Multiple %d format specifiers output multiple integers with a space.
+26::What is the error in printf(%d, 5);?::Missing quotes around %d::Missing variable::Missing semicolon::No error::A::%d must be in quotes as a format string.
+27::What does scanf("%f", &x); read?::An integer::A float::A character::A string::B::%f reads a floating-point value into x.
+28::What is the output of printf("%.2f", 3.14159);?::3.14::3.14159::3.00::Error::A::%.2f limits the float to two decimal places.
+29::What is the output of printf("%5d", 123);?::  123::123  ::Error::123::A::%5d allocates 5 spaces, right-aligning 123 with leading spaces.
+30::What does scanf("%c", &ch); read?::A string::A float::A character::An integer::C::%c reads a single character into ch.
+31::What is the output of printf("%s\n", "C");?::C::C\n::Error::Nothing::A::%s outputs "C" followed by a newline due to \n.
+32::What is the error in scanf("%d", &x, &y);?::Too many variables::Missing format specifier::Missing &::No error::B::Each variable needs a corresponding format specifier, e.g., %d %d.
+33::What is the output of printf("%d", 5+3);?::8::53::Error::Nothing::A::The expression 5+3 is evaluated to 8 and output with %d.
+34::What is the output of putchar(65);?::A::65::Error::Nothing::A::65 is the ASCII value for 'A', which putchar outputs.
+35::What is the role of \r in printf?::New line::Tab space::Carriage return::Backspace::C::\r moves the cursor to the start of the current line.
+36::What is the output of printf("%10s", "Hello");?::     Hello::Hello     ::Error::Hello::A::%10s allocates 10 spaces, right-aligning "Hello" with leading spaces.
+37::What does scanf("%s", str); read?::A character::A float::A string::An integer::C::%s reads a string into the array str.
+38::What is the output of printf("%.1f", 7.89);?::7.9::7.8::7.89::Error::A::%.1f rounds 7.89 to one decimal place, outputting 7.9.
+39::What is the error in printf("%f", 5);?::No error::%f expects a float, not an integer::Missing quotes::Missing variable::B::%f requires a floating-point value, not an integer like 5.
+40::What is the output of printf("%d %f", 10, 3.14);?::10 3.14::103.14::Error::Nothing::A::%d and %f output the integer 10 and float 3.14, respectively.
+41::A program needs to read two integers. Which scanf is correct?::scanf("%d", &x, &y);::scanf("%d %d", &x, &y);::scanf("%d", x, y);::scanf("%d %d", x, y);::B::%d %d reads two integers, and & provides their addresses.
+42::What is the output of printf("%c %d", 'A', 'A');?::A 65::A A::65 A::Error::A::%c outputs 'A', and %d outputs its ASCII value, 65.
+43::A program outputs "Price:: 100". Which printf is correct?::printf("Price:: %d", 100);::printf("Price:: %f", 100);::printf("Price:: %c", 100);::printf("Price:: %s", 100);::A::%d correctly formats the integer 100 in the string.
+44::What is the error in scanf("%s", &str);?::No error::%s doesn’t need & for strings::Missing format specifier::Missing variable::B::Strings (char arrays) don’t require & in scanf, as arrays pass addresses.
+45::What is the output of printf("%-5d", 123);?::123  ::  123::Error::123::A::%-5d left-aligns 123 in a 5-space field with trailing spaces.
+46::A program reads a user’s name. Which scanf is best?::scanf("%d", name);::scanf("%f", name);::scanf("%s", name);::scanf("%c", name);::C::%s reads a string (name) into a char array.
+47::What is the output of printf("%.0f", 5.7);?::6::5::5.7::Error::B::%.0f rounds 5.7 to no decimal places, outputting 5.
+48::A program needs to display "Age:: 25\n". Which printf is correct?::printf("Age:: %d\n", 25);::printf("Age:: %f\n", 25);::printf("Age:: %c\n", 25);::printf("Age:: %s\n", 25);::A::%d formats the integer 25, and \n adds a newline.
+49::What is the output of printf("%d %d", x, y); if x=5, y=10?::5 10::10 5::510::Error::A::%d %d outputs the values of x (5) and y (10) with a space.
+50::A program reads a float and an integer. Which scanf is correct?::scanf("%f %d", &f, &i);::scanf("%f %d", f, i);::scanf("%d %f", &f, &i);::scanf("%f %d", &i, &f);::A::%f %d reads a float and integer, with & for their addresses.

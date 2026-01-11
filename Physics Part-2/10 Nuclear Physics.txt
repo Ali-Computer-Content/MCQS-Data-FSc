@@ -1,0 +1,50 @@
+1::Nuclear physics is the study of::Electrons and their interactions::Nucleus and its properties::Atoms in chemical reactions::Electromagnetic waves::B::Nuclear physics focuses on the structure and behavior of atomic nuclei.
+2::The nucleus of an atom consists of::Protons and electrons::Protons and neutrons::Neutrons and electrons::Protons, neutrons, and electrons::B::The nucleus contains protons and neutrons, collectively called nucleons.
+3::The charge of a proton is::Negative::Neutral::Positive::Zero::C::A proton has a positive charge of +1.6 × 10⁻¹⁹ C.
+4::The mass of a neutron is approximately equal to that of ::aElectron::Proton::Alpha particle::Beta particle::B::The neutron’s mass is nearly equal to the proton’s mass (≈ 1.67 × 10⁻²⁷ kg).
+5::The atomic number of an element is the number of::Neutrons::Protons::Electrons::Nucleons::B::Atomic number (Z) equals the number of protons in the nucleus.
+6::The mass number of an atom is the total number of::Protons::Neutrons::Nucleons::Electrons::C::Mass number (A) = protons + neutrons (nucleons).
+7::Isotopes of an element have the same::Mass number::Atomic number::Neutron number::Charge::B::Isotopes have the same atomic number (Z) but different neutron numbers.
+8::The process of spontaneous emission of radiation from a nucleus is called::Fission::Fusion::Radioactivity::Ionization::C::Radioactivity is the spontaneous decay of unstable nuclei.
+9::The type of radiation that consists of helium nuclei is::Alph::aBet::aGamm::aNeutron::A::Alpha particles are helium nuclei (²⁴He), with 2 protons and 2 neutrons.
+10::The type of radiation that consists of high-energy electrons is::Alph::aBet::aGamm::aNeutron::B::Beta particles are high-energy electrons (β⁻) or positrons (β⁺).
+11::The type of radiation that is electromagnetic in nature is::Alph::aBet::aGamm::aNeutron::C::Gamma rays are high-energy photons, a form of electromagnetic radiation.
+12::The penetrating power of alpha particles is::High::Moderate::Low::Very high::C::Alpha particles have low penetrating power, stopped by a sheet of paper.
+13::The penetrating power of gamma rays is::Low::Moderate::High::Very low::C::Gamma rays have high penetrating power, requiring thick lead or concrete to stop.
+14::The half-life of a radioactive substance is the time taken for::All nuclei to decay::Half the nuclei to decay::One nucleus to decay::Double the nuclei to decay::B::Half-life is the time for half the radioactive nuclei to decay.
+15::The SI unit of radioactivity is::Curie::Becquerel::Roentgen::Rad::B::Radioactivity is measured in Becquerels (Bq), where 1 Bq = 1 decay/s.
+16::One Curie is equal to::3.7 × 10¹⁰ Bq::3.7 × 10⁸ Bq::3.7 × 10⁶ Bq::3.7 × 10¹² Bq::A::1 Curie = 3.7 × 10¹⁰ decays per second (Bq).
+17::The process of splitting a heavy nucleus into two lighter nuclei is::Fusion::Fission::Radioactivity::Transmutation::B::Nuclear fission splits heavy nuclei, like U-235, into lighter fragments.
+18::The process of combining two light nuclei to form a heavier nucleus is::Fission::Fusion::Radioactivity::Decay::B::Nuclear fusion combines light nuclei, like hydrogen, to form heavier nuclei.
+19::The source of energy in the sun is::Fission::Fusion::Radioactivity::Chemical reaction::B::The sun’s energy comes from fusion of hydrogen nuclei into helium.
+20::The binding energy of a nucleus is::Energy required to split it::Energy released in decay::Energy to remove an electron::Energy to form a nucleus::A::Binding energy is the energy needed to separate nucleons in a nucleus.
+21::The mass defect of a nucleus is::Difference between proton and neutron masses::Mass lost during decay::Difference between nuclear mass and sum of nucleon masses::Mass of electrons::C::Mass defect = (sum of individual nucleon masses) – (mass of nucleus).
+22::Einstein’s mass-energy relation is::E = mc::E = mc²::E = m/c²::E = mc²/2::B::E = mc² relates mass defect to energy released in nuclear reactions.
+23::The unit of energy in nuclear physics is often::Joule::Electronvolt::Watt::Newton::B::Electronvolt (eV) is used, where 1 eV = 1.6 × 10⁻¹⁹ J.
+24::1 MeV is equal to::1.6 × 10⁻¹³ J::1.6 × 10⁻¹⁶ J::1.6 × 10⁻¹⁹ J::1.6 × 10⁻¹⁰ J::A::1 MeV = 10⁶ eV = 1.6 × 10⁻¹³ J.
+25::The particle emitted in beta-minus decay is::Positron::Electron::Proton::Neutron::B::Beta-minus (β⁻) decay emits an electron and an antineutrino.
+26::The particle emitted in alpha decay is::Electron::Neutron::Helium nucleus::Photon::C::Alpha decay emits a helium nucleus (²⁴He).
+27::Gamma rays are emitted when a nucleus::Gains an electron::Loses an electron::Transitions to a lower energy state::Splits into two::C::Gamma rays are emitted during nuclear energy state transitions.
+28::The decay constant is related to half-life by::λ = T₁/₂::λ = ln(2) / T₁/₂::λ = T₁/₂ / ln(2)::λ = 2 / T₁/₂::B::Decay constant (λ) = ln(2) / T₁/₂, where T₁/₂ is half-life.
+29::The activity of a radioactive sample is::Number of nuclei::Rate of decay::Mass of sample::Energy released::B::Activity (A = λN) is the rate of radioactive decay, measured in Bq.
+30::The nuclear reaction in which a neutron produces more neutrons is::Fission::Fusion::Alpha decay::Beta decay::A::Fission reactions, like U-235, produce additional neutrons, enabling chain reactions.
+31::The critical mass is the::Maximum mass of a nucleus::Minimum mass for a chain reaction::Mass of a stable nucleus::Mass of radioactive material::B::Critical mass is the minimum mass needed to sustain a nuclear chain reaction.
+32::The moderator in a nuclear reactor::Absorbs neutrons::Slows down neutrons::Increases neutron speed::Emits neutrons::B::Moderators (e.g., graphite, water) slow neutrons to sustain fission.
+33::The control rods in a nuclear reactor are made of::Uranium::Graphite::Boron::Water::C::Control rods (e.g., boron or cadmium) absorb neutrons to control fission.
+34::The energy released in a nuclear reaction is due to::Mass defect::Charge conservation::Neutron emission::Electron capture::A::Mass defect converts to energy via E = mc².
+35::The half-life of Carbon-14 is approximately::12 years::5730 years::1.3 billion years::238 years::B::Carbon-14 has a half-life of about 5730 years, used in radiocarbon dating.
+36::The radiation that is most harmful inside the body is::Alph::aBet::aGamm::aNeutron::A::Alpha particles are highly ionizing but harmful only if ingested or inhaled.
+37::The device used to detect radiation is::Ammeter::Geiger counter::Voltmeter::Spectrometer::B::A Geiger counter detects ionizing radiation like alpha, beta, and gamma.
+38::The unit of absorbed radiation dose is::Becquerel::Gray::Sievert::Curie::B::Gray (Gy) measures absorbed dose, 1 Gy = 1 J/kg.
+39::The unit that measures biological damage from radiation is::Gray::Sievert::Becquerel::Curie::B::Sievert (Sv) measures equivalent dose, accounting for biological effects.
+40::The process used to determine the age of fossils is::Fission::Fusion::Radiocarbon dating::Transmutation::C::Radiocarbon dating uses Carbon-14’s half-life to date organic materials.
+41::The particle emitted in beta-plus decay is::Electron::Positron::Proton::Neutron::B::Beta-plus (β⁺) decay emits a positron and a neutrino.
+42::The nuclear reaction in a hydrogen bomb is::Fission::Fusion::Alpha decay::Beta decay::B::Hydrogen bombs use fusion of hydrogen isotopes to release energy.
+43::The isotope used in nuclear reactors is::U-238::U-235::C-14::Pu-240::B::U-235 is fissile and used as fuel in nuclear reactors.
+44::The background radiation is due to::Cosmic rays::Artificial sources::Medical equipment::Nuclear reactors::A::Background radiation primarily comes from cosmic rays and natural isotopes.
+45::The nuclear force is::Long-range and attractive::Short-range and attractive::Long-range and repulsive::Short-range and repulsive::B::The strong nuclear force is short-range and binds nucleons together.
+46::The binding energy per nucleon is highest for::Hydrogen::Uranium::Iron::Plutonium::C::Iron-56 has the highest binding energy per nucleon, indicating stability.
+47::The process of converting one element into another is::Fission::Fusion::Transmutation::Ionization::C::Transmutation changes one element into another via nuclear reactions.
+48::The radiation with no charge is::Alph::aBet::aGamm::aProton::C::Gamma rays are neutral photons with no charge.
+49::The half-life of a radioactive isotope is independent of::Temperature::Initial amount::Pressure::All of these::D::Half-life is a constant property of the isotope, unaffected by external conditions.
+50::The chain reaction in nuclear fission is controlled by::Increasing fuel::Using moderators and control rods::Emitting gamma rays::Reducing temperature::B::Moderators slow neutrons, and control rods absorb them to regulate the reaction.

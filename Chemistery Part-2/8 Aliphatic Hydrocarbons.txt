@@ -1,0 +1,50 @@
+1::Aliphatic hydrocarbons include::Alkanes, alkenes, and alkynes::Alkanes and aromatics::Alkenes and aromatics::Alkynes and aromatics::A::Aliphatic hydrocarbons are non-aromatic compounds, including alkanes (single bonds), alkenes (double bonds), and alkynes (triple bonds).
+2::The general formula for alkanes is::CnH2n+2::CnH2n::CnH2n-2::CnHn::A::Alkanes are saturated hydrocarbons with the formula CnH2n+2, e.g., CH4 (methane).
+3::Which hydrocarbon contains a carbon-carbon double bond?::Alkane::Alkene::Alkyne::Aromatic::B::Alkenes are characterized by at least one carbon-carbon double bond (C=C).
+4::The hybridization of carbon in ethene (C2H4) is::sp::sp²::sp³::sp³d::B::In ethene, each carbon forms a double bond and two single bonds, requiring sp² hybridization.
+5::The IUPAC name of CH3CH2CH2CH3 is::Propane::Butane::Pentane::Hexane::B::The compound has 4 carbons, so it is butane (C4H10).
+6::Which alkane is a gas at room temperature?::C4H10::C5H12::C6H14::C7H16::A::Butane (C4H10) is a gas at room temperature, while C5H12 and higher are liquids.
+7::The reaction of alkanes with halogens is called::Substitution::Addition::Elimination::Oxidation::A::Alkanes undergo substitution reactions with halogens, e.g., CH4 + Cl2 → CH3Cl + HCl.
+8::The product of complete combustion of hydrocarbons is::CO2 and H2O::CO and H2::C and H2O::CO2 and H2::A::Complete combustion of hydrocarbons in excess oxygen produces CO2 and H2O.
+9::The hybridization of carbon in ethyne (C2H2) is::sp::sp²::sp³::sp³d::A::In ethyne, each carbon forms a triple bond and one single bond, requiring sp hybridization.
+10::Which alkene reacts with HBr to form 2-bromopropane?::Ethene::Propene::Butene::Pentene::B::Propene (CH3CH=CH2) undergoes electrophilic addition with HBr to form CH3CHBrCH3.
+11::The general formula for alkynes is::CnH2n+2::CnH2n::CnH2n-2::CnHn::C::Alkynes, with one triple bond, have the formula CnH2n-2, e.g., C2H2 (ethyne).
+12::The reaction of alkenes with KMnO4 results in::Alkanes::Diols::Alkynes::Ketones::B::Alkenes react with dilute KMnO4 to form diols via syn-dihydroxylation.
+13::The IUPAC name of CH3CH(CH3)CH2CH3 is::2-methylbutane::3-methylbutane::Pentane::2,2-dimethylpropane::A::The longest chain has 4 carbons (butane), with a methyl group on the second carbon.
+14::The major product of the reaction of propene with HBr in the presence of peroxide is::1-bromopropane::2-bromopropane::1,2-dibromopropane::No reaction::A::With peroxide, HBr addition to propene follows anti-Markovnikov’s rule, forming 1-bromopropane.
+15::Which hydrocarbon undergoes addition reactions?::Alkane::Alkene::Aromatic::Paraffin::B::Alkenes, due to their double bonds, undergo addition reactions with reagents like H2 or Br2.
+16::The bond angle in ethene (C2H4) is approximately::109.5°::120°::180°::90°::B::sp²-hybridized carbons in ethene have a bond angle of ~120° due to trigonal planar geometry.
+17::The reaction of ethyne with H2 in the presence of Pd catalyst forms::Ethene::Ethane::Methane::Benzene::B::Ethyne (C2H2) undergoes hydrogenation with Pd to form ethane (C2H6) via ethene.
+18::The IUPAC name of CH2=CH-CH2-CH3 is::1-butene::2-butene::Propene::1-pentene::A::The compound has 4 carbons with a double bond at the first carbon, so it is 1-butene.
+19::Which reagent is used to test for unsaturation in hydrocarbons?::Br2 in CCl4::H2SO4::NaOH::HCl::A::Bromine in CCl4 decolorizes when added to unsaturated hydrocarbons (alkenes or alkynes).
+20::The product of ozonolysis of ethene followed by reduction is::Formaldehyde::Acetaldehyde::Ethanol::Glycol::A::Ozonolysis of ethene (CH2=CH2) cleaves the double bond, yielding two molecules of formaldehyde (HCHO).
+21::The bond angle in ethyne (C2H2) is approximately::109.5°::120°::180°::90°::C::sp-hybridized carbons in ethyne have a linear geometry with a bond angle of 180°.
+22::The major product of the reaction of 2-butene with Br2 is::1,2-dibromobutane::2,3-dibromobutane::1-bromobutane::2-bromobutane::B::Br2 adds across the double bond of 2-butene (CH3CH=CHCH3), forming 2,3-dibromobutane.
+23::The general formula for cycloalkanes is::CnH2n+2::CnH2n::CnH2n-2::CnHn::B::Cycloalkanes, being cyclic and saturated, have the formula CnH2n, e.g., C6H12 (cyclohexane).
+24::The reaction of alkenes with hydrogen in the presence of Ni catalyst is called::Hydrogenation::Halogenation::Hydration::Oxidation::A::Hydrogenation adds H2 across the double bond of alkenes to form alkanes.
+25::The IUPAC name of CH3C≡CCH3 is::2-butyne::1-butyne::Propyne::Ethyne::A::The compound has 4 carbons with a triple bond at the second carbon, so it is 2-butyne.
+26::Which alkane is used as a fuel in LPG?::Propane::Ethane::Methane::Pentane::A::Propane (C3H8) is a major component of liquefied petroleum gas (LPG).
+27::The product of the reaction of ethene with H2SO4 followed by H2O is::Ethanol::Ethane::Ethanal::Ether::A::Hydration of ethene (CH2=CH2) via H2SO4 forms ethanol (CH3CH2OH).
+28::The number of sigma and pi bonds in ethyne (C2H2) is::3 sigma, 2 pi::4 sigma, 1 pi::2 sigma, 2 pi::3 sigma, 1 pi::A::Ethyne has one C≡C (1 sigma, 2 pi) and two C-H (2 sigma), totaling 3 sigma and 2 pi bonds.
+29::Which hydrocarbon does not decolorize bromine water?::Ethane::Ethene::Ethyne::Propyne::A::Ethane, being a saturated alkane, does not react with Br2, unlike unsaturated alkenes and alkynes.
+30::The IUPAC name of (CH3)2C=CH2 is::2-methylpropene::1-butene::2-butene::Isobutene::A::The compound has a 3-carbon chain with a methyl group, named 2-methylpropene.
+31::The reaction of alkynes with dilute KMnO4 produces::Diketones::Diols::Alkanes::Aldehydes::B::Alkynes react with dilute KMnO4 to form diols via hydroxylation of the triple bond.
+32::The product of the reaction of propene with HCl is::1-chloropropane::2-chloropropane::1,2-dichloropropane::No reaction::B::HCl addition to propene (CH3CH=CH2) follows Markovnikov’s rule, forming 2-chloropropane.
+33::The bond length of a carbon-carbon triple bond is::Shortest::Longest::Same as double bond::Same as single bond::A::The C≡C bond in alkynes is the shortest due to the triple bond’s higher electron density.
+34::The cycloalkane with 5 carbons is called::Cyclopentane::Cyclohexane::Cyclobutane::Cyclopropane::A::A cycloalkane with 5 carbons is cyclopentane (C5H10).
+35::The reaction of alkenes with ozone (O3) is called::Ozonolysis::Hydrogenation::Halogenation::Hydration::A::Ozonolysis cleaves the double bond of alkenes, forming carbonyl compounds.
+36::The major product of the reaction of 1-butene with HBr is::1-bromobutane::2-bromobutane::1,2-dibromobutane::3-bromobutane::B::HBr addition to 1-butene (CH2=CHCH2CH3) follows Markovnikov’s rule, forming 2-bromobutane.
+37::The number of structural isomers of C4H10 is::1::2::3::4::B::Butane (C4H10) has two structural isomers:: n-butane and isobutane.
+38::The product of complete combustion of ethyne is::CO2 and H2O::CO and H2::C and H2O::CO2 and H2::A::Complete combustion of ethyne (C2H2) produces CO2 and H2O.
+39::The IUPAC name of CH3CH=CHCH2CH3 is::2-pentene::1-pentene::3-pentene::2-butene::A::The compound has 5 carbons with a double bond at the second carbon, named 2-pentene.
+40::The reaction of ethene with Br2 in the presence of NaCl forms::1,2-dibromoethane::Bromoethanol::1-bromo-2-chloroethane::Ethanol::C::Br2 addition to ethene in the presence of NaCl can form 1-bromo-2-chloroethane via mixed halogenation.
+41::The general formula for cycloalkenes with one double bond is::CnH2n::CnH2n-2::CnH2n+2::CnHn::B::Cycloalkenes with one double bond have the formula CnH2n-2, e.g., C5H8 (cyclopentene).
+42::The product of the reaction of ethyne with H2 (1 mole) and Lindlar’s catalyst is::Ethene::Ethane::Methane::Benzene::A::Partial hydrogenation of ethyne with Lindlar’s catalyst forms ethene (C2H4).
+43::The IUPAC name of (CH3)3C-CH=CH2 is::2,2-dimethyl-1-butene::3,3-dimethyl-1-butene::2-methyl-1-pentene::3-methyl-1-butene::B::The longest chain has 4 carbons, with two methyl groups on the third carbon, named 3,3-dimethyl-1-butene.
+44::Which alkane is used in natural gas?::Methane::Ethane::Propane::Butane::A::Methane (CH4) is the primary component of natural gas.
+45::The reaction of alkenes with H2 in the presence of Pt catalyst forms::Alkanes::Alkynes::Diols::Ketones::A costituiscono::Hydrogenation of alkenes with Pt adds H2 across the double bond, forming alkanes.
+46::The number of sigma and pi bonds in propene (C3H6) is::8 sigma, 1 pi::7 sigma, 2 pi::6 sigma, 1 pi::8 sigma, 2 pi::A::Propene (CH3CH=CH2) has 7 C-H sigma bonds, 1 C-C sigma bond, and 1 C=C pi bond.
+47::The product of the reaction of 2-butyne with excess H2 and Pd catalyst is::n-Butane::Isobutane::1-butene::2-butene::A::Complete hydrogenation of 2-butyne (CH3C≡CCH3) forms n-butane (C4H10).
+48::The IUPAC name of CH3C(CH3)=CHCH3 is::2-methyl-2-butene::3-methyl-2-butene::2,3-dimethyl-2-butene::2-methyl-1-butene::A::The longest chain has 4 carbons with a double bond at carbon 2 and a methyl group, named 2-methyl-2-butene.
+49::The reaction of cycloalkenes with Br2 forms::Dibromides::Diols::Alkanes::Alkynes::A::Cycloalkenes undergo addition with Br2, forming dibromides across the double bond.
+50::The major product of the reaction of ethene with H2O in the presence of H2SO4 is::Ethanol::Ethanal::Ether::Ethane::A::Hydration of ethene (CH2=CH2) with H2SO4 and H2O forms ethanol (CH3CH2OH).

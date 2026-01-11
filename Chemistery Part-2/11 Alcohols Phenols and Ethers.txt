@@ -1,0 +1,50 @@
+1::Alcohols are organic compounds containing which functional group?::-OH::-COOH::-CHO::-NH2::A::Alcohols are characterized by the hydroxyl (-OH) functional group attached to a carbon atom.
+2::The general formula for alcohols is::CnH2n+2O::CnH2nO::CnH2n-2O::CnHnO::A::Alcohols have the formula CnH2n+2O, e.g., ethanol (C2H5OH).
+3::Which alcohol is known as wood spirit?::Methanol::Ethanol::Propanol::Butanol::A::Methanol (CH3OH) is called wood spirit due to its historical production from wood distillation.
+4::The IUPAC name of CH3CH2OH is::Methanol::Ethanol::Propanol::Butanol::B::The compound has 2 carbons, so it is named ethanol.
+5::Phenols contain an -OH group attached to::Alkyl group::Alkenyl group::Aromatic ring::Alkynyl group::C::Phenols have the -OH group directly bonded to an aromatic (benzene) ring.
+6::Which reagent is used to distinguish between primary, secondary, and tertiary alcohols?::Lucas reagent::Fehling’s solution::Tollens’ reagent::Benedict’s solution::A::Lucas reagent (ZnCl2/HCl) differentiates alcohols by the rate of turbidity formation.
+7::The reaction of alcohols with sodium produces::Hydrogen gas::Oxygen gas::Carbon dioxide::Nitrogen gas::A::Alcohols react with Na to form alkoxides and release H2 gas, e.g., 2CH3OH + 2Na → 2CH3ONa + H2.
+8::The dehydration of ethanol produces::Ethene::Ethane::Ethyne::Ether::A::Dehydration of ethanol (C2H5OH) with conc. H2SO4 at 170°C yields ethene (C2H4).
+9::The IUPAC name of CH3CH(OH)CH3 is::Propan-1-ol::Propan-2-ol::Butan-1-ol::Butan-2-ol::B::The compound has 3 carbons with the -OH on the second carbon, named propan-2-ol.
+10::Which alcohol reacts fastest with Lucas reagent?::Primary alcohol::Secondary alcohol::Tertiary alcohol::Phenol::C::Tertiary alcohols react fastest with Lucas reagent, forming turbidity immediately.
+11::The oxidation of a primary alcohol with mild oxidizing agents produces::Alkene::Aldehyde::Ketone::Carboxylic acid::B::Primary alcohols oxidize to aldehydes with mild agents like PCC, e.g., CH3CH2OH → CH3CHO.
+12::The general formula for ethers is::R-O-R'::R-OH::R-CO-R'::R-NH2::A::Ethers have the structure R-O-R', where R and R' are alkyl or aryl groups.
+13::The IUPAC name of CH3OCH3 is::Methoxyethane::Dimethyl ether::Methoxymethane::Diethyl ether::C::The compound is named methoxymethane, with two methyl groups attached to oxygen.
+14::The reaction of phenol with bromine water produces::White precipitate::Red precipitate::Yellow precipitate::No reaction::A::Phenol reacts with Br2/H2O to form 2,4,6-tribromophenol, a white precipitate.
+15::Which compound is more acidic than ethanol?::Phenol::Methanol::Propanol::Butanol::A::Phenol is more acidic due to resonance stabilization of the phenoxide ion.
+16::The oxidation of a secondary alcohol produces::Alkene::Aldehyde::Ketone::Carboxylic acid::C::Secondary alcohols oxidize to ketones, e.g., CH3CH(OH)CH3 → CH3COCH3.
+17::The reagent used to convert ethanol to acetaldehyde is::PCC::KMnO4::K2Cr2O7/H2SO4::Conc. H2SO4::A::Pyridinium chlorochromate (PCC) selectively oxidizes ethanol to acetaldehyde.
+18::The IUPAC name of C6H5OH is::Phenol::Benzyl alcohol::Phenyl methanol::Hydroxybenzene::A::C6H5OH is named phenol in IUPAC nomenclature.
+19::The product of the reaction of ethanol with conc. H2SO4 at 140°C is::Ethene::Diethyl ether::Ethanal::Ethanoic acid::B::At 140°C, ethanol forms diethyl ether (C2H5OC2H5) via intermolecular dehydration.
+20::Which alcohol is used as an antiseptic?::Methanol::Ethanol::Propanol::Butanol::B::Ethanol (70% solution) is widely used as an antiseptic.
+21::The reaction of phenol with NaOH produces::Sodium phenoxide::Sodium benzoate::Sodium ethoxide::No reaction::A::Phenol, being acidic, reacts with NaOH to form sodium phenoxide (C6H5ONa).
+22::The IUPAC name of CH3CH2OCH2CH3 is::Ethoxyethane::Methoxymethane::Dimethyl ether::Methoxyethane::A::The compound has two ethyl groups attached to oxygen, named ethoxyethane.
+23::The oxidation of a tertiary alcohol produces::Alkene::Aldehyde::Ketone::No reaction::D::Tertiary alcohols resist oxidation due to the absence of a hydrogen on the carbon bearing the -OH group.
+24::The test used to confirm the presence of a phenolic -OH group is::FeCl3 test::Lucas test::Iodoform test::Tollens’ test::A::Phenol gives a violet color with neutral FeCl3, confirming the phenolic -OH group.
+25::The product of the reaction of methanol with HBr is::Methyl bromide::Methyl chloride::Methanol::Dimethyl ether::A::Methanol reacts with HBr to form methyl bromide (CH3Br) via nucleophilic substitution.
+26::Which compound is insoluble in water?::Phenol::Ethanol::Methanol::Propanol::A::Phenol has limited solubility in water due to its hydrophobic aromatic ring.
+27::The reaction of alcohols with carboxylic acids produces::Esters::Ethers::Aldehydes::Ketones::A::Alcohols react with carboxylic acids in the presence of H2SO4 to form esters, e.g., CH3COOH + C2H5OH → CH3COOC2H5.
+28::The IUPAC name of (CH3)3COH is::2-methylpropan-2-ol::Butan-1-ol::Butan-2-ol::Propan-1-ol::A::The compound has 3 carbons with the -OH on a tertiary carbon, named 2-methylpropan-2-ol.
+29::The boiling point of alcohols compared to hydrocarbons of similar molecular weight is::Higher::Lower::Equal::Variable::A::Alcohols have higher boiling points due to hydrogen bonding.
+30::The product of the Williamson ether synthesis using sodium ethoxide and methyl iodide is::Methoxyethane::Ethoxyethane::Dimethyl ether::Diethyl ether::A::CH3CH2ONa + CH3I → CH3CH2OCH3 (methoxyethane) via SN2 reaction.
+31::Which alcohol gives a yellow precipitate with the iodoform test?::Methanol::Ethanol::Propan-1-ol::Propan-2-ol::B::Ethanol (CH3CH2OH) gives a positive iodoform test, forming CHI3 (yellow precipitate).
+32::The acidity of phenol is due to::Resonance stabilization of phenoxide ion::Inductive effect::Steric hindrance::Hydrogen bonding::A::The phenoxide ion is stabilized by resonance, making phenol more acidic than alcohols.
+33::The reaction of phenol with CHCl3 and NaOH produces::Salicylaldehyde::Benzaldehyde::Acetaldehyde::Formaldehyde::A::The Reimer-Tiemann reaction of phenol with CHCl3/NaOH yields salicylaldehyde.
+34::The IUPAC name of CH3CH2CH(OH)CH3 is::Butan-1-ol::Butan-2-ol::Propan-2-ol::Pentan-2-ol::B::The compound has 4 carbons with the -OH on the second carbon, named butan-2-ol.
+35::The product of the reaction of ethanol with PCl5 is::Ethyl chloride::Ethyl bromide::Diethyl ether::Ethene::A::Ethanol reacts with PCl5 to form ethyl chloride (C2H5Cl) via substitution.
+36::The boiling point of ethers compared to alcohols of similar molecular weight is::Lower::Higher::Equal::Variable::A::Ethers lack hydrogen bonding, resulting in lower boiling points than alcohols.
+37::Which compound is used as a general anesthetic?::Diethyl ether::Dimethyl ether::Methoxyethane::Ethanol::A::Diethyl ether was historically used as a general anesthetic.
+38::The reaction of phenol with HNO3 produces::2-nitrophenol::2,4-dinitrophenol::2,4,6-trinitrophenol::No reaction::C::Phenol reacts with conc. HNO3 to form 2,4,6-trinitrophenol (picric acid).
+39::The IUPAC name of C6H5OCH3 is::Methoxybenzene::Ethoxybenzene::Dimethyl ether::Phenoxyethane::A::The compound has a methoxy group attached to a benzene ring, named methoxybenzene.
+40::The product of the oxidation of propan-2-ol with K2Cr2O7/H2SO4 is::Propanal::Propanone::Propanoic acid::Propene::B::Propan-2-ol, a secondary alcohol, oxidizes to propanone (CH3COCH3).
+41::Which alcohol is poisonous and causes blindness?::Methanol::Ethanol::Propanol::Butanol::A::Methanol is toxic, causing blindness or death upon ingestion.
+42::The reaction of phenol with acyl chlorides produces::Esters::Ethers::Aldehydes::Ketones::A::Phenol reacts with acyl chlorides (e.g., CH3COCl) to form esters like phenyl acetate.
+43::The IUPAC name of CH3CH2CH2OH is::Propan-1-ol::Propan-2-ol::Butan-1-ol::Butan-2-ol::A::The compound has 3 carbons with the -OH on the first carbon, named propan-1-ol.
+44::The product of the reaction of diethyl ether with HI is::Ethanol::Ethyl iodide::Methanol::Methyl iodide::B::Diethyl ether (C2H5OC2H5) reacts with HI to form ethyl iodide (C2H5I).
+45::Which compound gives a positive iodoform test?::Propan-1-ol::Propan-2-ol::Methanol::Phenol::B::Propan-2-ol (CH3CH(OH)CH3) gives a positive iodoform test due to the CH3CH(OH)- structure.
+46::The solubility of alcohols in water::Decreases with increasing carbon chain::Increases with increasing carbon chain::Remains constant::Is zero::A::Longer carbon chains reduce solubility due to increased hydrophobic character.
+47::The reaction of phenol with FeCl3 produces::Violet color::Yellow color::Red color::Green color::A::Phenol forms a violet-colored complex with neutral FeCl3.
+48::The IUPAC name of (CH3)2CHOH is::Propan-1-ol::Propan-2-ol::Butan-1-ol::Butan-2-ol::B::The compound has 3 carbons with the -OH on the second carbon, named propan-2-ol.
+49::The product of the reaction of ethanol with SOCl2 is::Ethyl chloride::Ethyl bromide::Diethyl ether::Ethene::A::Ethanol reacts with SOCl2 to form ethyl chloride (C2H5Cl) via substitution.
+50::The acidity of alcohols compared to phenols is::Lower::Higher::Equal::Variable::A::Alcohols are less acidic than phenols due to the lack of resonance stabilization in alkoxide ions.

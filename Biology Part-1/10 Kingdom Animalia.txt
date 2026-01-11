@@ -1,0 +1,50 @@
+1::The kingdom Animalia includes organisms that are::Autotrophic::Heterotrophic::Photosynthetic::Prokaryotic::B::Animals are heterotrophic, relying on other organisms for food, unlike autotrophic plants.
+2::The basic characteristic of animals is::Presence of cell wall::Lack of mobility::Multicellularity::Unicellularity::C::Animals are multicellular eukaryotes, distinguishing them from unicellular protists.
+3::Which phylum includes animals with a porous body?::Cnidaria::Porifera::Platyhelminthes::Nematoda::B::Porifera (sponges) have a porous body with no true tissues or organs.
+4::The symmetry of Cnidarians is::Bilateral::Radial::Asymmetrical::None of these::B::Cnidarians, like jellyfish, exhibit radial symmetry, with body parts arranged around a central axis.
+5::Which phylum lacks a true coelom?::Annelida::Arthropoda::Platyhelminthes::Mollusca::C::Platyhelminthes (flatworms) are acoelomates, lacking a body cavity.
+6::The body cavity of nematodes is called::Coelom::Pseudocoelom::Acoelom::Haemocoel::B::Nematodes have a pseudocoelom, a body cavity not fully lined by mesoderm.
+7::Which phylum includes animals with jointed appendages?::Annelida::Arthropoda::Mollusca::Echinodermata::B::Arthropods, like insects and crabs, have jointed appendages and an exoskeleton.
+8::The respiratory organ in arthropods is::Lungs::Gills::Tracheae::Skin::C::Many arthropods, like insects, use tracheae (air tubes) for respiration.
+9::Which phylum includes animals with a notochord at some stage?::Chordata::Echinodermata::Arthropoda::Mollusca::A::Chordates have a notochord, a flexible rod, at some stage of development.
+10::The body of annelids is::Unsegmented::Segmented::Asymmetrical::Radial::B::Annelids, like earthworms, have a segmented body divided into repeating units.
+11::Which animal belongs to phylum Cnidaria?::Earthworm::Jellyfish::Tapeworm::Roundworm::B::Jellyfish are cnidarians, characterized by stinging cells called cnidocytes.
+12::The exoskeleton of arthropods is made of::Cellulose::Chitin::Calcium carbonate::Keratin::B::Chitin forms the hard, protective exoskeleton of arthropods.
+13::Which phylum includes animals with a mantle?::Annelida::Mollusca::Arthropoda::Echinodermata::B::Molluscs, like snails and squids, have a mantle, a tissue layer that secretes the shell in some.
+14::The symmetry of flatworms is::Radial::Bilateral::Asymmetrical::None of these::B::Platyhelminthes exhibit bilateral symmetry, with distinct left and right sides.
+15::Which of the following is a characteristic of sponges?::True tissues::Nervous system::Filter feeding::Bilateral symmetry::C::Sponges (Porifera) are filter feeders, lacking true tissues or organs.
+16::The stinging cells of cnidarians are called::Choanocytes::Cnidocytes::Amoebocytes::Nematocytes::B::Cnidocytes contain nematocysts, used for capturing prey and defense.
+17::The body cavity of arthropods is called::Coelom::Pseudocoelom::Haemocoel::Acoelom::C::Arthropods have a haemocoel, a blood-filled cavity, not a true coelom.
+18::Which phylum includes animals with spiny skin?::Chordata::Echinodermata::Arthropoda::Mollusca::B::Echinoderms, like starfish, have spiny skin and a water vascular system.
+19::The nervous system of flatworms is::Diffuse::Ladder-like::Ganglionated::Centralized::B::Platyhelminthes have a ladder-like nervous system with longitudinal nerve cords.
+20::Which animal is a member of phylum Annelida?::Leech::Snail::Starfish::Spider::A::Leeches are segmented worms belonging to Annelida.
+21::The water vascular system is characteristic of::Cnidaria::Porifera::Echinodermata::Mollusca::C::Echinoderms use a water vascular system for locomotion and feeding.
+22::Which phylum includes parasitic worms like tapeworms?::Nematoda::Platyhelminthes::Annelida::Mollusca::B::Tapeworms are parasitic flatworms in Platyhelminthes.
+23::The circulatory system of annelids is::Open::Closed::Absent::Haemocoelic::B::Annelids have a closed circulatory system, with blood confined to vessels.
+24::Which of the following is a vertebrate?::Jellyfish::Earthworm::Frog::Starfish::C::Frogs are vertebrates (Chordata) with a backbone, unlike invertebrates like jellyfish or earthworms.
+25::The radula is a feeding organ found in::Arthropoda::Mollusca::Annelida::Echinodermata::B::The radula, a rasping tongue-like structure, is used by molluscs for feeding.
+26::Which phylum includes animals with a triploblastic body?::Porifera::Cnidaria::Platyhelminthes::All of these::C::Platyhelminthes are triploblastic, with three germ layers (ectoderm, mesoderm, endoderm).
+27::The skeleton of echinoderms is::Exoskeleton::Endoskeleton::Hydrostatic::None of these::B::Echinoderms have an endoskeleton made of calcium carbonate plates.
+28::Which animal belongs to phylum Nematoda?::Earthworm::Roundworm::Tapeworm::Leech::B::Roundworms, like *Ascaris*, are nematodes with a pseudocoelom.
+29::The book lungs are respiratory organs in::Insects::Crustaceans::Spiders::Centipedes::C::Spiders (arachnids) use book lungs, folded structures for gas exchange.
+30::Which phylum lacks a circulatory system?::Annelida::Arthropoda::Cnidaria::Mollusca::C::Cnidarians, like jellyfish, lack a circulatory system, relying on diffusion.
+31::The flame cells are excretory organs in::Platyhelminthes::Nematoda::Annelida::Mollusca::A::Flame cells in flatworms help in osmoregulation and excretion.
+32::Which of the following is a diploblastic animal?::Earthworm::Jellyfish::Tapeworm::Starfish::B::Cnidarians, like jellyfish, are diploblastic, with two germ layers (ectoderm and endoderm).
+33::The compound eyes are found in::Molluscs::Arthropods::Echinoderms::Annelids::B::Arthropods, like insects, have compound eyes made of multiple visual units (ommatidia).
+34::Which phylum includes animals with a closed circulatory system?::Arthropoda::Mollusca::Annelida::Nematoda::C::Annelids have a closed circulatory system, unlike the open system in arthropods.
+35::The choanocytes are found in::Cnidaria::Porifera::Platyhelminthes::Echinodermata::B::Choanocytes (collar cells) in sponges create water currents for filter feeding.
+36::Which animal is a cephalopod mollusc?::Snail::Clam::Squid::Slug::C::Squids are cephalopods, with advanced nervous systems and jet propulsion.
+37::The tube feet of echinoderms are used for::Respiration::Locomotion::Feeding::All of these::D::Tube feet in echinoderms, part of the water vascular system, serve multiple functions.
+38::Which phylum includes animals with a complete digestive system?::Cnidaria::Platyhelminthes::Nematoda::Porifera::C::Nematodes have a complete digestive system with a mouth and anus.
+39::The parapodia are locomotory structures in::Arthropoda::Annelida::Mollusca::Echinodermata::B::Parapodia are fleshy appendages in annelids used for locomotion and respiration.
+40::Which of the following is a characteristic of chordates?::Notochord::Exoskeleton::Jointed appendages::Spiny skin::A::Chordates have a notochord, dorsal nerve cord, and pharyngeal slits at some stage.
+41::The malpighian tubules are excretory organs in::Insects::Spiders::Crustaceans::All of these::D::Malpighian tubules, found in many arthropods, excrete nitrogenous wastes.
+42::Which phylum includes hermaphroditic animals like earthworms?::Nematoda::Platyhelminthes::Annelida::Mollusca::C::Many annelids, like earthworms, are hermaphrodites, possessing both male and female organs.
+43::The cnidarians have a body plan called::Polyp or medusa::Planula or larva::Trochophore or nauplius::None of these::A::Cnidarians exist as polyps (sessile) or medusae (free-swimming).
+44::Which animal belongs to phylum Echinodermata?::Sea urchin::Jellyfish::Earthworm::Crab::A::Sea urchins are echinoderms, with radial symmetry and spiny skin.
+45::The open circulatory system is found in::Annelida::Chordata::Arthropoda::Nematoda::C::Arthropods have an open circulatory system, with blood flowing in a haemocoel.
+46::Which phylum includes animals with a hydrostatic skeleton?::Nematoda::Porifera::Cnidaria::All of these::A::Nematodes use a fluid-filled pseudocoelom as a hydrostatic skeleton for movement.
+47::The gill slits are a characteristic feature of::Arthropoda::Chordata::Mollusca::Echinodermata::B::Chordates have pharyngeal gill slits at some stage, used for respiration or feeding.
+48::Which of the following is a crustacean?::Spider::Centipede::Crab::Scorpion::C::Crabs are crustaceans (Arthropoda), with two pairs of antennae and gills.
+49::The nephridia are excretory organs in::Mollusca::Annelida::Arthropoda::Nematoda::B::Nephridia in annelids, like earthworms, excrete waste and regulate water balance.
+50::Which phylum shows regeneration prominently?::Porifera::Cnidaria::Platyhelminthes::All of these::D::Sponges, cnidarians, and flatworms (e.g., planarians) exhibit significant regeneration abilities.

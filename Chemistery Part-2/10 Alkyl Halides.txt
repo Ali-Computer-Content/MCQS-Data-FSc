@@ -1,0 +1,50 @@
+1::Alkyl halides are compounds in which a halogen is bonded to::Oxygen::Nitrogen::Carbon::Sulfur::C::Alkyl halides have a halogen atom bonded to a carbon atom in an alkyl group.
+2::The general formula of alkyl halides is::CnH2n+2X::CnH2n+1X::CnH2nX::CnH2n–1X::B::Alkyl halides have the formula CnH2n+1X, where X is a halogen.
+3::The functional group in alkyl halides is::–OH::–X (halogen)::–NH2::–COOH::B::The halogen atom (–X, where X = F, Cl, Br, I) is the functional group.
+4::The IUPAC name of CH3Cl is::Chloromethane::Chloroethane::Chloropropane::Chlorobutane::A::CH3Cl is chloromethane, a one-carbon alkyl halide.
+5::Primary alkyl halides have::One carbon attached to the halogen-bearing carbon::Two carbons attached to the halogen-bearing carbon::Three carbons attached to the halogen-bearing carbon::No carbon attached to the halogen-bearing carbon::A::Primary alkyl halides have one carbon attached to the carbon bonded to the halogen.
+6::An example of a tertiary alkyl halide is::CH3Cl::CH3CH2Br::(CH3)2CHCl::(CH3)3CBr::D::(CH3)3CBr has three carbons attached to the halogen-bearing carbon, making it tertiary.
+7::The preparation of alkyl halides from alcohols uses::H2SO4::HX::NaOH::KOH::B::Alkyl halides are prepared by reacting alcohols with hydrogen halides (HX).
+8::The reactivity of alkyl halides in SN2 reactions follows the order::Primary > Secondary > Tertiary::Tertiary > Secondary > Primary::Primary = Secondary = Tertiary::Secondary > Primary > Tertiary::A::Primary alkyl halides are most reactive in SN2 due to less steric hindrance.
+9::The SN1 reaction mechanism involves::One step::Two steps::Three steps::No steps::B::SN1 reactions proceed in two steps:: carbocation formation and nucleophile attack.
+10::The reactivity of alkyl halides in SN1 reactions follows the order::Primary > Secondary > Tertiary::Tertiary > Secondary > Primary::Primary = Secondary = Tertiary::Secondary > Primary > Tertiary::B::Tertiary alkyl halides are most reactive in SN1 due to stable carbocation formation.
+11::The elimination reaction that produces alkenes is called::Substitution::Dehydrohalogenation::Hydrohalogenation::Oxidation::B::Dehydrohalogenation removes HX from an alkyl halide to form an alkene.
+12::The reagent used for dehydrohalogenation of alkyl halides is::HCl::NaOH (alcoholic)::H2SO4::NaCl::B::Alcoholic NaOH provides a strong base (OH⁻) for elimination reactions.
+13::The IUPAC name of CH3CH2CH2Cl is::Chloromethane::Chloroethane::1-Chloropropane::2-Chloropropane::C::CH3CH2CH2Cl is 1-chloropropane, with the chlorine on the terminal carbon.
+14::The major product of the reaction of 2-bromopropane with alcoholic KOH is::Propane::Propene::Propanol::Propanone::B::2-Bromopropane undergoes elimination to form propene (CH3CH=CH2).
+15::The SN2 reaction is favored by::Polar protic solvents::Polar aprotic solvents::Non-polar solvents::Water::B::Polar aprotic solvents enhance SN2 by not solvating the nucleophile strongly.
+16::The SN1 reaction is favored by::Polar protic solvents::Polar aprotic solvents::Non-polar solvents::Alcoholic solvents::A::Polar protic solvents stabilize the carbocation intermediate in SN1 reactions.
+17::The hybridization of the carbon atom bonded to the halogen in CH3Cl is::sp::sp²::sp³::sp³d::C::The carbon in CH3Cl is sp³ hybridized, forming a tetrahedral structure.
+18::The major product of the reaction of (CH3)3CBr with aqueous NaOH is::(CH3)3COH::(CH3)2C=CH2::(CH3)3CN::a(CH3)3CH::A::(CH3)3CBr undergoes SN1 to form (CH3)3COH (tert-butanol) in aqueous NaOH.
+19::The reaction of alkyl halides with sodium metal produces::Alkanes::Alkenes::Alkynes::Ethers::A::The Wurtz reaction (2RX + 2Na → R–R + 2NaX) forms alkanes.
+20::The IUPAC name of (CH3)2CHCl is::1-Chloropropane::2-Chloropropane::Chloromethane::Chloroethane::B::(CH3)2CHCl is 2-chloropropane, with chlorine on the second carbon.
+21::The reaction of CH3Br with CN⁻ produces::CH3CN::CH3NC::CH3OH::CH3NH2::A::CH3Br undergoes SN2 with CN⁻ to form CH3CN (ethanenitrile).
+22::The bond in alkyl halides is::Ionic::Polar covalent::Non-polar covalent::Coordinate covalent::B::The C–X bond in alkyl halides is polar covalent due to the electronegativity difference.
+23::The best leaving group in nucleophilic substitution reactions is::F⁻::Cl⁻::Br⁻::I⁻::D::Iodide (I⁻) is the best leaving group due to its large size and low basicity.
+24::The reaction of CH3CH2Br with Mg in dry ether produces::Grignard reagent::Alkene::Alkane::Alcohol::A::CH3CH2Br forms CH3CH2MgBr (Grignard reagent) with Mg in dry ether.
+25::The major product of the reaction of 1-chloropropane with alcoholic KOH is::Propane::Propene::Propanol::Propanone::B::1-Chloropropane undergoes elimination to form propene (CH3CH=CH2).
+26::The type of reaction mechanism for tertiary alkyl halides with strong nucleophiles is::SN1::SN2::E1::E2::A::Tertiary alkyl halides favor SN1 due to stable carbocation formation.
+27::The product of the reaction of CH3Cl with NH3 is::CH3NH2::CH3OH::CH3CN::CH3COOH::A::CH3Cl reacts with NH3 via SN2 to form methylamine (CH3NH2).
+28::The IUPAC name of CH2Cl2 is::Chloromethane::Dichloromethane::Trichloromethane::Tetrachloromethane::B::CH2Cl2 is dichloromethane, with two chlorine atoms.
+29::The reaction of alkyl halides with KCN forms::Alcohols::Nitriles::Amines::Ethers::B::KCN provides CN⁻, forming nitriles (R–CN) via SN2.
+30::The elimination reaction follows Zaitsev’s rule, which states that::The less substituted alkene is formed::The more substituted alkene is formed::The alkane is formed::The alcohol is formed::B::Zaitsev’s rule favors the more substituted (stable) alkene in elimination.
+31::The reaction of (CH3)2CHBr with aqueous NaOH produces::(CH3)2CHOH::(CH3)2C=CH2::(CH3)2CHN::a(CH3)2CH2::A::(CH3)2CHBr undergoes SN2 to form (CH3)2CHOH (propan-2-ol) in aqueous NaOH.
+32::The hybridization of the carbon in the carbocation (CH3)3C⁺ is::sp::sp²::sp³::sp³d::B::The carbocation (CH3)3C⁺ is sp² hybridized, forming a trigonal planar structure.
+33::The reaction of CH3CH2Cl with NaI in acetone produces::CH3CH2I::CH3CH2OH::CH3CH=CH2::CH3CH3::A::NaI in acetone promotes SN2, forming CH3CH2I (iodoethane).
+34::The type of reaction mechanism for primary alkyl halides with strong bases is::SN1::SN2::E1::E2::B::Primary alkyl halides favor SN2 with strong nucleophiles or bases.
+35::The product of the reaction of CH3Br with OH⁻ in a polar protic solvent is::CH3OH::CH2=CH2::CH3CN::CH3NH2::A::CH3Br undergoes SN2 with OH⁻ to form methanol (CH3OH).
+36::The IUPAC name of CH3CHClCH3 is::1-Chloropropane::2-Chloropropane::3-Chloropropane::Chlorobutane::B::CH3CHClCH3 is 2-chloropropane, with chlorine on the second carbon.
+37::The reaction of alkyl halides with AgCN forms::Nitriles::Isocyanides::Amines::Alcohols::B::AgCN provides NC⁻, forming isocyanides (R–NC) via SN2.
+38::The stability of carbocations follows the order::Primary > Secondary > Tertiary::Tertiary > Secondary > Primary::Primary = Secondary = Tertiary::Secondary > Primary > Tertiary::B::Tertiary carbocations are most stable due to hyperconjugation and inductive effects.
+39::The reaction of 2-bromobutane with alcoholic KOH produces::1-Butene::2-Butene::Butane::Butanol::B::2-Bromobutane undergoes E2 elimination to form 2-butene (more substituted alkene).
+40::The reagent used to prepare alkyl halides from alkenes is::HCl::NaOH::KOH::NH3::A::Alkenes react with HX (e.g., HCl) to form alkyl halides via electrophilic addition.
+41::The IUPAC name of (CH3)3CCl is::1-Chlorobutane::2-Chlorobutane::2-Chloro-2-methylpropane::Chloromethane::C::(CH3)3CCl is 2-chloro-2-methylpropane, a tertiary alkyl halide.
+42::The reaction of CH3CH2Br with H2O is::SN1::SN2::E1::E2::B::CH3CH2Br (primary) undergoes SN2 with H2O to form CH3CH2OH.
+43::The product of the Wurtz reaction of CH3Cl is::Ethane::Ethene::Ethyne::Methanol::A::2CH3Cl + 2Na → C2H6 (ethane) + 2NaCl in the Wurtz reaction.
+44::The leaving group ability of halogens follows the order::F > Cl > Br > I::I > Br > Cl > F::Cl > Br > I > F::F = Cl = Br = I::B::Iodide is the best leaving group due to its large size and weak C–I bond.
+45::The reaction of alkyl halides with Ag2O forms::Alcohols::Ethers::Alkenes::Alkanes::B::Ag2O reacts with two alkyl halides to form ethers (R–O–R).
+46::The type of elimination reaction favored by tertiary alkyl halides with strong bases is::SN1::SN2::E1::E2::D::Tertiary alkyl halides favor E2 elimination with strong bases like OH⁻.
+47::The product of the reaction of CH3CH2Cl with CH3COO⁻ is::CH3CH2OH::CH3CH2OCOCH3::CH3CH=CH2::CH3CH3::B::CH3CH2Cl reacts with CH3COO⁻ via SN2 to form ethyl acetate (CH3CH2OCOCH3).
+48::The IUPAC name of CH2=CHCH2Br is::1-Bromopropene::3-Bromopropene::1-Bromopropane::2-Bromopropane::B::CH2=CHCH2Br is 3-bromopropene, an allylic halide.
+49::The reaction of alkyl halides with LiAlH4 produces::Alcohols::Alkanes::Alkenes::Ethers::B::LiAlH4 reduces alkyl halides to alkanes by providing H⁻.
+50::The major product of the reaction of (CH3)2CHCH2Br with alcoholic KOH is::(CH3)2CHCH2OH::(CH3)2C=CH2::(CH3)2CHCH3::(CH3)2CHCH2K::B::(CH3)2CHCH2Br undergoes E2 to form (CH3)2C=CH2 (2-methylpropene).

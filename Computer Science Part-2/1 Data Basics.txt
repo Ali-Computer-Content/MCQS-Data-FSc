@@ -1,0 +1,50 @@
+1::What is data?::Processed facts::Unprocessed facts and figures::Meaningful information::Instructions::B::Data refers to raw, unprocessed facts and figures
+2::What is information?::Processed dat::aUnprocessed facts::Computer software::Computer hardware::A::Information is processed and meaningful data
+3::Which of the following is an example of data?::Student marksheet::Temperature readings::Summary report::Salary slip::B::Temperature readings are raw data
+4::Which of the following is an example of information?::List of marks::Student’s result card::Roll numbers::Raw temperatures::B::A result card is processed and meaningful information
+5::What is data processing?::Deleting dat::aConverting data into useful form::Collecting dat::aSorting files::B::Data processing is transforming raw data into meaningful information
+6::Which of the following is not a data processing step?::Input::Processing::Storage::Operating system installation::D::Operating system installation is unrelated to data processing
+7::Which of the following is the correct sequence of data processing?::Data -> Information -> Processing::Processing -> Information -> Dat::aData -> Processing -> Information::Information -> Data -> Processing::C::Data is processed to produce information
+8::Which of the following best describes the term 'data'?::Numbers only::Text only::Images only::Any unprocessed facts in various forms::D::Data can be in numeric, text, image, or other forms
+9::Which of the following is a type of data?::Numerical dat::aText dat::aAudio dat::aAll of these::D::Data can be numerical, text, audio, video, etc
+10::What is the smallest unit of data?::Bit::Byte::Word::Character::A::Bit is the smallest unit of data
+11::How many bits are there in a byte?::4::8::16::32::B::One byte consists of 8 bits
+12::Which of the following is NOT a characteristic of good information?::Accuracy::Timeliness::Relevance::Redundancy::D::Redundancy is not a desirable feature in information
+13::What is meant by 'accuracy' in information?::Fast information::Correct information::Incomplete information::Irrelevant information::B::Accurate information is correct and error-free
+14::Which of the following ensures information is delivered when needed?::Relevance::Completeness::Timeliness::Accuracy::C::Timeliness means information is available at the right time
+15::What is meant by 'relevance' in information?::Unrelated information::Suitable to the need::Information from any source::Outdated information::B::Relevant information directly relates to the purpose
+16::Which of the following is NOT an input device?::Keyboard::Mouse::Monitor::Scanner::C::Monitor is an output device
+17::Which of the following is a storage device?::Printer::Monitor::Hard Disk::Mouse::C::Hard Disk is a data storage device
+18::What is data processing cycle?::A cycle of hardware replacement::Steps from input to output::Steps of software installation::Steps of system shutdown::B::The data processing cycle includes input, processing, storage, and output
+19::Which step stores data temporarily?::Input::Processing::Primary Storage::Output::C::Primary storage temporarily holds data during processing
+20::Which storage is considered temporary?::Hard Disk::ROM::RAM::DVD::C::RAM is temporary memory that loses data when power is off
+21::Which storage is permanent?::RAM::Cache::Hard Disk::Registers::C::Hard Disk stores data permanently
+22::Which component performs calculations in a computer?::Monitor::CPU::Mouse::Printer::B::The CPU performs all arithmetic and logic operations
+23::What is the full form of CPU?::Central Program Unit::Central Processing Unit::Computer Processing Unit::Central Print Unit::B::CPU stands for Central Processing Unit
+24::Which unit is responsible for controlling computer operations?::ALU::CU::Input Unit::Memory Unit::B::Control Unit (CU) manages and controls all computer activities
+25::What is the full form of ALU?::Arithmetic Logic Unit::Advanced Logic Unit::All Logic Unit::Arithmetic Learning Unit::A::ALU stands for Arithmetic Logic Unit
+26::Which device is used for output?::Keyboard::Mouse::Scanner::Monitor::D::Monitor displays output to the user
+27::Which step displays the final result?::Input::Processing::Storage::Output::D::Output shows the final processed information
+28::Which of the following is NOT a primary function of a computer?::Input::Processing::Output::Manual filing::D::Manual filing is unrelated to computer functions
+29::What is the purpose of storage in a computer?::To destroy dat::aTo save data for future use::To process dat::aTo display dat::aB::Storage keeps data safe for future retrieval
+30::Which of the following is an example of an input device?::Monitor::Speaker::Keyboard::Printer::C::Keyboard is used to input data
+31::Which of the following is NOT a characteristic of good information?::Completeness::Accuracy::Timeliness::Complexity::D::Good information should be easy to understand, not complex
+32::Which memory holds data permanently?::RAM::ROM::Cache::Registers::B::ROM stores data permanently
+33::What does the Control Unit (CU) do?::Performs arithmetic::Performs logical operations::Manages data flow in the CPU::Displays information::C::The CU directs data and instructions within the CPU
+34::Which of the following is the correct representation of one kilobyte (KB)?::100 bytes::512 bytes::1024 bytes::2048 bytes::C::1 KB equals 1024 bytes
+35::What is the main difference between data and information?::Data is meaningful, information is raw::Data is raw, information is processed::Both are the same::Data is always stored in files::B::Data is raw, information is processed and meaningful
+36::Which device processes the data?::Mouse::CPU::Monitor::Scanner::B::The CPU is the processing unit
+37::Which of the following is not an output device?::Monitor::Printer::Keyboard::Speaker::C::Keyboard is an input device
+38::Which unit is responsible for arithmetic operations?::CU::Memory Unit::ALU::Storage::C::ALU performs arithmetic and logic operations
+39::Which step is the first in the data processing cycle?::Storage::Input::Output::Processing::B::Input is the first step where data is entered into the system
+40::Which unit is the 'brain' of the computer?::Monitor::CPU::Keyboard::Hard Disk::B::CPU is called the brain of the computer
+41::Which of the following is not a data type?::Numeric::Character::Audio::Calculator::D::Calculator is not a data type
+42::Which storage type loses data when the computer is turned off?::Hard Disk::ROM::RAM::DVD::C::RAM is volatile and loses data when power is off
+43::What is the purpose of a flowchart?::Store dat::aProvide detailed explanation::Graphically represent the process::Output results::C::Flowcharts graphically show the process steps
+44::Which type of data can be stored in a computer?::Numeric::Text::Audio and Video::All of the above::D::Computers can store all these types of data
+45::Which is NOT a phase of the data processing cycle?::Input::Storage::Debugging::Output::C::Debugging is related to programming, not the data processing cycle
+46::What is a bit?::Binary digit::Smallest image file::Software program::Part of a word document::A::Bit is the smallest unit of digital data, a binary digit
+47::What is one megabyte (MB)?::512 KB::1024 KB::2048 KB::512 bytes::B::1 MB = 1024 KB
+48::Which part of CPU performs logical operations?::ALU::CU::Memory Unit::Monitor::A::ALU handles logical operations
+49::What is meant by completeness in information?::Only partial data is available::Information is full and entire::Data is inaccurate::Data is redundant::B::Complete information is full and contains all necessary details
+50::Which storage retains data even without power?::RAM::ROM::Cache::Registers::B::ROM stores data permanently regardless of power status

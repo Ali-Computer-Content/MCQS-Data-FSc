@@ -1,0 +1,50 @@
+1::Macromolecules are characterized by::High molecular weight::Low molecular weight::Simple structure::Low boiling point::A::Macromolecules are large molecules with high molecular weights, such as proteins and polymers.
+2::Which of the following is a natural macromolecule?::Polyethylene::Starch::Nylon::PVC::B::Starch is a natural polysaccharide, while others are synthetic polymers.
+3::The repeating unit in a polymer is called::Monomer::Dimer::Oligomer::Macromer::A::The monomer is the repeating unit that forms a polymer chain through polymerization.
+4::Proteins are polymers of::Amino acids::Monosaccharides::Nucleotides::Fatty acids::A::Proteins are polypeptides formed by the polymerization of amino acids via peptide bonds.
+5::The glycosidic bond in carbohydrates links::Two amino acids::Two sugar units::Two fatty acids::Two nucleotides::B::A glycosidic bond connects two monosaccharide units in carbohydrates.
+6::Which macromolecule is the main source of energy in living organisms?::Proteins::Carbohydrates::Lipids::Nucleic acids::B::Carbohydrates, like starch and glycogen, are the primary energy source in living organisms.
+7::The structure of DNA is a::Single helix::Double helix::Triple helix::Linear chain::B::DNA has a double helix structure, stabilized by hydrogen bonds between base pairs.
+8::The monomer of cellulose is::Glucose::Fructose::Galactose::Sucrose::A::Cellulose is a polysaccharide composed of β-glucose monomers linked by glycosidic bonds.
+9::Which type of polymer is formed by condensation polymerization?::Polyethylene::Polystyrene::Nylon::Polyvinyl chloride::C::Nylon is formed by condensation polymerization, releasing water during bond formation.
+10::The primary structure of a protein refers to::Sequence of amino acids::Alpha helix::Beta sheet::3D folding::A::The primary structure is the linear sequence of amino acids in a protein.
+11::The functional group in a peptide bond is::Amide::Ester::Ether::Glycosidic::A::A peptide bond is an amide bond (-CONH-) formed between amino acids in proteins.
+12::Which nucleic acid carries genetic information?::RNA::DNA::tRNA::mRNA::B::DNA (deoxyribonucleic acid) stores and transmits genetic information in cells.
+13::Lipids are macromolecules that are::Water-soluble::Hydrophobic::Polar::Ionic::B::Lipids are hydrophobic, non-polar molecules like fats, oils, and waxes.
+14::The secondary structure of proteins includes::Alpha helix and beta sheet::Disulfide bridges::Amino acid sequence::3D conformation::A::Secondary structures include alpha helix and beta-pleated sheets, stabilized by hydrogen bonds.
+15::Which polymer is used in bulletproof vests?::Nylon::Kevlar::Polyethylene::Polystyrene::B::Kevlar, a strong synthetic polymer, is used in bulletproof vests due to its high tensile strength.
+16::The monomer of starch is::Glucose::Fructose::Maltose::Sucrose::A::Starch is a polysaccharide made of α-glucose monomers linked by glycosidic bonds.
+17::The base pair in DNA that forms three hydrogen bonds is::Guanine-Cytosine::Adenine-Thymine::Adenine-Uracil::Guanine-Thymine::A::Guanine and cytosine form three hydrogen bonds, stabilizing the DNA double helix.
+18::Which type of lipid is a major component of cell membranes?::Triglycerides::Phospholipids::Steroids::Waxes::B::Phospholipids form the bilayer structure of cell membranes.
+19::The tertiary structure of a protein is stabilized by::Hydrogen bonds::Disulfide bridges::Ionic bonds::All of these::D::Tertiary structure is stabilized by hydrogen bonds, disulfide bridges, ionic bonds, and hydrophobic interactions.
+20::Which macromolecule stores genetic information in viruses?::DNA only::RNA only::Both DNA and RNA::Proteins::C::Some viruses use DNA, while others use RNA to store genetic information.
+21::The process of joining monomers to form a polymer is called::Polymerization::Hydrolysis::Dehydration::Oxidation::A::Polymerization is the process of linking monomers to form a polymer chain.
+22::Which carbohydrate is a disaccharide?::Glucose::Sucrose::Starch::Cellulose::B::Sucrose is a disaccharide composed of glucose and fructose.
+23::The monomer of proteins is characterized by::Carboxyl group::Amino group::Both carboxyl and amino groups::Hydroxyl group::C::Amino acids have both carboxyl (-COOH) and amino (-NH2) groups.
+24::Which synthetic polymer is used in plastic bottles?::Polyethylene terephthalate (PET)::Nylon::Polystyrene::Polyvinyl chloride::A::PET is commonly used in plastic bottles due to its strength and clarity.
+25::The linkage in RNA between nucleotides is::Peptide bond::Glycosidic bond::Phosphodiester bond::Ester bond::C::Phosphodiester bonds link nucleotides in RNA and DNA.
+26::Which macromolecule is insoluble in water?::Carbohydrates::Proteins::Lipids::Nucleic acids::C::Lipids are insoluble in water due to their non-polar nature.
+27::The quaternary structure of a protein refers to::Single polypeptide chain::Alpha helix::Multiple polypeptide chains::Disulfide bonds::C::Quaternary structure involves the arrangement of multiple polypeptide chains in a protein.
+28::Which polysaccharide is found in plant cell walls?::Starch::Glycogen::Cellulose::Chitin::C::Cellulose, a β-glucose polymer, provides structural support in plant cell walls.
+29::The monomer of Teflon is::Tetrafluoroethylene::Ethylene::Styrene::Vinyl chloride::A::Teflon is a polymer of tetrafluoroethylene (CF2=CF2).
+30::The function of tRNA is to::Store genetic information::Carry amino acids to ribosomes::Translate genetic code::Replicate DNA::B::Transfer RNA (tRNA) carries amino acids to ribosomes during protein synthesis.
+31::Which lipid is a steroid?::Cholesterol::Triglyceride::Phospholipid::Wax::A::Cholesterol, a sterol, is a type of steroid lipid.
+32::The primary source of energy in lipids is::Fatty acids::Glycerol::Steroids::Phospholipids::A::Fatty acids in lipids provide a high-energy source through beta-oxidation.
+33::Which polymer is biodegradable?::Starch::Polyethylene::Polystyrene::PVC::A::Starch, a natural polysaccharide, is biodegradable, unlike synthetic polymers like polyethylene.
+34::The bond that links glucose and fructose in sucrose is::Glycosidic::Peptide::Ester::Phosphodiester::A::Sucrose has a glycosidic bond between glucose and fructose.
+35::The monomer of nylon-6,6 is::Adipic acid and hexamethylenediamine::Ethylene::Styrene::Vinyl chloride::A::Nylon-6,6 is formed from adipic acid and hexamethylenediamine via condensation polymerization.
+36::Which macromolecule acts as a catalyst in biochemical reactions?::Proteins::Carbohydrates::Lipids::Nucleic acids::A::Enzymes, which are proteins, act as biological catalysts.
+37::The structure of RNA is typically::Single-stranded::Double-stranded::Triple-stranded::Circular::A::RNA is usually single-stranded, unlike the double-stranded DNA.
+38::Which polymer is used in non-stick cookware?::Teflon::Nylon::Polyethylene::Polystyrene::A::Teflon (polytetrafluoroethylene) is used in non-stick cookware due to its low friction.
+39::The denaturation of proteins involves loss of::Primary structure::Secondary and tertiary structures::Amino acid sequence::Peptide bonds::B::Denaturation disrupts secondary, tertiary, and quaternary structures, not the primary sequence.
+40::Which carbohydrate is a storage polysaccharide in animals?::Starch::Cellulose::Glycogen::Chitin::C::Glycogen is the storage polysaccharide in animals, stored in the liver and muscles.
+41::The monomer of natural rubber is::Isoprene::Ethylene::Styrene::Vinyl chloride::A::Natural rubber is a polymer of isoprene (2-methyl-1,3-butadiene).
+42::Which nucleic acid is involved in protein synthesis?::DNA::mRNA::tRNA::Both mRNA and tRNA::D::mRNA carries the genetic code, and tRNA brings amino acids during protein synthesis.
+43::The main component of cell membranes is::Triglycerides::Phospholipids::Steroids::Waxes::B::Phospholipids form the bilayer structure of cell membranes due to their amphipathic nature.
+44::Which synthetic polymer is used in packaging materials?::Polyethylene::Nylon::Teflon::Kevlar::A::Polyethylene is widely used in packaging due to its flexibility and durability.
+45::The bond that stabilizes the secondary structure of proteins is::Hydrogen bond::Disulfide bond::Ionic bond::Covalent bond::A::Hydrogen bonds stabilize alpha helix and beta sheet structures in proteins.
+46::Which macromolecule is responsible for heredity?::Proteins::Carbohydrates::Lipids::Nucleic acids::D::Nucleic acids (DNA and RNA) carry and transmit hereditary information.
+47::The monomer of chitin is::N-acetylglucosamine::Glucose::Fructose::Galactose::A::Chitin is a polysaccharide composed of N-acetylglucosamine units.
+48::Which type of polymerization involves the loss of a small molecule like water?::Addition::Condensation::Substitution::Elimination::B::Condensation polymerization releases small molecules (e.g., water) during bond formation.
+49::The function of hemoglobin is due to its::Primary structure::Secondary structure::Tertiary structure::Quaternary structure::D::Hemoglobin’s function depends on its quaternary structure, with four polypeptide chains.
+50::Which polysaccharide is found in the exoskeleton of insects?::Starch::Cellulose::Chitin::Glycogen::C::Chitin, a polymer of N-acetylglucosamine, forms the exoskeleton of insects and crustaceans.

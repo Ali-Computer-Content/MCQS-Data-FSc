@@ -1,0 +1,50 @@
+1::What is the motion of an object moving in a plane called?::Linear motion::Circular motion::Two-dimensional motion::Rotational motion::C::Two-dimensional motion involves movement in a plane with both x and y components.
+2::The horizontal component of a projectile’s velocity is::Constant::Increasing::Decreasing::Zero::A::In projectile motion, the horizontal velocity (v_x = v₀ cosθ) remains constant, as no horizontal acceleration exists.
+3::The vertical component of a projectile’s velocity is affected by::Gravity::Air resistance::Both::None::C::Gravity accelerates the vertical component downward, and air resistance may also affect it.
+4::What is the angle for maximum range in projectile motion on level ground?::30°::45°::60°::90°::B::The range is maximized at 45°, as sin2θ is maximum when 2θ = 90° (sin90° = 1).
+5::The time of flight of a projectile depends on::Horizontal velocity::Vertical velocity::Angle of projection::Both vertical velocity and angle::D::Time of flight T = (2v₀ sinθ)/g depends on the vertical component (v₀ sinθ) and angle θ.
+6::What is the formula for the range of a projectile?::R = v₀² sin2θ/g::R = v₀² cos2θ/g::R = v₀ sinθ/g::R = v₀ cosθ/g::A::Range R = (v₀² sin2θ)/g, derived from horizontal velocity and time of flight.
+7::The maximum height of a projectile is given by::H = (v₀ sinθ)²/2g::H = (v₀ cosθ)²/2g::H = v₀² sin2θ/g::H = v₀² cos2θ/g::A::Maximum height H = (v₀ sinθ)²/(2g), where v₀ sinθ is the initial vertical velocity.
+8::At the highest point of a projectile’s path, the vertical velocity is::Maximum::Minimum::Zero::Constant::C::At the peak, the vertical velocity is zero before it reverses direction.
+9::The trajectory of a projectile is ::aStraight line::Parabol::aCircle::Hyperbol::aB::The path of a projectile is parabolic due to constant horizontal velocity and vertical acceleration.
+10::What is the time to reach maximum height for a projectile?::T = v₀ sinθ/g::T = v₀ cosθ/g::T = 2v₀ sinθ/g::T = v₀² sinθ/g::A::Time to peak = v₀ sinθ/g, as vertical velocity becomes zero at the maximum height.
+11::If a projectile is launched at 30° with v₀ = 20 m/s, what is the horizontal velocity (g = 10 m/s²)?::10 m/s::17.32 m/s::15 m/s::20 m/s::B::v_x = v₀ cosθ = 20 × cos30° = 20 × 0.866 = 17.32 m/s.
+12::The horizontal range is maximum when sin2θ equals::0::0.5::1::2::C::Range R ∝ sin2θ, which is maximum when sin2θ = 1 (at θ = 45°).
+13::The vertical component of velocity at the maximum height is::v₀ sinθ::v₀ cosθ::Zero::v₀::C::At maximum height, the vertical velocity is zero.
+14::What is the total time of flight for a projectile launched at 60° with v₀ = 10 m/s (g = 10 m/s²)?::1 s::1.73 s::2 s::3.46 s::D::T = (2v₀ sinθ)/g = (2 × 10 × sin60°)/10 = 2 × 0.866 = 1.732 s ≈ 3.46 s for full flight.
+15::The acceleration of a projectile in the horizontal direction is::g::Zero::v₀ cosθ::v₀ sinθ::B::No horizontal force acts, so horizontal acceleration is zero.
+16::What is the maximum height if a projectile is launched at 45° with v₀ = 20 m/s (g = 10 m/s²)?::10 m::20 m::25 m::40 m::A::H = (v₀ sinθ)²/(2g) = (20 × 0.707)²/(2 × 10) = 10 m.
+17::The range of a projectile launched at 30° is equal to that at::45°::60°::90°::120°::B::Ranges are equal for complementary angles (θ and 90°-θ), so 30° and 60° have the same range.
+18::The velocity of a projectile at its highest point is::Zero::v₀ cosθ::v₀ sinθ::v₀::B::At the highest point, only the horizontal velocity v₀ cosθ remains.
+19::What is the dimension of the range of a projectile?::[L]::[LT⁻¹]::[LT⁻²]::[L²]::A::Range is a distance, so its dimension is [L].
+20::The time of flight is zero when a projectile is launched at::0°::45°::90°::180°::C::At 90°, the projectile goes straight up and down, but time of flight is non-zero; 0° or 180° gives no vertical motion.
+21::What is the range of a projectile with v₀ = 10 m/s at 30° (g = 10 m/s²)?::5 m::8.66 m::10 m::15 m::B::R = (v₀² sin2θ)/g = (10² × sin60°)/10 = 100 × 0.866/10 = 8.66 m.
+22::The horizontal velocity of a projectile is affected by::Gravity::Air resistance::Initial velocity::All of these::C::Horizontal velocity v_x = v₀ cosθ depends only on the initial velocity and angle.
+23::What is the vertical velocity just before a projectile hits the ground (launched at θ)?::v₀ sinθ::-v₀ sinθ::v₀ cosθ::Zero::B::At landing, vertical velocity is -v₀ sinθ, opposite to the initial vertical component.
+24::The maximum height depends on which component of velocity?::Horizontal::Vertical::Both::None::B::Maximum height depends on the vertical component v₀ sinθ.
+25::Which of the following is a vector quantity in projectile motion?::Time of flight::Range::Maximum height::Velocity::D::Velocity is a vector, with horizontal and vertical components.
+26::What is the angle of projection for a projectile to achieve equal range and height?::30°::45°::60°::76°::D::H = R when (v₀ sinθ)²/(2g) = (v₀² sin2θ)/g, solving gives tanθ = 4, θ ≈ 76°.
+27::The time to reach maximum height is half of::Range::Time of flight::Maximum height::Velocity::B::Time to peak = T/2, as the ascent and descent times are equal.
+28::What is the vertical acceleration of a projectile?::Zero::g::v₀ sinθ::v₀ cosθ::B::Vertical acceleration is g (9.8 or 10 m/s² downward), due to gravity.
+29::The path of a projectile is independent of::Angle::Initial velocity::Mass::Gravity::C::The trajectory shape is independent of mass, depending on angle, velocity, and gravity.
+30::What is the horizontal displacement after time t for a projectile?::v₀ sinθ t::v₀ cosθ t::(1/2)gt²::v₀ t::B::Horizontal displacement x = v₀ cosθ t, as horizontal velocity is constant.
+31::The vertical displacement of a projectile at time t is::v₀ sinθ t::v₀ cosθ t::v₀ sinθ t - (1/2)gt²::(1/2)gt²::C::Vertical displacement y = v₀ sinθ t - (1/2)gt², accounting for initial velocity and gravity.
+32::What is the speed of a projectile at its highest point if v₀ = 20 m/s and θ = 60°?::10 m/s::17.32 m/s::20 m/s::0 m/s::A::Speed at peak = v₀ cosθ = 20 × cos60° = 20 × 0.5 = 10 m/s.
+33::The range of a projectile is zero when launched at::0°::45°::90°::60°::C::At 90°, the projectile goes straight up and down, so horizontal range is zero.
+34::What is the time of flight for a projectile with v₀ = 15 m/s at 45° (g = 10 m/s²)?::1.5 s::2.12 s::3 s::4.24 s::B::T = (2v₀ sinθ)/g = (2 × 15 × 0.707)/10 = 2.12 s.
+35::The maximum height is proportional to::sinθ::sin²θ::cosθ::cos²θ::B::H ∝ (v₀ sinθ)², so maximum height is proportional to sin²θ.
+36::What is the velocity of a projectile at any point?::√(v_x² + v_y²)::v₀ cosθ::v₀ sinθ::v₀::A::Velocity = √(v_x² + v_y²), combining horizontal and vertical components.
+37::The range is independent of::Angle::Initial velocity::Mass::Gravity::C::Range depends on angle, initial velocity, and gravity, but not mass.
+38::What is the horizontal velocity after 2 s for a projectile launched at 30° with v₀ = 20 m/s?::10 m/s::17.32 m/s::20 m/s::0 m/s::B::v_x = v₀ cosθ = 20 × cos30° = 17.32 m/s, constant over time.
+39::The vertical velocity at time t is::v₀ sinθ::v₀ cosθ::v₀ sinθ - gt::v₀ cosθ - gt::C::Vertical velocity v_y = v₀ sinθ - gt, accounting for gravity’s effect.
+40::What is the maximum range for a projectile with v₀ = 10 m/s (g = 10 m/s²)?::5 m::10 m::20 m::25 m::B::Maximum range R = v₀²/g = 10²/10 = 10 m at θ = 45°.
+41::The time of flight is proportional to::sinθ::cosθ::tanθ::cotθ::A::T = (2v₀ sinθ)/g, so time of flight is proportional to sinθ.
+42::What is the maximum height for v₀ = 10 m/s at 30° (g = 10 m/s²)?::1.25 m::2.5 m::5 m::10 m::A::H = (v₀ sinθ)²/(2g) = (10 × 0.5)²/(2 × 10) = 1.25 m.
+43::The horizontal component of acceleration in projectile motion is::g::Zero::v₀/g::g sinθ::B::No force acts horizontally, so horizontal acceleration is zero.
+44::What is the range if a projectile is launched at 60° with v₀ = 20 m/s (g = 10 m/s²)?::34.64 m::40 m::20 m::17.32 m::A::R = (v₀² sin2θ)/g = (20² × sin120°)/10 = 400 × 0.866/10 = 34.64 m.
+45::The angle between velocity and acceleration at the highest point is::0°::90°::180°::45°::B::At the peak, velocity is horizontal (v₀ cosθ), and acceleration is vertical (g downward), so the angle is 90°.
+46::What is the vertical displacement at maximum height?::Zero::v₀ sinθ/g::(v₀ sinθ)²/2g::v₀ cosθ/g::C::Vertical displacement at maximum height is H = (v₀ sinθ)²/(2g).
+47::The time to reach the ground is doubled if the initial velocity is::Doubled::Halved::Tripled::Quadrupled::A::T ∝ v₀, so doubling v₀ doubles the time of flight.
+48::What is the velocity just before hitting the ground for v₀ = 10 m/s at 45°?::10 m/s::14.14 m/s::20 m/s::5 m/s::A::For symmetric projectile motion, the final speed equals the initial speed, 10 m/s.
+49::The range is proportional to::v₀::v₀²::sinθ::cosθ::B::R = (v₀² sin2θ)/g, so range is proportional to v₀².
+50::The motion of a projectile is an example of::Uniform motion::Accelerated motion::Circular motion::Rotational motion::B::Projectile motion is accelerated due to gravity acting vertically.

@@ -1,0 +1,50 @@
+1::The hereditary material in humans is::RNA::DNA::Protein::Lipid::B::DNA (deoxyribonucleic acid) is the hereditary material carrying genetic information in humans.
+2::Chromosomes are primarily composed of::Protein and lipid::DNA and protein::RNA and lipid::Carbohydrate and protein::B::Chromosomes consist of DNA and histone proteins, forming chromatin.
+3::The number of chromosomes in a human somatic cell is::23::46::22::44::B::Human somatic (body) cells are diploid, containing 46 chromosomes (23 pairs).
+4::The number of chromosomes in a human gamete is::46::23::92::12::B::Human gametes (sperm and egg) are haploid, containing 23 chromosomes.
+5::The basic unit of chromatin is::Nucleosome::Centromere::Telomere::Chromatid::A::The nucleosome is the basic unit of chromatin, with DNA wrapped around histone proteins.
+6::The region of a chromosome where sister chromatids are joined is::Telomere::Centromere::Nucleosome::Kinetochores::B::The centromere is the constricted region where sister chromatids are attached.
+7::The ends of chromosomes are protected by::Centromeres::Telomeres::Nucleosomes::Chromatids::B::Telomeres are repetitive DNA sequences that protect chromosome ends from degradation.
+8::DNA is a double-stranded molecule with a shape called::Single helix::Double helix::Triple helix::Linear strand::B::DNA’s double helix structure was proposed by Watson and Crick, with two antiparallel strands.
+9::The sugar in DNA is::Ribose::Deoxyribose::Glucose::Fructose::B::Deoxyribose is the five-carbon sugar in DNA, differing from ribose in RNA.
+10::The nitrogenous base found only in DNA is::Uracil::Thymine::Adenine::Cytosine::B::Thymine is exclusive to DNA, pairing with adenine, while uracil replaces it in RNA.
+11::The nitrogenous base adenine pairs with::Cytosine::Guanine::Thymine::Uracil::C::In DNA, adenine pairs with thymine via two hydrogen bonds.
+12::The process of DNA duplication is called::Transcription::Translation::Replication::Mutation::C::Replication is the process by which DNA is copied during cell division.
+13::The enzyme that unwinds DNA during replication is::DNA polymerase::Helicase::Ligase::Topoisomerase::B::Helicase unwinds the DNA double helix, creating replication forks.
+14::The enzyme that adds nucleotides during DNA replication is::Helicase::DNA polymerase::Ligase::Primase::B::DNA polymerase synthesizes new DNA strands by adding nucleotides.
+15::The strand synthesized continuously during replication is::Leading strand::Lagging strand::Okazaki fragment::Template strand::A::The leading strand is synthesized continuously in the 5’ to 3’ direction.
+16::The short DNA segments on the lagging strand are called::Leading strands::Okazaki fragments::Primers::Telomeres::B::Okazaki fragments are short DNA pieces synthesized discontinuously on the lagging strand.
+17::The enzyme that joins Okazaki fragments is::Helicase::Polymerase::Ligase::Primase::C::DNA ligase seals the gaps between Okazaki fragments, forming a continuous strand.
+18::The process of copying DNA to RNA is called::Replication::Transcription::Translation::Mutation::B::Transcription involves synthesizing RNA from a DNA template.
+19::The type of RNA that carries the genetic code to ribosomes is::tRNA::mRNA::rRNA::snRNA::B::Messenger RNA (mRNA) carries the genetic code from DNA to ribosomes for protein synthesis.
+20::The process of protein synthesis from RNA is called::Replication::Transcription::Translation::Mutation::C::Translation converts mRNA’s genetic code into a polypeptide chain at ribosomes.
+21::The site of protein synthesis in cells is::Nucleus::Ribosome::Mitochondrion::Golgi apparatus::B::Ribosomes are the cellular structures where translation occurs.
+22::The molecule that carries amino acids to ribosomes is::mRNA::tRNA::rRNA::DNA::B::Transfer RNA (tRNA) transports specific amino acids to ribosomes during translation.
+23::The sequence of three nucleotides on mRNA is called::Anticodon::Codon::Intron::Exon::B::A codon is a triplet of nucleotides on mRNA that codes for an amino acid.
+24::The sequence of three nucleotides on tRNA is called::Codon::Anticodon::Exon::Intron::B::The anticodon on tRNA pairs with the mRNA codon during translation.
+25::The genetic code is said to be::Degenerate::Non-overlapping::Universal::All of these::D::The genetic code is degenerate (multiple codons per amino acid), non-overlapping, and universal across species.
+26::The start codon for protein synthesis is::UAA::AUG::UAG::UGA::B::AUG is the start codon, coding for methionine and initiating translation.
+27::The stop codons signal the end of::Replication::Transcription::Translation::Mutation::C::Stop codons (UAA, UAG, UGA) signal the end of translation, halting protein synthesis.
+28::The non-coding regions of a gene are called::Exons::Introns::Codons::Anticodons::B::Introns are non-coding DNA sequences removed during RNA processing.
+29::The coding regions of a gene are called::Introns::Exons::Codons::Promoters::B::Exons are DNA sequences that code for proteins and are retained in mature mRNA.
+30::The process of removing introns from RNA is called::Splicing::Capping::Polyadenylation::Replication::A::Splicing removes introns from pre-mRNA, joining exons to form mature mRNA.
+31::The addition of a poly-A tail occurs during::DNA replication::RNA processing::Translation::Transcription::B::A poly-A tail is added to mRNA during processing to enhance stability and translation.
+32::The enzyme that synthesizes RNA during transcription is::DNA polymerase::RNA polymerase::Ligase::Helicase::B::RNA polymerase synthesizes RNA by adding nucleotides to the growing strand.
+33::The DNA strand used as a template during transcription is called::Sense strand::Antisense strand::Leading strand::Lagging strand::B::The antisense strand serves as the template for RNA synthesis.
+34::The change in DNA sequence is called::Replication::Transcription::Mutation::Translation::C::A mutation is an alteration in the DNA sequence, potentially affecting gene function.
+35::A point mutation involves::Deletion of a chromosome::Change in one nucleotide::Insertion of a chromosome::Inversion of a segment::B::A point mutation is a change in a single nucleotide in the DNA sequence.
+36::The genetic disorder caused by an extra chromosome 21 is::Turner syndrome::Klinefelter syndrome::Down syndrome::Sickle-cell anemia::C::Down syndrome results from trisomy 21, leading to developmental and intellectual challenges.
+37::The number of autosomes in a human somatic cell is::2::22::44::46::C::Humans have 44 autosomes (22 pairs) and 2 sex chromosomes in somatic cells.
+38::The sex chromosomes in a human female are::XY::XX::XO::YY::B::Females have two X chromosomes (XX), determining their sex.
+39::The sex chromosomes in a human male are::XX::XY::XO::YY::B::Males have one X and one Y chromosome (XY), determining their sex.
+40::The process of DNA repair is primarily handled by::RNA polymerase::DNA polymerase::Ligase::Helicase::C::DNA ligase and other enzymes repair DNA damage, but ligase seals breaks in the backbone.
+41::The genetic disorder caused by a single nucleotide mutation is::Down syndrome::Sickle-cell anemia::Turner syndrome::Klinefelter syndrome::B::Sickle-cell anemia results from a single nucleotide change in the hemoglobin gene.
+42::The structure of DNA was discovered by::Mendel::Watson and Crick::Franklin::Chargaff::B::Watson and Crick proposed the double helix model of DNA in 1953.
+43::The base pairing in DNA follows::Chargaff’s rule::Mendel’s rule::Franklin’s rule::Watson’s rule::A::Chargaff’s rule states that A pairs with T and G pairs with C in equal amounts.
+44::The percentage of adenine in DNA equals the percentage of::Guanine::Cytosine::Thymine::Uracil::C::Due to base pairing, adenine (A) equals thymine (T) in DNA.
+45::The type of bond between nitrogenous bases in DNA is::Covalent::Ionic::Hydrogen::Peptide::C::Hydrogen bonds hold complementary base pairs (A-T, G-C) together in DNA.
+46::The replication of DNA is described as::Conservative::Semi-conservative::Dispersive::Random::B::Semi-conservative replication means each new DNA molecule has one old and one new strand.
+47::The enzyme that synthesizes a short RNA primer during replication is::Helicase::Polymerase::Ligase::Primase::D::Primase synthesizes RNA primers to initiate DNA replication.
+48::The direction of DNA synthesis is::3’ to 5’::5’ to 3’::Both directions::Random::B::DNA polymerase adds nucleotides in the 5’ to 3’ direction during replication.
+49::The genetic material in some viruses is::DNA only::RNA only::DNA or RNA::Protein::C::Viruses can have either DNA or RNA as their genetic material, but not both.
+50::The role of rRNA in protein synthesis is::Carry amino acids::Carry genetic code::Form ribosomes::Initiate transcription::C::Ribosomal RNA (rRNA) forms the structural and functional components of ribosomes.

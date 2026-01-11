@@ -1,0 +1,50 @@
+1::The Kingdom Protista includes organisms that are::Prokaryotic::Eukaryotic::Multicellular only::Non-motile::B::Protists are eukaryotic organisms with a true nucleus and membrane-bound organelles.
+2::Which of the following is a characteristic of protists?::Lack of nucleus::Presence of cell wall::Diverse modes of nutrition::Always multicellular::C::Protists exhibit diverse nutrition modes, including autotrophic, heterotrophic, and mixotrophic.
+3::Which scientist proposed the five-kingdom classification including Protista?::Carl Linnaeus::Robert Whittaker::Louis Pasteur::Robert Hooke::B::Robert Whittaker introduced the five-kingdom system, placing protists in Kingdom Protista.
+4::Which of the following is a unicellular protist?::Amoeba::Spirogyra::Ulva::Chlamydomonas::A::Amoeba is a single-celled protist, unlike Spirogyra and Ulva, which are multicellular.
+5::The locomotory organ in Amoeba is::Flagella::Cilia::Pseudopodia::Pili::C::Amoeba moves and feeds using pseudopodia, temporary extensions of its body.
+6::Which protist causes malaria in humans?::Plasmodium::Trypanosoma::Entamoeba::Paramecium::A::Plasmodium, transmitted by Anopheles mosquitoes, causes malaria.
+7::The primary mode of nutrition in Euglena is::Heterotrophic::Autotrophic::Both A and B::Parasitic::C::Euglena can perform photosynthesis (autotrophic) or absorb nutrients (heterotrophic).
+8::Which structure in Euglena is used for photosynthesis?::Chloroplast::Mitochondrion::Nucleus::Vacuole::A::Chloroplasts in Euglena contain chlorophyll for photosynthesis.
+9::The body of Paramecium is covered with::Flagella::Cilia::Pseudopodia::Cell wall::B::Cilia are hair-like structures used for locomotion and feeding in Paramecium.
+10::Which protist is responsible for African sleeping sickness?::Trypanosoma::Plasmodium::Entamoeba::Leishmania::A::Trypanosoma, transmitted by tsetse flies, causes African sleeping sickness.
+11::The cell wall of diatoms is made of::Cellulose::Chitin::Silica::Peptidoglycan::C::Diatom cell walls, called frustules, are composed of silica, giving them a glassy appearance.
+12::Which group of protists includes slime molds?::Fungus-like protists::Plant-like protists::Animal-like protists::Bacteria-like protists::A::Slime molds are fungus-like protists with characteristics resembling fungi.
+13::The process of binary fission is common in::Euglena::Spirogyra::Ulva::Volvox::A::Euglena reproduces asexually by binary fission, splitting into two identical cells.
+14::Which protist is known for forming red tides?::Dinoflagellates::Diatoms::Euglena::Slime molds::A::Dinoflagellates, like Gonyaulax, cause red tides due to their rapid proliferation.
+15::The contractile vacuole in protists is primarily used for::Nutrition::Locomotion::Osmoregulation::Reproduction::C::The contractile vacuole expels excess water to maintain osmotic balance.
+16::Which of the following is a multicellular protist?::Amoeba::Paramecium::Spirogyra::Trypanosoma::C::Spirogyra is a filamentous, multicellular alga, unlike the others, which are unicellular.
+17::The pigment responsible for the green color in algae is::Chlorophyll::Hemoglobin::Melanin::Carotene::A::Chlorophyll absorbs light for photosynthesis, giving algae their green color.
+18::Which protist is used as a bioindicator of water pollution?::Diatoms::Amoeba::Trypanosoma::Slime molds::A::Diatoms are sensitive to environmental changes, indicating water quality.
+19::The mode of reproduction in Paramecium includes::Binary fission::Conjugation::Both A and B::Budding::C::Paramecium reproduces asexually by binary fission and sexually by conjugation.
+20::Which protist is parasitic and causes amoebic dysentery?::Entamoeba histolytica::Amoeba proteus::Paramecium::Euglena::A::Entamoeba histolytica infects the human intestine, causing amoebic dysentery.
+21::The structure used for locomotion in Trypanosoma is::Cilia::Flagella::Pseudopodia::Pili::B::Trypanosoma uses a single flagellum for movement.
+22::Which of the following is a plant-like protist?::Amoeba::Euglena::Paramecium::Trypanosoma::B::Euglena is plant-like due to its ability to perform photosynthesis.
+23::The ecological role of diatoms includes::Oxygen production::Carbon fixation::Both A and B::Nitrogen fixation::C::Diatoms produce oxygen and fix carbon through photosynthesis.
+24::Which protist is colonial and forms a spherical structure?::Volvox::Spirogyra::Ulva::Amoeba::A::Volvox forms spherical colonies of interconnected cells.
+25::The shell-like covering of radiolarians is made of::Silica::Calcium carbonate::Cellulose::Chitin::A::Radiolarians have intricate silica skeletons, unlike foraminiferans, which use calcium carbonate.
+26::Which of the following is an animal-like protist?::Euglena::Spirogyra::Amoeba::Diatoms::C::Amoeba is animal-like, moving and feeding like animals via pseudopodia.
+27::The primary habitat of most protists is::Desert::Freshwater::Soil::Air::B::Most protists thrive in aquatic environments, especially freshwater.
+28::Which protist is used in the production of agar?::Spirogyra::Ulva::Gelidium::Euglena::C::Gelidium, a red alga, is a source of agar used in microbiology.
+29::The process of conjugation in protists involves::Asexual reproduction::Exchange of genetic material::Cell division::Spore formation::B::Conjugation is a sexual process where protists exchange genetic material.
+30::Which protist is known for its bioluminescence?::Dinoflagellates::Diatoms::Euglena::Amoeba::A::Some dinoflagellates, like Noctiluca, emit light, causing bioluminescence.
+31::The cell wall of brown algae is composed of::Cellulose and algin::Silica::Chitin::Peptidoglycan::A::Brown algae have cell walls made of cellulose and algin, a polysaccharide.
+32::Which of the following is a symbiotic protist?::Trichonympha::Amoeba::Paramecium::Spirogyra::A::Trichonympha lives in termite guts, aiding cellulose digestion.
+33::The primary mode of nutrition in slime molds is::Autotrophic::Heterotrophic::Photosynthetic::Parasitic::B::Slime molds are heterotrophic, feeding on decaying matter or microbes.
+34::Which protist is used as a food source in some cultures?::Spirogyra::Ulva::Amoeba::Trypanosoma::B::Ulva, a green alga, is edible and used in dishes like seaweed salads.
+35::The structure in Paramecium used for feeding is::Oral groove::Contractile vacuole::Nucleus::Cilia::A::The oral groove funnels food particles into the cell mouth.
+36::Which protist group includes foraminiferans?::Animal-like protists::Plant-like protists::Fungus-like protists::Shelled protists::A::Foraminiferans are animal-like protists with calcium carbonate shells.
+37::The toxin produced by dinoflagellates during red tides is harmful to::Plants::Fish::Bacteria::Fungi::B::Dinoflagellate toxins can cause fish kills and shellfish poisoning.
+38::Which of the following is a freshwater protist?::Amoeba::Ulva::Gelidium::Dinoflagellates::A::Amoeba is commonly found in freshwater environments.
+39::The reproductive structure in slime molds is called::Sporangium::Conidium::Zygospore::Ascus::A::Sporangia produce spores in slime molds for reproduction.
+40::Which protist is used in toothpaste as an abrasive?::Diatoms::Spirogyra::Euglena::Amoeba::A::Diatomaceous earth, from diatom frustules, is used in toothpaste.
+41::The process by which Euglena moves toward light is::Phototaxis::Chemotaxis::Geotaxis::Hydrotaxis::A::Phototaxis is movement in response to light, aiding photosynthesis in Euglena.
+42::Which protist has a complex life cycle involving multiple hosts?::Plasmodium::Amoeba::Euglena::Paramecium::A::Plasmodium requires mosquitoes and humans to complete its life cycle.
+43::The cell wall of red algae contains::Cellulose::Agar::Both A and B::Silica::C::Red algae have cell walls made of cellulose and agar or carrageenan.
+44::Which protist is known for its pseudopodia?::Amoeba::Paramecium::Euglena::Dinoflagellates::A::Amoeba uses pseudopodia for movement and feeding.
+45::The primary ecological role of algae is::Decomposition::Oxygen production::Nitrogen fixation::Carbon fixation::B::Algae, especially phytoplankton, produce significant amounts of oxygen via photosynthesis.
+46::Which protist is a major component of plankton?::Diatoms::Amoeba::Slime molds::Trypanosoma::A::Diatoms are key phytoplankton, forming the base of aquatic food chains.
+47::The structure in Amoeba used for osmoregulation is::Contractile vacuole::Nucleus::Pseudopodia::Cell membrane::A::The contractile vacuole removes excess water in Amoeba.
+48::Which of the following is a parasitic protist?::Spirogyra::Trypanosoma::Ulva::Volvox::B::Trypanosoma is parasitic, causing diseases like sleeping sickness.
+49::The body of slime molds during the feeding stage is called::Plasmodium::Sporangium::Zygote::Conidium::A::The plasmodium is a multinucleate, amoeboid stage in slime molds.
+50::Which protist is used in scientific research as a model organism?::Paramecium::Spirogyra::Amoeba::Ulva::A::Paramecium is widely studied for its cellular processes and behavior.

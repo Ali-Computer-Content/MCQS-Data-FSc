@@ -1,0 +1,50 @@
+1::What is the SI unit of temperature?::Celsius::Fahrenheit::Kelvin::Rankine::C::Kelvin is the SI unit of temperature, based on absolute zero.
+2::Heat is a form of::Force::Energy::Momentum::Power::B::Heat is a form of energy transferred due to a temperature difference.
+3::The SI unit of heat is::Joule::Calorie::Watt::Newton::A::Joule is the SI unit of heat, equivalent to the unit of energy.
+4::What is the specific heat capacity of a substance?::Heat required to raise 1 kg by 1 K::Heat required to raise 1 g by 1 °C::Heat required to change phase::Heat required to raise temperature::A::Specific heat capacity is the heat needed to raise the temperature of 1 kg of a substance by 1 K.
+5::The dimension of specific heat capacity is::[L²T⁻²K⁻¹]::[ML²T⁻²]::[L²T⁻²]::[MLT⁻²K⁻¹]::A::Specific heat c = Q/(mΔT) = [ML²T⁻²]/[M·K] = [L²T⁻²K⁻¹].
+6::What is the latent heat of fusion?::Heat to change temperature::Heat to change phase from solid to liquid::Heat to change phase from liquid to gas::Heat to raise 1 kg by 1 K::B::Latent heat of fusion is the heat required to change a substance from solid to liquid at its melting point.
+7::The first law of thermodynamics is a statement of conservation of::Mass::Momentum::Energy::Entropy::C::The first law states that the change in internal energy equals heat added minus work done (ΔU = Q - W).
+8::What is the unit of entropy?::Joule::Joule/Kelvin::Watt::Pascal::B::Entropy has units of joule per kelvin (J/K), measuring disorder.
+9::The second law of thermodynamics states that::Energy is conserved::Entropy of an isolated system increases::Heat flows from cold to hot::Work equals heat::B::The second law states that the entropy of an isolated system increases over time.
+10::What is the efficiency of a Carnot engine operating between 400 K and 300 K?::25%::50%::75%::100%::A::Efficiency η = 1 - (T₂/T₁) = 1 - (300/400) = 0.25 or 25%.
+11::The internal energy of an ideal gas depends on::Pressure::Volume::Temperature::Density::C::For an ideal gas, internal energy U is a function of temperature only.
+12::The molar specific heat at constant volume for a monatomic ideal gas is::R::3/2 R::5/2 R::2R::B::For a monatomic gas, C_v = (3/2)R, where R is the gas constant.
+13::What is the work done in an isochoric process?::Zero::PV::nRT::Q::A::In an isochoric (constant volume) process, ΔV = 0, so work W = PΔV = 0.
+14::The process in which no heat is exchanged is called::Isothermal::Adiabatic::Isochoric::Isobaric::B::In an adiabatic process, Q = 0, so ΔU = -W.
+15::What is the temperature in Kelvin for 25 °C?::248 K::273 K::298 K::323 K::C::T_K = T_C + 273 = 25 + 273 = 298 K.
+16::The heat required to raise 2 kg of water by 10 K (c = 4200 J/kg·K) is::8400 J::42000 J::84000 J::168000 J::C::Q = mcΔT = 2 × 4200 × 10 = 84000 J.
+17::What is the latent heat of vaporization of water at 100 °C?::334 kJ/kg::2260 kJ/kg::4200 kJ/kg::540 kJ/kg::B::The latent heat of vaporization of water is approximately 2260 kJ/kg.
+18::In an isothermal process, the change in internal energy is::Zero::Positive::Negative::Infinite::A::For an ideal gas in an isothermal process, ΔT = 0, so ΔU = 0.
+19::The work done in an isobaric process is::Zero::nRΔT::PV::Q::B::Work W = PΔV = nRΔT in an isobaric (constant pressure) process.
+20::What is the efficiency of a heat engine that takes 1000 J and rejects 600 J?::40%::60%::80%::100%::A::Efficiency η = (Q₁ - Q₂)/Q₁ = (1000 - 600)/1000 = 0.4 or 40%.
+21::The dimension of entropy is::[ML²T⁻²K⁻¹]::[MLT⁻²]::[ML²T⁻²]::[ML²T⁻¹K⁻¹]::A::Entropy S = Q/T = [ML²T⁻²]/[K] = [ML²T⁻²K⁻¹].
+22::What is the heat required to melt 1 kg of ice at 0 °C (L_f = 334 kJ/kg)?::334 kJ::420 kJ::2260 kJ::540 kJ::A::Q = mL_f = 1 × 334 = 334 kJ.
+23::The molar gas constant R is approximately::8.31 J/mol·K::4.18 J/mol·K::2.31 J/mol·K::6.02 J/mol·K::A::R = 8.31 J/mol·K, used in the ideal gas law.
+24::What is the work done by an ideal gas in an isothermal expansion from V to 2V?::nRT ln(2)::nRT::2nRT::Zero::A::Work W = nRT ln(V₂/V₁) = nRT ln(2) for isothermal expansion.
+25::The change in internal energy in an adiabatic process is::Zero::Q::W::-W::D::In an adiabatic process (Q = 0), ΔU = -W (first law:: ΔU = Q - W).
+26::The specific heat of water is approximately::2100 J/kg·K::4200 J/kg·K::334 J/kg·K::2260 J/kg·K::B::Specific heat of water is about 4200 J/kg·K.
+27::What is the temperature in Celsius for 373 K?::0 °C::100 °C::273 °C::373 °C::B::T_C = T_K - 273 = 373 - 273 = 100 °C.
+28::The efficiency of a Carnot engine depends on::Working substance::Volume::Temperature difference::Pressure::C::Efficiency η = 1 - (T₂/T₁), depends on the temperatures of the hot and cold reservoirs.
+29::What is the heat required to raise 0.5 kg of iron by 20 K (c = 460 J/kg·K)?::4600 J::9200 J::2300 J::18400 J::B::Q = mcΔT = 0.5 × 460 × 20 = 9200 J.
+30::The process with constant temperature is called::Isochoric::Isobaric::Isothermal::Adiabatic::C::An isothermal process occurs at constant temperature (ΔT = 0).
+31::What is the work done in a cyclic process?::Zero::nRT::PV::Q::A::In a cyclic process, the system returns to its initial state, so net work equals the area enclosed in the PV diagram, but ΔU = 0.
+32::The entropy of a system increases in::Reversible processes::Irreversible processes::Both::Neither::B::Entropy increases in irreversible processes, as per the second law.
+33::What is the molar specific heat at constant pressure for a monatomic gas?::3/2 R::5/2 R::7/2 R::2R::B::C_p = C_v + R = (3/2)R + R = (5/2)R for a monatomic gas.
+34::The heat absorbed in an isochoric process equals::ΔU::W::PV::nRT::A::In an isochoric process, W = 0, so Q = ΔU (first law).
+35::What is the efficiency if a heat engine rejects 400 J out of 800 J input?::25%::50%::75%::100%::B::η = (Q₁ - Q₂)/Q₁ = (800 - 400)/800 = 0.5 or 50%.
+36::The change in entropy for a reversible isothermal process is::Zero::Q/T::nR::PV/T::B::ΔS = Q/T for a reversible isothermal process.
+37::What is the heat required to vaporize 0.2 kg of water at 100 °C (L_v = 2260 kJ/kg)?::452 kJ::334 kJ::420 kJ::904 kJ::A::Q = mL_v = 0.2 × 2260 = 452 kJ.
+38::The internal energy of a system is ::aState function::Path function::Vector quantity::Dimensionless::A::Internal energy is a state function, depending only on the system’s state.
+39::What is the work done by a gas expanding isobarically from 1 m³ to 2 m³ at 10⁵ Pa?::10⁵ J::2 × 10⁵ J::10⁶ J::5 × 10⁴ J::A::W = PΔV = 10⁵ × (2 - 1) = 10⁵ J.
+40::The Carnot cycle consists of how many processes?::2::3::4::5::C::The Carnot cycle includes two isothermal and two adiabatic processes.
+41::What is the change in internal energy for an ideal gas in an isothermal process?::nRT::Zero::PV::Q::B::ΔU = 0 in an isothermal process for an ideal gas, as U depends only on temperature.
+42::The heat required to change 1 kg of ice at 0 °C to water at 0 °C is::334 kJ::420 kJ::2260 kJ::540 kJ::A::Q = mL_f = 1 × 334 = 334 kJ for melting ice.
+43::What is the dimension of heat?::[ML²T⁻²]::[MLT⁻²]::[ML²T⁻¹]::[MLT⁻¹]::A::Heat is energy, with dimension [ML²T⁻²].
+44::The efficiency of a real engine is::Equal to Carnot::Greater than Carnot::Less than Carnot::Zero::C::Real engines have losses (e.g., friction), so efficiency is less than Carnot’s.
+45::What is the work done in an adiabatic process if ΔU = -500 J?::500 J::-500 J::Zero::1000 J::A::In adiabatic process, Q = 0, so ΔU = -W, thus W = -ΔU = -(-500) = 500 J.
+46::The specific heat at constant pressure is always::Equal to C_v::Less than C_v::Greater than C_v::Zero::C::C_p = C_v + R, so C_p is always greater than C_v for an ideal gas.
+47::What is the entropy change when 1000 J of heat is added at 500 K?::2 J/K::4 J/K::0.5 J/K::1 J/K::A::ΔS = Q/T = 1000/500 = 2 J/K.
+48::The first law of thermodynamics can be written as::ΔU = Q + W::ΔU = Q - W::ΔU = W - Q::ΔU = Q/W::B::ΔU = Q - W, where Q is heat added and W is work done by the system.
+49::What is the temperature in Kelvin for -40 °C?::233 K::273 K::313 K::213 K::A::T_K = T_C + 273 = -40 + 273 = 233 K.
+50::The maximum efficiency of a heat engine occurs in::Carnot cycle::Otto cycle::Diesel cycle::Rankine cycle::A::The Carnot cycle provides the maximum theoretical efficiency for a heat engine.

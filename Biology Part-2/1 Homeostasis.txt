@@ -1,0 +1,50 @@
+1::Homeostasis is the process of maintaining::External environment::Internal environment::Cellular structure::Genetic material::B::Homeostasis keeps the internal environment stable despite external changes.
+2::The primary organ for homeostasis in humans is::Liver::Kidney::Heart::Lungs::B::Kidneys regulate water, electrolytes, and waste, crucial for homeostasis.
+3::The process of regulating body temperature is called::Osmoregulation::Thermoregulation::Excretion::Respiration::B::Thermoregulation maintains optimal body temperature.
+4::The organ responsible for osmoregulation in humans is::Skin::Kidney::Liver::Pancreas::B::Kidneys control water and salt balance to maintain osmotic stability.
+5::The waste product excreted by kidneys is::Urea::Carbon dioxide::Bile::Sweat::A::Urea, a nitrogenous waste, is filtered and excreted by kidneys.
+6::The functional unit of the kidney is::Nephron::Neuron::Alveolus::Glomerulus::A::Nephrons are the structural units responsible for filtration and urine formation.
+7::The process of filtration in the kidney occurs in::Proximal tubule::Glomerulus::Loop of Henle::Distal tubule::B::The glomerulus filters blood to form the glomerular filtrate.
+8::The hormone that regulates water reabsorption in kidneys is::ADH::Aldosterone::Insulin::Thyroxine::A::Antidiuretic hormone (ADH) promotes water reabsorption in collecting ducts.
+9::The condition caused by excessive water loss is::Dehydration::Overhydration::Edema::Hypertension::A::Dehydration occurs when water loss exceeds intake, disrupting homeostasis.
+10::The organ that helps in thermoregulation through sweating is::Liver::Skin::Kidney::Lungs::B::The skin regulates body temperature via sweat production.
+11::The part of the brain that acts as the thermostat is::Cerebellum::Hypothalamus::Medulla oblongata::Cerebrum::B::The hypothalamus regulates body temperature and other homeostatic processes.
+12::The process of removing nitrogenous wastes is called::Osmoregulation::Thermoregulation::Excretion::Respiration::C::Excretion eliminates metabolic wastes like urea from the body.
+13::The hormone that regulates sodium reabsorption in kidneys is::ADH::Aldosterone::Cortisol::Adrenaline::B::Aldosterone increases sodium reabsorption, affecting water balance.
+14::The structure in the nephron where most reabsorption occurs is::Glomerulus::Proximal tubule::Loop of Henle::Collecting duct::B::The proximal tubule reabsorbs most water, glucose, and ions.
+15::The condition caused by high blood glucose levels is::Hypoglycemia::Hyperglycemia::Dehydration::Edema::B::Hyperglycemia results from impaired glucose regulation, as in diabetes.
+16::The organ that detoxifies ammonia into urea is::Kidney::Liver::Lungs::Pancreas::B::The liver converts toxic ammonia into urea via the urea cycle.
+17::The process of maintaining salt and water balance is::Thermoregulation::Osmoregulation::Excretion::Metabolism::B::Osmoregulation maintains the balance of water and electrolytes.
+18::The structure that stores urine before excretion is::Ureter::Bladder::Urethra::Kidney::B::The bladder stores urine until it is excreted via the urethra.
+19::The condition caused by low blood calcium levels is::Tetany::Osteoporosis::Hypercalcemia::Rickets::A::Tetany results from low calcium, causing muscle spasms.
+20::The hormone that regulates calcium levels is::Insulin::Parathormone::ADH::Aldosterone::B::Parathormone (PTH) increases blood calcium by acting on bones and kidneys.
+21::The process of vasodilation in thermoregulation helps to::Conserve heat::Release heat::Increase blood pressure::Reduce blood flow::B::Vasodilation allows heat loss through the skin.
+22::The nitrogenous waste excreted by birds is::Urea::Uric acid::Ammonia::Creatinine::B::Birds excrete uric acid, which conserves water.
+23::The part of the nephron that concentrates urine is::Proximal tubule::Loop of Henle::Distal tubule::Glomerulus::B::The loop of Henle creates a concentration gradient for urine concentration.
+24::The condition caused by kidney stone formation is::Nephritis::Urolithiasis::Glomerulonephritis::Pyelonephritis::B::Urolithiasis refers to the formation of kidney stones.
+25::The organ that removes carbon dioxide from the body is::Kidney::Liver::Lungs::Skin::C::Lungs excrete carbon dioxide during respiration.
+26::The feedback mechanism that maintains homeostasis is::Positive feedback::Negative feedback::Neutral feedback::Cyclic feedback::B::Negative feedback counteracts changes to restore balance.
+27::The condition caused by excessive sodium retention is::Hypotension::Hypertension::Dehydration::Edema::B::Hypertension can result from sodium retention, increasing blood pressure.
+28::The structure that carries urine from kidney to bladder is::Urethra::Ureter::Nephron::Glomerulus::B::Ureters transport urine from kidneys to the bladder.
+29::The process of shivering in thermoregulation generates::Heat::Cold::Energy::Sweat::A::Shivering produces heat through muscle contractions.
+30::The disease caused by impaired insulin production is::Diabetes mellitus::Addison’s disease::Cushing’s syndrome::Tetany::A::Diabetes mellitus results from insufficient insulin, affecting glucose homeostasis.
+31::The structure in the skin that produces sweat is::Sebaceous gland::Sweat gland::Hair follicle::Epidermis::B::Sweat glands produce sweat for thermoregulation and excretion.
+32::The nitrogenous waste excreted by fish is primarily::Urea::Uric acid::Ammonia::Creatinine::C::Fish excrete ammonia, which is highly soluble in water.
+33::The hormone that decreases blood calcium levels is::Parathormone::Calcitonin::ADH::Aldosterone::B::Calcitonin lowers blood calcium by promoting bone deposition.
+34::The condition caused by inflammation of the glomerulus is::Urolithiasis::Glomerulonephritis::Nephritis::Pyelonephritis::B::Glomerulonephritis is inflammation of the glomeruli, affecting filtration.
+35::The process of reabsorbing water in the collecting duct is regulated by::Insulin::ADH::Aldosterone::Parathormone::B::ADH increases water permeability in the collecting duct.
+36::The organ that regulates acid-base balance is::Liver::Kidney::Lungs::Pancreas::B::Kidneys regulate blood pH by excreting hydrogen ions and reabsorbing bicarbonate.
+37::The condition caused by excessive water retention is::Dehydration::Edema::Hypotension::Hyperglycemia::B::Edema is swelling due to fluid accumulation in tissues.
+38::The structure in the nephron where urine is formed is::Glomerulus::Proximal tubule::Collecting duct::Loop of Henle::C::The collecting duct finalizes urine formation before excretion.
+39::The process of vasoconstriction in thermoregulation helps to::Release heat::Conserve heat::Increase blood flow::Reduce blood pressure::B::Vasoconstriction reduces blood flow to the skin, conserving heat.
+40::The waste product excreted through the skin is::Urea::Carbon dioxide::Ammonia::Bile::A::Urea is excreted in small amounts through sweat.
+41::The hormone that responds to low blood pressure is::ADH::Aldosterone::Insulin::Calcitonin::B::Aldosterone increases sodium reabsorption to raise blood pressure.
+42::The condition caused by bacterial infection of the kidney is::Urolithiasis::Pyelonephritis::Glomerulonephritis::Nephrosis::B::Pyelonephritis is a bacterial infection of the kidney pelvis.
+43::The process of maintaining blood pH is called::Osmoregulation::Thermoregulation::Acid-base balance::Excretion::C::Acid-base balance maintains blood pH around 7.4.
+44::The structure that filters blood in the kidney is::Nephron::Glomerulus::Ureter::Bladder::B::The glomerulus filters blood to form the filtrate.
+45::The condition caused by low blood glucose is::Hyperglycemia::Hypoglycemia::Edema::Hypertension::B::Hypoglycemia results from insufficient glucose in the blood.
+46::The organ that excretes excess salts through sweat is::Liver::Kidney::Skin::Lungs::C::The skin excretes salts and urea via sweat glands.
+47::The hormone that increases blood glucose levels is::Insulin::Glucagon::ADH::Aldosterone::B::Glucagon stimulates glycogen breakdown to raise blood glucose.
+48::The process of removing metabolic wastes is::Osmoregulation::Excretion::Thermoregulation::Metabolism::B::Excretion eliminates metabolic wastes like urea and carbon dioxide.
+49::The condition caused by failure of kidneys to function is::Renal failure::Edema::Hypertension::Diabetes::A::Renal failure impairs the kidney’s ability to filter and regulate.
+50::The ecological role of homeostasis includes::Maintaining stable internal conditions::Producing energy::Fixing nitrogen::Synthesizing proteins::A::Homeostasis ensures organisms maintain stable internal environments for survival.

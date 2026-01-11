@@ -1,0 +1,50 @@
+1::Growth in living organisms is characterized by::Increase in size::Decrease in mass::No cell division::Temporary changes::A::Growth involves an irreversible increase in size due to cell division and enlargement.
+2::Development in organisms includes::Growth only::Differentiation only::Growth and differentiation::Movement only::C::Development encompasses growth, differentiation, and morphogenesis.
+3::The process of cell specialization is called::Mitosis::Differentiation::Meiosis::Apoptosis::B::Differentiation results in cells with specific structures and functions.
+4::The primary meristem responsible for primary growth in plants is::Cambium::Cork cambium::Apical meristem::Lateral meristem::C::Apical meristems at root and shoot tips drive primary growth in length.
+5::The type of growth in animals is::Indeterminate::Determinate::Open::Unlimited::B::Animal growth is determinate, ceasing after reaching maturity.
+6::The type of growth in plants is::Determinate::Indeterminate::Closed::Fixed::B::Plant growth is indeterminate, continuing throughout life via meristems.
+7::The hormone responsible for plant growth is::Auxin::Gibberellin::Cytokinin::All of these::D::Auxins, gibberellins, and cytokinins promote various aspects of plant growth.
+8::The phase of rapid cell division in animal development is::Cleavage::Gastrulation::Organogenesis::Morphogenesis::A::Cleavage involves rapid mitotic divisions of the zygote.
+9::The process of forming three germ layers is::Cleavage::Gastrulation::Blastulation::Organogenesis::B::Gastrulation forms ectoderm, mesoderm, and endoderm layers.
+10::The structure formed after cleavage in animals is::Gastrula::Blastula::Morula::Zygote::B::The blastula is a hollow ball of cells formed after cleavage.
+11::The germ layer that forms the nervous system is::Endoderm::Mesoderm::Ectoderm::Epiderm::C::The ectoderm gives rise to the nervous system and skin.
+12::The hormone that promotes seed germination is::Auxin::Gibberellin::Abscisic acid::Ethylene::B::Gibberellins stimulate seed germination by activating enzymes.
+13::The process of programmed cell death is::Mitosis::Apoptosis::Meiosis::Differentiation::B::Apoptosis eliminates unnecessary cells during development.
+14::The plant tissue responsible for secondary growth is::Apical meristem::Vascular cambium::Parenchyma::Collenchyma::B::Vascular cambium produces secondary xylem and phloem for thickness.
+15::The stage of animal development where organs form is::Cleavage::Gastrulation::Organogenesis::Blastulation::C::Organogenesis involves the formation of organs from germ layers.
+16::The structure in plants that protects the embryo is::Seed coat::Endosperm::Cotyledon::Embryo sac::A::The seed coat provides protection to the developing embryo.
+17::The process of embryo formation in plants is::Embryogenesis::Gastrulation::Cleavage::Organogenesis::A::Embryogenesis forms the plant embryo from the zygote.
+18::The hormone that promotes cell division in plants is::Auxin::Gibberellin::Cytokinin::Abscisic acid::C::Cytokinins stimulate cell division and growth in plants.
+19::The structure formed after fertilization in plants is::Zygote::Gastrula::Blastula::Morula::A::The zygote is formed when sperm fertilizes the egg in plants.
+20::The phase of plant growth involving elongation is::Cell division::Cell elongation::Cell differentiation::Maturation::B::Cell elongation increases cell size, contributing to growth.
+21::The germ layer that forms muscles and bones is::Ectoderm::Mesoderm::Endoderm::Epiderm::B::The mesoderm develops into muscles, bones, and circulatory systems.
+22::The hormone that inhibits plant growth is::Auxin::Gibberellin::Cytokinin::Abscisic acid::D::Abscisic acid promotes dormancy and inhibits growth.
+23::The process of shaping an organism during development is::Morphogenesis::Differentiation::Apoptosis::Cleavage::A::Morphogenesis establishes the organism’s shape and structure.
+24::The structure in animal embryos with a fluid-filled cavity is::Morula::Blastula::Gastrula::Zygote::B::The blastula contains a fluid-filled cavity called the blastocoel.
+25::The plant part that stores food for the embryo is::Seed coat::Endosperm::Cotyledon::Both B and C::D::Endosperm and cotyledons provide nutrients to the developing embryo.
+26::The process of seed development in plants is::Pollination::Fertilization::Seed formation::Germination::C::Seed formation follows fertilization, enclosing the embryo.
+27::The hormone that promotes fruit ripening is::Auxin::Gibberellin::Cytokinin::Ethylene::D::Ethylene triggers fruit ripening and senescence.
+28::The stage of animal development after gastrulation is::Cleavage::Blastulation::Organogenesis::Morula formation::C::Organogenesis follows gastrulation, forming organs.
+29::The meristem responsible for increasing plant girth is::Apical meristem::Intercalary meristem::Lateral meristem::Root meristem::C::Lateral meristems, like vascular cambium, increase plant thickness.
+30::The process of forming a seedling from a seed is::Pollination::Fertilization::Germination::Embryogenesis::C::Germination is the sprouting of a seed into a seedling.
+31::The germ layer that forms the digestive tract is::Ectoderm::Mesoderm::Endoderm::Epiderm::C::The endoderm develops into the digestive system and related organs.
+32::The hormone that promotes stem elongation is::Auxin::Gibberellin::Cytokinin::Abscisic acid::B::Gibberellins promote stem elongation and growth.
+33::The structure in plants that becomes the shoot is::Radicle::Plumule::Cotyledon::Endosperm::B::The plumule develops into the shoot system of the plant.
+34::The process of cell death in plant leaves during autumn is::Apoptosis::Senescence::Differentiation::Mitosis::B::Senescence is the aging and death of plant tissues, like leaves.
+35::The animal embryo stage with three germ layers is::Blastula::Gastrula::Morula::Zygote::B::The gastrula has ectoderm, mesoderm, and endoderm layers.
+36::The hormone that promotes apical dominance is::Auxin::Gibberellin::Cytokinin::Ethylene::A::Auxins inhibit lateral bud growth, promoting apical dominance.
+37::The structure in seeds that becomes the root is::Plumule::Radicle::Cotyledon::Endosperm::B::The radicle develops into the root system of the plant.
+38::The process of forming new organs in plants is::Regeneration::Differentiation::Apoptosis::Morphogenesis::A::Regeneration allows plants to form new organs from existing tissues.
+39::The phase of growth involving cell specialization is::Cell division::Cell elongation::Cell differentiation::Maturation::C::Cell differentiation results in specialized cell types.
+40::The structure in animal embryos that supports development is::Yolk sac::Blastocoel::Amnion::Chorion::A::The yolk sac provides nutrients to the developing embryo.
+41::The hormone that closes stomata during stress is::Auxin::Gibberellin::Cytokinin::Abscisic acid::D::Abscisic acid closes stomata to reduce water loss.
+42::The process of forming a fruit from an ovary is::Pollination::Fertilization::Fruit development::Germination::C::Fruit development follows fertilization, enclosing seeds.
+43::The type of growth in annual plants is::Indeterminate::Determinate::Open::Perennial::B::Annual plants complete growth in one season, making it determinate.
+44::The structure in plants that supports the embryo is::Seed coat::Endosperm::Suspensor::Cotyledon::C::The suspensor anchors and nourishes the embryo during development.
+45::The process of forming a flower is::Photoperiodism::Florigenesis::Vernalization::Senescence::B::Florigenesis is the development of flowers in plants.
+46::The hormone that promotes leaf abscission is::Auxin::Gibberellin::Cytokinin::Ethylene::D::Ethylene triggers leaf and fruit abscission.
+47::The stage of animal development before implantation is::Blastula::Gastrula::Morula::Zygote::A::The blastula forms before implantation in the uterus.
+48::The process of growth in arthropods involves::Molting::Regeneration::Apoptosis::Senescence::A::Molting allows arthropods to shed their exoskeleton for growth.
+49::The structure in plants that initiates leaf development is::Apical meristem::Lateral meristem::Intercalary meristem::Leaf primordium::D::Leaf primordia form leaves at the shoot apex.
+50::The ecological role of growth and development includes::Maintaining population::Producing energy::Fixing nitrogen::Recycling nutrients::A::Growth and development ensure species survival and population maintenance.

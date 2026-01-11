@@ -1,0 +1,50 @@
+1::The phenomenon of generating an electric current by a changing magnetic field is called::Electrostatic induction::Electromagnetic induction::Magnetic polarization::Electric polarization::B::Electromagnetic induction, discovered by Faraday, involves inducing current via a changing magnetic field.
+2::The SI unit of magnetic flux is::Weber::Tesl::aAmpere::Henry::A::Magnetic flux is measured in webers (Wb), where 1 Wb = 1 T·m².
+3::Faraday’s law states that the induced EMF is proportional to::Rate of change of magnetic flux::Magnetic field strength::Current in the coil::Area of the coil::A::Faraday’s law:: EMF = -dΦ_B/dt, where Φ_B is magnetic flux.
+4::The magnetic flux (Φ_B) through a loop is given by::BA cosθ::BA sinθ::B/A cosθ::BA/θ::A::Φ_B = BA cosθ, where B is magnetic field, A is area, and θ is the angle between B and the normal to the loop.
+5::Lenz’s law states that the induced current opposes::Change in magnetic field::Change in current::Change in voltage::Change in resistance::A::Lenz’s law:: The induced current creates a magnetic field opposing the change in magnetic flux.
+6::The SI unit of magnetic field strength is::Tesl::aWeber::Henry::Farad::A::Magnetic field strength (B) is measured in tesla (T), where 1 T = 1 Wb/m².
+7::The force on a current-carrying conductor in a magnetic field is given by::F = BIL sinθ::F = BIL cosθ::F = BI/L sinθ::F = BL/I sinθ::A::F = BIL sinθ, where B is magnetic field, I is current, L is length, and θ is the angle between I and B.
+8::The direction of the force on a current-carrying conductor is determined by::Right-hand rule::Left-hand rule::Fleming’s left-hand rule::Fleming’s right-hand rule::C::Fleming’s left-hand rule gives the force direction:: thumb (force), index (B), middle (current).
+9::The torque on a current-carrying loop in a magnetic field is::τ = NIAB sinθ::τ = NIAB cosθ::τ = NIA/B sinθ::τ = NIA sinθ/B::A::Torque τ = NIAB sinθ, where N is number of turns, I is current, A is area, and B is magnetic field.
+10::The magnetic field inside a long solenoid is::B = μ₀nI::B = μ₀I/n::B = μ₀n/I::B = μ₀nI²::A::B = μ₀nI, where μ₀ is permeability of free space, n is turns per unit length, and I is current.
+11::The permeability of free space (μ₀) has the value::4π × 10^-7 T·m/A::8.85 × 10^-12 C²/N·m²::8.99 × 10^9 N·m²/C²::1.6 × 10^-19 C::A::μ₀ = 4π × 10^-7 T·m/A, used in magnetic field calculations.
+12::The magnetic field at the center of a current-carrying circular loop is::B = μ₀I/2r::B = μ₀I/r::B = μ₀I/4r::B = μ₀I²/2r::A::B = μ₀I/(2r), where I is current and r is the radius of the loop.
+13::The force on a charged particle moving in a magnetic field is::F = qvB sinθ::F = qvB cosθ::F = qv/B sinθ::F = qB/v sinθ::A::F = qvB sinθ, where q is charge, v is velocity, B is magnetic field, and θ is the angle between v and B.
+14::The path of a charged particle in a uniform magnetic field is::Circular::Linear::Parabolic::Elliptical::A::If velocity is perpendicular to B, the particle follows a circular path due to the Lorentz force.
+15::The radius of the circular path of a charged particle in a magnetic field is::r = mv/qB::r = qB/mv::r = mvB/q::r = qvB/m::A::r = mv/(qB), derived from balancing centripetal force and magnetic force.
+16::The SI unit of inductance is::Henry::Farad::Tesl::aWeber::A::Inductance is measured in henries (H), where 1 H = 1 Wb/A.
+17::The self-induced EMF in a coil is given by::EMF = -L dI/dt::EMF = L dI/dt::EMF = L I::EMF = L/I::A::EMF = -L dI/dt, where L is inductance and dI/dt is the rate of change of current.
+18::The mutual inductance between two coils depends on::Number of turns::Magnetic flux linkage::Current in one coil::All of these::D::Mutual inductance M depends on turns, flux linkage, and current, given by EMF = -M dI/dt.
+19::The energy stored in an inductor is::½LI²::LI²::½L/I²::L²I::A::Energy U = ½LI², where L is inductance and I is current.
+20::The magnetic flux through a loop is zero when::B is parallel to the loop::B is perpendicular to the loop::No magnetic field exists::Both A and C::D::Φ_B = BA cosθ = 0 when θ = 90° (B parallel to loop) or B = 0.
+21::Fleming’s right-hand rule is used for::Force on a conductor::Induced current::Magnetic field direction::Torque on a loop::B::Fleming’s right-hand rule determines the direction of induced current in electromagnetic induction.
+22::The magnetic field due to a straight current-carrying conductor at distance r is::B = μ₀I/2πr::B = μ₀I/4πr::B = μ₀I/r::B = μ₀I²/2πr::A::B = μ₀I/(2πr), derived from the Biot-Savart law.
+23::The force between two parallel current-carrying conductors is::F = μ₀I1I2L/2πd::F = μ₀I1I2L/d::F = μ₀I1I2/d::F = μ₀I1I2L/4πd::A::F = μ₀I1I2L/(2πd), attractive for same-direction currents, repulsive for opposite.
+24::The SI unit of magnetic flux density is::Tesl::aWeber::Henry::Ampere::A::Magnetic flux density (B) is measured in tesla (T).
+25::The magnetic field inside a toroid is::B = μ₀nI::B = μ₀I/n::B = μ₀n/I::B = μ₀I²/n::A::B = μ₀nI, where n is turns per unit length and I is current.
+26::The Lorentz force on a charged particle is zero when::Velocity is parallel to B::Velocity is perpendicular to B::Charge is zero::Both A and C::D::F = qvB sinθ = 0 if θ = 0° (v parallel to B) or q = 0.
+27::The time period of a charged particle in a magnetic field is::T = 2πm/qB::T = 2πqB/m::T = 2πmB/q::T = 2πq/mB::A::T = 2πm/(qB), independent of the particle’s speed.
+28::The magnetic field at a point on the axis of a current-carrying loop is::B = μ₀Ir²/(2(r² + x²)^(3/2))::B = μ₀I/2r::B = μ₀Ir/2x²::B = μ₀I²r/2x::A::B = μ₀Ir²/[2(r² + x²)^(3/2)], where x is the distance along the axis.
+29::The EMF induced in a coil rotating in a magnetic field is maximum when::The plane of the coil is parallel to B::The plane of the coil is perpendicular to B::The coil is stationary::The magnetic field is zero::A::EMF = NBAω sinθ is maximum when sinθ = 1, i.e., the coil’s plane is parallel to B (θ = 90° to normal).
+30::The inductance (L) of a solenoid is::L = μ₀n²A/l::L = μ₀nA/l::L = μ₀n²l/A::L = μ₀nI::A::L = μ₀n²A/l, where n is turns per unit length, A is area, and l is length.
+31::The force on a current-carrying conductor is maximum when::Current is parallel to B::Current is perpendicular to B::Current is zero::Magnetic field is zero::B::F = BIL sinθ is maximum when θ = 90° (current perpendicular to B).
+32::The magnetic field due to an infinite straight conductor is::Inversely proportional to distance::Proportional to distance::Constant::Zero::A::B = μ₀I/(2πr), so B ∝ 1/r.
+33::The direction of induced current in a loop is such that it::Increases flux::Decreases flux::Opposes change in flux::Increases magnetic field::C::By Lenz’s law, the induced current opposes the change in magnetic flux.
+34::The magnetic flux through a loop of area 0.1 m² in a field of 2 T at 60° is::0.1 Wb::0.2 Wb::0.173 Wb::0.346 Wb::C::Φ_B = BA cosθ = 2 × 0.1 × cos60° = 0.2 × 0.5 = 0.1 Wb.
+35::The mutual inductance (M) between two coils is measured in::Henry::Tesl::aWeber::Farad::A::Mutual inductance is measured in henries (H), like self-inductance.
+36::The force on a proton moving at 10^6 m/s perpendicular to a 0.1 T field (q = 1.6 × 10^-19 C) is::1.6 × 10^-14 N::1.6 × 10^-13 N::1.6 × 10^-15 N::1.6 × 10^-12 N::A::F = qvB sinθ = 1.6 × 10^-19 × 10^6 × 0.1 × 1 = 1.6 × 10^-14 N.
+37::The magnetic field at the center of a loop with current 2 A and radius 0.05 m is::2.51 × 10^-5 T::2.51 × 10^-4 T::4 × 10^-5 T::8 × 10^-5 T::B::B = μ₀I/(2r) = (4π × 10^-7 × 2)/(2 × 0.05) = 2.51 × 10^-4 T.
+38::The EMF induced in a coil with 100 turns, area 0.01 m², rotating at 50 rad/s in a 0.1 T field is::50 V::5 V::0.5 V::500 V::B::EMF = NBAω sinθ; maximum EMF = 100 × 0.1 × 0.01 × 50 = 5 V.
+39::The energy stored in an inductor with inductance 2 H and current 3 A is::9 J::18 J::6 J::3 J::A::U = ½LI² = ½ × 2 × 3² = 9 J.
+40::The magnetic field inside a solenoid with 1000 turns/m and current 5 A is::6.28 × 10^-3 T::6.28 × 10^-2 T::1.26 × 10^-2 T::1.26 × 10^-3 T::C::B = μ₀nI = 4π × 10^-7 × 1000 × 5 = 1.26 × 10^-2 T.
+41::The radius of the path of an electron (m = 9.1 × 10^-31 kg, q = 1.6 × 10^-19 C) moving at 10^7 m/s in a 0.01 T field is::5.7 × 10^-2 m::5.7 × 10^-3 m::5.7 × 10^-4 m::5.7 × 10^-5 m::B::r = mv/(qB) = (9.1 × 10^-31 × 10^7)/(1.6 × 10^-19 × 0.01) = 5.7 × 10^-3 m.
+42::The torque on a rectangular loop with 10 turns, area 0.02 m², current 2 A, in a 0.5 T field at 30° is::0.1 N·m::0.2 N·m::0.05 N·m::0.4 N·m::A::τ = NIAB sinθ = 10 × 2 × 0.02 × 0.5 × sin30° = 0.1 N·m.
+43::The induced EMF in a coil when magnetic flux changes from 0.1 Wb to 0.3 Wb in 0.2 s is::1 V::2 V::0.5 V::5 V::B::EMF = -ΔΦ_B/Δt = -(0.3 - 0.1)/0.2 = 2 V.
+44::The magnetic field due to a straight conductor carrying 10 A at 0.2 m is::10^-5 T::2 × 10^-5 T::5 × 10^-6 T::10^-6 T::B::B = μ₀I/(2πr) = (4π × 10^-7 × 10)/(2π × 0.2) = 2 × 10^-5 T.
+45::The force per unit length between two parallel conductors 0.1 m apart, each carrying 5 A, is::5 × 10^-5 N/m::10^-5 N/m::2 × 10^-5 N/m::10^-4 N/m::A::F/L = μ₀I1I2/(2πd) = (4π × 10^-7 × 5 × 5)/(2π × 0.1) = 5 × 10^-5 N/m.
+46::The magnetic flux through a loop is maximum when::Loop is parallel to B::Loop is perpendicular to B::Loop is at 45° to B::No field exists::B::Φ_B = BA cosθ is maximum when θ = 0° (loop perpendicular to B).
+47::The self-inductance of a coil depends on::Number of turns::Area of coil::Length of coil::All of these::D::L = μ₀n²A/l, so inductance depends on turns, area, and length.
+48::The time period of a proton (m = 1.67 × 10^-27 kg, q = 1.6 × 10^-19 C) in a 0.1 T field is::4.1 × 10^-7 s::6.6 × 10^-7 s::2.1 × 10^-7 s::8.2 × 10^-7 s::B::T = 2πm/(qB) = (2π × 1.67 × 10^-27)/(1.6 × 10^-19 × 0.1) = 6.6 × 10^-7 s.
+49::The induced EMF in a coil depends on::Rate of change of flux::Number of turns::Area of the coil::All of these::D::EMF = -N d(BA cosθ)/dt, so it depends on flux change rate, turns, and area.
+50::The magnetic field at a point 0.1 m from a wire carrying 4 A is::8 × 10^-6 T::4 × 10^-6 T::2 × 10^-6 T::1.6 × 10^-5 T::A::B = μ₀I/(2πr) = (4π × 10^-7 × 4)/(2π × 0.1) = 8 × 10^-6 T.

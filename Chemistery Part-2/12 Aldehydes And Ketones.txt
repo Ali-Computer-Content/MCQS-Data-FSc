@@ -1,0 +1,50 @@
+1::What is the general formula of aldehydes?::RCOOH::RCHO::RCOR::ROH::B::Aldehydes have the general formula RCHO, with a carbonyl group (C=O) bonded to at least one H.
+2::What is the functional group of ketones?::-OH::-COOH::-CHO::-C=O::D::Ketones have a carbonyl group (-C=O) bonded to two carbon atoms.
+3::The IUPAC name of CH₃CHO is::Methanal::Ethanal::Propanone::Ethanol::B::CH₃CHO has two carbons, so it is ethanal (derived from ethane).
+4::Which of the following is a ketone?::Formaldehyde::Acetaldehyde::Acetone::Benzaldehyde::C::Acetone (CH₃COCH₃) is a ketone with the carbonyl group between two carbon atoms.
+5::What is the hybridization of the carbonyl carbon in aldehydes and ketones?::sp::sp²::sp³::dsp²::B::The carbonyl carbon is sp² hybridized, forming three sigma bonds and one pi bond.
+6::Which reagent is used to distinguish between aldehydes and ketones?::Fehling’s solution::Grignard reagent::HCl::NaOH::A::Fehling’s solution oxidizes aldehydes to carboxylic acids, producing a red precipitate, but ketones do not react.
+7::What is the product when ethanal reacts with Tollens’ reagent?::Silver mirror::Red precipitate::Yellow precipitate::No reaction::A::Aldehydes like ethanal reduce Tollens’ reagent (Ag(NH₃)₂⁺) to form a silver mirror.
+8::Which test gives a yellow precipitate with aldehydes and ketones?::Fehling’s test::Tollens’ test::Iodoform test::Benedict’s test::C::The iodoform test gives a yellow precipitate (CHI₃) with methyl ketones and acetaldehyde.
+9::The product of the reduction of ethanal with NaBH₄ is::Ethanol::Ethanoic acid::Ethene::Acetone::A::Ethanal (CH₃CHO) is reduced to ethanol (CH₃CH₂OH) using NaBH₄.
+10::Which compound undergoes the Cannizzaro reaction?::Acetone::Acetaldehyde::Formaldehyde::Propanone::C::Formaldehyde (HCHO), lacking an α-hydrogen, undergoes the Cannizzaro reaction, forming an alcohol and a carboxylate.
+11::What is the product when propanone reacts with HCN?::Cyanohydrin::Hydrazone::Oxime::Semicarbazone::A::Propanone reacts with HCN to form a cyanohydrin via nucleophilic addition to the carbonyl group.
+12::Which reagent converts aldehydes to carboxylic acids?::NaBH₄::LiAlH₄::KMnO₄::H₂/Pt::C::KMnO₄ is a strong oxidizing agent that oxidizes aldehydes to carboxylic acids.
+13::The IUPAC name of CH₃COCH₃ is::Propanone::Ethanal::Butanone::Acetone::A::CH₃COCH₃ is propanone, with three carbons, the common name being acetone.
+14::Which of the following does not react with Fehling’s solution?::Methanal::Ethanal::Propanone::Butanal::C::Propanone (a ketone) does not react with Fehling’s solution, as ketones are not easily oxidized.
+15::What is the product when acetaldehyde reacts with hydroxylamine?::Oxime::Hydrazone::Semicarbazone::Cyanohydrin::A::Acetaldehyde reacts with NH₂OH to form an oxime (CH₃CH=NOH).
+16::Which compound gives a positive iodoform test?::Ethanol::Propanone::Methanal::Butanone::B::Propanone (CH₃COCH₃), a methyl ketone, gives a positive iodoform test, forming yellow CHI₃.
+17::What is the oxidation product of methanal?::Methanol::Formic acid::Acetone::Ethanal::B::Methanal (HCHO) is oxidized to formic acid (HCOOH) by oxidizing agents like KMnO₄.
+18::The reaction of aldehydes with alcohols in the presence of acid forms::Esters::Ethers::Hemiacetals::Acetals::C::Aldehydes react with one molecule of alcohol to form hemiacetals, and with excess alcohol to form acetals.
+19::Which reagent is used to prepare hydrazones from aldehydes?::NH₂OH::NH₂NH₂::NH₂CONHNH₂::HCN::B::Hydrazine (NH₂NH₂) reacts with aldehydes to form hydrazones (RCH=NNH₂).
+20::The product of the Clemmensen reduction of acetophenone is::Ethylbenzene::Phenol::Benzaldehyde::Acetone::A::Clemmensen reduction (Zn(Hg)/HCl) reduces ketones like acetophenone (C₆H₅COCH₃) to ethylbenzene (C₆H₅CH₂CH₃).
+21::Which aldehyde is used as a disinfectant?::Ethanal::Methanal::Propanal::Butanal::B::Methanal (formaldehyde) is used as a disinfectant in aqueous solution (formalin).
+22::What is the product when butanone reacts with NaBH₄?::Butanol::2-Butanol::Butanoic acid::Butanal::B::Butanone (CH₃COCH₂CH₃) is reduced to 2-butanol (CH₃CH(OH)CH₂CH₃) by NaBH₄.
+23::Which reaction involves the disproportionation of aldehydes?::Aldol condensation::Cannizzaro reaction::Clemmensen reduction::Iodoform test::B::The Cannizzaro reaction involves aldehydes without α-hydrogens undergoing disproportionation to form an alcohol and a carboxylate.
+24::The IUPAC name of C₆H₅CHO is::Benzaldehyde::Acetophenone::Phenol::Aniline::A::C₆H₅CHO is benzaldehyde, with a formyl group attached to a benzene ring.
+25::Which compound does not undergo aldol condensation?::Ethanal::Propanone::Methanal::Butanal::C::Methanal (HCHO) lacks an α-hydrogen, so it cannot undergo aldol condensation.
+26::What is the product of the aldol condensation of ethanal?::3-Hydroxybutanal::2-Hydroxypropanal::Ethanol::Acetone::A::Ethanal undergoes aldol condensation to form 3-hydroxybutanal (CH₃CH(OH)CH₂CHO).
+27::Which reagent is used for the Wolff-Kishner reduction?::Zn(Hg)/HCl::NaBH₄::NH₂NH₂/KOH::LiAlH₄::C::Wolff-Kishner reduction uses NH₂NH₂/KOH to reduce carbonyls to hydrocarbons.
+28::The product of the oxidation of propanal with KMnO₄ is::Propanol::Propanoic acid::Propanone::Propene::B::Propanal (CH₃CH₂CHO) is oxidized to propanoic acid (CH₃CH₂COOH).
+29::Which test is used to identify methyl ketones?::Fehling’s test::Tollens’ test::Iodoform test::Benedict’s test::C::The iodoform test identifies methyl ketones (RCOCH₃) by forming yellow CHI₃.
+30::What is the product when acetophenone reacts with NH₂NH₂?::Hydrazone::Oxime::Semicarbazone::Cyanohydrin::A::Acetophenone reacts with hydrazine (NH₂NH₂) to form a hydrazone (C₆H₅C(CH₃)=NNH₂).
+31::Which compound is used as a solvent in nail polish remover?::Ethanal::Propanone::Methanal::Butanal::B::Propanone (acetone) is commonly used as a solvent in nail polish remover.
+32::The product of the reduction of benzaldehyde with LiAlH₄ is::Benzyl alcohol::Benzoic acid::Phenol::Toluene::A::Benzaldehyde (C₆H₅CHO) is reduced to benzyl alcohol (C₆H₅CH₂OH) by LiAlH₄.
+33::Which of the following is a symmetrical ketone?::Propanone::Butanone::Pentan-2-one::Acetophenone::A::Propanone (CH₃COCH₃) is symmetrical, with identical groups (CH₃) on either side of the carbonyl.
+34::What is the product when formaldehyde reacts with NaOH in the Cannizzaro reaction?::Methanol + Formic acid::Ethanol + Ethanoic acid::Methanol + Formate::Ethanal + Acetate::C::Formaldehyde (HCHO) forms methanol (CH₃OH) and formate (HCOO⁻) in the Cannizzaro reaction.
+35::Which reagent forms a semicarbazone with aldehydes?::NH₂OH::NH₂NH₂::NH₂CONHNH₂::HCN::C::Semicarbazide (NH₂CONHNH₂) reacts with aldehydes to form semicarbazones.
+36::The boiling point of aldehydes compared to alcohols of similar molecular weight is::Higher::Lower::Equal::Unrelated::B::Aldehydes have lower boiling points due to the absence of hydrogen bonding, unlike alcohols.
+37::What is the product when ethanal reacts with excess ethanol?::Hemiacetal::Acetal::Ester::Ether::B::Ethanal reacts with excess ethanol in acid to form an acetal (CH₃CH(OCH₂CH₃)₂).
+38::Which compound gives a red precipitate with Fehling’s solution?::Propanone::Ethanal::Acetone::Butanone::B::Ethanal, an aldehyde, reduces Fehling’s solution to form a red Cu₂O precipitate.
+39::The product of the Wolff-Kishner reduction of propanone is::Propane::Propanol::Propanoic acid::Propene::A::Propanone (CH₃COCH₃) is reduced to propane (CH₃CH₂CH₃) by NH₂NH₂/KOH.
+40::Which of the following is not a reaction of aldehydes?::Aldol condensation::Cannizzaro reaction::Iodoform test::Clemmensen reduction::C::The iodoform test is specific to acetaldehyde and methyl ketones, not all aldehydes.
+41::What is the common name of CH₃CH₂CHO?::Propanal::Propionaldehyde::Acetaldehyde::Butanal::B::CH₃CH₂CHO is propionaldehyde in common nomenclature, propanal in IUPAC.
+42::Which compound forms a yellow precipitate with 2,4-DNP?::Ethanol::Ethanal::Ethene::Ether::B::Ethanal reacts with 2,4-dinitrophenylhydrazine (2,4-DNP) to form a yellow hydrazone precipitate.
+43::The product of the oxidation of acetophenone is::Benzoic acid::Ethylbenzene::Phenol::Acetone::A::Acetophenone (C₆H₅COCH₃) is oxidized to benzoic acid (C₆H₅COOH) under strong oxidation.
+44::Which aldehyde is used in the preservation of biological specimens?::Ethanal::Methanal::Propanal::Benzaldehyde::B::Methanal (formaldehyde) as formalin is used to preserve biological specimens.
+45::What is the product when butanal reacts with Tollens’ reagent?::Butanoic acid::Butanol::Silver mirror::Butanone::C::Butanal reduces Tollens’ reagent to form a silver mirror, oxidizing to butanoic acid.
+46::The reaction of ketones with Grignard reagents forms::Primary alcohols::Secondary alcohols::Tertiary alcohols::Carboxylic acids::C::Ketones react with Grignard reagents to form tertiary alcohols after hydrolysis.
+47::Which of the following has the highest boiling point?::Ethanal::Propanone::Ethanol::Propanal::C::Ethanol has the highest boiling point due to hydrogen bonding, unlike aldehydes and ketones.
+48::What is the product when propanal undergoes aldol condensation?::3-Hydroxybutanal::3-Hydroxypentanal::2-Hydroxypropanal::4-Hydroxypentanal::B::Propanal (CH₃CH₂CHO) forms 3-hydroxypentanal via aldol condensation.
+49::Which reagent does not reduce aldehydes?::NaBH₄::LiAlH₄::KMnO₄::H₂/Pt::C::KMnO₄ oxidizes aldehydes to carboxylic acids, while others reduce them to alcohols.
+50::The IUPAC name of CH₃COCH₂CH₃ is::Butanone::Propanone::Pentanone::Ethanal::A::CH₃COCH₂CH₃ has four carbons with a ketone group on the second carbon, so it is butanone.

@@ -1,0 +1,50 @@
+1::An operating system is::Software that manages hardware and software::A user application::A hardware component::A programming language::A::Controls system resources.
+2::Windows Operating System is developed by::Microsoft::Apple::Google::Linux Foundation::A::Created by Microsoft Corporation.
+3::The primary function of Windows OS is to::Provide a user interface::Compile programs::Design hardware::None::A::Facilitates user interaction.
+4::The graphical user interface (GUI) in Windows includes::Desktop and Start Menu::Command-line interface::Text editor::None::A::Visual interaction elements.
+5::The desktop in Windows is the::Main screen with icons::A folder::A hardware device::A program::A::Primary workspace.
+6::The Start Menu in Windows provides access to::Programs and settings::Files only::Network settings::None::A::Centralized access point.
+7::The Taskbar in Windows is located::At the bottom of the screen::At the top of the screen::On the left side::None::A::By default, at bottom.
+8::The Control Panel in Windows is used to::Customize system settings::Write code::Manage files::Play medi::aA::Adjusts hardware/software settings.
+9::File Explorer in Windows is used for::Managing files and folders::Browsing the internet::Editing documents::None::A::Navigates file system.
+10::The extension for a folder in Windows is::None::.exe::.docx::.txt::A::Folders have no specific extension.
+11::A shortcut in Windows is::A link to a file or program::A duplicate file::A system file::None::A::Quick access without copying.
+12::The Recycle Bin in Windows stores::Deleted files temporarily::Permanent files::System files::None::A::Allows file recovery.
+13::To permanently delete a file without using Recycle Bin, use::Shift + Delete::Delete::Ctrl + Delete::None::A::Bypasses Recycle Bin.
+14::The command to rename a file in Windows is::Right-click, Rename::Ctrl + R::Shift + F::None::A::Context menu option.
+15::The Windows feature to search for files is::Search bar in File Explorer::Task Manager::Control Panel::None::A::Located in Start Menu or File Explorer.
+16::The file extension for an executable program in Windows is::.exe::.txt::.jpg::.pdf::A::Runs applications.
+17::The Control Panel setting to change the desktop background is::Personalization::System::Network::Devices::A::Customizes appearance.
+18::The System Properties window shows::Hardware and OS details::Network status::File locations::None::A::E.g., RAM, processor info.
+19::The Disk Cleanup utility in Windows::Removes temporary files::Formats the drive::Installs software::None::A::Frees disk space.
+20::The Task Manager in Windows is used to::Monitor system performance::Edit files::Manage networks::None::A::Shows CPU, memory usage.
+21::To open Task Manager in Windows, press::Ctrl + Shift + Esc::Ctrl + Alt + Delete::Ctrl + Esc::None::A::Direct shortcut.
+22::The Windows feature to pin programs to the Taskbar is::Right-click, Pin to Taskbar::Drag to desktop::Copy to folder::None::A::Quick access to apps.
+23::The Windows utility to defragment a hard drive is::Disk Defragmenter::Disk Cleanup::Task Manager::None::A::Optimizes file storage.
+24::The file system used by modern Windows OS is::NTFS::FAT32::exFAT::None::A::New Technology File System.
+25::The command to create a new folder in File Explorer is::Ctrl + Shift + N::Ctrl + N::Shift + N::None::A::Quick folder creation.
+26::The Windows feature to switch between open applications is::Alt + Tab::Ctrl + Tab::Shift + Tab::None::A::Task switcher.
+27::The System Restore feature in Windows::Reverts system to previous state::Formats the drive::Installs updates::None::A::Fixes system issues.
+28::The Windows Update feature::Installs security patches::Deletes files::Manages hardware::None::A::Keeps OS up-to-date.
+29::The file extension for a text document in Windows is::.txt::.docx::.pdf::.exe::A::Plain text files.
+30::The Control Panel option to manage user accounts is::User Accounts::System::Network::Devices::A::Add or modify accounts.
+31::The Windows feature to lock the computer is::Win + L::Ctrl + L::Alt + L::None::A::Secures the session.
+32::The Device Manager in Windows::Manages hardware devices::Manages files::Runs programs::None::A::Configures drivers.
+33::The file extension for a Microsoft Word document is::.docx::.txt::.pdf::.exe::A::Word file format.
+34::The Windows utility to check disk errors is::Check Disk (chkdsk)::Disk Cleanup::Task Manager::None::A::Scans and fixes disk issues.
+35::The command to copy a file in Windows is::Ctrl + C::Ctrl + X::Ctrl + V::None::A::Copies to clipboard.
+36::The command to paste a file in Windows is::Ctrl + V::Ctrl + C::Ctrl + X::None::A::Pastes from clipboard.
+37::The Windows feature to view hidden files is::Folder Options::Control Panel::Task Manager::None::A::Show hidden files setting.
+38::The file extension for an image file in Windows is::.jpg::.txt::.exe::.docx::A::Common image format.
+39::The Windows utility to compress files is::Zip (File Explorer)::Disk Cleanup::Task Manager::None::A::Creates .zip files.
+40::The command to cut a file in Windows is::Ctrl + X::Ctrl + C::Ctrl + V::None::A::Moves to clipboard.
+41::The Windows feature to change screen resolution is::Display Settings::System::Network::Devices::A::Adjusts monitor display.
+42::The Taskbar in Windows shows::Running applications::System files::Network status::None::A::Pinned and active apps.
+43::The Windows feature to schedule tasks is::Task Scheduler::Task Manager::Control Panel::None::A::Automates tasks.
+44::The file extension for a PDF document is::.pdf::.txt::.docx::.exe::A::Portable Document Format.
+45::The Windows utility to backup files is::Backup and Restore::Disk Cleanup::Task Manager::None::A::Saves data copies.
+46::The command to open the Run dialog box in Windows is::Win + R::Ctrl + R::Alt + R::None::A::Executes commands.
+47::The Windows feature to manage startup programs is::Task Manager::Control Panel::File Explorer::None::A::Startup tab in Task Manager.
+48::The file extension for a video file in Windows is::.mp4::.txt::.exe::.docx::A::Common video format.
+49::The Windows feature to connect to a network is::Network and Sharing Center::System::Devices::None::A::Configures network settings.
+50::The command to shut down Windows is::Alt + F4 (from desktop)::Ctrl + F4::Shift + F4::None::A::Closes system.

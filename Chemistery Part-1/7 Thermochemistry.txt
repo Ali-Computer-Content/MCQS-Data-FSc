@@ -1,0 +1,50 @@
+1::The branch of chemistry that deals with heat changes in chemical reactions is called::Thermodynamics::Thermochemistry::Kinetics::Electrochemistry::B::Thermochemistry studies heat changes associated with chemical reactions.
+2::A reaction that releases heat to the surroundings is called::Endothermic::Exothermic::Isothermic::Adiabatic::B::Exothermic reactions release heat, causing the surroundings to warm up.
+3::The enthalpy change of a reaction is represented by::∆G::∆S::∆H::∆E::C::Enthalpy change is denoted by ∆H, measuring heat change at constant pressure.
+4::In an endothermic reaction, the enthalpy of products is::Less than reactants::Equal to reactants::Greater than reactants::Unrelated to reactants::C::Endothermic reactions absorb heat, so products have higher enthalpy than reactants.
+5::The SI unit of enthalpy is::Joule::Calorie::Watt::Pascal::A::Enthalpy is a form of energy, measured in Joules.
+6::Hess’s law is based on the principle of::Conservation of mass::Conservation of energy::Avogadro’s law::Boyle’s law::B::Hess’s law relies on the conservation of energy, stating that total enthalpy change is independent of the pathway.
+7::The heat of formation of a compound is the enthalpy change when::One mole of compound decomposes::One mole of compound is formed from its elements::One mole of compound reacts::One mole of compound dissolves::B::Standard heat of formation (∆Hf) is for forming one mole of a compound from its elements in standard states.
+8::The standard state of an element is its most stable form at::0 K and 1 atm::25°C and 1 atm::0°C and 1 atm::100°C and 1 atm::B::Standard state is defined at 25°C (298 K) and 1 atm pressure.
+9::The enthalpy change for the combustion of one mole of a substance is called::Heat of formation::Heat of combustion::Heat of neutralization::Heat of solution::B::Heat of combustion is the enthalpy change when one mole of a substance burns completely in oxygen.
+10::The Born-Haber cycle is used to calculate::Lattice energy::Ionization energy::Electron affinity::Bond energy::A::The Born-Haber cycle applies Hess’s law to calculate lattice energy of ionic compounds.
+11::The heat absorbed or released at constant pressure is equal to::∆E::∆H::∆G::∆S::B::At constant pressure, heat change equals the enthalpy change (∆H).
+12::Which of the following is an exothermic process?::Melting of ice::Burning of methane::Evaporation of water::Dissolving NH4Cl in water::B::Burning methane releases heat, making it exothermic.
+13::The heat capacity of a substance is the amount of heat required to raise the temperature of::1 gram by 1 K::1 mole by 1 K::The substance by 1 K::1 kg by 1 K::C::Heat capacity is the heat needed to raise the temperature of a given amount of substance by 1 K.
+14::The specific heat capacity of water is::4.18 J/g·K::2.18 J/g·K::1.18 J/g·K::3.18 J/g·K::A::Water’s specific heat capacity is 4.18 J/g·K, indicating its high heat-absorbing ability.
+15::A calorimeter is used to measure::Temperature::Heat change::Pressure::Volume::B::A calorimeter measures heat changes during chemical or physical processes.
+16::The heat of neutralization for a strong acid and strong base is approximately::–57.3 kJ/mol::–75.3 kJ/mol::+57.3 kJ/mol::+75.3 kJ/mol::A::The heat of neutralization for strong acid-base reactions is about –57.3 kJ/mol due to H⁺ + OH⁻ → H₂O.
+17::The enthalpy change for the reaction 2H₂(g) + O₂(g) → 2H₂O(l) is::Heat of combustion::Heat of formation::Heat of neutralization::Heat of solution::B::This is the heat of formation of water, as it forms from its elements.
+18::In a bomb calorimeter, the reaction occurs at constant::Pressure::Temperature::Volume::Mass::C::A bomb calorimeter operates at constant volume, measuring ∆E.
+19::The enthalpy of a system is a::State function::Path function::Kinetic function::Dynamic function::A::Enthalpy is a state function, depending only on the initial and final states.
+20::The heat of formation of CO₂(g) is::–393.5 kJ/mol::–285.8 kJ/mol::–110.5 kJ/mol::0 kJ/mol::A::The standard heat of formation of CO₂(g) is –393.5 kJ/mol.
+21::Which of the following has a standard enthalpy of formation of zero?::H₂O(l)::O₂(g)::CO₂(g)::NaCl(s)::B::Elements in their standard states, like O₂(g), have ∆Hf = 0.
+22::The enthalpy change for the reaction C(s) + O₂(g) → CO₂(g) is::Heat of combustion::Heat of formation::Both A and B::Heat of neutralization::C::This is both the heat of combustion of carbon and the heat of formation of CO₂.
+23::The heat of solution is the enthalpy change when::One mole of solute dissolves in water::One mole of solvent dissolves::One mole of solute reacts::One mole of solute evaporates::A::Heat of solution is for dissolving one mole of solute in a solvent.
+24::The lattice energy of an ionic compound is always::Positive::Negative::Zero::Variable::B::Lattice energy is negative, as it represents the energy released when ions form a lattice.
+25::The enthalpy change for the reaction H₂(g) → 2H(g) is called::Bond energy::Ionization energy::Electron affinity::Lattice energy::A::This is the bond energy, the energy required to break the H–H bond.
+26::The heat of combustion of methane (CH₄) is::–890.3 kJ/mol::–393.5 kJ/mol::–285.8 kJ/mol::–110.5 kJ/mol::A::The standard heat of combustion of methane is –890.3 kJ/mol.
+27::Which process is endothermic?::Combustion of coal::Sublimation of iodine::Neutralization of HCl::Freezing of water::B::Sublimation requires energy to break intermolecular forces, making it endothermic.
+28::The enthalpy change for the reverse of a reaction is::Equal in magnitude but opposite in sign::Equal in magnitude and sign::Zero::Unrelated::A::The enthalpy of the reverse reaction is equal in magnitude but opposite in sign (Hess’s law).
+29::The heat of formation of H₂O(l) is::–393.5 kJ/mol::–285.8 kJ/mol::–890.3 kJ/mol::0 kJ/mol::B::The standard heat of formation of H₂O(l) is –285.8 kJ/mol.
+30::The enthalpy change measured in a coffee-cup calorimeter is::∆E::∆H::∆G::∆S::B::A coffee-cup calorimeter measures ∆H at constant pressure.
+31::The heat of reaction depends on::Physical state of reactants and products::Temperature::Pressure::All of these::D::Heat of reaction depends on physical states, temperature, and pressure.
+32::The enthalpy change for the formation of one mole of NaCl(s) from Na(s) and Cl₂(g) is::Heat of combustion::Heat of formation::Heat of neutralization::Heat of solution::B::This is the heat of formation of NaCl(s).
+33::Which of the following is not a state function?::Enthalpy::Internal energy::Heat::Temperature::C::Heat is a path function, depending on the process, not just the state.
+34::The heat of combustion is always::Positive::Negative::Zero::Variable::B::Combustion is exothermic, so the heat of combustion is negative.
+35::The enthalpy change for the reaction N₂(g) + 3H₂(g) → 2NH₃(g) is::Heat of combustion::Heat of formation::Heat of neutralization::Heat of solution::B::This is the heat of formation of ammonia (NH₃).
+36::The heat absorbed by the system in an endothermic reaction is::Positive::Negative::Zero::Infinite::A::Endothermic reactions absorb heat, so ∆H is positive.
+37::The standard enthalpy of formation of an element in its standard state is::Positive::Negative::Zero::Variable::C::By definition, ∆Hf of an element in its standard state is zero.
+38::The heat of neutralization is highest for::Strong acid and strong base::Weak acid and strong base::Strong acid and weak base::Weak acid and weak base::A::Strong acid and strong base produce the highest heat of neutralization (~–57.3 kJ/mol).
+39::The enthalpy change for breaking one mole of bonds in a gaseous molecule is::Bond energy::Lattice energy::Ionization energy::Electron affinity::A::Bond energy is the energy required to break one mole of bonds in the gas phase.
+40::The heat of formation of diamond is::Zero::Positive::Negative::Infinite::B::Diamond’s heat of formation is positive, as it is less stable than graphite (∆Hf = 0).
+41::The heat of reaction is measured using::Barometer::Thermometer::Calorimeter::Spectrometer::C::A calorimeter measures heat changes during reactions.
+42::The enthalpy change for the reaction 2C(s) + 3H₂(g) → C₂H₆(g) is::Heat of combustion::Heat of formation::Heat of neutralization::Heat of solution::B::This is the heat of formation of ethane (C₂H₆).
+43::The heat of solution of NH₄Cl in water is::Exothermic::Endothermic::Neutral::Zero::B::Dissolving NH₄Cl is endothermic, absorbing heat from the surroundings.
+44::The lattice energy of CaO is higher than NaCl because::CaO has larger ions::CaO has higher ionic charges::NaCl has stronger bonds::NaCl has smaller ions::B::CaO has higher lattice energy due to higher ionic charges (+2, –2 vs. +1, –1).
+45::The heat of combustion of a substance is measured in::Joules::Pascals::Watts::Newtons::A::Heat of combustion is an energy measurement, expressed in Joules.
+46::The enthalpy change for the formation of one mole of a compound from its elements is::Heat of combustion::Heat of formation::Heat of neutralization::Heat of solution::B::This defines the heat of formation.
+47::The heat of reaction at constant volume is equal to::∆H::∆E::∆G::∆S::B::At constant volume, heat change equals the change in internal energy (∆E).
+48::The heat of formation of O₃(g) is::Zero::Positive::Negative::Infinite::B::Ozone (O₃) has a positive heat of formation, as it is less stable than O₂ (∆Hf = 0).
+49::The enthalpy change for the reaction H₂O(l) → H₂O(g) is::Heat of formation::Heat of vaporization::Heat of combustion::Heat of solution::B::This is the heat of vaporization, the energy required to convert liquid water to gas.
+50::The heat of reaction is independent of::Physical state::Catalyst::Temperature::Pressure::B::A catalyst affects the rate but not the enthalpy change of a reaction.

@@ -1,0 +1,50 @@
+1::The d-block elements are found in which groups of the periodic table?::3 to 12::1 to 2::13 to 18::1 to 18::A::d-block elements, also known as transition metals, occupy groups 3 to 12 in the periodic table.
+2::The f-block elements are located in::Periods 6 and 7::Periods 4 and 5::Groups 1 and 2::Groups 13 and 14::A::f-block elements (lanthanides and actinides) are found in periods 6 (lanthanides) and 7 (actinides).
+3::The general electronic configuration of d-block elements is::(n-1)d^1-10 ns^1-2::(n-1)d^1-10 ns^2::n d^1-10 ns^1-2::(n-1)d^1-10 np^1-2::A::d-block elements have valence electrons in (n-1)d and ns orbitals, typically (n-1)d^1-10 ns^1-2.
+4::Which element is not a d-block element?::Zinc::Iron::Copper::Gallium::D::Gallium belongs to group 13 (p-block), while Zn, Fe, and Cu are d-block elements.
+5::The lanthanide contraction is due to::Poor shielding of 4f electrons::Poor shielding of 5d electrons::High shielding of 4f electrons::High shielding of 5d electrons::A::Poor shielding by 4f electrons causes lanthanide contraction, reducing atomic size across the series.
+6::Which d-block element has the highest melting point?::Iron::Tungsten::Chromium::Nickel::B::Tungsten (W) has the highest melting point (~3422°C) due to strong metallic bonding.
+7::The oxidation state of transition metals is::Fixed::Variable::Always +1::Always +2::B::Transition metals exhibit variable oxidation states due to involvement of (n-1)d electrons.
+8::Which f-block element is used in nuclear reactors?::Uranium::Cerium::Lanthanum::Gadolinium::A::Uranium (actinide) is widely used as fuel in nuclear reactors.
+9::The magnetic property of transition metals is due to::Paired electrons::Unpaired d-electrons::s-electrons::p-electrons::B::Unpaired d-electrons contribute to paramagnetism or ferromagnetism in transition metals.
+10::The color of transition metal compounds is due to::d-d electron transitions::s-s electron transitions::p-p electron transitions::f-f electron transitions::A::d-d transitions absorb visible light, causing the color of transition metal compounds.
+11::Which d-block element is liquid at room temperature?::Iron::Mercury::Copper::Zinc::B::Mercury (Hg) is the only d-block element that is liquid at room temperature (~25°C).
+12::The general electronic configuration of f-block elements is::(n-2)f^1-14 (n-1)d^0-1 ns^2::(n-1)f^1-14 ns^2::n f^1-14 ns^2::(n-2)f^1-14 ns^2::A::f-block elements fill (n-2)f orbitals, typically (n-2)f^1-14 (n-1)d^0-1 ns^2.
+13::Which transition metal is used as a catalyst in the Haber process?::Iron::Copper::Nickel::Zinc::A::Iron is used as a catalyst in the synthesis of ammonia in the Haber process.
+14::The actinides are::All radioactive::All non-radioactive::Mostly stable::Mostly gases::A::All actinides (f-block elements) are radioactive, with unstable nuclei.
+15::The coordination number in [Co(NH3)6]^3+ is::4::6::8::12::B::The complex [Co(NH3)6]^3+ has six NH3 ligands, so the coordination number is 6.
+16::Which d-block element is used in stainless steel?::Chromium::Manganese::Nickel::All of these::D::Chromium, manganese, and nickel are all used in stainless steel alloys.
+17::The oxidation state of Mn in KMnO4 is::+2::+4::+6::+7::D::Manganese in KMnO4 has an oxidation state of +7, calculated from the permanganate ion (MnO4^-).
+18::The geometry of [Ni(CN)4]^2- is::Tetrahedral::Square planar::Octahedral::Linear::B::[Ni(CN)4]^2- (d^8, strong field ligand CN^-) adopts a square planar geometry.
+19::Which f-block element is used in lighter flints?::Cerium::Thorium::Uranium::Neodymium::A::Cerium is used in lighter flints due to its pyrophoric properties.
+20::The maximum oxidation state of chromium is::+3::+4::+6::+7::C::Chromium exhibits a maximum oxidation state of +6, as in CrO4^2- or Cr2O7^2-.
+21::The d-block element with completely filled d-orbitals is::Iron::Copper::Zinc::Manganese::C::Zinc has a d^10 configuration ([Ar] 3d^10 4s^2), with fully filled d-orbitals.
+22::The ligand in [Fe(CN)6]^4- is::Fe^2+::CN^-::C::N::B::CN^- (cyanide) is the ligand coordinating to the Fe^2+ ion in [Fe(CN)6]^4-.
+23::Which transition metal is used in catalytic converters?::Platinum::Iron::Copper::Zinc::A::Platinum (and palladium) are used in catalytic converters to reduce emissions.
+24::The crystal field splitting in an octahedral complex affects::d-orbitals::s-orbitals::p-orbitals::f-orbitals::A::In octahedral complexes, d-orbitals split into t2g and eg sets due to ligand interactions.
+25::The oxidation state of Fe in [Fe(CO)5] is::+1::+2::0::+3::C::In [Fe(CO)5], CO is a neutral ligand, so Fe has an oxidation state of 0.
+26::Which d-block element forms a blue solution with water?::Copper::Iron::Nickel::Zinc::A::Copper(II) ions (Cu^2+) form a blue solution due to [Cu(H2O)6]^2+.
+27::The magnetic moment of a transition metal ion depends on::Number of unpaired electrons::Number of paired electrons::Charge of the ion::Type of ligand::A::Magnetic moment is calculated as √[n(n+2)] BM, where n is the number of unpaired electrons.
+28::The geometry of [CoF6]^3- is::Tetrahedral::Square planar::Octahedral::Trigonal bipyramidal::C::[CoF6]^3- has six F^- ligands, forming an octahedral geometry.
+29::Which f-block element is used in MRI contrast agents?::Gadolinium::Uranium::Thorium::Actinium::A::Gadolinium is used in MRI contrast agents due to its paramagnetic properties.
+30::The d-block element used in galvanizing iron is::Iron::Copper::Zinc::Nickel::C::Zinc is used to coat iron in galvanizing to prevent corrosion.
+31::The oxidation state of Ti in TiCl4 is::+2::+3::+4::+5::C::In TiCl4, titanium has a +4 oxidation state, as each Cl is -1.
+32::The color of [Ni(H2O)6]^2+ is::Green::Blue::Red::Yellow::A::[Ni(H2O)6]^2+ appears green due to d-d transitions in the octahedral complex.
+33::The splitting of d-orbitals in a tetrahedral complex results in::eg and t2g::t2 and e::t2g and eg::e and t2::D::In tetrahedral complexes, d-orbitals split into e (lower energy) and t2 (higher energy) sets.
+34::Which d-block element is used in the manufacture of coins?::Nickel::Iron::Copper::All of these::D::Nickel, iron, and copper are used in various coin alloys.
+35::The oxidation state of V in V2O5 is::+3::+4::+5::+6::C::In V2O5, vanadium has a +5 oxidation state, as oxygen is -2.
+36::The complex [PtCl4]^2- has which geometry?::Tetrahedral::Square planar::Octahedral::Linear::B::[PtCl4]^2- (d^8, Pt^2+) adopts a square planar geometry due to strong field ligands.
+37::Which transition metal is ferromagnetic?::Iron::Copper::Zinc::Silver::A::Iron, along with nickel and cobalt, exhibits ferromagnetism due to unpaired d-electrons.
+38::The chelate effect is due to::Formation of a ring structure::High charge of ligands::Weak field ligands::Monodentate ligands::A::The chelate effect arises from the stability of complexes with multidentate ligands forming rings.
+39::The oxidation state of Cr in Cr2O7^2- is::+3::+4::+6::+7::C::In Cr2O7^2-, chromium has a +6 oxidation state, calculated from the dichromate ion’s charge.
+40::The d-block element used in photography is::Silver::Copper::Iron::Zinc::A::Silver halides (e.g., AgBr) are light-sensitive and used in photography.
+41::The crystal field stabilization energy (CFSE) is highest for::d^3 in octahedral field::d^5 in tetrahedral field::d^8 in square planar field::d^10 in octahedral field::A::d^3 in an octahedral field has high CFSE due to t2g^3 configuration and no electrons in eg.
+42::The complex [Fe(H2O)6]^2+ is::High spin::Low spin::Non-magnetic::Colorless::A::[Fe(H2O)6]^2+ is high spin (d^6, weak field H2O) with four unpaired electrons.
+43::Which f-block element is used in high-strength magnets?::Neodymium::Uranium::Thorium::Cerium::A::Neodymium is used in powerful NdFeB magnets.
+44::The oxidation state of Ni in [Ni(CO)4] is::+1::+2::0::+4::C::In [Ni(CO)4], CO is neutral, so nickel has an oxidation state of 0.
+45::The d-block element used in batteries is::Nickel::Iron::Copper::Silver::A::Nickel is used in NiCd and NiMH batteries.
+46::The geometry of [Cu(NH3)4]^2+ is::Tetrahedral::Square planar::Octahedral::Linear::B::[Cu(NH3)4]^2+ (d^9, Cu^2+) adopts a square planar geometry.
+47::The oxidation state of Co in [Co(NH3)6]^3+ is::+2::+3::+4::+5::B::In [Co(NH3)6]^3+, cobalt has a +3 oxidation state, as NH3 is neutral and the complex has a +3 charge.
+48::The d-block element used in the Contact process is::Vanadium::Iron::Nickel::Copper::A::Vanadium (as V2O5) is a catalyst in the Contact process for sulfuric acid production.
+49::The color of [Ti(H2O)6]^3+ is::Purple::Green::Blue::Yellow::A::[Ti(H2O)6]^3+ appears purple due to d-d transitions (d^1 configuration).
+50::The f-block elements are also called::Transition metals::Inner transition metals::Alkali metals::Halogens::B::f-block elements (lanthanides and actinides) are known as inner transition metals.

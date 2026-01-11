@@ -1,0 +1,50 @@
+1::What is computer security?::Protecting hardware from damage::Protecting data and systems from unauthorized access::Installing software updates::Designing user interfaces::B::Computer security involves safeguarding data and systems from threats.
+2::Which of the following is a type of malware?::Virus::Firewall::Antivirus::Encryption::A::A virus is malicious software that harms computer systems.
+3::What is a computer virus?::A hardware component::A program that spreads and damages systems::A security tool::A type of protocol::B::A virus is a program that replicates and causes harm to systems.
+4::Which of the following is a security measure?::Antivirus::Virus::Worm::Trojan::A::Antivirus software detects and removes malware.
+5::What is phishing?::A type of virus::A social engineering attack::A firewall technique::A copyright law::B::Phishing tricks users into revealing sensitive information via fake emails.
+6::What is copyright?::A type of malware::Legal protection for creative works::A security protocol::A network topology::B::Copyright legally protects original works like software or music.
+7::What is software piracy?::Using licensed software::Unauthorized copying of software::Installing antivirus::Creating backups::B::Software piracy involves illegally copying or distributing software.
+8::Which of the following is an ethical computing practice?::Hacking::Using licensed software::Sharing passwords::Spreading viruses::B::Using licensed software respects intellectual property rights.
+9::What is a firewall?::A virus::A security tool that monitors network traffic::A type of software piracy::A database::B::A firewall blocks unauthorized network access.
+10::What is hacking?::Installing software updates::Unauthorized system access::Creating backups::Using antivirus::B::Hacking involves gaining unauthorized access to systems.
+11::Which of the following is a type of worm?::Trojan::Phishing::Melissa::Firewall::C::Melissa is a well-known worm that spreads via email.
+12::What is a Trojan horse?::A security tool::Malware disguised as legitimate software::A type of firewall::A copyright violation::B::A Trojan appears harmless but performs malicious actions.
+13::Which law protects software from unauthorized copying?::Copyright law::Patent law::Trademark law::Contract law::A::Copyright law protects software as intellectual property.
+14::What is encryption?::Spreading malware::Encoding data to prevent unauthorized access::Deleting data::Copying software::B::Encryption secures data by converting it into an unreadable format.
+15::Which of the following is a cybercrime?::Data backup::Hacking::Software updates::Using antivirus::B::Hacking is a criminal act of unauthorized system access.
+16::What is the purpose of an antivirus program?::Create viruses::Detect and remove malware::Copy software::Encrypt data::B::Antivirus programs identify and eliminate malicious software.
+17::Which of the following is a strong password characteristic?::Short length::Using common words::Mix of letters, numbers, and symbols::Reusing passwords::C::A strong password includes diverse characters for security.
+18::What is spyware?::A security tool::Malware that collects user data secretly::A type of firewall::A copyrighted software::B::Spyware gathers information without user consent.
+19::Which of the following violates copyright law?::Using free software::Copying paid software illegally::Creating backups::Using open-source software::B::Illegal copying of paid software is a copyright violation.
+20::What is a biometric security measure?::Password::PIN::Fingerprint scanning::Firewall::C::Fingerprint scanning uses unique biological traits for security.
+21::What is the purpose of a firewall in a network?::Spread malware::Block unauthorized access::Create backups::Copy software::B::A firewall monitors and filters network traffic to prevent threats.
+22::Which of the following is an example of ethical behavior?::Sharing licensed software::Regular data backups::Hacking for fun::Using pirated software::B::Regular backups protect data and are ethical.
+23::What is identity theft?::Using strong passwords::Stealing personal information for fraud::Installing antivirus::Creating backups::B::Identity theft involves using stolen data for fraudulent purposes.
+24::Which security measure uses a secret key to protect data?::Firewall::Encryption::Antivirus::Backup::B::Encryption uses a key to encode data for security.
+25::What is a denial-of-service (DoS) attack?::Stealing data::Overloading a system to disrupt service::Installing antivirus::Copying software::B::A DoS attack floods a system to make it unavailable.
+26::Which of the following is protected by copyright?::Hardware::Software::Network cables::CPUs::B::Software is protected as intellectual property under copyright law.
+27::What is the role of a password in computer security?::Spread malware::Authenticate users::Copy software::Create viruses::B::Passwords verify user identity to grant system access.
+28::Which of the following is a legal consequence of software piracy?::Fine or imprisonment::Free software license::System updates::Data backup::A::Piracy can lead to legal penalties like fines or jail time.
+29::What is a worm in computer security?::A security tool::Malware that self-replicates::A type of firewall::A copyrighted software::B::A worm spreads across networks without user interaction.
+30::Which practice helps prevent phishing attacks?::Clicking unknown links::Verifying email sources::Sharing passwords::Disabling antivirus::B::Verifying email sources helps identify phishing attempts.
+31::What is the purpose of data backup?::Spread malware::Protect data from loss::Copy software illegally::Create viruses::B::Backups create copies of data to recover from loss or damage.
+32::Which of the following is an example of a cyber law?::Traffic law::Copyright law::Building code::Labor law::B::Copyright law governs software and digital content usage.
+33::What is adware?::A security tool::Malware that displays unwanted ads::A type of firewall::A copyrighted software::B::Adware generates unwanted advertisements on a system.
+34::Which security measure scans systems for vulnerabilities?::Antivirus::Firewall::Penetration testing::Backup::C::Penetration testing identifies system weaknesses.
+35::What is open-source software?::Pirated software::Software with freely available source code::Paid software::Malware::B::Open-source software allows users to view and modify its code.
+36::Which of the following is an unethical computing practice?::Using strong passwords::Software piracy::Regular updates::Data backups::B::Software piracy violates ethical and legal standards.
+37::What is a keylogger?::A security tool::Malware that records keystrokes::A type of firewall::A copyrighted software::B::A keylogger captures user keystrokes to steal information.
+38::Which law protects personal data privacy?::Copyright law::Data protection law::Patent law::Trademark law::B::Data protection laws (e.g., GDPR) safeguard personal information.
+39::What is the purpose of two-factor authentication (2FA)?::Spread malware::Enhance security with dual verification::Copy software::Create viruses::B::2FA requires two forms of verification for secure access.
+40::Which of the following is a sign of a virus infection?::Faster system performance::Unexpected pop-ups::Regular updates::Strong passwords::B::Unexpected pop-ups indicate potential malware infection.
+41::A company’s software is copied without permission. Which law is violated?::Copyright law::Contract law::Labor law::Environmental law::A::Unauthorized software copying violates copyright law.
+42::An employee receives a suspicious email asking for login details. What should they do?::Click the link::Share credentials::Verify the sender::Reply with details::C::Verifying the sender helps avoid phishing attacks.
+43::A hacker floods a website with traffic to make it unavailable. This is a::Phishing attack::DoS attack::Keylogger attack::Trojan attack::B::A DoS attack overloads a system to disrupt service.
+44::Which security measure is best for protecting sensitive data during transmission?::Antivirus::Firewall::Encryption::Backup::C::Encryption secures data during transmission.
+45::A user downloads free software that installs ads. This is an example of::Adware::Antivirus::Firewall::Backup::A::Adware displays unwanted ads, often bundled with free software.
+46::A school needs to protect student records from unauthorized access. Which measure is most appropriate?::Encryption::Software piracy::Hacking::Spreading viruses::A::Encryption protects sensitive data like student records.
+47::A developer shares software code freely under a license. This is an example of::Piracy::Open-source software::Copyright violation::Hacking::B::Open-source software is shared with accessible code.
+48::Which action violates data privacy laws?::Backing up data::Encrypting data::Selling user data without consent::Using antivirus::C::Selling user data without consent violates privacy laws.
+49::A company uses software without a license. What is the ethical issue?::Software piracy::Data backup::System updates::Strong passwords::A::Using unlicensed software is unethical and illegal.
+50::Which security measure should a bank use to verify customer identity online?::Two-factor authentication::Software piracy::Hacking::Spreading viruses::A::Two-factor authentication ensures secure customer verification.

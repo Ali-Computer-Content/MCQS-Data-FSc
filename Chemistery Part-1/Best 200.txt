@@ -1,0 +1,201 @@
+1::The number of moles in 18 g of water is::1::2::0.5::0.1::A::Molar mass of H₂O = 18 g/mol, moles = 18/18 = 1.
+2::The mass of 1 mole of oxygen gas (O₂) is::16 g::32 g::8 g::64 g::B::Molar mass of O₂ = 32 g/mol.
+3::Avogadro’s number is::6.022 × 10²³::6.022 × 10²²::6.022 × 10²⁴::6.022 × 10²¹::A::Standard value for 1 mole of particles.
+4::The empirical formula of C₆H₁₂O₆ is::CH₂O::C₆H₁₂O₆::C₂H₄O₂::CHO::A::Divide subscripts by GCD (6):: CH₂O.
+5::The molecular formula is a multiple of::Empirical formul::aAtomic mass::Molar mass::None::A::Molecular formula = n × empirical formula.
+6::Percentage composition of carbon in CO₂ is::27.3%::12%::44%::50%::A::(12/44) × 100 = 27.3%.
+7::The number of atoms in 1 g of hydrogen (H₂) is::3.01 × 10²³::6.022 × 10²³::1.505 × 10²³::2 × 10²³::A::Moles = 1/2, atoms = (1/2) × 6.022 × 10²³ × 2.
+8::Stoichiometry deals with::Mass relationships in reactions::Atomic structure::Bonding::Kinetics::A::Quantitative study of reactants/products.
+9::Limiting reactant is the one that::Is consumed first::Is in excess::Has higher mass::None::A::Limits the reaction’s yield.
+10::The mass of 0.5 moles of NaCl is::29.25 g::58.5 g::14.625 g::117 g::A::Molar mass = 58.5 g/mol, mass = 0.5 × 58.5.
+11::The number of molecules in 44 g of CO₂ is::6.022 × 10²³::3.011 × 10²³::12.044 × 10²³::1.505 × 10²³::A::Moles = 44/44 = 1, molecules = 1 × 6.022 × 10²³.
+12::The molar mass of H₂SO₄ is::98 g/mol::96 g/mol::100 g/mol::94 g/mol::A::2(1) + 32 + 4(16) = 98.
+13::The percentage of oxygen in H₂O is::88.89%::11.11%::50%::25%::A::(16/18) × 100 = 88.89%.
+14::The actual yield is always::Less than theoretical yield::Equal to theoretical yield::Greater than theoretical yield::None::A::Due to experimental losses.
+15::The formula mass of Na₂CO₃ is::106 u::104 u::108 u::102 u::A::2(23) + 12 + 3(16) = 106.
+16::1 mole of any gas at STP occupies::22.4 dm³::24.4 dm³::20.4 dm³::25.4 dm³::A::Standard molar volume at STP.
+17::The number of ions in 1 mole of NaCl is::1.204 × 10²⁴::6.022 × 10²³::3.011 × 10²³::2.408 × 10²⁴::A::NaCl → Na⁺ + Cl⁻, 2 × 6.022 × 10²³.
+18::The simplest whole-number ratio of atoms is given by::Empirical formul::aMolecular formul::aStructural formul::aNone::A::Represents the simplest ratio.
+19::Filtration is used to separate::Solid from liquid::Liquid from gas::Gas from solid::None::A::E.g., separating sand from water.
+20::The process of separating components based on solubility is::Crystallization::Filtration::Distillation::Sublimation::A::Forms pure crystals from solution.
+21::Sublimation is used to purify::Ammonium chloride::Sugar::Salt::Water::A::NH₄Cl sublimes on heating.
+22::The solvent used in paper chromatography is::Mobile phase::Stationary phase::Adsorbent::None::A::Moves the sample up the paper.
+23::The Rf value is calculated as::Distance by solute/distance by solvent::Distance by solvent/distance by solute::Solute mass/solvent mass::None::A::Rf = distance traveled by solute/distance traveled by solvent.
+24::Gooch crucible is used for::Filtration::Heating::Crystallization::Distillation::A::For filtering precipitates under suction.
+25::Distillation separates liquids based on::Boiling points::Solubility::Density::Color::A::Different boiling points allow separation.
+26::The stationary phase in paper chromatography is::Water adsorbed on paper::Organic solvent::Silica gel::Alumin::aA::Water held by cellulose in paper.
+27::Fractional distillation is used for::Miscible liquids::Immiscible liquids::Solids::Gases::A::Separates liquids with close boiling points.
+28::The purpose of a condenser in distillation is::To cool vapors::To heat liquids::To filter solids::None::A::Converts vapors back to liquid.
+29::Crystallization requires::Saturated solution::Unsaturated solution::Dilute solution::None::A::Saturated solution forms crystals on cooling.
+30::The technique to separate iodine from sand is::Sublimation::Filtration::Distillation::Crystallization::A::Iodine sublimes on heating.
+31::The Rf value always lies between::0 and 1::1 and 2::0 and 2::-1 and 1::A::Ratio of distances, always 0 ≤ Rf ≤ 1.
+32::Vacuum filtration uses::Gooch crucible::Buchner funnel::Both A and B::None::C::Both are used for faster filtration.
+33::The process of heating a solid to vapor without melting is::Sublimation::Evaporation::Condensation::Fusion::A::Direct solid-to-vapor transition.
+34::Paper chromatography separates components based on::Partition::Adsorption::Both A and B::None::C::Involves both partition and adsorption.
+35::The apparatus used for distillation is::Condenser and flask::Crucible and funnel::Pipette and burette::None::A::Standard distillation setup.
+36::The purpose of fluted filter paper is::Faster filtration::Slower filtration::Decoration::None::A::Increases surface area for filtration.
+37::The ideal gas equation is::PV = nRT::PV = RT::P = nRT/V::V = nRT/P::A::Relates pressure, volume, moles, and temperature.
+38::At STP, 1 mole of gas occupies::22.4 dm³::24.4 dm³::20.4 dm³::25.4 dm³::A::Standard molar volume.
+39::The value of R in SI units is::8.314 J/mol·K::0.0821 atm·dm³/mol·K::62.36 torr·dm³/mol·K::None::A::Universal gas constant in SI units.
+40::Boyle’s law states that at constant temperature::P ∝ 1/V::P ∝ V::V ∝ T::P ∝ T::A::PV = constant.
+41::Charles’s law states that at constant pressure::V ∝ T::V ∝ 1/T::P ∝ T::P ∝ 1/T::A::V/T = constant.
+42::The unit of pressure in SI system is::Pascal::Atmosphere::Torr::mmHg::A::1 Pa = 1 N/m².
+43::The temperature at which real gases behave ideally is::High temperature::Low temperature::0°C::0 K::A::High T reduces intermolecular forces.
+44::The volume of 2 moles of O₂ at STP is::44.8 dm³::22.4 dm³::11.2 dm³::89.6 dm³::A::2 × 22.4 = 44.8 dm³.
+45::The pressure of a gas increases with::Increase in temperature::Decrease in volume::Both A and B::None::C::From PV = nRT.
+46::Dalton’s law applies to::Non-reacting gases::Reacting gases::Liquids::Solids::A::Total P = sum of partial pressures.
+47::The partial pressure of a gas is proportional to its::Mole fraction::Mass fraction::Volume fraction::None::A::Pᵢ = XᵢP_total.
+48::The kinetic energy of gas molecules is proportional to::Absolute temperature::Pressure::Volume::Moles::A::KE ∝ T (Kelvin).
+49::The root mean square speed of gas molecules depends on::Temperature and molar mass::Pressure only::Volume only::None::A::v_rms = √(3RT/M).
+50::Real gases deviate from ideal behavior at::High pressure, low temperature::Low pressure, high temperature::Both A and B::None::A::Intermolecular forces become significant.
+51::The compressibility factor Z for an ideal gas is::1::0::>1::<1::A::Z = PV/nRT = 1 for ideal gases.
+52::The volume of 16 g of CH₄ at STP is::22.4 dm³::11.2 dm³::44.8 dm³::5.6 dm³::A::Moles = 16/16 = 1, volume = 1 × 22.4.
+53::Graham’s law relates diffusion rate to::Molar mass::Temperature::Pressure::Volume::A::Rate ∝ 1/√M.
+54::The gas with the highest diffusion rate among H₂, O₂, N₂, CO₂ is::H₂::O₂::N₂::CO₂::A::Lowest molar mass (2 g/mol).
+55::The boiling point of a liquid increases with::Increase in external pressure::Decrease in external pressure::Increase in volume::None::A::Higher pressure requires higher T to boil.
+56::Hydrogen bonding is strongest in::Water::Ammoni::aMethane::Chlorine::A::Due to high electronegativity of O.
+57::The property of liquids to resist flow is::Viscosity::Surface tension::Capillary action::None::A::Viscosity measures flow resistance.
+58::The shape of a liquid drop is due to::Surface tension::Viscosity::Density::Pressure::A::Minimizes surface area.
+59::In solids, particles are arranged in::Regular pattern::Random pattern::No pattern::None::A::Crystalline solids have ordered structures.
+60::The type of solid with high melting point and conductivity is::Metallic::Ionic::Covalent::Molecular::A::Metallic solids conduct electricity.
+61::The melting point of ionic solids is::High::Low::Moderate::None::A::Due to strong electrostatic forces.
+62::Diamond is an example of::Covalent solid::Ionic solid::Metallic solid::Molecular solid::A::Network of covalent bonds.
+63::The intermolecular forces in liquids are::Weaker than solids, stronger than gases::Stronger than solids::Weaker than gases::None::A::Intermediate strength.
+64::The vapor pressure of a liquid increases with::Increase in temperature::Decrease in temperature::Increase in pressure::None::A::More molecules escape at higher T.
+65::The unit of surface tension is::N/m::N/m²::J/m::kg/m::A::Force per unit length.
+66::The structure of NaCl is::Face-centered cubic::Body-centered cubic::Simple cubic::Hexagonal::A::FCC lattice.
+67::Amorphous solids lack::Long-range order::Short-range order::Melting point::None::A::No regular crystalline structure.
+68::The boiling point of ethanol is higher than ethane due to::Hydrogen bonding::Covalent bonding::Ionic bonding::None::A::Ethanol has O-H bonds.
+69::The type of bonding in dry ice (CO₂) is::Van der Waals::Hydrogen::Covalent::Ionic::A::Weak intermolecular forces.
+70::The coordination number of CsCl is::8::6::4::12::A::Body-centered cubic structure.
+71::The property of liquids to rise in a capillary tube is::Capillary action::Viscosity::Surface tension::None::A::Due to adhesive forces.
+72::The melting point of covalent solids is::High::Low::Moderate::None::A::Strong covalent network.
+73::The charge on an electron is::-1.602 × 10⁻¹⁹ C::+1.602 × 10⁻¹⁹ C::0::-1 C::A::Fundamental charge of electron.
+74::The mass of a proton is approximately::1836 times that of electron::Equal to electron::1/1836 of electron::None::A::Proton mass ≈ 1.672 × 10⁻²⁷ kg.
+75::The quantum number that defines orbital shape is::Azimuthal (l)::Principal (n)::Magnetic (m)::Spin (s)::A::l determines subshell type.
+76::The maximum number of electrons in n = 3 is::18::12::6::8::A::2n² = 2(3)² = 18.
+77::The spectral lines in hydrogen are explained by::Bohr’s model::Quantum mechanics::Rutherford’s model::Thomson’s model::A::Bohr’s quantized energy levels.
+78::The wavelength of emitted photon is given by::1/λ = R(1/n₁² - 1/n₂²)::λ = hc/E::E = hν::All::A::Rydberg formula for hydrogen.
+79::The subshell with l = 2 is::d::s::p::f::A::l = 2 corresponds to d-orbitals.
+80::The number of orbitals in p-subshell is::3::1::5::7::A::m_l = -1, 0, +1 for p.
+81::The energy of an electron in nth orbit is proportional to::-1/n²::n²::1/n::n::A::E_n = -13.6/n² eV.
+82::The uncertainty principle was proposed by::Heisenberg::Bohr::Schrödinger::Planck::A::Δx·Δp ≥ h/4π.
+83::The shape of s-orbital is::Spherical::Dumbbell::Double dumbbell::Complex::A::Symmetric around nucleus.
+84::The maximum number of electrons in 4f subshell is::14::10::6::2::A::2(2l + 1) = 2(2·3 + 1) = 14.
+85::The line spectrum is characteristic of::Gases::Solids::Liquids::All::A::Atoms in gaseous state emit discrete wavelengths.
+86::The splitting of spectral lines in magnetic field is::Zeeman effect::Stark effect::Photoelectric effect::None::A::Due to magnetic field interaction.
+87::The quantum number m_l defines::Orientation of orbital::Shape of orbital::Size of orbital::Spin of electron::A::Magnetic quantum number.
+88::The electron configuration of Na (Z=11) is::1s²2s²2p⁶3s¹::1s²2s²2p⁷::1s²2s²2p⁶3s²::None::A::Follows Aufbau principle.
+89::The number of neutrons in C-14 is::8::6::7::12::A::Mass number 14, atomic number 6:: 14 - 6 = 8.
+90::The radius of nth Bohr orbit is proportional to::n²::1/n²::n::1/n::A::r_n ∝ n².
+91::The bond formed by sharing electrons is::Covalent::Ionic::Metallic::Coordinate::A::Equal sharing of electrons.
+92::The bond angle in H₂O is::104.5°::109.5°::120°::180°::A::Due to lone pair repulsion.
+93::The hybridization of carbon in CH₄ is::sp³::sp²::sp::dsp²::A::Tetrahedral geometry.
+94::The strongest type of bond is::Covalent::Ionic::Hydrogen::Van der Waals::A::High bond energy in covalent bonds.
+95::The molecule with linear geometry is::CO₂::H₂O::NH₃::CH₄::A::sp hybridization, 180°.
+96::The bond order of N₂ is::3::2::1::4::A::Triple bond, (σ²π⁴)/2 = 3.
+97::VSEPR theory predicts::Molecular geometry::Bond strength::Bond length::None::A::Based on electron pair repulsion.
+98::The dipole moment of CO₂ is::Zero::Non-zero::Variable::None::A::Symmetric linear molecule.
+99::The hybridization of nitrogen in NH₃ is::sp³::sp²::sp::dsp³::A::Three bonds, one lone pair.
+100::The bond in HCl is::Polar covalent::Non-polar covalent::Ionic::Metallic::A::Electronegativity difference.
+101::The molecule with trigonal planar geometry is::BF₃::NH₃::H₂O::CH₄::A::sp² hybridization.
+102::The bond length decreases with::Increase in bond order::Decrease in bond order::Increase in atomic size::None::A::Higher bond order, shorter bond.
+103::Coordinate bond is formed by::One atom donating electron pair::Mutual sharing::Electron transfer::None::A::E.g., NH₃ → BF₃.
+104::The bond angle in NH₃ is::107°::104.5°::109.5°::120°::A::Lone pair repulsion reduces angle.
+105::The molecule with zero dipole moment is::CCl₄::CHCl₃::H₂O::NH₃::A::Tetrahedral symmetry.
+106::The type of bonding in NaCl is::Ionic::Covalent::Metallic::Hydrogen::A::Electron transfer.
+107::The bond order of O₂ is::2::3::1::4::A::(σ²σ*²π⁴π*²)/2 = 2.
+108::The geometry of SF₆ is::Octahedral::Tetrahedral::Square planar::Trigonal bipyramidal::A::dsp³ hybridization.
+109::The heat change at constant pressure is::Enthalpy (ΔH)::Internal energy (ΔU)::Entropy::Free energy::A::ΔH = q_p.
+110::The reaction with ΔH < 0 is::Exothermic::Endothermic::Isothermic::None::A::Heat is released.
+111::The standard enthalpy of formation is for::1 mole of compound::1 mole of element::2 moles of compound::None::A::From elements in standard states.
+112::Hess’s law states that::ΔH is independent of path::ΔH depends on path::ΔH = ΔU::None::A::Total enthalpy is same regardless of steps.
+113::The unit of enthalpy is::kJ/mol::J/mol::cal/mol::All::A::Standard unit in SI.
+114::The enthalpy of combustion is always::Negative::Positive::Zero::Variable::A::Exothermic process.
+115::The standard state of oxygen is::O₂(g)::O(g)::O₃(g)::O₂(l)::A::Most stable form at 25°C, 1 atm.
+116::The heat of neutralization of strong acid and base is::-57.1 kJ/mol::-55.1 kJ/mol::-59.1 kJ/mol::0::A::Forms 1 mole of water.
+117::The enthalpy change for N₂(g) → 2N(g) is::Bond dissociation energy::Ionization energy::Electron affinity::None::A::Breaks N≡N bond.
+118::The reaction H₂(g) + ½O₂(g) → H₂O(l) has ΔH =::-286 kJ/mol::+286 kJ/mol::-572 kJ/mol::0::A::Standard enthalpy of formation of water.
+119::The enthalpy of sublimation is::ΔH_sub = ΔH_fus + ΔH_vap::ΔH_sub = ΔH_fus - ΔH_vap::ΔH_sub = ΔH_vap::None::A::Solid to gas transition.
+120::The first law of thermodynamics is::ΔU = q + w::ΔH = q + w::ΔU = ΔH::None::A::Energy conservation.
+121::The enthalpy of formation of CO₂ is::-393.5 kJ/mol::-285.8 kJ/mol::-110.5 kJ/mol::0::A::Standard value.
+122::The work done in an isochoric process is::Zero::Positive::Negative::Variable::A::No volume change.
+123::The enthalpy change for a reaction is measured using::Bomb calorimeter::Coffee cup calorimeter::Both::None::C::Depends on constant P or V.
+124::The enthalpy of hydration is for::Ions in water::Molecules in water::Solids in water::None::A::Ion-dipole interactions.
+125::The reaction with ΔU ≈ ΔH is::Gas-phase reaction::Solid-phase reaction::Liquid-phase reaction::None::A::No significant volume change.
+126::The enthalpy of atomization is for::Elements to atoms::Compounds to atoms::Molecules to ions::None::A::E.g., C(s) → C(g).
+127::The equilibrium constant Kc is expressed in::Concentration::Pressure::Moles::None::A::[Products]/[Reactants] in mol/dm³.
+128::For the reaction N₂ + 3H₂ ⇌ 2NH₃, Kc unit is::(mol/dm³)⁻²::mol/dm³::(mol/dm³)²::No unit::A::Δn = 2 - 4 = -2.
+129::Le Chatelier’s principle predicts::Shift in equilibrium::Rate of reaction::Enthalpy change::None::A::Response to stress.
+130::If Q < Kc, the reaction proceeds::Forward::Backward::No shift::None::A::More products form.
+131::The equilibrium constant depends on::Temperature::Pressure::Concentration::Catalyst::A::Only T affects K.
+132::For an exothermic reaction, increasing T::Decreases K::Increases K::No effect::None::A::Favors endothermic direction.
+133::The equilibrium expression for CaCO₃(s) ⇌ CaO(s) + CO₂(g) is::Kc = [CO₂]::Kc = [CaO][CO₂]/[CaCO₃]::Kc = 1/[CO₂]::None::A::Solids have constant concentration.
+134::The value of Kc for 2SO₂ + O₂ ⇌ 2SO₃ is::[SO₃]²/[SO₂]²[O₂]::[SO₂]²[O₂]/[SO₃]²::[SO₃]/[SO₂][O₂]::None::A::Products over reactants.
+135::A large Kc value indicates::Products favored::Reactants favored::Equal concentrations::None::A::Reaction proceeds to completion.
+136::The unit of Kp for N₂ + O₂ ⇌ 2NO is::No unit::atm::atm⁻¹::atm²::A::Δn = 2 - 2 = 0.
+137::The equilibrium shifts to the left if::Reactant concentration increases::Product concentration increases::Pressure decreases::None::B::Favors reactants.
+138::The reaction quotient Q is calculated using::Initial concentrations::Equilibrium concentrations::Rate constants::None::A::Same form as Kc.
+139::The equilibrium constant for reverse reaction is::1/K::K::K²::1/K²::A::Reciprocal of forward K.
+140::The effect of a catalyst on equilibrium is::No effect::Shifts right::Shifts left::Changes K::A::Only speeds up reaction.
+141::For 2A ⇌ B, Kc = 4, then for B ⇌ 2A, Kc is::1/4::4::2::1/2::A::Inverse of original K.
+142::The equilibrium constant is independent of::Initial concentration::Temperature::Catalyst::Both A and C::D::Only T affects K.
+143::The solution with solute fully dissolved is::Saturated::Unsaturated::Supersaturated::None::A::Maximum solute at given T.
+144::Molarity is defined as::Moles of solute per dm³ of solution::Moles of solute per kg of solvent::Mass of solute per dm³::None::A::M = mol/dm³.
+145::The molality of 1 mole of NaCl in 1 kg of water is::1 m::2 m::0.5 m::1.5 m::A::m = mol/kg solvent.
+146::The unit of mole fraction is::No unit::mol/dm³::mol/kg::g/dm³::A::Ratio of moles.
+147::The colligative property depends on::Number of solute particles::Nature of solute::Nature of solvent::None::A::E.g., boiling point elevation.
+148::The boiling point elevation is given by::ΔT_b = K_b·m::ΔT_b = K_f·m::ΔT_b = m/K_b::None::A::Proportional to molality.
+149::The freezing point depression constant for water is::1.86 °C/m::0.52 °C/m::1.00 °C/m::2.00 °C/m::A::Standard value.
+150::Raoult’s law applies to::Ideal solutions::Non-ideal solutions::Concentrated solutions::None::A::P = X_s·P°.
+151::The molarity of 98 g H₂SO₄ in 1 dm³ solution is::1 M::2 M::0.5 M::1.5 M::A::Moles = 98/98 = 1.
+152::The mole fraction of water in a solution with 1 mole solute and 9 moles water is::0.9::0.1::1::0.5::A::X_water = 9/(1+9) = 0.9.
+153::The osmotic pressure is given by::π = CRT::π = K_b·m::π = K_f·m::None::A::Van’t Hoff equation.
+154::The solution with higher vapor pressure has::Lower solute concentration::Higher solute concentration::Higher solvent::None::A::Raoult’s law.
+155::The molality of 18 g glucose (C₆H₁₂O₆) in 100 g water is::1 m::0.1 m::10 m::0.5 m::A::Moles = 18/180 = 0.1, m = 0.1/0.1 = 1.
+156::The boiling point of 1 m NaCl solution is::100.52 °C::101.04 °C::100.26 °C::100 °C::B::ΔT_b = 2·0.52·1 = 1.04, T = 100 + 1.04.
+157::The freezing point of 1 m urea solution is::-1.86 °C::0 °C::-3.72 °C::-0.93 °C::A::ΔT_f = 1.86·1 = 1.86, T = 0 - 1.86.
+158::Azeotropes are mixtures with::Constant boiling point::Variable boiling point::No boiling point::None::A::Cannot be separated by distillation.
+159::The van’t Hoff factor for NaCl is::2::1::3::4::A::Dissociates into Na⁺ and Cl⁻.
+160::The osmotic pressure depends on::Temperature and concentration::Pressure::Volume::None::A::π = CRT.
+161::The electrode where oxidation occurs is::Anode::Cathode::Both::None::A::Oxidation at anode.
+162::The standard reduction potential of H₂/H⁺ is::0 V::1 V::-1 V::0.76 V::A::Reference electrode.
+163::The cell notation Zn|Zn²⁺||Cu²⁺|Cu represents::Galvanic cell::Electrolytic cell::Both::None::A::Spontaneous redox reaction.
+164::The EMF of a cell is calculated as::E_cathode - E_anode::E_anode - E_cathode::E_cathode + E_anode::None::A::E_cell = E_red(cathode) - E_red(anode).
+165::The electrolyte in a lead-acid battery is::H₂SO₄::NaCl::KOH::HNO₃::A::Sulfuric acid.
+166::The cathode in an electrochemical cell is::Positive::Negative::Neutral::None::A::Reduction occurs at cathode.
+167::Faraday’s first law relates::Mass deposited to charge::Current to time::Voltage to charge::None::A::m ∝ Q.
+168::One Faraday is the charge of::1 mole of electrons::1 electron::1 ion::None::A::96,500 C/mol.
+169::The oxidation state of Cr in Cr₂O₇²⁻ is::+6::+3::+7::+4::A::2x + 7(-2) = -2, x = +6.
+170::The reducing agent in a redox reaction::Loses electrons::Gains electrons::No change::None::A::Undergoes oxidation.
+171::The cell reaction for Zn + Cu²⁺ → Zn²⁺ + Cu is::Zn → Zn²⁺ + 2e⁻; Cu²⁺ + 2e⁻ → Cu::Zn²⁺ → Zn; Cu → Cu²⁺::Both::None::A::Zn oxidizes, Cu²⁺ reduces.
+172::The standard hydrogen electrode has potential::0 V::1 V::-1 V::0.34 V::A::By definition.
+173::The electrolysis of water produces::H₂ at cathode, O₂ at anode::O₂ at cathode, H₂ at anode::Both gases at both::None::A::Reduction at cathode, oxidation at anode.
+174::The number of Faradays required to deposit 1 mole of Cu is::2::1::3::4::A::Cu²⁺ + 2e⁻ → Cu.
+175::The conductivity of electrolytic solutions is due to::Ions::Electrons::Protons::None::A::Ions carry charge.
+176::The anode in a galvanic cell is::Negative::Positive::Neutral::None::A::Electrons flow from anode.
+177::The Nernst equation relates::EMF to concentration::EMF to temperature::Both A and B::None::C::E = E° - (RT/nF)lnQ.
+178::The oxidation state of S in SO₄²⁻ is::+6::+4::+2::+8::A::x + 4(-2) = -2, x = +6.
+179::The rate of reaction is expressed as::Change in concentration/time::Change in volume/time::Change in pressure/time::None::A::Rate = Δ[C]/Δt.
+180::The order of reaction is determined by::Experiment::Stoichiometry::Temperature::None::A::From rate law.
+181::The rate law for A + B → C is::Rate = k[A][B]::Rate = k[A]::Rate = k[B]::None::A::Depends on mechanism.
+182::The unit of rate constant for a first-order reaction is::s⁻¹::mol/dm³·s::mol⁻¹dm³s⁻¹::s::A::Rate = k[A], k = s⁻¹.
+183::The half-life of a first-order reaction is::Independent of initial concentration::Proportional to [A]::Inversely proportional to [A]::None::A::t₁/₂ = 0.693/k.
+184::A catalyst::Lowers activation energy::Increases activation energy::Changes equilibrium::None::A::Provides alternate pathway.
+185::The Arrhenius equation relates::Rate constant to temperature::Rate to concentration::Half-life to concentration::None::A::k = Ae^(-Ea/RT).
+186::The activation energy is the::Energy barrier for reaction::Heat of reaction::Free energy::None::A::Minimum energy for reaction.
+187::The order of reaction 2A → B with rate = k[A]² is::2::1::0::3::A::Sum of exponents in rate law.
+188::The half-life of a second-order reaction is::Inversely proportional to [A]::Independent of [A]::Proportional to [A]::None::A::t₁/₂ = 1/k[A]₀.
+189::The rate of a zero-order reaction is::Constant::Proportional to [A]::Proportional to [A]²::None::A::Rate = k.
+190::The collision theory states that reactions occur due to::Effective collisions::All collisions::No collisions::None::A::With proper energy and orientation.
+191::The unit of rate constant for a second-order reaction is::mol⁻¹dm³s⁻¹::s⁻¹::mol/dm³·s::None::A::Rate = k[A]².
+192::The effect of increasing temperature on rate is::Increases rate::Decreases rate::No effect::None::A::More molecules exceed Ea.
+193::The rate-determining step is the::Slowest step::Fastest step::First step::Last step::A::Controls overall rate.
+194::The half-life of a zero-order reaction is::Proportional to [A]₀::Independent of [A]₀::Inversely proportional to [A]₀::None::A::t₁/₂ = [A]₀/2k.
+195::The energy profile diagram shows::Activation energy::Enthalpy change::Both A and B::None::C::Ea and ΔH.
+196::The rate constant increases with::Increase in temperature::Decrease in temperature::No effect::None::A::From Arrhenius equation.
+197::The molecularity of a reaction is::Number of molecules in elementary step::Order of reaction::Rate constant::None::A::For single step.
+198::The reaction with rate = k is::Zero-order::First-order::Second-order::None::A::Rate independent of concentration.
+199::The catalyst in Haber’s process is::Iron::Nickel::Platinum::Copper::A::Fe with Al₂O₃ promoter.
+200::The pre-exponential factor A in Arrhenius equation represents::Collision frequency::Activation energy::Rate constant::None::A::Frequency of collisions.
+```

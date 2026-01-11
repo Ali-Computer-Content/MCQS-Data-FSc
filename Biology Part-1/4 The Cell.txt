@@ -1,0 +1,50 @@
+1::The basic structural and functional unit of life is::Tissue::Cell::Organ::Molecule::B::The cell is the smallest unit capable of performing life functions.
+2::Which scientist first observed cells under a microscope?::Robert Hooke::Anton van Leeuwenhoek::Theodor Schwann::Matthias Schleiden::A::Robert Hooke coined the term "cell" in 1665 after observing cork cells.
+3::Which of the following is a characteristic of prokaryotic cells?::Presence of nucleus::Lack of membrane-bound organelles::Complex organelles::Large size::B::Prokaryotic cells lack membrane-bound organelles like a nucleus.
+4::The cell theory states that::All cells have a nucleus::Cells can arise spontaneously::All living organisms are composed of cells::Cells are non-living::C::The cell theory states that all living organisms are made of cells, which are the basic units of life.
+5::Which organelle is known as the powerhouse of the cell?::Nucleus::Mitochondrion::Ribosome::Golgi apparatus::B::Mitochondria produce ATP, the cell's energy currency, through respiration.
+6::The double membrane structure surrounding the nucleus is called::Cell membrane::Nuclear envelope::Endoplasmic reticulum::Golgi body::B::The nuclear envelope is a double membrane that encloses the nucleus.
+7::Which organelle is responsible for protein synthesis?::Mitochondrion::Ribosome::Lysosome::Golgi apparatus::B::Ribosomes synthesize proteins by translating mRNA.
+8::The fluid mosaic model describes the structure of::Cell wall::Cell membrane::Nucleus::Cytoplasm::B::The cell membrane is a fluid mosaic of lipids and proteins, allowing flexibility and transport.
+9::Which of the following is found only in plant cells?::Mitochondrion::Chloroplast::Ribosome::Nucleus::B::Chloroplasts, responsible for photosynthesis, are unique to plant cells.
+10::The cell wall in plants is primarily composed of::Cellulose::Chitin::Peptidoglycan::Lipids::A::Cellulose provides structural support in plant cell walls.
+11::Which organelle is involved in detoxification of drugs?::Golgi apparatus::Smooth endoplasmic reticulum::Lysosome::Mitochondrion::B::Smooth ER detoxifies drugs and synthesizes lipids.
+12::The control center of the cell is::Mitochondrion::Nucleus::Ribosome::Lysosome::B::The nucleus houses DNA and controls cellular activities.
+13::Which of the following is a function of the Golgi apparatus?::Protein synthesis::Packaging and modification of proteins::Energy production::DNA replication::B::The Golgi apparatus modifies, packages, and sorts proteins for secretion.
+14::Lysosomes are known as::Powerhouses::Suicide bags::Protein factories::Storage units::B::Lysosomes contain digestive enzymes and can destroy damaged cells, hence "suicide bags."
+15::Which structure connects the nucleus to the endoplasmic reticulum?::Nuclear pores::Cell membrane::Mitochondrion::Centrioles::A::Nuclear pores allow exchange of materials between the nucleus and cytoplasm.
+16::The cytoskeleton is composed of::Lipids::Proteins::Carbohydrates::Nucleic acids::B::The cytoskeleton, made of protein fibers, provides structural support and aids movement.
+17::Which organelle is absent in animal cells?::Centriole::Chloroplast::Mitochondrion::Ribosome::B::Chloroplasts are found only in plant cells for photosynthesis.
+18::The process of cell division in eukaryotic cells is called::Binary fission::Mitosis::Meiosis::Budding::B::Mitosis is the division of somatic cells, producing two identical daughter cells.
+19::Which of the following is a prokaryotic organism?::Amoeba::Algae::Bacteria::Fungus::C::Bacteria are prokaryotes, lacking a nucleus and membrane-bound organelles.
+20::The endoplasmic reticulum with ribosomes attached is called::Smooth ER::Rough ER::Golgi ER::Nuclear ER::B::Rough ER has ribosomes and is involved in protein synthesis.
+21::Which organelle contains its own DNA?::Nucleus::Mitochondrion::Golgi apparatus::Lysosome::B::Mitochondria have their own DNA, supporting their endosymbiotic origin.
+22::The primary function of the cell membrane is::Protein synthesis::Selective permeability::Energy production::DNA storage::B::The cell membrane regulates what enters and exits the cell.
+23::Which of the following is a function of the cell wall?::Protein synthesis::Structural support::Energy production::Transport::B::The cell wall provides rigidity and support, especially in plant cells.
+24::Centrioles are primarily involved in::Photosynthesis::Cell division::Protein synthesis::Lipid synthesis::B::Centrioles organize spindle fibers during mitosis in animal cells.
+25::Which organelle is responsible for photosynthesis?::Mitochondrion::Chloroplast::Lysosome::Ribosome::B::Chloroplasts contain chlorophyll and perform photosynthesis in plant cells.
+26::The jelly-like substance inside the cell is called::Cytoplasm::Nucleoplasm::Protoplasm::Matrix::A::Cytoplasm is the fluid matrix containing organelles outside the nucleus.
+27::Which of the following is true for eukaryotic cells?::Lack of nucleus::Presence of membrane-bound organelles::Small size::No ribosomes::B::Eukaryotic cells have a nucleus and membrane-bound organelles.
+28::The process by which cells engulf large particles is::Diffusion::Phagocytosis::Pinocytosis::Osmosis::B::Phagocytosis is the engulfment of large particles by the cell membrane.
+29::Which organelle is involved in lipid synthesis?::Rough ER::Smooth ER::Golgi apparatus::Lysosome::B::Smooth ER synthesizes lipids and detoxifies substances.
+30::The nucleolus is primarily involved in::Protein synthesis::Ribosome assembly::DNA replication::Energy production::B::The nucleolus assembles ribosomal subunits.
+31::Which of the following is a component of the cytoskeleton?::Microtubules::Lipids::Nucleic acids::Carbohydrates::A::Microtubules, along with microfilaments and intermediate filaments, form the cytoskeleton.
+32::The cell membrane is composed of::Carbohydrate bilayer::Protein bilayer::Lipid bilayer::Nucleic acid bilayer::C::The cell membrane is a phospholipid bilayer with embedded proteins.
+33::Which organelle digests worn-out organelles?::Mitochondrion::Lysosome::Golgi apparatus::Ribosome::B::Lysosomes contain enzymes that break down damaged organelles.
+34::The primary pigment in chloroplasts is::Hemoglobin::Chlorophyll::Melanin::Carotene::B::Chlorophyll absorbs light for photosynthesis in chloroplasts.
+35::Which of the following is a unicellular organism?::Human::Amoeba::Oak tree::Frog::B::Amoeba is a single-celled eukaryotic organism.
+36::The process of water movement across a semi-permeable membrane is::Diffusion::Osmosis::Phagocytosis::Pinocytosis::B::Osmosis is the passive movement of water across a semi-permeable membrane.
+37::Which structure is involved in cell motility?::Flagella::Nucleus::Lysosome::Golgi apparatus::A::Flagella (and cilia) enable cell movement in some cells.
+38::The site of cellular respiration is::Chloroplast::Mitochondrion::Ribosome::Nucleus::B::Mitochondria are the sites of cellular respiration, producing ATP.
+39::Which of the following is not a function of the cell membrane?::Transport::Protection::Protein synthesis::Cell signaling::C::Protein synthesis occurs on ribosomes, not the cell membrane.
+40::The cell wall in bacteria is made of::Cellulose::Chitin::Peptidoglycan::Lipids::C::Bacterial cell walls contain peptidoglycan, unlike plant cell walls (cellulose).
+41::Which organelle is involved in modifying proteins after synthesis?::Ribosome::Golgi apparatus::Lysosome::Mitochondrion::B::The Golgi apparatus modifies and packages proteins for transport.
+42::The process of taking in liquid droplets by cells is called::Phagocytosis::Pinocytosis::Osmosis::Diffusion::B::Pinocytosis is the engulfment of liquid droplets by the cell membrane.
+43::Which of the following is true for animal cells?::Presence of cell wall::Presence of chloroplasts::Presence of centrioles::Large central vacuole::C::Animal cells have centrioles but lack cell walls and chloroplasts.
+44::The chromatin in the nucleus is composed of::Proteins and lipids::DNA and proteins::Carbohydrates and lipids::RNA and carbohydrates::B::Chromatin consists of DNA wrapped around histone proteins.
+45::Which organelle is involved in ATP production?::Nucleus::Mitochondrion::Golgi apparatus::Lysosome::B::Mitochondria produce ATP via cellular respiration.
+46::The primary function of vacuoles in plant cells is::Protein synthesis::Storage::Energy production::DNA replication::B::Vacuoles store nutrients, waste, or water in plant cells.
+47::Which of the following is a passive transport mechanism?::Phagocytosis::Active transport::Diffusion::Pinocytosis::C::Diffusion is the passive movement of molecules without energy input.
+48::The endoplasmic reticulum is connected to::Cell membrane::Nucleus::Mitochondrion::Lysosome::B::The ER is continuous with the outer membrane of the nuclear envelope.
+49::Which scientist contributed to the cell theory by stating that all animals are made of cells?::Robert Hooke::Matthias Schleiden::Theodor Schwann::Anton van Leeuwenhoek::C::Theodor Schwann extended the cell theory to animals.
+50::The organelle responsible for maintaining cell shape is::Nucleus::Cytoskeleton::Golgi apparatus::Lysosome::B::The cytoskeleton provides structural support and maintains cell shape.

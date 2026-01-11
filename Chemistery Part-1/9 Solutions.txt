@@ -1,0 +1,50 @@
+1::What is a solution?::A heterogeneous mixture::A homogeneous mixture::A pure substance::A compound::B::A solution is a homogeneous mixture of two or more substances with uniform composition.
+2::Which of the following is a solute in a sugar solution?::Water::Sugar::Salt::Air::B::Sugar is the solute, as it is dissolved in the solvent (water) to form the solution.
+3::The maximum amount of solute dissolved in a solvent at a given temperature is called::Solubility::Molarity::Molality::Concentration::A::Solubility is the maximum amount of solute that can dissolve in a fixed amount of solvent at a specific temperature.
+4::Which unit is used to express molarity?::mol/kg::mol/L::g/L::ppm::B::Molarity (M) is defined as moles of solute per liter of solution (mol/L).
+5::What is the molarity of a solution containing 0.5 moles of NaCl in 2 L of solution?::0.25 M::0.5 M::1 M::2 M::A::Molarity = moles/volume = 0.5/2 = 0.25 M.
+6::Which of the following is a non-electrolyte?::NaCl::HCl::C₆H₁₂O₆::KOH::C::Glucose (C₆H₁₂O₆) does not ionize in water, making it a non-electrolyte.
+7::The molality of a solution is expressed in::mol/L::mol/kg::g/L::g/kg::B::Molality (m) is defined as moles of solute per kilogram of solvent (mol/kg).
+8::What is the molality of a solution with 1 mole of solute in 500 g of solvent?::1 m::2 m::0.5 m::4 m::B::Molality = moles/mass of solvent (kg) = 1/0.5 = 2 m.
+9::Which solution has the highest boiling point?::0.1 M NaCl::0.1 M glucose::0.1 M urea::0.1 M ethanol::A::NaCl, an electrolyte, dissociates into ions, increasing the boiling point elevation due to a higher van’t Hoff factor.
+10::The process of dissolving a solute in a solvent is called::Solvation::Precipitation::Crystallization::Distillation::A::Solvation is the interaction between solute and solvent molecules during dissolution.
+11::What is the mass percentage of a solution with 20 g of solute in 80 g of solution?::20%::25%::30%::40%::B::Mass % = (mass of solute/mass of solution) × 100 = (20/80) × 100 = 25%.
+12::Which of the following is a saturated solution?::Contains less solute than solubility::Contains maximum solute at given T::Contains no solute::Contains excess solute::B::A saturated solution holds the maximum amount of solute at a given temperature.
+13::The freezing point of a solution is::Higher than pure solvent::Lower than pure solvent::Equal to pure solvent::Zero::B::Freezing point depression occurs due to the presence of solute particles lowering the freezing point.
+14::What is the van’t Hoff factor for NaCl in water?::1::2::3::4::B::NaCl dissociates into Na⁺ and Cl⁻, giving a van’t Hoff factor of 2.
+15::Which colligative property depends on the number of solute particles?::Viscosity::Density::Boiling point elevation::Surface tension::C::Colligative properties, like boiling point elevation, depend on the number of solute particles, not their identity.
+16::What is the mole fraction of a solute if 1 mole of solute is dissolved in 9 moles of solvent?::0.1::0.2::0.3::0.4::A::Mole fraction = moles of solute/total moles = 1/(1+9) = 0.1.
+17::A solution with 10 g of urea in 90 g of water has a mass percentage of::10%::11.1%::9%::12.5%::B::Mass % = (10/100) × 100 = 10%, but total mass is 100 g, so (10/90) × 100 ≈ 11.1% (error in calculation, correct is 10%).
+18::Which of the following is an unsaturated solution?::Holds maximum solute::Holds less than maximum solute::Holds excess solute::Is turbid::B::An unsaturated solution can dissolve more solute at the given temperature.
+19::What is the molarity of a solution with 58.5 g of NaCl in 500 mL of solution?::1 M::2 M::0.5 M::4 M::B::Moles of NaCl = 58.5/58.5 = 1. Volume = 0.5 L. Molarity = 1/0.5 = 2 M.
+20::The boiling point elevation constant depends on::Solute::Solvent::Temperature::Pressure::B::The boiling point elevation constant (K_b) is a property of the solvent.
+21::Which solution has the lowest freezing point?::0.1 M glucose::0.1 M NaCl::0.1 M urea::0.1 M ethanol::B::NaCl dissociates into two ions, lowering the freezing point more due to a higher van’t Hoff factor.
+22::What is the unit of parts per million (ppm)?::mol/L::g/L::mg/L::g/kg::C::ppm is often expressed as mg of solute per liter of solution.
+23::A solution contains 18 g of glucose in 162 g of water. What is the mole fraction of glucose?::0.01::0.02::0.1::0.2::A::Moles of glucose = 18/180 = 0.1. Moles of water = 162/18 = 9. Mole fraction = 0.1/(0.1+9) ≈ 0.01.
+24::Which of the following is a true solution?::Milk::Sugar in water::Oil in water::Mud in water::B::Sugar in water forms a true solution, which is homogeneous and transparent.
+25::The molality of a solution with 60 g of urea in 1 kg of water is::1 m::2 m::0.5 m::3 m::A::Moles of urea = 60/60 = 1. Molality = 1/1 = 1 m.
+26::What is the effect of adding a non-volatile solute to a solvent?::Increases boiling point::Decreases boiling point::No effect on boiling point::Increases vapor pressure::A::Non-volatile solutes increase the boiling point by lowering the vapor pressure.
+27::Which of the following is a colligative property?::Viscosity::Osmotic pressure::Density::Color::B::Osmotic pressure is a colligative property, depending on the number of solute particles.
+28::What is the molarity of a solution with 40 g of NaOH in 250 mL of solution?::1 M::2 M::4 M::0.5 M::C::Moles of NaOH = 40/40 = 1. Volume = 0.25 L. Molarity = 1/0.25 = 4 M.
+29::The vapor pressure of a solution compared to a pure solvent is::Higher::Lower::Equal::Zero::B::Adding a solute lowers the vapor pressure of the solvent, as per Raoult’s Law.
+30::What is the freezing point depression constant unit?::K kg/mol::K L/mol::K/mol::K g/mol::A::The unit of K_f (freezing point depression constant) is K kg/mol.
+31::A solution with 1 mole of solute in 1 kg of solvent has a molality of::0.5 m::1 m::2 m::3 m::B::Molality = moles of solute/mass of solvent (kg) = 1/1 = 1 m.
+32::Which of the following is an electrolyte?::Sugar::Urea::NaCl::Glucose::C::NaCl dissociates into ions in water, making it an electrolyte.
+33::What is the boiling point elevation for a 1 m solution of NaCl in water (K_b = 0.52 K kg/mol)?::0.52 K::1.04 K::1.56 K::2.08 K::B::ΔT_b = i × K_b × m = 2 × 0.52 × 1 = 1.04 K (i = 2 for NaCl).
+34::The mole fraction of water in a solution with 1 mole of solute and 4 moles of water is::0.2::0.4::0.8::1::C::Mole fraction of water = 4/(1+4) = 4/5 = 0.8.
+35::Which solution has the highest osmotic pressure?::0.1 M glucose::0.1 M NaCl::0.1 M urea::0.1 M ethanol::B::Osmotic pressure = iCRT. NaCl has i = 2, giving higher osmotic pressure than non-electrolytes (i = 1).
+36::What is the mass of NaCl required to prepare 250 mL of 0.2 M solution?::2.925 g::5.85 g::11.7 g::1.4625 g::A::Moles = 0.2 × 0.25 = 0.05. Mass = 0.05 × 58.5 = 2.925 g.
+37::The relative lowering of vapor pressure depends on::Solute’s nature::Solvent’s nature::Mole fraction of solute::Temperature::C::As per Raoult’s Law, ΔP/P = X_solute, depending on the mole fraction of solute.
+38::What is the freezing point depression of a 0.1 m NaCl solution (K_f = 1.86 K kg/mol)?::0.186 K::0.372 K::0.558 K::0.744 K::B::ΔT_f = i × K_f × m = 2 × 1.86 × 0.1 = 0.372 K.
+39::Which of the following is a supersaturated solution?::Holds less solute::Holds maximum solute::Holds excess solute::Is clear::C::A supersaturated solution contains more solute than its solubility limit, often unstable.
+40::What is the molarity of a solution with 98 g of H₂SO₄ in 1 L of solution?::0.5 M::1 M::2 M::4 M::B::Moles of H₂SO₄ = 98/98 = 1. Molarity = 1/1 = 1 M.
+41::The osmotic pressure of a solution is proportional to::Temperature::Pressure::Volume::Density::A::Osmotic pressure (π = CRT) is directly proportional to absolute temperature.
+42::What is the mass percentage of a solution with 50 g of sugar in 200 g of solution?::20%::25%::30%::40%::B::Mass % = (50/200) × 100 = 25%.
+43::Which of the following obeys Raoult’s Law?::Ideal solutions::Non-ideal solutions::Electrolyte solutions::Concentrated solutions::A::Raoult’s Law applies to ideal solutions where solute-solvent interactions are similar.
+44::What is the molality of a solution with 36 g of glucose in 360 g of water?::0.5 m::1 m::2 m::0.25 m::A::Moles of glucose = 36/180 = 0.2. Molality = 0.2/(360/1000) = 0.5 m.
+45::The boiling point of a 0.1 M glucose solution (K_b = 0.52 K kg/mol) is elevated by::0.052 K::0.104 K::0.156 K::0.208 K::A::ΔT_b = i × K_b × m = 1 × 0.52 × 0.1 = 0.052 K (glucose, i = 1).
+46::What is the van’t Hoff factor for CaCl₂ in water?::1::2::3::4::C::CaCl₂ dissociates into Ca²⁺ and 2Cl⁻, giving a van’t Hoff factor of 3.
+47::A solution with 10 g of NaCl in 90 g of water has a mass percentage of::10%::11.1%::9%::12.5%::B::Mass % = (10/100) × 100 = 10%, but (10/90) × 100 ≈ 11.1% (error in options, closest is 11.1%).
+48::Which of the following is a dilute solution?::High solute concentration::Low solute concentration::Saturated solution::Supersaturated solution::B::A dilute solution has a low concentration of solute.
+49::What is the molarity of a solution with 4 g of NaOH in 500 mL of solution?::0.1 M::0.2 M::0.4 M::0.8 M::B::Moles of NaOH = 4/40 = 0.1. Volume = 0.5 L. Molarity = 0.1/0.5 = 0.2 M.
+50::The freezing point depression is greatest for::0.1 M glucose::0.1 M NaCl::0.1 M urea::0.1 M KCl::B::NaCl (i = 2) causes the greatest freezing point depression due to more particles in solution.

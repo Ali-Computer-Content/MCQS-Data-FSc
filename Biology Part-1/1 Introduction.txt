@@ -1,0 +1,50 @@
+1::Biology is the study of::Life::Matter::Energy::Atoms::A::Biology is derived from Greek words "bios" (life) and "logos" (study), focusing on living organisms and their interactions.
+2::The branch of biology that deals with the study of inheritance is called::Botany::Genetics::Zoology::Ecology::B::Genetics is the study of heredity and variation in organisms.
+3::Which level of biological organization is the simplest?::Cell::Tissue::Organ::Molecule::D::Molecules are the simplest level, forming the basic building blocks of life.
+4::The study of organisms in their natural habitat is called::Ecology::Physiology::Taxonomy::Morphology::A::Ecology examines interactions between organisms and their environment.
+5::Which of the following is a characteristic of living things?::Reproduction::Inertia::Conduction::Reflection::A::Reproduction is a key characteristic of living organisms, enabling species continuity.
+6::The smallest unit of life capable of independent existence is::Tissue::Cell::Organ::System::B::The cell is the basic structural and functional unit of life.
+7::Which branch of biology deals with the classification of organisms?::Taxonomy::Anatomy::Physiology::Biochemistry::A::Taxonomy involves naming and classifying organisms based on shared characteristics.
+8::The scientific name of humans is::Homo erectus::Homo sapiens::Homo habilis::Homo neanderthalensis::B::Homo sapiens is the scientific name for modern humans.
+9::Which of the following is not a level of biological organization?::Population::Community::Ecosystem::Molecule::D::Molecules are components, not a distinct level of organization like the others.
+10::The study of the structure of organisms is called::Morphology::Physiology::Genetics::Ecology::A::Morphology focuses on the form and structure of organisms.
+11::Which gas is essential for photosynthesis?::Oxygen::Carbon dioxide::Nitrogen::Hydrogen::B::Carbon dioxide is used by plants during photosynthesis to produce glucose.
+12::The process by which organisms maintain a stable internal environment is::Homeostasis::Metabolism::Photosynthesis::Respiration::A::Homeostasis ensures stable internal conditions despite external changes.
+13::Which of the following is a unicellular organism?::Amoeba::Human::Frog::Oak tree::A::Amoeba is a single-celled organism capable of independent life.
+14::The study of fossils is known as::Paleontology::Embryology::Histology::Pathology::A::Paleontology involves studying fossils to understand past life forms.
+15::Which of the following is a renewable resource?::Coal::Petroleum::Forests::Natural gas::C::Forests can regrow, making them renewable, unlike finite fossil fuels.
+16::The basic unit of classification in biology is::Species::Genus::Family::Order::A::Species is the most specific unit of classification.
+17::Which of the following is a non-living component of an ecosystem?::Plants::Animals::Water::Fungi::C::Water is an abiotic (non-living) component of ecosystems.
+18::The study of the chemical processes in living organisms is called::Biochemistry::Physiology::Genetics::Ecology::A::Biochemistry focuses on chemical reactions in living systems.
+19::Which of the following is a characteristic of all living organisms?::Movement::Growth::Photosynthesis::Respiration::B::Growth is universal in living organisms, unlike the others which are not always applicable.
+20::The term "biology" was coined by::Lamarck::Darwin::Linnaeus::Mendel::A::Lamarck introduced the term "biology" in the early 19th century.
+21::Which branch of biology deals with the study of microorganisms?::Microbiology::Botany::Zoology::Genetics::A::Microbiology focuses on microscopic organisms like bacteria and viruses.
+22::The process of evolution is primarily driven by::Mutation::Natural selection::Migration::Genetic drift::B::Natural selection is the primary mechanism of evolution, favoring advantageous traits.
+23::Which of the following is a biotic component of an ecosystem?::Soil::Water::Plants::Sunlight::C::Plants are living (biotic) components of an ecosystem.
+24::The study of tissues is called::Histology::Embryology::Pathology::Anatomy::A::Histology is the study of the microscopic structure of tissues.
+25::Which of the following is an example of a prokaryotic organism?::Amoeba::Bacteria::Fungus::Algae::B::Bacteria lack a nucleus, making them prokaryotic.
+26::The highest level of biological organization is::Ecosystem::Biosphere::Community::Population::B::The biosphere encompasses all ecosystems on Earth.
+27::Which of the following is a function of the cell membrane?::Photosynthesis::DNA replication::Selective permeability::Protein synthesis::C::The cell membrane controls what enters and leaves the cell.
+28::The study of the development of an organism from a zygote is::Embryology::Paleontology::Taxonomy::Ecology::A::Embryology studies the development from fertilization to birth.
+29::Which of the following is an example of a multicellular organism?::Bacteria::Amoeba::Human::Paramecium::C::Humans are composed of multiple cells, unlike the others which are unicellular.
+30::The term "biodiversity" refers to::Variety of life::Study of cells::Chemical processes::Ecosystem balance::A::Biodiversity describes the variety of living species in an ecosystem.
+31::Which branch of biology studies the functions of organisms?::Physiology::Morphology::Taxonomy::Genetics::A::Physiology examines how organisms function.
+32::The scientific method begins with::Experimentation::Observation::Hypothesis::Conclusion::B::Observation is the first step in the scientific method.
+33::Which of the following is a renewable energy source?::Coal::Solar energy::Petroleum::Natural gas::B::Solar energy is replenished naturally, unlike fossil fuels.
+34::The study of interactions between living and non-living components is::Ecology::Genetics::Biochemistry::Physiology::A::Ecology studies interactions within ecosystems.
+35::Which molecule is the primary source of energy in cells?::ATP::DNA::RNA::Glucose::A::ATP (adenosine triphosphate) is the cell's energy currency.
+36::Which of the following is a characteristic of viruses?::They are living::They have a nucleus::They lack cellular structure::They perform photosynthesis::C::Viruses are non-cellular and rely on host cells to replicate.
+37::The study of plant life is called::Botany::Zoology::Microbiology::Ecology::A::Botany is the branch of biology focused on plants.
+38::Which of the following is an example of a population?::All trees in a forest::All forests in a country::All plants and animals in a forest::A single tree::A::A population consists of individuals of the same species in an area.
+39::The process by which organisms produce offspring is::Respiration::Reproduction::Metabolism::Homeostasis::B::Reproduction ensures the continuation of a species.
+40::Which of the following is a non-renewable resource?::Wind::Water::Coal::Solar energy::C::Coal is finite and cannot be replenished on a human timescale.
+41::The study of animal behavior is called::Ethology::Ecology::Embryology::Histology::A::Ethology focuses on the behavior of animals in their natural environment.
+42::Which of the following is a function of the nucleus?::Protein synthesis::Energy production::Genetic information storage::Waste elimination::C::The nucleus stores DNA, the genetic material of the cell.
+43::The term "ecosystem" refers to::A group of cells::A community and its environment::A single organism::A group of tissues::B::An ecosystem includes living organisms and their abiotic environment.
+44::Which of the following is a characteristic of eukaryotic cells?::Lack of nucleus::Presence of nucleus::No organelles::Single-celled only::B::Eukaryotic cells have a defined nucleus containing DNA.
+45::The study of diseases in organisms is called::Pathology::Embryology::Histology::Taxonomy::A::Pathology studies the causes and effects of diseases.
+46::Which of the following is an example of a community?::All plants in a forest::All living organisms in a forest::A single species in a forest::All trees in a country::B::A community includes all living organisms in a specific area.
+47::The process of converting food into energy is::Photosynthesis::Respiration::Digestion::Fermentation::B::Respiration breaks down food to produce energy in the form of ATP.
+48::Which of the following is a feature of living organisms?::Response to stimuli::Fixed shape::Inorganic composition::Lack of metabolism::A::Living organisms respond to environmental changes.
+49::The study of the evolutionary history of organisms is::Phylogeny::Taxonomy::Ecology::Physiology::A::Phylogeny traces the evolutionary relationships among organisms.
+50::Which of the following is an example of a biome?::Desert::Population::Cell::Organ::A::A biome is a large ecological area with distinct climate and organisms, like a desert.

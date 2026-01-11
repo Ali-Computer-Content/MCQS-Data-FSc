@@ -1,0 +1,50 @@
+1::What is C language?::A high-level programming language::A hardware description language::A scripting language::A database language::A::C is a general-purpose, high-level programming language.
+2::Who developed the C language?::Dennis Ritchie::Bill Gates::Steve Jobs::Tim Berners-Lee::A::Dennis Ritchie developed C at Bell Labs in the early 1970s.
+3::Which symbol is used to terminate a C statement?::.::;::,::::B::A semicolon (;) terminates each statement in C.
+4::What is the correct syntax for the main function in C?::void main()::int main()::main()::start main()::B::int main() is the standard entry point for a C program.
+5::Which header file is used for input/output operations in C?::stdio.h::math.h::string.h::stdlib.h::A::stdio.h (Standard Input/Output) provides functions like printf and scanf.
+6::What does the printf() function do in C?::Inputs dat::aOutputs dat::aDeclares variables::Performs calculations::B::printf() outputs formatted data to the console.
+7::Which function is used to read input from the user in C?::printf()::scanf()::getch()::puts()::B::scanf() reads formatted input from the user.
+8::What is a variable in C?::A constant value::A memory location with a name::A function::A data type::B::A variable is a named memory location to store data.
+9::Which data type is used to store whole numbers in C?::float::int::char::double::B::int is used for integer values without decimals.
+10::Which data type stores single characters in C?::int::float::char::double::C::char stores single characters, like 'A' or '1'.
+11::What is the size of an int data type in standard C (32-bit system)?::2 bytes::4 bytes::1 byte::8 bytes::B::int typically occupies 4 bytes on a 32-bit system.
+12::Which keyword declares a constant in C?::const::static::volatile::define::A::const declares a variable whose value cannot be changed.
+13::What is the correct way to declare a variable in C?::int x;::x int;::int = x;::declare x;::A::Variable declaration in C follows:: data_type variable_name;.
+14::Which operator performs arithmetic addition in C?::+::–::/::*::A::The + operator adds two operands.
+15::What is the result of 5 % 2 in C?::2::1::3::0::B::The modulus operator % returns the remainder:: 5 % 2 = 1.
+16::Which operator checks equality in C?::=::==::!=::<>::B::The == operator checks if two values are equal.
+17::What is the logical AND operator in C?::&&::||::!::&::A::&& returns true if both operands are true.
+18::What is the logical OR operator in C?::&&::||::!::&::B::|| returns true if at least one operand is true.
+19::Which operator increments a variable by 1 in C?::+=::++::-=::--::B::The ++ operator increments a variable by 1.
+20::What is the output of printf("%d", 10 / 3);?::3::3.33::4::0::A::Integer division 10 / 3 yields 3 (decimal part truncated).
+21::Which control structure executes a block of code repeatedly?::if::switch::for::goto::C::The for loop is used for repeated execution based on a condition.
+22::What is the syntax of a for loop in C?::for (init; condition; update)::for (condition; init; update)::for (init; update; condition)::for (condition; update; init)::A::for (init; condition; update) is the correct syntax.
+23::Which statement terminates a loop immediately in C?::continue::break::return::exit::B::break exits the loop entirely.
+24::Which statement skips the current iteration of a loop?::break::continue::return::goto::B::continue skips to the next iteration of the loop.
+25::What does the if statement do in C?::Loops through code::Selects one case::Executes code conditionally::Declares variables::C::if executes a block of code if a condition is true.
+26::What is the purpose of the else statement in C?::Repeats code::Provides an alternative condition::Breaks a loop::Declares a variable::B::else executes code when the if condition is false.
+27::Which structure allows multiple conditions in C?::if::if-else::switch::for::C::switch selects one case from multiple options based on a value.
+28::What is the purpose of the default case in a switch statement?::First case::Last case::Handles unmatched cases::Repeats code::C::default executes when no case matches the switch expression.
+29::Which keyword is used to exit a switch statement?::break::continue::return::goto::A::break exits the switch block after a case is executed.
+30::What is the format specifier for an integer in printf()?::%c::%d::%f::%s::B::%d is used to print integer values.
+31::What is the format specifier for a float in printf()?::%c::%d::%f::%s::C::%f is used to print floating-point values.
+32::What is the format specifier for a character in printf()?::%c::%d::%f::%s::A::%c is used to print a single character.
+33::What is the format specifier for a string in printf()?::%c::%d::%f::%s::D::%s is used to print a string of characters.
+34::Which function reads a single character without echoing it?::scanf()::getch()::getchar()::puts()::B::getch() reads a character without displaying it on the screen.
+35::What is the purpose of the #include directive in C?::Declares variables::Includes header files::Defines constants::Runs a program::B::#include imports header files for function definitions.
+36::What is a comment in C?::Executable code::Non-executable text::A variable::A function::B::Comments (/* */ or //) are ignored by the compiler and used for documentation.
+37::Which symbol denotes a single-line comment in C?::/* */:://::#::%%::B::// is used for single-line comments in C.
+38::What is the range of a char data type in C?::-128 to 127::0 to 255::-32768 to 32767::0 to 65535::A::Signed char ranges from -128 to 127 (1 byte).
+39::What is the result of 10 > 5 && 3 < 2 in C?::1::0::True::False::B::10 > 5 is true, 3 < 2 is false, so true && false = 0 (false).
+40::What is the result of 10 < 5 || 3 > 2 in C?::1::0::True::False::A::10 < 5 is false, 3 > 2 is true, so false || true = 1 (true).
+41::Which loop executes at least once regardless of the condition?::for::while::do-while::if::C::do-while executes the loop body at least once before checking the condition.
+42::What is the syntax of a while loop in C?::while (condition) {code}::for (condition) {code}::do {code} while (condition)::if (condition) {code}::A::while (condition) {code} loops while the condition is true.
+43::What is the output of printf("%d", 5 * 2 + 3);?::13::11::10::15::A::Follow operator precedence:: 5 * 2 = 10, then 10 + 3 = 13.
+44::Which operator assigns a value to a variable in C?::=::==::!=::<>::A::The = operator assigns a value to a variable.
+45::What is the purpose of the getchar() function in C?::Prints a character::Reads a character::Prints a string::Reads a string::B::getchar() reads a single character from standard input.
+46::What is the purpose of the puts() function in C?::Reads a string::Prints a string::Reads a character::Prints a number::B::puts() prints a string followed by a newline.
+47::Which data type stores decimal numbers with high precision?::int::float::double::char::C::double provides higher precision for decimal numbers than float.
+48::What is the size of a double data type in C (32-bit system)?::2 bytes::4 bytes::8 bytes::1 byte::C::double occupies 8 bytes on a 32-bit system.
+49::Which header file provides mathematical functions in C?::stdio.h::math.h::string.h::stdlib.h::B::math.h includes functions like sqrt(), pow(), and sin().
+50::What is the output of printf("%f", 5.0 / 2);?::2.5::2::3::2.0::A::Floating-point division 5.0 / 2 yields 2.5.
