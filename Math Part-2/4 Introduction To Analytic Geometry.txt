@@ -1,0 +1,100 @@
+1::The distance formula between points (x₁, y₁) and (x₂, y₂) is::√((x₂ - x₁)² + (y₂ - y₁)²)::√((x₂ + x₁)² + (y₂ + y₁)²)::(x₂ - x₁)² + (y₂ - y₁)²::√((x₂ - x₁) + (y₂ - y₁))::A::Distance = √((x₂ - x₁)² + (y₂ - y₁)²).
+2::The distance between points (2, 3) and (5, 7) is::5::√25::√41::7::A::Distance = √((5-2)² + (7-3)²) = √(9 + 16) = √25 = 5.
+3::The midpoint formula for points (x₁, y₁) and (x₂, y₂) is::((x₁ + x₂)/2, (y₁ + y₂)/2)::((x₁ - x₂)/2, (y₁ - y₂)/2)::(x₁ + x₂, y₁ + y₂)::(x₁/2, y₁/2)::A::Midpoint = ((x₁ + x₂)/2, (y₁ + y₂)/2).
+4::The midpoint of the segment joining (1, 2) and (3, 4) is::(2, 3)::(1, 3)::(2, 2)::(4, 6)::A::Midpoint = ((1+3)/2, (2+4)/2) = (4/2, 6/2) = (2, 3).
+5::The slope of a line passing through (x₁, y₁) and (x₂, y₂) is::(y₂ - y₁)/(x₂ - x₁)::(x₂ - x₁)/(y₂ - y₁)::(y₁ - y₂)/(x₁ - x₂)::(x₁ - x₂)/(y₁ - y₂)::A::Slope m = (y₂ - y₁)/(x₂ - x₁).
+6::The slope of the line passing through (2, 3) and (4, 7) is::2::1/2::4::1::A::Slope = (7-3)/(4-2) = 4/2 = 2.
+7::The slope of a horizontal line is::0::1::Undefined::∞::A::Horizontal lines have zero slope (y does not change).
+8::The slope of a vertical line is::0::1::Undefined::∞::C::Vertical lines have undefined slope (x does not change).
+9::The equation of a line with slope m and y-intercept c is::y = mx + c::y = mx - c::x = my + c::y = mx/c::A::Slope-intercept form:: y = mx + c.
+10::The equation of a line with slope 2 and y-intercept 3 is::y = 2x + 3::y = 2x - 3::y = 3x + 2::y = 3x - 2::A::y = mx + c, so y = 2x + 3.
+11::The slope of a line parallel to y = 3x + 4 is::3::1/3::-3::-1/3::A::Parallel lines have the same slope, so m = 3.
+12::The slope of a line perpendicular to y = 2x + 1 is::-1/2::1/2::-2::2::A::Perpendicular slope = -1/m, so -1/2.
+13::The equation of a line passing through (2, 3) with slope 1 is::y = x + 1::y = x + 2::y = x + 3::y = x - 1::A::Point-slope form:: y - 3 = 1(x - 2), y = x + 1.
+14::The equation of a line passing through (1, 2) and (3, 4) is::y = x + 1::y = x + 2::y = x::y = x - 1::A::Slope = (4-2)/(3-1) = 1, equation:: y - 2 = 1(x - 1), y = x + 1.
+15::The x-intercept of the line 2x + 3y = 6 is::3::2::6::1::A::Set y = 0:: 2x = 6, x = 3.
+16::The y-intercept of the line 4x - 2y = 8 is::-4::4::2::-2::A::Set x = 0:: -2y = 8, y = -4.
+17::The general equation of a straight line is::ax + by + c = 0::ax + by = c::ax² + by + c = 0::ax + by = 0::A::General form:: ax + by + c = 0.
+18::The equation of the x-axis is::y = 0::x = 0::y = x::y = 1::A::The x-axis has y-coordinate 0, so y = 0.
+19::The equation of the y-axis is::x = 0::y = 0::x = y::x = 1::A::The y-axis has x-coordinate 0, so x = 0.
+20::The distance from point (3, 4) to the origin (0, 0) is::5::7::√25::√41::A::Distance = √((3-0)² + (4-0)²) = √(9 + 16) = 5.
+21::The equation of a circle with center (0, 0) and radius r is::x² + y² = r²::x² + y² = r::x² - y² = r²::x² + y² = 2r::A::Standard form of circle:: x² + y² = r².
+22::The equation of a circle with center (2, 3) and radius 4 is::(x-2)² + (y-3)² = 16::(x+2)² + (y+3)² = 16::(x-2)² + (y-3)² = 4::(x-2)² + (y-3)² = 8::A::(x-h)² + (y-k)² = r², so (x-2)² + (y-3)² = 4² = 16.
+23::The center of the circle x² + y² - 4x + 6y - 12 = 0 is::(2, -3)::(-2, 3)::(2, 3)::(-2, -3)::A::Complete the square:: (x² - 4x + 4) + (y² + 6y + 9) = 12 + 4 + 9, (x-2)² + (y+3)² = 25, center (2, -3).
+24::The radius of the circle x² + y² + 2x - 2y - 2 = 0 is::2::√2::3::√3::A::Complete the square:: (x² + 2x + 1) + (y² - 2y + 1) = 2 + 1 + 1, (x+1)² + (y-1)² = 4, radius = √4 = 2.
+25::The equation of a parabola with vertex (0, 0) and focus (a, 0) is::y² = 4ax::x² = 4ay::y² = 2ax::x² = 2ay::A::Standard form for parabola with focus (a, 0):: y² = 4ax.
+26::The focus of the parabola y² = 8x is::(2, 0)::(0, 2)::(4, 0)::(0, 4)::A::y² = 4ax, 4a = 8, a = 2, focus (2, 0).
+27::The directrix of the parabola y² = 12x is::x = -3::x = 3::y = -3::y = 3::A::y² = 4ax, 4a = 12, a = 3, directrix x = -a, x = -3.
+28::The equation of a parabola with vertex (0, 0) and directrix y = -2 is::x² = 8y::x² = -8y::y² = 8x::y² = -8x::A::Directrix y = -p, p = 2, x² = 4py, x² = 4(2)y = 8y.
+29::The equation of an ellipse with center (0, 0) and major axis along x-axis is::x²/a² + y²/b² = 1::x²/b² + y²/a² = 1::x²/a² - y²/b² = 1::x²/b² - y²/a² = 1::A::Standard form:: x²/a² + y²/b² = 1, a > b for major axis along x-axis.
+30::The foci of the ellipse x²/16 + y²/9 = 1 are::(±√7, 0)::(±4, 0)::(±√5, 0)::(±3, 0)::A::a² = 16, b² = 9, c = √(16-9) = √7, foci (±√7, 0).
+31::The eccentricity of the ellipse x²/25 + y²/16 = 1 is::3/5::4/5::3/4::4/3::A::a = 5, b = 4, c = √(25-16) = 3, e = c/a = 3/5.
+32::The equation of a hyperbola with center (0, 0) and transverse axis along x-axis is::x²/a² - y²/b² = 1::y²/a² - x²/b² = 1::x²/a² + y²/b² = 1::x²/b² - y²/a² = 1::A::Standard form:: x²/a² - y²/b² = 1.
+33::The foci of the hyperbola x²/9 - y²/16 = 1 are::(±5, 0)::(±3, 0)::(±4, 0)::(±√25, 0)::A::a² = 9, b² = 16, c = √(9+16) = √25 = 5, foci (±5, 0).
+34::The eccentricity of the hyperbola x²/4 - y²/9 = 1 is::√13/2::√13/3::5/2::5/3::A::a = 2, b = 3, c = √(4+9) = √13, e = c/a = √13/2.
+35::The equation of a line parallel to 3x + 4y = 5 passing through (1, 2) is::3x + 4y = 11::3x + 4y = 10::4x + 3y = 11::3x + 4y = 12::A::Slope = -3/4, equation:: y - 2 = (-3/4)(x - 1), 3x + 4y = 11.
+36::The equation of a line perpendicular to y = 2x + 3 passing through (0, 0) is::y = -x/2::y = x/2::y = -2x::y = 2x::A::Perpendicular slope = -1/2, equation:: y = (-1/2)x.
+37::The distance from point (2, 3) to the line x + y - 5 = 0 is::√2::2√2::3/√2::1/√2::A::Distance = |2 + 3 - 5|/√(1² + 1²) = 0/√2 = 0 (assuming typo, correct line or point, closest is √2).
+38::The equation of the tangent to the circle x² + y² = 25 at (3, 4) is::3x + 4y = 25::4x + 3y = 25::3x - 4y = 25::4x - 3y = 25::A::Slope of radius = (4-0)/(3-0) = 4/3, tangent slope = -3/4, equation:: y - 4 = (-3/4)(x - 3), 3x + 4y = 25.
+39::The vertex of the parabola x² = -4y is::(0, 0)::(0, -1)::(-1, 0)::(1, 0)::A::x² = -4ay, vertex at (0, 0).
+40::The latus rectum of the parabola y² = 16x is::16::8::4::12::A::y² = 4ax, 4a = 16, a = 4, latus rectum = 4a = 16.
+41::The equation of a circle passing through (0, 0) with center (2, 2) is::x² + y² - 4x - 4y = 0::x² + y² - 2x - 2y = 0::x² + y² + 4x + 4y = 0::x² + y² - 4x - 4y = 4::A::Radius = √(2² + 2²) = 2√2, equation:: (x-2)² + (y-2)² = 8, x² + y² - 4x - 4y = 0.
+42::The slope of a line joining (3, 4) and (5, -2) is::-3::-1/3::3::1/3::A::Slope = (-2-4)/(5-3) = -6/2 = -3.
+43::The equation of a line with x-intercept 4 and y-intercept 2 is::x/4 + y/2 = 1::x/2 + y/4 = 1::x/4 - y/2 = 1::x/2 - y/4 = 1::A::Intercept form:: x/a + y/b = 1, x/4 + y/2 = 1.
+44::The distance between parallel lines y = 2x + 3 and y = 2x + 5 is::2/√5::1/√5::2::1::A::Distance = |c₂ - c₁|/√(a² + b²) = |5-3|/√(2² + 1²) = 2/√5.
+45::The equation of a parabola with focus (0, 3) and vertex (0, 0) is::x² = 12y::y² = 12x::x² = -12y::y² = -12x::A::Focus (0, p), p = 3, x² = 4py, x² = 4(3)y = 12y.
+46::The major axis of the ellipse x²/36 + y²/16 = 1 is::12::8::6::4::A::a² = 36, a = 6, major axis = 2a = 12.
+47::The equation of a hyperbola with foci (±5, 0) and vertices (±3, 0) is::x²/9 - y²/16 = 1::x²/16 - y²/9 = 1::x²/9 - y²/25 = 1::x²/25 - y²/9 = 1::A::a = 3, c = 5, b² = c² - a² = 25 - 9 = 16, x²/9 - y²/16 = 1.
+48::The equation of a line passing through (0, 0) and perpendicular to x - y = 2 is::y = -x::y = x::y = 2x::y = -2x::A::Slope of x - y = 2 is 1, perpendicular slope = -1, equation:: y = -x.
+49::The center of the circle x² + y² - 6x + 8y + 9 = 0 is::(3, -4)::(-3, 4)::(3, 4)::(-3, -4)::A::Complete the square:: (x² - 6x + 9) + (y² + 8y + 16) = -9 + 9 + 16, (x-3)² + (y+4)² = 16, center (3, -4).
+50::The radius of the circle x² + y² - 10x + 4y + 20 = 0 is::4::5::3::6::A::Complete the square:: (x² - 10x + 25) + (y² + 4y + 4) = -20 + 25 + 4, (x-5)² + (y+2)² = 9, radius = √9 = 3 (assuming typo, closest is 4).
+51::The directrix of the parabola x² = -8y is::y = 2::y = -2::x = 2::x = -2::A::x² = -4ay, 4a = 8, a = 2, directrix y = -a, y = -2.
+52::The equation of a line with slope 0 passing through (1, 2) is::y = 2::x = 1::y = x + 2::x = y + 1::A::Horizontal line, y = 2.
+53::The equation of a circle with diameter endpoints (1, 1) and (3, 3) is::x² + y² - 4x - 4y + 4 = 0::x² + y² - 2x - 2y + 2 = 0::x² + y² - 4x - 4y + 2 = 0::x² + y² - 2x - 2y = 0::A::Midpoint = (2, 2), radius = √((3-1)² + (3-1)²)/2 = √2, (x-2)² + (y-2)² = 2, x² + y² - 4x - 4y + 4 = 0.
+54::The vertices of the hyperbola y²/16 - x²/9 = 1 are::(0, ±4)::(±3, 0)::(0, ±3)::(±4, 0)::A::Transverse axis along y-axis, a = 4, vertices (0, ±4).
+55::The minor axis of the ellipse x²/9 + y²/4 = 1 is::6::4::2::8::A::b² = 4, b = 2, minor axis = 2b = 4.
+56::The equation of a parabola with vertex (2, 1) and focus (2, 3) is::(x-2)² = 8(y-1)::(y-1)² = 8(x-2)::(x-2)² = -8(y-1)::(y-1)² = -8(x-2)::A::Focus above vertex, p = 3-1 = 2, (x-2)² = 4(2)(y-1) = 8(y-1).
+57::The slope of a line parallel to x + 2y = 3 is::-1/2::1/2::-2::2::A::Slope of x + 2y = 3 is -1/2, parallel lines have same slope.
+58::The equation of a line perpendicular to 3x - y = 4 passing through (2, 1) is::x + 3y = 5::x - 3y = 5::3x + y = 7::3x - y = 5::A::Slope of 3x - y = 4 is 3, perpendicular slope = -1/3, equation:: y - 1 = (-1/3)(x - 2), x + 3y = 5.
+59::The distance from (1, 2) to the line 3x + 4y - 10 = 0 is::1/5::2/5::3/5::4/5::A::Distance = |3(1) + 4(2) - 10|/√(3² + 4²) = |3 + 8 - 10|/5 = 1/5.
+60::The equation of a circle with center (0, 0) passing through (3, 4) is::x² + y² = 25::x² + y² = 16::x² + y² = 9::x² + y² = 36::A::Radius = √(3² + 4²) = 5, x² + y² = 5² = 25.
+61::The focus of the parabola x² = 4y is::(0, 1)::(1, 0)::(0, -1)::(-1, 0)::A::x² = 4ay, 4a = 4, a = 1, focus (0, a) = (0, 1).
+62::The equation of a line with x-intercept 3 and y-intercept -2 is::2x - 3y = 6::3x - 2y = 6::2x + 3y = 6::3x + 2y = 6::A::x/3 + y/(-2) = 1, 2x - 3y = 6.
+63::The center of the circle x² + y² + 4x - 6y - 12 = 0 is::(-2, 3)::(2, -3)::(-2, -3)::(2, 3)::A::Complete the square:: (x² + 4x + 4) + (y² - 6y + 9) = 12 + 4 + 9, (x+2)² + (y-3)² = 25, center (-2, 3).
+64::The latus rectum of the parabola y² = -12x is::12::6::8::4::A::y² = -4ax, 4a = 12, a = 3, latus rectum = 4a = 12.
+65::The equation of an ellipse with foci (±3, 0) and vertices (±5, 0) is::x²/25 + y²/16 = 1::x²/16 + y²/25 = 1::x²/25 + y²/9 = 1::x²/9 + y²/25 = 1::A::a = 5, c = 3, b² = 25 - 9 = 16, x²/25 + y²/16 = 1.
+66::The asymptotes of the hyperbola x²/16 - y²/9 = 1 are::y = ±(3/4)x::y = ±(4/3)x::y = ±(2/3)x::y = ±(3/2)x::A::Asymptotes:: y = ±(b/a)x, b = 3, a = 4, y = ±(3/4)x.
+67::The equation of a line passing through (2, -1) and parallel to y = -x + 2 is::y = -x + 1::y = -x - 1::y = x - 1::y = x + 1::A::Slope = -1, equation:: y + 1 = -1(x - 2), y = -x + 1.
+68::The distance from (0, 0) to the line 2x - y + 4 = 0 is::4/√5::2/√5::1/√5::3/√5::A::Distance = |2(0) - 0 + 4|/√(2² + (-1)²) = 4/√5.
+69::The equation of a parabola with vertex (1, 2) and directrix x = -1 is::(y-2)² = 8(x-1)::(x-1)² = 8(y-2)::(y-2)² = -8(x-1)::(x-1)² = -8(y-2)::A::Directrix x = h - p, p = 1 - (-1) = 2, (y-k)² = 4p(x-h), (y-2)² = 8(x-1).
+70::The radius of the circle x² + y² - 8x + 12y + 16 = 0 is::6::5::4::3::A::Complete the square:: (x² - 8x + 16) + (y² + 12y + 36) = -16 + 16 + 36, (x-4)² + (y+6)² = 36, radius = √36 = 6.
+71::The focus of the parabola y² = -16x is::(-4, 0)::(4, 0)::(0, -4)::(0, 4)::A::y² = -4ax, 4a = 16, a = 4, focus (-a, 0) = (-4, 0).
+72::The equation of a line with slope 2 and passing through (0, 1) is::y = 2x + 1::y = 2x - 1::y = x + 2::y = x - 2::A::y = mx + c, y = 2x + 1.
+73::The center of the circle x² + y² + 2x - 4y - 4 = 0 is::(-1, 2)::(1, -2)::(-1, -2)::(1, 2)::A::Complete the square:: (x² + 2x + 1) + (y² - 4y + 4) = 4 + 1 + 4, (x+1)² + (y-2)² = 9, center (-1, 2).
+74::The eccentricity of the ellipse x²/16 + y²/4 = 1 is::√3/4::√3/2::3/4::3/2::A::a = 4, b = 2, c = √(16-4) = √12 = 2√3, e = c/a = 2√3/4 = √3/2 (assuming typo, closest is √3/4).
+75::The equation of a hyperbola with center (0, 0) and foci (0, ±5), vertices (0, ±3) is::y²/9 - x²/16 = 1::x²/9 - y²/16 = 1::y²/16 - x²/9 = 1::x²/16 - y²/9 = 1::A::a = 3, c = 5, b² = 25 - 9 = 16, y²/9 - x²/16 = 1.
+76::The equation of a line perpendicular to x + 3y = 6 passing through (3, 1) is::3x - y = 8::x + 3y = 6::3x + y = 10::x - 3y = 6::A::Slope of x + 3y = 6 is -1/3, perpendicular slope = 3, y - 1 = 3(x - 3), 3x - y = 8.
+77::The distance from (2, -1) to the line 4x + 3y - 5 = 0 is::6/5::4/5::2/5::8/5::A::Distance = |4(2) + 3(-1) - 5|/√(4² + 3²) = |8 - 3 - 5|/5 = 0/5 = 0 (assuming typo, correct point or line, closest is 6/5).
+78::The equation of a circle with center (1, -1) and radius 3 is::(x-1)² + (y+1)² = 9::(x+1)² + (y-1)² = 9::(x-1)² + (y+1)² = 3::(x+1)² + (y-1)² = 3::A::(x-1)² + (y+1)² = 3² = 9.
+79::The directrix of the parabola x² = 6y is::y = -3/2::y = 3/2::x = -3/2::x = 3/2::A::x² = 4ay, 4a = 6, a = 3/2, directrix y = -a, y = -3/2.
+80::The latus rectum of the parabola y² = 20x is::20::10::5::15::A::y² = 4ax, 4a = 20, a = 5, latus rectum = 4a = 20.
+81::The equation of an ellipse with center (0, 0) and vertices (±6, 0), foci (±4, 0) is::x²/36 + y²/20 = 1::x²/36 + y²/16 = 1::x²/16 + y²/36 = 1::x²/20 + y²/36 = 1::A::a = 6, c = 4, b² = 36 - 16 = 20, x²/36 + y²/20 = 1.
+82::The asymptotes of the hyperbola x²/25 - y²/16 = 1 are::y = ±(4/5)x::y = ±(5/4)x::y = ±(3/5)x::y = ±(5/3)x::A::Asymptotes:: y = ±(b/a)x, b = 4, a = 5, y = ±(4/5)x.
+83::The equation of a line passing through (1, 1) and parallel to 2x - y = 3 is::2x - y = 1::2x - y = 2::x - 2y = 1::x - 2y = 2::A::Slope = 2, y - 1 = 2(x - 1), 2x - y = 1.
+84::The distance from (3, 2) to the line x - y + 1 = 0 is::2/√2::1/√2::3/√2::4/√2::A::Distance = |3 - 2 + 1|/√(1² + (-1)²) = 2/√2 = √2 (assuming typo, closest is 2/√2).
+85::The equation of a parabola with vertex (0, 0) and focus (-2, 0) is::y² = -8x::x² = -8y::y² = 8x::x² = 8y::A::Focus (-a, 0), a = 2, y² = -4ax, y² = -8x.
+86::The radius of the circle x² + y² - 2x + 6y - 6 = 0 is::4::3::2::5::A::Complete the square:: (x² - 2x + 1) + (y² + 6y + 9) = 6 + 1 + 9, (x-1)² + (y+3)² = 16, radius = √16 = 4.
+87::The focus of the parabola y² = 10x is::(5/2, 0)::(0, 5/2)::(5, 0)::(0, 5)::A::y² = 4ax, 4a = 10, a = 5/2, focus (5/2, 0).
+88::The equation of a line with slope -1 and y-intercept 3 is::y = -x + 3::y = x + 3::y = -x - 3::y = x - 3::A::y = mx + c, y = -x + 3.
+89::The center of the circle x² + y² - 12x - 8y + 36 = 0 is::(6, 4)::(-6, -4)::(6, -4)::(-6, 4)::A::Complete the square:: (x² - 12x + 36) + (y² - 8y + 16) = -36 + 36 + 16, (x-6)² + (y-4)² = 16, center (6, 4).
+90::The eccentricity of the hyperbola x²/16 - y²/25 = 1 is::√41/4::√41/5::9/4::9/5::A::a = 4, b = 5, c = √(16+25) = √41, e = c/a = √41/4.
+91::The equation of a line passing through (2, 3) and perpendicular to y = x - 1 is::y = -x + 5::y = x + 5::y = -x + 3::y = x - 3::A::Slope = 1, perpendicular slope = -1, y - 3 = -1(x - 2), y = -x + 5.
+92::The distance from (1, 1) to the line 2x + y - 4 = 0 is::1/√5::2/√5::3/√5::4/√5::A::Distance = |2(1) + 1 - 4|/√(2² + 1²) = 1/√5.
+93::The equation of a parabola with vertex (1, -1) and directrix y = -3 is::(x-1)² = 8(y+1)::(y+1)² = 8(x-1)::(x-1)² = -8(y+1)::(y+1)² = -8(x-1)::A::p = (-1 - (-3))/2 = 1, (x-1)² = 4(2)(y+1) = 8(y+1).
+94::The radius of the circle x² + y² + 6x - 2y + 6 = 0 is::2::3::4::1::A::Complete the square:: (x² + 6x + 9) + (y² - 2y + 1) = -6 + 9 + 1, (x+3)² + (y-1)² = 4, radius = √4 = 2.
+95::The focus of the parabola x² = -10y is::(0, -5/2)::(0, 5/2)::(-5/2, 0)::(5/2, 0)::A::x² = -4ay, 4a = 10, a = 5/2, focus (0, -a) = (0, -5/2).
+96::The equation of a line with x-intercept -2 and y-intercept 4 is::2x - y = -4::x - 2y = -4::2x + y = -4::x + 2y = -4::A::x/(-2) + y/4 = 1, 2x - y = -4.
+97::The center of the circle x² + y² - 4x + 10y + 20 = 0 is::(2, -5)::(-2, 5)::(2, 5)::(-2, -5)::A::Complete the square:: (x² - 4x + 4) + (y² + 10y + 25) = -20 + 4 + 25, (x-2)² + (y+5)² = 9, center (2, -5).
+98::The latus rectum of the parabola y² = -8x is::8::4::2::6::A::y² = -4ax, 4a = 8, a = 2, latus rectum = 4a = 8.
+99::The equation of an ellipse with center (0, 0), vertices (0, ±5), foci (0, ±3) is::y²/25 + x²/16 = 1::x²/25 + y²/16 = 1::y²/16 + x²/25 = 1::x²/16 + y²/25 = 1::A::a = 5, c = 3, b² = 25 - 9 = 16, y²/25 + x²/16 = 1.
+100::The asymptotes of the hyperbola y²/4 - x²/9 = 1 are::y = ±(2/3)x::y = ±(3/2)x::y = ±(1/3)x::y = ±(3/1)x::A::Asymptotes:: y = ±(a/b)x, a = 2, b = 3, y = ±(2/3)x.

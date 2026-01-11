@@ -1,0 +1,50 @@
+1::A vector quantity has both::Magnitude and direction::Magnitude only::Direction only::Neither magnitude nor direction::A::A vector is defined by both magnitude (size) and direction, e.g., velocity.
+2::The result of adding two vectors is called::Scalar::Resultant::Component::Unit vector::B::The resultant is the single vector that represents the sum of two or more vectors.
+3::The scalar product of two vectors A and B is given by::A + B::A × B::A · B::A / B::C::The scalar (dot) product is A · B = |A||B|cosθ, yielding a scalar quantity.
+4::The vector product of two vectors A and B results in::A scalar::A vector::A magnitude only::Zero::B::The vector (cross) product A × B produces a vector perpendicular to both A and B.
+5::The magnitude of the unit vector is::0::1::2::Infinite::B::A unit vector has a magnitude of 1 and is used to indicate direction.
+6::The angle between two vectors A and B when their dot product is zero is::0°::45°::90°::180°::C::If A · B = 0, then cosθ = 0, so θ = 90°, meaning the vectors are perpendicular.
+7::The components of a vector in two dimensions are along::X and Y axes::X and Z axes::Y and Z axes::All axes::A::A 2D vector is resolved into components along the X and Y axes.
+8::The torque produced by a force depends on::Force only::Distance only::Force and distance::Angle only::C::Torque (τ) = r × F = rFsinθ, depending on force, distance, and angle.
+9::The condition for equilibrium of a body is::Net force is zero::Net torque is zero::Both net force and torque are zero::Acceleration is zero::C::For equilibrium, both ΣF = 0 (translational) and Στ = 0 (rotational) must hold.
+10::The magnitude of the cross product |A × B| is equal to::|A||B|::|A||B|sinθ::|A||B|cosθ::|A| + |B|::B::The magnitude of A × B is |A||B|sinθ, representing the area of the parallelogram formed by A and B.
+11::A body in rotational equilibrium has::Zero linear acceleration::Zero angular acceleration::Zero velocity::Zero mass::B::Rotational equilibrium means no angular acceleration, so net torque is zero.
+12::The direction of the vector product A × B is determined by::Right-hand rule::Left-hand rule::Head-to-tail rule::Parallelogram rule::A::The right-hand rule determines the direction of A × B, perpendicular to the plane of A and B.
+13::The rectangular components of a vector V with magnitude V and angle θ with the x-axis are::V sinθ, V cosθ::V cosθ, V sinθ::V tanθ, V cosθ::V cosθ, V tanθ::B::The components are Vx = V cosθ (x-axis) and Vy = V sinθ (y-axis).
+14::The dot product of two vectors is maximum when the angle between them is::0°::90°::180°::45°::A::The dot product A · B = |A||B|cosθ is maximum when cosθ = 1, i.e., θ = 0°.
+15::A vector with magnitude zero is called::Unit vector::Null vector::Position vector::Displacement vector::B::A null vector has zero magnitude and no specific direction.
+16::The parallelogram law is used to find::Scalar product::Vector product::Resultant of two vectors::Components of a vector::C::The parallelogram law determines the resultant of two vectors by completing the parallelogram.
+17::The moment arm in torque is the::Force applied::Angle of rotation::Perpendicular distance from pivot::Mass of the object::C::The moment arm is the perpendicular distance from the pivot point to the line of action of the force.
+18::If two vectors are perpendicular, their cross product is::Zero::Maximum::Minimum::Negative::B::The cross product A × B = |A||B|sinθ is maximum when θ = 90° (sinθ = 1).
+19::The first condition of equilibrium relates to::Rotational motion::Translational motion::Angular velocity::Angular momentum::B::The first condition (ΣF = 0) ensures no translational motion (no net force).
+20::The unit of torque in SI is::N·m::N/m::kg·m/s^2::Joule::A::Torque is measured in Newton-meters (N·m), equivalent to Joule but used for rotational force.
+21::The resultant of two equal vectors at 90° to each other has a magnitude of::|A|::√2|A|::2|A|::|A|/√2::B::For two equal vectors |A| at 90°, resultant = √(|A|^2 + |A|^2) = √2|A|.
+22::The dot product of a vector with itself is::|A|^2::|A|::0::2|A|::A::A · A = |A||A|cos0° = |A|^2, as the angle between a vector and itself is 0°.
+23::The second condition of equilibrium ensures::No linear acceleration::No angular acceleration::Constant velocity::Constant mass::B::The second condition (Στ = 0) ensures no angular acceleration (rotational equilibrium).
+24::The angle θ between two vectors A and B can be found using::A · B = |A||B|sinθ::A · B = |A||B|cosθ::A × B = |A||B|cosθ::A × B = |A||B|sinθ::B::The dot product gives cosθ = (A · B)/(|A||B|), used to find the angle θ.
+25::A vector in three dimensions has components along::X-axis only::X and Y axes::X, Y, and Z axes::Y and Z axes::C::A 3D vector is resolved into components along the X, Y, and Z axes.
+26::The magnitude of a vector V = (Vx, Vy) in 2D is::√(Vx + Vy)::√(Vx^2 + Vy^2)::Vx + Vy::Vx^2 + Vy^2::B::The magnitude is √(Vx^2 + Vy^2), derived from the Pythagorean theorem.
+27::If the dot product of two non-zero vectors is zero, they are::Parallel::Perpendicular::Anti-parallel::Equal::B::A · B = 0 implies cosθ = 0, so θ = 90°, meaning the vectors are perpendicular.
+28::The cross product of two parallel vectors is::Zero::Maximum::Equal to their dot product::Infinite::A::If two vectors are parallel (θ = 0°), A × B = |A||B|sin0° = 0.
+29::The vector product is::Commutative::Associative::Anti-commutative::Distributive::D::The cross product is distributive (A × (B + C) = A × B + A × C) but not commutative (A × B ≠ B × A).
+30::The resultant of two vectors of equal magnitude at 180° is::Zero::2|A|::|A|::√2|A|::A::If two equal vectors are at 180°, they cancel out, giving a resultant of zero.
+31::The torque is maximum when the angle between force and moment arm is::0°::45°::90°::180°::C::Torque τ = rFsinθ is maximum when sinθ = 1, i.e., θ = 90°.
+32::The unit vector in the direction of vector A is::A/|A|::|A|/A::A^2/|A|::|A|^2/A::A::The unit vector is A/|A|, normalizing the vector to a magnitude of 1.
+33::The vector sum of two vectors A and B can be found using::Head-to-tail rule::Dot product::Cross product::Scalar product::A::The head-to-tail rule is used to graphically add vectors to find their resultant.
+34::The equilibrium of a body under three non-parallel forces requires they::Form a closed triangle::Are parallel::Are equal in magnitude::Are perpendicular::A::For equilibrium, the vector sum of forces must be zero, forming a closed triangle in a vector diagram.
+35::The magnitude of the resultant of two vectors A and B at angle θ is::√(|A|^2 + |B|^2 + 2|A||B|cosθ)::√(|A|^2 + |B|^2)::|A| + |B|::|A||B|cosθ::A::The magnitude is given by the law of cosines:: √(|A|^2 + |B|^2 + 2|A||B|cosθ).
+36::The direction of torque is::Along the force::Along the moment arm::Perpendicular to the plane of force and arm::Parallel to the plane::C::Torque’s direction, from the cross product r × F, is perpendicular to the plane of r and F.
+37::The scalar product is::Commutative::Anti-commutative::Non-commutative::Zero::A::The dot product is commutative, i.e., A · B = B · A.
+38::The resultant of two vectors of magnitudes 3 N and 4 N at 90° is::5 N::7 N::12 N::1 N::A::Resultant = √(3^2 + 4^2) = √(9 + 16) = 5 N (Pythagorean theorem for θ = 90°).
+39::The minimum number of non-zero vectors whose resultant can be zero is::One::Two::Three::Four::C::Three non-zero vectors can form a closed triangle, resulting in zero resultant (e.g., in equilibrium).
+40::The angle between two vectors when their cross product equals their dot product is::0°::45°::90°::180°::B::If A × B = A · B, then |A||B|sinθ = |A||B|cosθ, so tanθ = 1, implying θ = 45°.
+41::A body in translational equilibrium has::Zero net torque::Zero net force::Zero angular velocity::Zero linear velocity::B::Translational equilibrium requires ΣF = 0, meaning no net force.
+42::The cross product of a vector with itself is::Zero::|A|^2::|A|::2|A|::A::A × A = |A||A|sin0° = 0, as the angle between a vector and itself is 0°.
+43::The resultant of two vectors of equal magnitude at 60° is::√3|A|::2|A|::|A|::√2|A|::A::Resultant = √(|A|^2 + |A|^2 + 2|A||A|cos60°) = √(2|A|^2 + |A|^2) = √3|A|.
+44::The dot product of unit vectors i and j is::1::0::-1::2::B::i · j = 0, as unit vectors along X and Y axes are perpendicular (cos90° = 0).
+45::The torque about a pivot point is zero when::Force is zero::Moment arm is zero::Angle is 90°::Both force and moment arm are zero::D::Torque τ = rFsinθ = 0 if either r = 0 or F = 0.
+46::The position vector of a point (x, y) in 2D is::xi + yj::xi - yj::x + y::x^2 + y^2::A::The position vector is xi + yj, with components along the X and Y axes.
+47::The angle between two vectors A and B with A · B = -|A||B| is::0°::90°::180°::45°::C::If A · B = -|A||B|, then cosθ = -1, so θ = 180°, meaning the vectors are anti-parallel.
+48::The resultant of two forces 6 N and 8 N at 90° is::10 N::14 N::48 N::2 N::A::Resultant = √(6^2 + 8^2) = √(36 + 64) = 10 N.
+49::The vector product obeys which property?::A × B = B × A::A × B = -B × A::A · B = B × A::A × B = A · B::B::The cross product is anti-commutative:: A × B = -B × A.
+50::A body is in equilibrium if::It is moving with constant velocity::Net force and torque are zero::It is at rest only::It has constant acceleration::B::Equilibrium requires both net force (ΣF = 0) and net torque (Στ = 0) to be zero.

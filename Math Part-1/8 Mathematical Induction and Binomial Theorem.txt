@@ -1,0 +1,100 @@
+1::The principle of mathematical induction is used to prove statements for::All integers::All natural numbers::All real numbers::All rational numbers::B::Mathematical induction typically proves statements for natural numbers (n = 1, 2, 3, ...).
+2::The first step in mathematical induction is to::Prove for n = 1::Assume true for n = k::Prove for n = k + 1::Check for n = 0::A::The base case involves proving the statement for the smallest value, usually n = 1.
+3::In the inductive step, we assume the statement is true for::n = 1::n = k::n = k + 1::n = 0::B::The induction hypothesis assumes the statement holds for some integer k.
+4::In the inductive step, we prove the statement for::n = k::n = k + 1::n = 1::n = k - 1::B::We prove the statement for n = k + 1, using the assumption for n = k.
+5::Mathematical induction proves a statement by showing::It is true for all cases::It is true for n = 1 and n = k implies n = k + 1::It is true for n = k only::It is true for n = 1 only::B::Induction requires a base case (n = 1) and an inductive step (n = k implies n = k + 1).
+6::The sum of the first n natural numbers is::n(n+1)/2::n(n-1)/2::n²::n²/2::A::The formula ∑i=1^n i = n(n+1)/2 can be proved by induction.
+7::To prove ∑i=1^n i = n(n+1)/2, the base case is checked for::n = 0::n = 1::n = 2::n = -1::B::For n = 1, 1 = 1(1+1)/2 = 1, which is true.
+8::In proving ∑i=1^n i = n(n+1)/2, the inductive step assumes::∑i=1^k i = k(k+1)/2::∑i=1^k i = k²::∑i=1^k i = k(k-1)/2::∑i=1^k i = k::A::Assume ∑i=1^k i = k(k+1)/2 for n = k.
+9::The sum of the first n odd numbers is::n²::2n::n(n+1)/2::n(n-1)/2::A::∑i=1^n (2i-1) = n², e.g., 1 + 3 + 5 = 3² = 9 for n = 3.
+10::To prove 1 + 3 + ... + (2n-1) = n², the base case is::1 = 1²::3 = 2²::5 = 3²::7 = 4²::A::For n = 1, 2(1)-1 = 1 = 1².
+11::The sum of the squares of the first n natural numbers is::n(n+1)(2n+1)/6::n(n+1)/2::n²::n(n-1)(2n-1)/6::A::∑i=1^n i² = n(n+1)(2n+1)/6, provable by induction.
+12::To prove ∑i=1^n i² = n(n+1)(2n+1)/6, the base case checks::n = 0::n = 1::n = 2::n = 3::B::For n = 1, 1² = 1(1+1)(2·1+1)/6 = 1.
+13::The formula for the sum of cubes of the first n natural numbers is::[n(n+1)/2]²::n(n+1)(2n+1)/6::n²::n³::A::∑i=1^n i³ = [n(n+1)/2]², e.g., 1³ + 2³ = [2(3)/2]² = 9 for n = 2.
+14::To prove 1³ + 2³ + ... + n³ = [n(n+1)/2]², the inductive step proves::[k(k+1)/2]² + (k+1)³ = [(k+1)(k+2)/2]²::k³ = k(k+1)/2::k(k+1)/2 = k²::k³ + (k+1)³ = k²::A::Show the sum for n = k + 1 using the assumption for n = k.
+15::The binomial theorem expands::(a + b)^n::a^n + b^n::(a - b)^n::a^n - b^n::A::The binomial theorem gives (a + b)^n = ∑k=0^n C(n,k)a^(n-k)b^k.
+16::The binomial coefficient C(n,k) is also written as::n^k::n/k::n!::n choose k::D::C(n,k) = n!/[k!(n-k)!], read as "n choose k".
+17::The value of C(5,2) is::10::5::15::20::A::C(5,2) = 5!/(2!3!) = (5·4)/(2·1) = 10.
+18::The value of C(n,0) is::0::1::n::n!::B::C(n,0) = n!/(0!n!) = 1, as 0! = 1.
+19::The value of C(n,n) is::0::1::n::n!::B::C(n,n) = n!/(n!0!) = 1.
+20::The relation between C(n,k) and C(n,n-k) is::C(n,k) = C(n,n-k)::C(n,k) = C(n,k-1)::C(n,k) = C(n+1,k)::C(n,k) = C(n-1,k)::A::C(n,k) = n!/[k!(n-k)!] = C(n,n-k).
+21::The expansion of (x + y)^3 is::x³ + 3x²y + 3xy² + y³::x³ + y³::x³ + 3xy + y³::x³ + 3x²y + y³::A::Using binomial theorem, coefficients are C(3,0), C(3,1), C(3,2), C(3,3).
+22::The number of terms in the expansion of (a + b)^n is::n::n+1::2n::n²::B::(a + b)^n has terms from k = 0 to k = n, so n+1 terms.
+23::The general term in the expansion of (a + b)^n is::C(n,k)a^(n-k)b^k::C(n,k)a^k b^(n-k)::C(n,k)a^n b^k::C(n,k)a^k b^n::A::T_k+1 = C(n,k)a^(n-k)b^k, where k starts from 0.
+24::The term independent of x in (x + 1/x)^4 is::C(4,2)::C(4,1)::C(4,3)::C(4,4)::A::For x^(4-k)(1/x)^k = x^(4-2k) = x^0, k = 2; coefficient is C(4,2) = 6.
+25::The coefficient of x² in (x + 2)^4 is::16::24::32::8::B::T_k+1 = C(4,k)x^(4-k)2^k; for x², 4-k = 2, k = 2; C(4,2)·2² = 6·4 = 24.
+26::The middle term in the expansion of (a + b)^6 is::C(6,3)a³b³::C(6,2)a^4b^2::C(6,4)a^2b^4::C(6,6)b^6::A::For n = 6 (even), middle term is at k = n/2 = 3; T_4 = C(6,3)a³b³.
+27::The number of middle terms in (x + y)^7 is::1::2::3::4::B::For n = 7 (odd), middle terms are at k = (n-1)/2 = 3 and k = (n+1)/2 = 4.
+28::The value of C(6,3) is::15::20::30::10::B::C(6,3) = 6!/(3!3!) = (6·5·4)/(3·2·1) = 20.
+29::The expansion of (1 + x)^2 is::1 + 2x + x²::1 + x + x²::1 + 2x + 2x²::1 + x²::A::Coefficients are C(2,0) = 1, C(2,1) = 2, C(2,2) = 1.
+30::The coefficient of x³ in (x + 1)^5 is::C(5,3)::C(5,2)::C(5,4)::C(5,5)::A::For x³, k = 3; T_4 = C(5,3)x³·1² = 10.
+31::The sum of binomial coefficients C(n,0) + C(n,1) + ... + C(n,n) is::2^n::n!::n²::2n::A::By binomial theorem, (1 + 1)^n = ∑C(n,k) = 2^n.
+32::The sum of alternating binomial coefficients C(n,0) - C(n,1) + C(n,2) - ... is::0::1::2^n::n::A::(1 - 1)^n = ∑(-1)^k C(n,k) = 0 for n > 0.
+33::The coefficient of x^4 in (2x + 3)^5 is::2160::1080::720::360::A::T_k+1 = C(5,k)(2x)^(5-k)3^k; for x^4, 5-k = 4, k = 1; C(5,1)·2^4·3^1 = 5·16·3 = 240.
+34::The general term in (x + 1/x)^n is::C(n,k)x^(n-k)(1/x)^k::C(n,k)x^k(1/x)^n::C(n,k)x^n(1/x)^k::C(n,k)x^k(1/x)^(n-k)::A::T_k+1 = C(n,k)x^(n-k)(1/x)^k = C(n,k)x^(n-2k).
+35::The term independent of x in (x² + 1/x)^6 is::C(6,4)::C(6,2)::C(6,3)::C(6,5)::C::For (x²)^(6-k)(1/x)^k = x^(12-3k) = x^0, 12-3k = 0, k = 4; C(6,4) = 15.
+36::The coefficient of x^5 in (x + 2)^7 is::896::448::672::224::A::T_k+1 = C(7,k)x^(7-k)2^k; for x^5, 7-k = 5, k = 2; C(7,2)·2^2 = 21·4 = 84.
+37::The middle term in (1 + x)^8 is::C(8,4)x^4::C(8,3)x^3::C(8,5)x^5::C(8,2)x^2::A::For n = 8, middle term at k = 4; T_5 = C(8,4)x^4.
+38::The value of C(7,4) is::35::21::28::15::A::C(7,4) = 7!/(4!3!) = (7·6·5·4)/(4·3·2·1) = 35.
+39::To prove 1 + 2 + ... + n = n(n+1)/2, the inductive step adds::k + 1::k²::k(k+1)/2::k::A::Sum for k+1 is k(k+1)/2 + (k+1).
+40::The coefficient of x^3 in (1 + x)^6 is::C(6,3)::C(6,2)::C(6,4)::C(6,1)::A::T_4 = C(6,3)x^3 = 20x^3.
+41::The expansion of (2x - y)^3 is::8x³ - 12x²y + 6xy² - y³::8x³ + 12x²y - 6xy² + y³::8x³ - 6x²y + y³::8x³ - y³::A::Coefficients are C(3,0), C(3,1), C(3,2), C(3,3) with alternating signs.
+42::The number of terms in (x + y + z)^3 is::6::10::4::27::B::For (x + y + z)^n, number of terms = C(n+r-1,r-1) = C(3+3-1,2) = 10.
+43::The coefficient of x^2 y in (x + y)^4 is::C(4,2)::C(4,1)::C(4,3)::C(4,4)::A::For x^(4-k)y^k, k = 1; C(4,1) = 4.
+44::The sum of coefficients in (1 + x)^5 is::32::16::64::25::A::Put x = 1:: (1 + 1)^5 = 2^5 = 32.
+45::The coefficient of x^4 in (x - 1)^6 is::-C(6,4)::C(6,4)::-C(6,2)::C(6,2)::A::T_5 = C(6,4)x^4(-1)^2 = -C(6,4)x^4.
+46::The value of C(8,5) is::56::28::70::35::A::C(8,5) = 8!/(5!3!) = (8·7·6)/(3·2·1) = 56.
+47::The term independent of x in (x + 1/x²)^6 is::C(6,2)::C(6,4)::C(6,3)::C(6,5)::C::For x^(6-k)(1/x²)^k = x^(6-3k) = x^0, 6-3k = 0, k = 2; C(6,2) = 15.
+48::The coefficient of x^6 in (x² + 1/x)^6 is::C(6,2)::C(6,3)::C(6,4)::C(6,1)::B::For (x²)^(6-k)(1/x)^k = x^(12-3k) = x^6, 12-3k = 6, k = 2; C(6,2) = 15.
+49::The middle term in (x - y)^5 is::-C(5,3)x^2y^3::C(5,2)x^3y^2::-C(5,2)x^3y^2::C(5,3)x^2y^3::A::For n = 5, middle term at k = 3; T_4 = C(5,3)x^2(-y)^3.
+50::The sum of 1² + 2² + ... + n² is::n(n+1)(2n+1)/6::n(n+1)/2::n²::n(n-1)(2n-1)/6::A::Proved by induction:: ∑i² = n(n+1)(2n+1)/6.
+51::The coefficient of x^5 in (2x + 1)^6 is::192::384::96::768::B::T_6 = C(6,5)(2x)^5·1 = 6·32x^5 = 192x^5.
+52::The expansion of (1 - x)^4 is::1 - 4x + 6x² - 4x³ + x^4::1 + 4x + 6x² + 4x³ + x^4::1 - 4x + 4x² - x³ + x^4::1 - 6x + 4x² - x^4::A::Coefficients are C(4,k) with alternating signs.
+53::The value of C(10,7) is::120::210::90::360::B::C(10,7) = C(10,3) = (10·9·8)/(3·2·1) = 120.
+54::The coefficient of x^3 in (x + 3)^5 is::405::135::270::90::A::T_4 = C(5,3)x^3·3^2 = 10·9x^3 = 90x^3.
+55::The term independent of x in (x³ + 1/x²)^5 is::C(5,2)::C(5,3)::C(5,4)::C(5,1)::B::For x^(15-5k) = x^0, 15-5k = 0, k = 3; C(5,3) = 10.
+56::The sum of coefficients in (2 + x)^4 is::81::64::256::16::A::(2 + 1)^4 = 3^4 = 81.
+57::The coefficient of x^2 in (1 + 2x)^5 is::40::80::20::160::B::T_3 = C(5,2)(2x)^2 = 10·4x^2 = 40x^2.
+58::The middle term in (x + 1/x)^6 is::C(6,3)::C(6,4)::C(6,2)::C(6,5)::A::For n = 6, middle term at k = 3; T_4 = C(6,3)x^0.
+59::The value of C(9,6) is::84::126::252::168::A::C(9,6) = C(9,3) = (9·8·7)/(3·2·1) = 84.
+60::To prove 2^n > n for n ≥ 1, the base case is::2^1 > 1::2^0 > 0::2^2 > 2::2^1 > 2::A::For n = 1, 2^1 = 2 > 1.
+61::The coefficient of x^4 in (3x - 2)^6 is::-4860::4860::-2430::2430::A::T_5 = C(6,4)(3x)^4(-2)^2 = 15·81·4x^4 = 4860x^4.
+62::The expansion of (x + 2)^3 is::x³ + 6x² + 12x + 8::x³ + 12x² + 6x + 8::x³ + 6x² + 8x + 12::x³ + 8::A::Coefficients are C(3,0), C(3,1), C(3,2), C(3,3).
+63::The number of terms in (x + y)^5 is::4::5::6::7::C::n+1 = 5+1 = 6 terms.
+64::The coefficient of x^3 y^2 in (x + y)^5 is::C(5,2)::C(5,3)::C(5,1)::C(5,4)::B::For x^3 y^2, k = 2; C(5,2) = 10.
+65::The sum of coefficients in (1 - x)^6 is::1::0::-1::64::A::(1 - 1)^6 = 0^6 = 0 (for n > 0).
+66::The term independent of x in (2x + 1/x)^4 is::C(4,2)::C(4,3)::C(4,1)::C(4,4)::A::For (2x)^(4-k)(1/x)^k = x^(4-2k), k = 2; C(4,2)·2^2 = 6·4 = 24.
+67::The coefficient of x^5 in (x - 3)^7 is::-5103::5103::-10206::10206::A::T_6 = C(7,5)x^5(-3)^2 = 21·9x^5 = -189x^5.
+68::The middle term in (1 + x)^10 is::C(10,5)x^5::C(10,4)x^4::C(10,6)x^6::C(10,3)x^3::A::For n = 10, middle term at k = 5.
+69::The value of C(12,9) is::220::132::440::330::A::C(12,9) = C(12,3) = (12·11·10)/(3·2·1) = 220.
+70::To prove 3^n ≥ 2n for n ≥ 1, the base case is::3^1 ≥ 2::3^0 ≥ 0::3^2 ≥ 4::3^1 ≥ 3::A::For n = 1, 3^1 = 3 ≥ 2.
+71::The coefficient of x^6 in (x² + 1/x)^5 is::C(5,2)::C(5,3)::C(5,1)::C(5,4)::B::For x^(10-3k) = x^6, 10-3k = 6, k = 4/3 (integer k = 2); C(5,2).
+72::The expansion of (1 + 2x)^3 is::1 + 6x + 12x² + 8x³::1 + 2x + 4x² + 8x³::1 + 6x + 8x² + 2x³::1 + 8x³::A::Coefficients are C(3,k)·2^k.
+73::The number of middle terms in (x + y)^6 is::1::2::3::4::A::For n = 6 (even), one middle term at k = 3.
+74::The coefficient of x^4 y^3 in (x + y)^7 is::C(7,3)::C(7,4)::C(7,2)::C(7,5)::B::For x^4 y^3, k = 3; C(7,3) = 35.
+75::The sum of coefficients in (3 + x)^4 is::256::81::625::2401::A::(3 + 1)^4 = 4^4 = 256.
+76::The term independent of x in (x + 1/x)^5 is::C(5,2)::C(5,3)::C(5,1)::C(5,4)::B::For x^(5-2k) = x^0, k = 5/2 (integer k = 2); C(5,2) = 10.
+77::The coefficient of x^3 in (2x + 3)^6 is::4860::9720::2430::7290::B::T_4 = C(6,3)(2x)^3·3^3 = 20·8·27x^3 = 4320x^3.
+78::The middle term in (x - 1/x)^8 is::C(8,4)::C(8,3)::C(8,5)::C(8,2)::A::For n = 8, middle term at k = 4.
+79::The value of C(11,8) is::165::330::220::440::A::C(11,8) = C(11,3) = (11·10·9)/(3·2·1) = 165.
+80::To prove n! ≥ 2^n for n ≥ 4, the base case is::n! ≥ 2^4::n! ≥ 2^3::n! ≥ 2^2::n! ≥ 2^1::A::For n = 4, 4! = 24 ≥ 16 = 2^4.
+81::The coefficient of x^5 in (x + 1/x)^7 is::C(7,2)::C(7,3)::C(7,1)::C(7,4)::B::For x^(7-2k) = x^5, k = 1; C(7,1) = 7.
+82::The expansion of (x - 2)^4 is::x^4 - 8x³ + 24x² - 32x + 16::x^4 + 8x³ + 24x² + 32x + 16::x^4 - 24x² + 16::x^4 - 16::A::Coefficients are C(4,k)(-2)^k.
+83::The number of terms in (x + y + z)^4 is::15::10::20::6::A::C(4+3-1,2) = C(6,2) = 15.
+84::The coefficient of x^2 y^2 in (x + y)^4 is::C(4,2)::C(4,1)::C(4,3)::C(4,4)::A::For x^2 y^2, k = 2; C(4,2) = 6.
+85::The sum of coefficients in (1 + 2x)^5 is::243::81::32::1024::A::(1 + 2)^5 = 3^5 = 243.
+86::The term independent of x in (x² + 1/x)^5 is::C(5,3)::C(5,2)::C(5,4)::C(5,1)::A::For x^(10-3k) = x^0, k = 10/3 (integer k = 3); C(5,3).
+87::The coefficient of x^4 in (3x + 2)^5 is::4320::2160::1080::6480::A::T_5 = C(5,4)(3x)^4·2^1 = 5·81·2x^4 = 810x^4.
+88::The middle term in (1 - x)^7 is::-C(7,4)x^4::C(7,3)x^3::-C(7,3)x^3::C(7,4)x^4::A::For n = 7, middle terms at k = 3, 4; T_4 = -C(7,3)x^3.
+89::The value of C(10,4) is::210::120::252::360::A::C(10,4) = (10·9·8·7)/(4·3·2·1) = 210.
+90::To prove 1 + 2 + 4 + ... + 2^(n-1) = 2^n - 1, the base case is::1 = 2^1 - 1::2 = 2^2 - 1::4 = 2^3 - 1::0 = 2^0 - 1::A::For n = 1, 2^(1-1) = 1 = 2^1 - 1.
+91::The coefficient of x^6 in (x + 1/x²)^6 is::C(6,2)::C(6,3)::C(6,4)::C(6,1)::B::For x^(6-3k) = x^6, k = 0; C(6,0) = 1.
+92::The expansion of (2x + 1)^4 is::16x^4 + 32x³ + 24x² + 8x + 1::16x^4 + 8x³ + 24x² + 32x + 1::4x^4 + 8x² + 1::16x^4 + 1::A::Coefficients are C(4,k)·2^(4-k).
+93::The number of middle terms in (x + y)^8 is::1::2::3::4::A::For n = 8, one middle term at k = 4.
+94::The coefficient of x^3 y^4 in (x + y)^7 is::C(7,4)::C(7,3)::C(7,2)::C(7,5)::A::For x^3 y^4, k = 4; C(7,4) = 35.
+95::The sum of coefficients in (2 - x)^5 is::1::243::32::-1::A::(2 - 1)^5 = 1^5 = 1.
+96::The term independent of x in (x + 1/x^3)^4 is::C(4,2)::C(4,3)::C(4,1)::C(4,4)::A::For x^(4-4k) = x^0, k = 1; C(4,1) = 4.
+97::The coefficient of x^5 in (2x - 1)^7 is::-252::252::-504::504::C::T_6 = C(7,5)(2x)^5(-1)^2 = 21·32x^5 = 672x^5.
+98::The middle term in (x + 2)^4 is::C(4,2)x²·2²::C(4,1)x³·2::C(4,3)x^2::C(4,4)x^4::A::For n = 4, middle term at k = 2; C(4,2)·2²·x² = 24x².
+99::The value of C(15,5) is::3003::1365::2520::3600::B::C(15,5) = (15·14·13·12·11)/(5·4·3·2·1) = 3003.
+100::To prove 1·2 + 2·3 + ... + n·(n+1) = n(n+1)(n+2)/3, the base case is::1·2 = 1·2·3/3::2·3 = 2·3·4/3::3·4 = 3·4·5/3::0·1 = 0·1·2/3::A::For n = 1, 1·2 = 2 = 1(1+1)(1+2)/3 = 2.

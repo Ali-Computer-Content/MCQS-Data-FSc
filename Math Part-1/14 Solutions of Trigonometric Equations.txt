@@ -1,0 +1,100 @@
+1::What is the general solution of sinθ = 0?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::A::sinθ = 0 at θ = 0, π, 2π, ..., so the general solution is θ = nπ, where n is an integer.
+2::Solve cosθ = 1 for θ in [0, 2π).::0::π::2π::π/2::A::cosθ = 1 at θ = 0 in the interval [0, 2π).
+3::What is the general solution of tanθ = 0?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::A::tanθ = 0 when sinθ = 0 and cosθ ≠ 0, which occurs at θ = nπ.
+4::Solve sinθ = 1/2 for θ in [0, 2π).::π/6, 5π/6::π/3, 2π/3::π/4, 3π/4::π/2, 3π/2::A::sinθ = 1/2 at θ = π/6 (1st quadrant) and θ = π - π/6 = 5π/6 (2nd quadrant).
+5::What is the general solution of cosθ = 0?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::C::cosθ = 0 at θ = π/2, 3π/2, ..., so the general solution is θ = (2n+1)π/2.
+6::Solve tanθ = 1 for θ in [0, 2π).::π/4, 5π/4::π/3, 4π/3::π/6, 7π/6::π/2, 3π/2::A::tanθ = 1 at θ = π/4 (1st quadrant) and θ = π + π/4 = 5π/4 (3rd quadrant).
+7::What is the general solution of sinθ = 1?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::C::sinθ = 1 at θ = π/2, 5π/2, ..., so the general solution is θ = (2n+1)π/2.
+8::Solve cosθ = -1/2 for θ in [0, 2π).::2π/3, 4π/3::π/3, 5π/3::π/6, 5π/6::π/4, 7π/4::A::cosθ = -1/2 at θ = π - π/3 = 2π/3 (2nd quadrant) and θ = π + π/3 = 4π/3 (3rd quadrant).
+9::What is the general solution of tanθ = √3?::θ = nπ + π/3::θ = 2nπ + π/3::θ = nπ + π/6::θ = (2n+1)π + π/3::A::tanθ = √3 at θ = π/3; the general solution is θ = nπ + π/3.
+10::Solve sinθ = -1 for θ in [0, 2π).::π/2::3π/2::π::2π::B::sinθ = -1 at θ = 3π/2 in [0, 2π).
+11::Solve cosθ = √3/2 for θ in [0, 2π).::π/6, 11π/6::π/3, 5π/3::π/4, 7π/4::π/2, 3π/2::A::cosθ = √3/2 at θ = π/6 (1st quadrant) and θ = 2π - π/6 = 11π/6 (4th quadrant).
+12::What is the general solution of sinθ = -1/2?::θ = nπ + (-1)^n (7π/6)::θ = 2nπ + 7π/6::θ = 2nπ + 5π/6::θ = nπ + 5π/6::A::sinθ = -1/2 at θ = 7π/6, 11π/6; general solution is θ = nπ + (-1)^n (7π/6).
+13::Solve tanθ = -1 for θ in [0, 2π).::3π/4, 7π/4::π/3, 5π/3::π/6, 11π/6::π/2, 3π/2::A::tanθ = -1 at θ = 3π/4 (2nd quadrant) and θ = π + 3π/4 = 7π/4 (4th quadrant).
+14::What is the general solution of cosθ = -1?::θ = nπ::θ = 2nπ::θ = (2n+1)π::θ = nπ/2::C::cosθ = -1 at θ = π, 3π, ..., so the general solution is θ = (2n+1)π.
+15::Solve sinθ = √2/2 for θ in [0, 2π).::π/4, 3π/4::π/3, 2π/3::π/6, 5π/6::π/2, 3π/2::A::sinθ = √2/2 at θ = π/4 (1st quadrant) and θ = π - π/4 = 3π/4 (2nd quadrant).
+16::Solve cosθ = 0 for θ in [0, 2π).::π/2, 3π/2::0, π::π/4, 5π/4::π/3, 5π/3::A::cosθ = 0 at θ = π/2 and θ = 3π/2 in [0, 2π).
+17::What is the general solution of tanθ = -√3?::θ = nπ + 2π/3::θ = nπ + 5π/3::θ = 2nπ + 2π/3::θ = 2nπ + 5π/3::B::tanθ = -√3 at θ = 5π/3; general solution is θ = nπ + 5π/3.
+18::Solve sinθ = 0 for θ in [0, 2π).::0, π::π/2, 3π/2::π/4, 5π/4::π/6, 5π/6::A::sinθ = 0 at θ = 0 and θ = π in [0, 2π).
+19::Solve tanθ = √3/3 for θ in [0, 2π).::π/6, 7π/6::π/3, 4π/3::π/4, 5π/4::π/2, 3π/2::A::tanθ = √3/3 = 1/√3 at θ = π/6 (1st quadrant) and θ = π + π/6 = 7π/6 (3rd quadrant).
+20::What is the general solution of cosθ = 1/2?::θ = 2nπ ± π/3::θ = nπ + π/3::θ = 2nπ + π/6::θ = nπ ± π/6::A::cosθ = 1/2 at θ = π/3, 5π/3; general solution is θ = 2nπ ± π/3.
+21::Solve sin2θ = 1 for θ in [0, π).::π/4::π/2::3π/4::π::B::sin2θ = 1 when 2θ = π/2 + 2nπ, so θ = π/4 + nπ. In [0, π), θ = π/4.
+22::Solve cos2θ = 0 for θ in [0, π).::π/4, 3π/4::π/2::0, π::π/6, 5π/6::A::cos2θ = 0 when 2θ = π/2 + nπ, so θ = π/4 + nπ/2. In [0, π), θ = π/4, 3π/4.
+23::What is the general solution of sin2θ = 1/2?::θ = nπ/2 ± π/12::θ = nπ + π/6::θ = 2nπ ± π/6::θ = nπ/2 + π/6::A::sin2θ = 1/2 when 2θ = π/6 + 2nπ or 5π/6 + 2nπ, so θ = π/12 + nπ or 5π/12 + nπ, written as θ = nπ/2 ± π/12.
+24::Solve tan2θ = 1 for θ in [0, π).::π/8, 5π/8::π/4, 3π/4::π/6, 5π/6::π/2::A::tan2θ = 1 when 2θ = π/4 + nπ, so θ = π/8 + nπ/2. In [0, π), θ = π/8, 5π/8.
+25::Solve sinθ = cosθ for θ in [0, 2π).::π/4, 5π/4::π/3, 4π/3::π/6, 7π/6::π/2, 3π/2::A::sinθ = cosθ when tanθ = 1, so θ = π/4, 5π/4 in [0, 2π).
+26::What is the general solution of sinθ = -√3/2?::θ = nπ + (-1)^n (5π/3)::θ = 2nπ + 4π/3::θ = 2nπ + 5π/3::θ = nπ + 4π/3::A::sinθ = -√3/2 at θ = 4π/3, 5π/3; general solution is θ = nπ + (-1)^n (5π/3).
+27::Solve cosθ = -√2/2 for θ in [0, 2π).::3π/4, 5π/4::π/3, 5π/3::π/6, 11π/6::π/2, 3π/2::A::cosθ = -√2/2 at θ = 3π/4 (2nd quadrant) and θ = 5π/4 (3rd quadrant).
+28::Solve tanθ = -√3/3 for θ in [0, 2π).::5π/6, 11π/6::2π/3, 5π/3::3π/4, 7π/4::π/2, 3π/2::A::tanθ = -√3/3 = -1/√3 at θ = 5π/6 (2nd quadrant) and θ = π + 5π/6 = 11π/6 (4th quadrant).
+29::What is the general solution of cos2θ = 1?::θ = nπ::θ = 2nπ::θ = nπ/2::θ = (2n+1)π::A::cos2θ = 1 when 2θ = 2nπ, so θ = nπ.
+30::Solve sin2θ = -1 for θ in [0, π).::3π/4::π/2::π/4::No solution::A::sin2θ = -1 when 2θ = 3π/2 + 2nπ, so θ = 3π/4 + nπ. In [0, π), θ = 3π/4.
+31::Solve sinθ + cosθ = 0 for θ in [0, 2π).::3π/4, 7π/4::π/2, 3π/2::π/4, 5π/4::π/3, 5π/3::A::sinθ + cosθ = 0 when tanθ = -1, so θ = 3π/4, 7π/4.
+32::What is the general solution of tan2θ = √3?::θ = nπ/2 + π/6::θ = nπ + π/3::θ = 2nπ + π/6::θ = nπ/2 + π/3::A::tan2θ = √3 when 2θ = π/3 + nπ, so θ = π/6 + nπ/2.
+33::Solve cos2θ = 1/2 for θ in [0, π).::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::π/12, 5π/12::A::cos2θ = 1/2 when 2θ = π/3, 5π/3, so θ = π/6, 5π/6 in [0, π).
+34::Solve sinθ = -√2/2 for θ in [0, 2π).::5π/4, 7π/4::2π/3, 4π/3::π/3, 5π/3::π/6, 11π/6::A::sinθ = -√2/2 at θ = 5π/4 (3rd quadrant) and θ = 7π/4 (4th quadrant).
+35::What is the general solution of sin2θ = 0?::θ = nπ/2::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::A::sin2θ = 0 when 2θ = nπ, so θ = nπ/2.
+36::Solve tanθ = 0 for θ in [0, 2π).::0, π::π/2, 3π/2::π/4, 5π/4::π/3, 5π/3::A::tanθ = 0 at θ = 0, π in [0, 2π).
+37::Solve cosθ + 1 = 0 for θ in [0, 2π).::π::0::2π::π/2::A::cosθ = -1 at θ = π.
+38::What is the general solution of cosθ = -√3/2?::θ = 2nπ ± 5π/6::θ = nπ + 5π/6::θ = 2nπ + 7π/6::θ = nπ ± 5π/3::A::cosθ = -√3/2 at θ = 5π/6, 7π/6; general solution is θ = 2nπ ± 5π/6.
+39::Solve sin2θ = √3/2 for θ in [0, π).::π/12, 5π/12::π/6, 5π/6::π/3, 2π/3::π/4, 3π/4::A::sin2θ = √3/2 when 2θ = π/3, 2π/3, so θ = π/6, π/3 (corrected:: 2θ = π/3, 2π/3, so θ = π/12, 5π/12).
+40::Solve tan2θ = -1 for θ in [0, π).::3π/8, 7π/8::π/4, 3π/4::π/6, 5π/6::π/2::A::tan2θ = -1 when 2θ = 3π/4 + nπ, so θ = 3π/8 + nπ/2. In [0, π), θ = 3π/8, 7π/8.
+41::Solve sinθ - cosθ = 0 for θ in [0, 2π).::π/4, 5π/4::π/3, 5π/3::π/6, 7π/6::π/2, 3π/2::A::sinθ = cosθ when tanθ = 1, so θ = π/4, 5π/4.
+42::What is the general solution of sinθ = √3/2?::θ = 2nπ ± π/3::θ = nπ + π/3::θ = 2nπ + π/6::θ = nπ ± π/6::A::sinθ = √3/2 at θ = π/3, 2π/3; general solution is θ = 2nπ ± π/3.
+43::Solve cos2θ = -1/2 for θ in [0, π).::π/3, 2π/3::π/4, 3π/4::π/6, 5π/6::π/12, 5π/12::A::cos2θ = -1/2 when 2θ = 2π/3, 4π/3, so θ = π/3, 2π/3.
+44::Solve tanθ = √3 for θ in [0, 2π).::π/3, 4π/3::π/4, 5π/4::π/6, 7π/6::π/2, 3π/2::A::tanθ = √3 at θ = π/3 (1st quadrant) and θ = π + π/3 = 4π/3 (3rd quadrant).
+45::What is the general solution of cos2θ = -1?::θ = (2n+1)π/2::θ = nπ::θ = 2nπ::θ = nπ/2::A::cos2θ = -1 when 2θ = π + 2nπ, so θ = π/2 + nπ = (2n+1)π/2.
+46::Solve sinθ = -1/2 for θ in [0, 2π).::7π/6, 11π/6::2π/3, 4π/3::5π/6, 11π/6::π/3, 5π/3::A::sinθ = -1/2 at θ = 7π/6 (3rd quadrant) and θ = 11π/6 (4th quadrant).
+47::Solve cosθ - 1 = 0 for θ in [0, 2π).::0::π::2π::π/2::A::cosθ = 1 at θ = 0.
+48::What is the general solution of tanθ = -1?::θ = nπ + 3π/4::θ = 2nπ + 3π/4::θ = nπ + π/4::θ = 2nπ + π/4::A::tanθ = -1 at θ = 3π/4; general solution is θ = nπ + 3π/4.
+49::Solve sin2θ = 1/2 for θ in [0, π).::π/12, 5π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::sin2θ = 1/2 when 2θ = π/6, 5π/6, so θ = π/12, 5π/12.
+50::Solve tan2θ = √3/3 for θ in [0, π).::π/12, 7π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::tan2θ = √3/3 when 2θ = π/6 + nπ, so θ = π/12 + nπ/2. In [0, π), θ = π/12, 7π/12.
+51::Solve sinθ + √3cosθ = 0 for θ in [0, 2π).::2π/3, 5π/3::π/3, 4π/3::π/4, 5π/4::π/6, 7π/6::A::Divide by √(1² + √3²) = 2:: (1/2)sinθ + (√3/2)cosθ = 0, so sinθ cos(π/3) + cosθ sin(π/3) = sin(θ + π/3) = 0. Thus, θ + π/3 = nπ, so θ = nπ - π/3. In [0, 2π), θ = 2π/3, 5π/3.
+52::What is the general solution of cosθ = √2/2?::θ = 2nπ ± π/4::θ = nπ + π/4::θ = 2nπ + π/3::θ = nπ ± π/3::A::cosθ = √2/2 at θ = π/4, 7π/4; general solution is θ = 2nπ ± π/4.
+53::Solve cos2θ = √3/2 for θ in [0, π).::π/12, 11π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::cos2θ = √3/2 when 2θ = π/6, 11π/6, so θ = π/12, 11π/12.
+54::Solve tanθ = -√3 for θ in [0, 2π).::2π/3, 5π/3::π/3, 4π/3::5π/6, 11π/6::π/4, 7π/4::A::tanθ = -√3 at θ = 2π/3 (2nd quadrant) and θ = π + 2π/3 = 5π/3 (4th quadrant).
+55::What is the general solution of sin2θ = -1/2?::θ = nπ/2 + 7π/12::θ = nπ + 7π/6::θ = 2nπ + 7π/12::θ = nπ/2 + 5π/12::A::sin2θ = -1/2 when 2θ = 7π/6 + 2nπ or 11π/6 + 2nπ, so θ = 7π/12 + nπ or 11π/12 + nπ, written as θ = nπ/2 + 7π/12.
+56::Solve sinθ = cosθ for θ in [0, 2π).::π/4, 5π/4::π/3, 5π/3::π/6, 7π/6::π/2, 3π/2::A::sinθ = cosθ when tanθ = 1, so θ = π/4, 5π/4.
+57::Solve cos2θ = -1 for θ in [0, π).::π/2::3π/4::π/4::No solution::A::cos2θ = -1 when 2θ = π + 2nπ, so θ = π/2 + nπ. In [0, π), θ = π/2.
+58::What is the general solution of tan2θ = -√3?::θ = nπ/2 + 5π/6::θ = nπ + 5π/3::θ = 2nπ + 5π/6::θ = nπ/2 + 2π/3::A::tan2θ = -√3 when 2θ = 5π/3 + nπ, so θ = 5π/6 + nπ/2.
+59::Solve sin2θ = 0 for θ in [0, π).::0, π/2::π/4, 3π/4::π/6, 5π/6::π/3, 2π/3::A::sin2θ = 0 when 2θ = nπ, so θ = nπ/2. In [0, π), θ = 0, π/2.
+60::Solve tanθ + 1 = 0 for θ in [0, 2π).::3π/4, 7π/4::π/2, 3π/2::π/4, 5π/4::π/3, 5π/3::A::tanθ = -1 at θ = 3π/4, 7π/4.
+61::Solve sinθ - √2/2 = 0 for θ in [0, 2π).::π/4, 3π/4::π/3, 5π/3::π/6, 7π/6::π/2, 3π/2::A::sinθ = √2/2 at θ = π/4, 3π/4.
+62::What is the general solution of cosθ = -1/2?::θ = 2nπ ± 2π/3::θ = nπ + 2π/3::θ = 2nπ + 4π/3::θ = nπ ± 4π/3::A::cosθ = -1/2 at θ = 2π/3, 4π/3; general solution is θ = 2nπ ± 2π/3.
+63::Solve cos2θ = 1 for θ in [0, π).::0, π/2::π/4, 3π/4::π/6, 5π/6::π/3, 2π/3::A::cos2θ = 1 when 2θ = 2nπ, so θ = nπ. In [0, π), θ = 0, π/2.
+64::Solve tan2θ = 0 for θ in [0, π).::0, π/2::π/4, 3π/4::π/6, 5π/6::π/3, 2π/3::A::tan2θ = 0 when 2θ = nπ, so θ = nπ/2. In [0, π), θ = 0, π/2.
+65::Solve sinθ + 1 = 0 for θ in [0, 2π).::3π/2::π/2::π::2π::A::sinθ = -1 at θ = 3π/2.
+66::What is the general solution of sinθ = 0?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::A::sinθ = 0 at θ = nπ.
+67::Solve cosθ = √3/2 for θ in [0, 2π).::π/6, 11π/6::π/3, 5π/3::π/4, 7π/4::π/2, 3π/2::A::cosθ = √3/2 at θ = π/6, 11π/6.
+68::Solve tanθ = 1/√3 for θ in [0, 2π).::π/6, 7π/6::π/3, 4π/3::π/4, 5π/4::π/2, 3π/2::A::tanθ = 1/√3 at θ = π/6, 7π/6.
+69::What is the general solution of cos2θ = 1/2?::θ = nπ/2 ± π/6::θ = nπ + π/3::θ = 2nπ ± π/3::θ = nπ/2 + π/3::A::cos2θ = 1/2 when 2θ = π/3 + 2nπ or 5π/3 + 2nπ, so θ = π/6 + nπ or 5π/6 + nπ, written as θ = nπ/2 ± π/6.
+70::Solve sin2θ = -√3/2 for θ in [0, π).::7π/12, 11π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::sin2θ = -√3/2 when 2θ = 4π/3, 5π/3, so θ = 2π/3, 5π/6 (corrected:: 2θ = 4π/3, 5π/3, so θ = 7π/12, 11π/12).
+71::Solve sinθ - cosθ = √2 for θ in [0, 2π).::5π/4::π/4::3π/4::7π/4::A::sinθ - cosθ = √2 can be written as (1/√2)sinθ - (1/√2)cosθ = 1. Solve sin(θ - π/4) = 1, so θ - π/4 = π/2 + 2nπ, θ = 3π/4 + 2nπ. In [0, 2π), θ = 5π/4.
+72::What is the general solution of tanθ = √3/3?::θ = nπ + π/6::θ = 2nπ + π/6::θ = nπ + π/3::θ = 2nπ + π/3::A::tanθ = √3/3 at θ = π/6; general solution is θ = nπ + π/6.
+73::Solve cos2θ = 0 for θ in [0, π).::π/4, 3π/4::π/2::0, π::π/6, 5π/6::A::cos2θ = 0 when 2θ = π/2 + nπ, so θ = π/4 + nπ/2. In [0, π), θ = π/4, 3π/4.
+74::Solve tanθ = -1/√3 for θ in [0, 2π).::5π/6, 11π/6::2π/3, 5π/3::3π/4, 7π/4::π/4, 5π/4::A::tanθ = -1/√3 at θ = 5π/6, 11π/6.
+75::What is the general solution of sin2θ = √3/2?::θ = nπ/2 ± π/12::θ = nπ + π/6::θ = 2nπ ± π/6::θ = nπ/2 + π/6::A::sin2θ = √3/2 when 2θ = π/3 + 2nπ or 2π/3 + 2nπ, so θ = π/12 + nπ or 5π/12 + nπ, written as θ = nπ/2 ± π/12.
+76::Solve sinθ = 1 for θ in [0, 2π).::π/2::3π/2::π::0::A::sinθ = 1 at θ = π/2.
+77::Solve cosθ + √3sinθ = 0 for θ in [0, 2π).::5π/3, 11π/3::2π/3, 5π/3::π/3, 4π/3::π/6, 7π/6::B::cosθ + √3sinθ = 0 when tanθ = -1/√3, so θ = 5π/6, 11π/6 (corrected:: θ = 2π/3, 5π/3).
+78::What is the general solution of cosθ = 0?::θ = (2n+1)π/2::θ = nπ::θ = 2nπ::θ = nπ/2::A::cosθ = 0 at θ = π/2, 3π/2, ..., so θ = (2n+1)π/2.
+79::Solve sin2θ = 1 for θ in [0, π).::π/4::π/2::3π/4::π::A::sin2θ = 1 when 2θ = π/2 + 2nπ, so θ = π/4 + nπ. In [0, π), θ = π/4.
+80::Solve tan2θ = -√3/3 for θ in [0, π).::5π/12, 11π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::tan2θ = -√3/3 when 2θ = 5π/6 + nπ, so θ = 5π/12 + nπ/2. In [0, π), θ = 5π/12, 11π/12.
+81::Solve sinθ - √3cosθ = √2 for θ in [0, 2π).::π/6, 7π/6::π/3, 4π/3::π/4, 5π/4::π/2, 3π/2::A::(1/2)sinθ - (√3/2)cosθ = 1/√2, so sin(θ - π/3) = 1/√2. Solve θ - π/3 = π/4 + 2nπ or 3π/4 + 2nπ, so θ = π/6, 7π/6.
+82::What is the general solution of tanθ = 0?::θ = nπ::θ = 2nπ::θ = (2n+1)π/2::θ = nπ/2::A::tanθ = 0 at θ = nπ.
+83::Solve cos2θ = -√3/2 for θ in [0, π).::5π/12, 7π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::cos2θ = -√3/2 when 2θ = 5π/6, 7π/6, so θ = 5π/12, 7π/12.
+84::Solve tanθ = √3/3 for θ in [0, 2π).::π/6, 7π/6::π/3, 4π/3::π/4, 5π/4::π/2, 3π/2::A::tanθ = √3/3 at θ = π/6, 7π/6.
+85::What is the general solution of sinθ = -√2/2?::θ = 2nπ ± 5π/4::θ = nπ + 5π/4::θ = 2nπ + 7π/4::θ = nπ ± 3π/4::A::sinθ = -√2/2 at θ = 5π/4, 7π/4; general solution is θ = 2nπ ± 5π/4.
+86::Solve cosθ = 1/2 for θ in [0, 2π).::π/3, 5π/3::π/6, 11π/6::π/4, 7π/4::π/2, 3π/2::A::cosθ = 1/2 at θ = π/3, 5π/3.
+87::Solve sin2θ = -1/2 for θ in [0, π).::7π/12, 11π/12::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::sin2θ = -1/2 when 2θ = 7π/6, 11π/6, so θ = 7π/12, 11π/12.
+88::What is the general solution of cos2θ = -1/2?::θ = nπ/2 ± π/3::θ = nπ + 2π/3::θ = 2nπ ± 2π/3::θ = nπ/2 + 2π/3::A::cos2θ = -1/2 when 2θ = 2π/3 + 2nπ or 4π/3 + 2nπ, so θ = π/3 + nπ or 2π/3 + nπ, written as θ = nπ/2 ± π/3.
+89::Solve tanθ = -√3/3 for θ in [0, 2π).::5π/6, 11π/6::2π/3, 5π/3::3π/4, 7π/4::π/4, 5π/4::A::tanθ = -√3/3 at θ = 5π/6, 11π/6.
+90::Solve sinθ + cosθ = √2 for θ in [0, 2π).::π/4::3π/4::5π/4::7π/4::A::(1/√2)sinθ + (1/√2)cosθ = 1, so sin(θ + π/4) = 1. Solve θ + π/4 = π/2 + 2nπ, so θ = π/4 + 2nπ. In [0, 2π), θ = π/4.
+91::What is the general solution of sin2θ = -√3/2?::θ = nπ/2 + 7π/12::θ = nπ + 4π/3::θ = 2nπ + 5π/3::θ = nπ/2 + 11π/12::A::sin2θ = -√3/2 when 2θ = 4π/3 + 2nπ or 5π/3 + 2nπ, so θ = 7π/12 + nπ or 11π/12 + nπ, written as θ = nπ/2 + 7π/12.
+92::Solve cosθ = -√3/2 for θ in [0, 2π).::5π/6, 7π/6::2π/3, 4π/3::π/3, 5π/3::π/4, 7π/4::A::cosθ = -√3/2 at θ = 5π/6, 7π/6.
+93::Solve tan2θ = 1 for θ in [0, π).::π/8, 5π/8::π/4, 3π/4::π/6, 5π/6::π/3, 2π/3::A::tan2θ = 1 when 2θ = π/4 + nπ, so θ = π/8 + nπ/2. In [0, π), θ = π/8, 5π/8.
+94::What is the general solution of tanθ = 1?::θ = nπ + π/4::θ = 2nπ + π/4::θ = nπ + π/3::θ = 2nπ + π/3::A::tanθ = 1 at θ = π/4; general solution is θ = nπ + π/4.
+95::Solve sin2θ = √2/2 for θ in [0, π).::π/8, 3π/8::π/6, 5π/6::π/4, 3π/4::π/3, 2π/3::A::sin2θ = √2/2 when 2θ = π/4, 3π/4, so θ = π/8, 3π/8.
+96::Solve cosθ - √2/2 = 0 for θ in [0, 2π).::π/4, 7π/4::π/3, 5π/3::π/6, 11π/6::π/2, 3π/2::A::cosθ = √2/2 at θ = π/4, 7π/4.
+97::What is the general solution of sinθ = 1/2?::θ = 2nπ ± π/6::θ = nπ + π/6::θ = 2nπ + π/3::θ = nπ ± π/3::A::sinθ = 1/2 at θ = π/6, 5π/6; general solution is θ = 2nπ ± π/6.
+98::Solve tan2θ = -1 for θ in [0, π).::3π/8, 7π/8::π/4, 3π/4::π/6, 5π/6::π/3, 2π/3::A::tan2θ = -1 when 2θ = 3π/4 + nπ, so θ = 3π/8 + nπ/2. In [0, π), θ = 3π/8, 7π/8.
+99::Solve sinθ + √3cosθ = 0 for θ in [0, 2π).::2π/3, 5π/3::π/3, 4π/3::π/4, 5π/4::π/6, 7π/6::A::tanθ = -√3, so θ = 2π/3, 5π/3.
+100::What is the general solution of cos2θ = 0?::θ = nπ/2 ± π/4::θ = nπ + π/4::θ = 2nπ ± π/4::θ = nπ/2 + π/4::A::cos2θ = 0 when 2θ = π/2 + nπ, so θ = π/4 + nπ/2, written as θ = nπ/2 ± π/4.

@@ -1,0 +1,50 @@
+1::The motion of an object along a circular path is called::Linear motion::Circular motion::Rotational motion::Vibrational motion::B::Circular motion involves an object moving along a circular trajectory.
+2::The angle swept by a radius vector in unit time is called::Angular velocity::Linear velocity::Angular acceleration::Centripetal acceleration::A::Angular velocity (ω) is the rate of change of angular displacement, measured in rad/s.
+3::The unit of angular velocity in SI is::rad::rad/s::m/s::rad/s²::B::Angular velocity is measured in radians per second (rad/s).
+4::The relationship between linear velocity (v) and angular velocity (ω) is::v = rω::v = r/ω::v = ω/r::v = r²ω::A::Linear velocity v = rω, where r is the radius of the circular path.
+5::The force required to keep an object in circular motion is called::Centrifugal force::Centripetal force::Gravitational force::Frictional force::B::Centripetal force is the real force directed toward the center of the circular path.
+6::The centripetal force is given by::F = mv²/r::F = mrω::F = mω²/r::F = mv/r::A::Centripetal force F = mv²/r, where m is mass, v is velocity, and r is radius.
+7::The centripetal acceleration is directed::Toward the center::Away from the center::Tangential to the path::Parallel to the velocity::A::Centripetal acceleration (a = v²/r) is always directed toward the center of the circle.
+8::The unit of centripetal acceleration is::m/s::m/s²::rad/s::rad/s²::B::Centripetal acceleration is measured in meters per second squared (m/s²).
+9::The time taken to complete one revolution in circular motion is called::Frequency::Period::Angular velocity::Linear velocity::B::The period (T) is the time for one complete revolution, measured in seconds.
+10::The number of revolutions per unit time is called::Period::Frequency::Angular velocity::Centripetal acceleration::B::Frequency (f) is the number of revolutions per second, measured in hertz (Hz).
+11::The relationship between period (T) and frequency (f) is::T = f::T = 1/f::T = f²::T = 1/f²::B::Period and frequency are inverses:: T = 1/f or f = 1/T.
+12::The angular velocity (ω) is related to frequency (f) by::ω = f::ω = 2πf::ω = f/2π::ω = 1/f::B::Angular velocity ω = 2πf, as one revolution corresponds to 2π radians.
+13::In uniform circular motion, the speed is::Constant::Increasing::Decreasing::Zero::A::In uniform circular motion, the speed remains constant, but velocity changes due to direction.
+14::The centripetal force in a car turning on a curved road is provided by::Gravitational force::Frictional force::Normal force::Engine force::B::Friction between tires and road provides the centripetal force for a car’s turn.
+15::The angular acceleration is defined as::Rate of change of linear velocity::Rate of change of angular velocity::Rate of change of speed::Rate of change of radius::B::Angular acceleration (α) is the rate of change of angular velocity, measured in rad/s².
+16::The relationship between centripetal acceleration (a) and angular velocity (ω) is::a = rω::a = r/ω::a = rω²::a = ω²/r::C::Centripetal acceleration a = v²/r = (rω)²/r = rω².
+17::If the radius of a circular path doubles, the centripetal force (for constant speed)::Doubles::Halves::Quadruples::Remains the same::B::F = mv²/r; if r doubles, F becomes F/2, as force is inversely proportional to radius.
+18::The centripetal force for an electron in a Bohr orbit is provided by::Gravitational force::Electrostatic force::Magnetic force::Nuclear force::B::Electrostatic attraction between the electron and nucleus provides the centripetal force.
+19::The period of a satellite in circular orbit depends on::Mass of satellite::Radius of orbit::Speed of satellite::All of these::B::The period T = 2π√(r³/GM) depends on the radius of orbit and mass of the central body.
+20::The tangential velocity of an object in circular motion is::Zero::Constant in direction::Perpendicular to radius::Parallel to radius::C::Tangential velocity is always perpendicular to the radius, along the circular path.
+21::The centripetal force is::Real force::Fictitious force::Conservative force::Non-conservative force::A::Centripetal force is a real force (e.g., tension, friction) required for circular motion.
+22::If the speed of an object in circular motion doubles, the centripetal force::Remains the same::Doubles::Quadruples::Halves::C::F = mv²/r; if v doubles, F becomes 4F, as force is proportional to v².
+23::The angular displacement is measured in::Degrees::Radians::Meters::Seconds::B::Angular displacement is measured in radians (rad), a dimensionless unit.
+24::The centripetal acceleration of an object with constant speed is::Zero::Constant in magnitude::Constant in direction::Variable in magnitude::B::Centripetal acceleration a = v²/r is constant in magnitude but changes direction.
+25::The banking angle of a curved road is designed to provide::Centripetal force::Frictional force::Gravitational force::Normal force::A::The banking angle helps the normal force provide centripetal force, reducing reliance on friction.
+26::The relationship between linear acceleration (a) and angular acceleration (α) is::a = rα::a = r/α::a = α/r::a = r²α::A::Linear acceleration a = rα, where r is the radius and α is angular acceleration.
+27::The maximum speed on a banked road without friction is given by::v = √(rg tanθ)::v = √(rg/tanθ)::v = √(r tanθ/g)::v = rg tanθ::A::For a banked road, v_max = √(rg tanθ), where θ is the banking angle.
+28::The angular velocity of a body in circular motion with period T is::2πT::2π/T::T/2π::1/T::B::Angular velocity ω = 2π/T, as one revolution (2π radians) occurs in time T.
+29::The centripetal force for a satellite orbiting Earth is provided by::Frictional force::Electrostatic force::Gravitational force::Magnetic force::C::Gravitational force between Earth and the satellite provides the centripetal force.
+30::The unit of angular acceleration in SI is::m/s²::rad/s::rad/s²::m/s::C::Angular acceleration is measured in radians per second squared (rad/s²).
+31::If the mass of an object in circular motion doubles, the centripetal force::Doubles::Halves::Remains the same::Quadruples::A::F = mv²/r; if m doubles, F doubles, as force is directly proportional to mass.
+32::The direction of angular velocity vector is::Along the radius::Tangential to the path::Along the axis of rotation::Opposite to the motion::C::The angular velocity vector is along the axis of rotation, following the right-hand rule.
+33::The frequency of an object completing 120 revolutions per minute is::1 Hz::2 Hz::3 Hz::4 Hz::B::Frequency f = 120 rev/min = 120/60 = 2 rev/s = 2 Hz.
+34::The centripetal acceleration is proportional to::1/r::r::v::v²::D::Centripetal acceleration a = v²/r is proportional to v² and inversely proportional to r.
+35::The period of rotation of an object with angular velocity 4 rad/s is::π/2 s::π/4 s::2π/4 s::4/π s::C::Period T = 2π/ω = 2π/4 = π/2 s.
+36::The centripetal force acting on a body of mass 2 kg moving with 5 m/s in a circle of radius 10 m is::5 N::10 N::25 N::50 N::C::F = mv²/r = (2 × 5²)/10 = 50/10 = 5 N.
+37::The banking angle of a road depends on::Mass of the vehicle::Radius of the curve::Speed of the vehicle::Both radius and speed::D::tanθ = v²/(rg), so banking angle depends on speed (v) and radius (r).
+38::The angular velocity of Earth’s rotation about its axis is approximately::7.27 × 10^-5 rad/s::7.27 × 10^-4 rad/s::7.27 × 10^-3 rad/s::7.27 × 10^-2 rad/s::A::ω = 2π/(24 × 3600) ≈ 7.27 × 10^-5 rad/s for Earth’s daily rotation.
+39::The centripetal force is always provided by::A single force::Multiple forces::Fictitious force::Zero force::A::A single real force (e.g., tension, gravity) provides the centripetal force.
+40::The linear speed of an object moving in a circle of radius 2 m with angular velocity 3 rad/s is::1 m/s::3 m/s::6 m/s::9 m/s::C::v = rω = 2 × 3 = 6 m/s.
+41::The centripetal acceleration of a car moving at 10 m/s on a curve of radius 50 m is::2 m/s²::4 m/s²::5 m/s²::10 m/s²::A::a = v²/r = 10²/50 = 100/50 = 2 m/s².
+42::The period of a particle moving in a circle with frequency 5 Hz is::0.1 s::0.2 s::0.5 s::1 s::B::Period T = 1/f = 1/5 = 0.2 s.
+43::The centripetal force on a body increases if::Radius increases::Speed decreases::Mass decreases::Speed increases::D::F = mv²/r; increasing speed (v) increases F, as it is proportional to v².
+44::The angular displacement of an object completing 2 revolutions is::2π rad::4π rad::6π rad::8π rad::B::One revolution = 2π rad, so 2 revolutions = 4π rad.
+45::The centripetal force for a stone tied to a string is provided by::Tension in the string::Weight of the stone::Frictional force::Normal force::A::The tension in the string provides the centripetal force for circular motion.
+46::The angular acceleration of a body whose angular velocity changes from 2 rad/s to 6 rad/s in 4 s is::1 rad/s²::2 rad/s²::3 rad/s²::4 rad/s²::A::α = Δω/Δt = (6 - 2)/4 = 1 rad/s².
+47::The maximum speed a car can have on a flat road with coefficient of friction 0.5 and radius 100 m (g = 10 m/s²) is::10 m/s::20 m/s::30 m/s::40 m/s::B::v_max = √(μrg) = √(0.5 × 100 × 10) = √500 = 20 m/s.
+48::The centripetal force is a::Conservative force::Non-conservative force::Fictitious force::Pseudo force::B::Centripetal force is real and non-conservative, depending on the system (e.g., friction, tension).
+49::The angular velocity of an object completing 180 revolutions per minute is::3π rad/s::6π rad/s::9π rad/s::12π rad/s::B::f = 180/60 = 3 rev/s; ω = 2πf = 2π × 3 = 6π rad/s.
+50::The centripetal acceleration of an object moving at 4 m/s in a circle of radius 8 m is::0.5 m/s²::1 m/s²::2 m/s²::4 m/s²::C::a = v²/r = 4²/8 = 16/8 = 2 m/s².

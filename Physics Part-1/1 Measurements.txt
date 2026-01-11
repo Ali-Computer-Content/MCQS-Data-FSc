@@ -1,0 +1,50 @@
+1::What is the SI unit of length?::Meter::Centimeter::Kilometer::Mile::A::The meter is the SI unit of length, defined as the distance light travels in 1/299,792,458 seconds.
+2::Which of the following is a base quantity?::Force::Mass::Velocity::Energy::B::Mass is a base quantity in the SI system, while others are derived.
+3::How many base units are there in the SI system?::5::6::7::8::C::There are seven base units:: meter, kilogram, second, ampere, kelvin, mole, and candela.
+4::The SI unit of time is::Hour::Minute::Second::Day::C::The second is the SI unit of time, defined using the cesium-133 atom’s oscillations.
+5::What is the dimension of force?::[MLT⁻²]::[ML²T⁻²]::[MLT⁻¹]::[M²LT⁻²]::A::Force = mass × acceleration = [M][LT⁻²] = [MLT⁻²].
+6::Which instrument is used to measure small lengths accurately?::Ruler::Vernier caliper::Meter stick::Tape measure::B::Vernier caliper measures small lengths with high precision, up to 0.01 cm.
+7::The number of significant figures in 0.00560 is::2::3::4::5::C::Significant figures include all non-zero digits and zeros between them or after a decimal:: 5, 6, 0 (4 significant figures).
+8::What is the SI unit of mass?::Gram::Kilogram::Pound::Ton::B::The kilogram is the SI unit of mass, defined using the Planck constant.
+9::Which of the following is a derived unit?::Meter::Second::Newton::Kelvin::C::Newton (force) is a derived unit, equal to kg·m/s².
+10::The dimension of work is::[MLT⁻²]::[ML²T⁻²]::[ML²T⁻¹]::[MLT⁻¹]::B::Work = force × distance = [MLT⁻²][L] = [ML²T⁻²].
+11::What is the least count of a vernier caliper with 10 vernier divisions matching 9 main scale divisions of 1 mm each?::0.1 mm::0.01 mm::0.05 mm::0.02 mm::A::Least count = (1 mm)/10 = 0.1 mm, as 10 vernier divisions equal 9 mm.
+12::The SI unit of luminous intensity is::Lux::Candel::aLumen::Watt::B::Candela is the SI unit of luminous intensity, measuring light emission.
+13::How many significant figures are in 2300?::2::3::4::5::C::In 2300, all digits (2, 3, 0, 0) are significant unless specified otherwise, giving 4 significant figures.
+14::Which quantity has the dimension [ML²T⁻³]?::Power::Energy::Force::Momentum::A::Power = work/time = [ML²T⁻²]/[T] = [ML²T⁻³].
+15::What is the SI unit of electric current?::Volt::Ampere::Ohm::Watt::B::Ampere is the SI unit of electric current, defined by the flow of charge.
+16::The precision of a measurement depends on::Accuracy::Instrument used::Standard value::Unit::B::Precision depends on the instrument’s ability to give consistent results, e.g., least count.
+17::The number of significant figures in 5.00 × 10³ is::2::3::4::5::B::In 5.00 × 10³, the digits 5, 0, 0 are significant, giving 3 significant figures.
+18::What is the dimension of velocity?::[LT⁻¹]::[LT⁻²]::[L²T⁻¹]::[L²T⁻²]::A::Velocity = distance/time = [L]/[T] = [LT⁻¹].
+19::Which instrument measures time with high precision?::Stopwatch::Sundial::Hourglass::Pendulum clock::A::A stopwatch can measure time intervals with high precision, often to 0.01 s.
+20::The SI unit of temperature is::Celsius::Fahrenheit::Kelvin::Rankine::C::Kelvin is the SI unit of temperature, based on absolute zero.
+21::What is the least count of a micrometer screw gauge with 100 divisions on the circular scale and a pitch of 1 mm?::0.01 mm::0.001 mm::0.1 mm::0.05 mm::A::Least count = pitch/number of divisions = 1 mm/100 = 0.01 mm.
+22::The dimension of acceleration is::[LT⁻¹]::[LT⁻²]::[L²T⁻²]::[L²T⁻¹]::B::Acceleration = velocity/time = [LT⁻¹]/[T] = [LT⁻²].
+23::How many significant figures are in 0.00780?::2::3::4::5::C::Significant figures in 0.00780 are 7, 8, 0 (after the decimal), giving 4 significant figures.
+24::Which of the following is a scalar quantity?::Force::Velocity::Acceleration::Work::D::Work is a scalar quantity, having magnitude but no direction.
+25::The SI unit of energy is::Newton::Joule::Watt::Pascal::B::Joule is the SI unit of energy, equal to kg·m²/s².
+26::What is the dimension of pressure?::[ML⁻¹T⁻²]::[MLT⁻²]::[ML²T⁻²]::[ML⁻¹T⁻¹]::A::Pressure = force/area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²].
+27::Which error is due to the limitations of the measuring instrument?::Random error::Systematic error::Personal error::Gross error::B::Systematic error arises from instrument limitations or calibration issues.
+28::The number of significant figures in 4000.0 is::4::5::3::2::B::In 4000.0, digits 4, 0, 0, 0, and the decimal 0 are significant, giving 5 significant figures.
+29::What is the SI unit of amount of substance?::Gram::Mole::Kilogram::Liter::B::Mole is the SI unit of amount of substance, defined by Avogadro’s number.
+30::The dimension of momentum is::[MLT⁻¹]::[MLT⁻²]::[ML²T⁻¹]::[ML²T⁻²]::A::Momentum = mass × velocity = [M][LT⁻¹] = [MLT⁻¹].
+31::Which instrument is used to measure very small diameters, like that of a wire?::Vernier caliper::Micrometer screw gauge::Ruler::Tape measure::B::Micrometer screw gauge measures small diameters with high precision, up to 0.01 mm.
+32::What is the SI unit of force?::Joule::Newton::Watt::Pascal::B::Newton is the SI unit of force, equal to kg·m/s².
+33::The number of significant figures in 0.0500 is::2::3::4::5::C::In 0.0500, significant figures are 5, 0, 0 (after decimal), giving 4 significant figures.
+34::Which of the following has the dimension [ML²T⁻²]?::Force::Work::Power::Pressure::B::Work = force × distance = [MLT⁻²][L] = [ML²T⁻²].
+35::The least count of a meter rule is typically::1 mm::0.1 mm::0.01 mm::0.001 mm::A::A meter rule’s least count is 1 mm, the smallest division on the scale.
+36::What is the dimension of power?::[MLT⁻²]::[ML²T⁻³]::[ML²T⁻²]::[MLT⁻¹]::B::Power = work/time = [ML²T⁻²]/[T] = [ML²T⁻³].
+37::Which error occurs due to inconsistent readings by the observer?::Systematic error::Random error::Gross error::Instrumental error::B::Random error arises from inconsistent measurements, often due to observer variability.
+38::The SI unit of pressure is::Newton::Joule::Pascal::Watt::C::Pascal is the SI unit of pressure, equal to N/m² or kg·m⁻¹·s⁻².
+39::How many significant figures are in 7.890 × 10⁻²?::3::4::5::6::B::In 7.890 × 10⁻², digits 7, 8, 9, 0 are significant, giving 4 significant figures.
+40::What is the dimension of angular velocity?::[T⁻¹]::[LT⁻¹]::[L²T⁻¹]::[LT⁻²]::A::Angular velocity = angle/time = [θ]/[T] = [T⁻¹], as angle is dimensionless.
+41::Which instrument measures the mass of an object?::Balance::Ruler::Stopwatch::Vernier caliper::A::A balance (e.g., electronic or beam balance) measures mass accurately.
+42::The SI unit of power is::Joule::Newton::Watt::Pascal::C::Watt is the SI unit of power, equal to J/s or kg·m²/s³.
+43::What is the dimension of torque?::[MLT⁻²]::[ML²T⁻²]::[MLT⁻¹]::[ML²T⁻¹]::B::Torque = force × distance = [MLT⁻²][L] = [ML²T⁻²].
+44::The number of significant figures in 123.45 is::3::4::5::6::C::All digits in 123.45 (1, 2, 3, 4, 5) are significant, giving 5 significant figures.
+45::Which of the following is a vector quantity?::Mass::Energy::Force::Work::C::Force is a vector quantity, having both magnitude and direction.
+46::What is the least count of a stopwatch measuring to 0.1 s?::0.01 s::0.1 s::1 s::0.001 s::B::The least count is 0.1 s, the smallest time interval the stopwatch can measure.
+47::The dimension of kinetic energy is::[MLT⁻²]::[ML²T⁻²]::[ML²T⁻¹]::[MLT⁻¹]::B::Kinetic energy = (1/2)mv² = [M][LT⁻¹]² = [ML²T⁻²].
+48::Which unit is equivalent to kg·m²/s²?::Newton::Joule::Watt::Pascal::B::Joule (energy) = kg·m²/s², as it is the unit of work or energy.
+49::What is the purpose of zero error correction in a vernier caliper?::Increase precision::Reduce systematic error::Reduce random error::Increase accuracy::B::Zero error correction eliminates systematic error due to misaligned jaws.
+50::The dimension of density is::[ML⁻³]::[ML⁻²]::[ML⁻¹]::[MLT⁻¹]::A::Density = mass/volume = [M]/[L³] = [ML⁻³].

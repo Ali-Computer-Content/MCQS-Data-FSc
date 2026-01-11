@@ -1,0 +1,50 @@
+1::What is work defined as in physics?::Force × Time::Force × Distance::Mass × Acceleration::Velocity × Time::B::Work is the product of force and displacement in the direction of the force, W = Fd cosθ.
+2::The SI unit of work is::Newton::Joule::Watt::Pascal::B::Joule (J) is the SI unit of work, equal to N·m or kg·m²/s².
+3::If a force is applied perpendicular to displacement, the work done is::Maximum::Minimum::Zero::Infinite::C::When θ = 90°, cosθ = 0, so work W = Fd cos90° = 0.
+4::What is the dimension of work?::[MLT⁻²]::[ML²T⁻²]::[ML²T⁻¹]::[MLT⁻¹]::B::Work = force × distance = [MLT⁻²][L] = [ML²T⁻²].
+5::What is the work done by a 10 N force moving an object 5 m at an angle of 60°?::25 J::43.3 J::50 J::0 J::A::W = Fd cosθ = 10 × 5 × cos60° = 10 × 5 × 0.5 = 25 J.
+6::Which quantity is conserved in an isolated system?::Force::Work::Energy::Velocity::C::Energy is conserved in an isolated system, as per the law of conservation of energy.
+7::The ability to do work is called::Force::Power::Energy::Momentum::C::Energy is defined as the capacity to do work.
+8::The SI unit of energy is::Newton::Joule::Watt::Pascal::B::Joule is the SI unit of energy, equivalent to the unit of work.
+9::What is the kinetic energy of a 2 kg object moving at 4 m/s?::8 J::16 J::32 J::64 J::B::Kinetic energy = (1/2)mv² = (1/2) × 2 × 4² = 16 J.
+10::What is the potential energy of a 5 kg object at a height of 10 m (g = 10 m/s²)?::250 J::500 J::750 J::1000 J::B::Potential energy = mgh = 5 × 10 × 10 = 500 J.
+11::The dimension of energy is::[MLT⁻²]::[ML²T⁻²]::[ML²T⁻¹]::[MLT⁻¹]::B::Energy has the same dimension as work, [ML²T⁻²].
+12::Which of the following is a form of energy?::Force::Momentum::Kinetic energy::Acceleration::C::Kinetic energy is a form of energy due to motion.
+13::The work-energy theorem states that work done is equal to::Change in kinetic energy::Change in potential energy::Total energy::Change in momentum::A::Work done = change in kinetic energy, W = ΔKE.
+14::What is the power if 200 J of work is done in 10 s?::20 W::200 W::2 W::100 W::A::Power = work/time = 200/10 = 20 W.
+15::The SI unit of power is::Joule::Newton::Watt::Pascal::C::Watt (W) is the SI unit of power, equal to J/s.
+16::The dimension of power is::[ML²T⁻³]::[MLT⁻²]::[ML²T⁻²]::[MLT⁻¹]::A::Power = work/time = [ML²T⁻²]/[T] = [ML²T⁻³].
+17::If a 4 kg object falls 5 m, what is its potential energy loss (g = 10 m/s²)?::100 J::200 J::400 J::800 J::B::PE = mgh = 4 × 10 × 5 = 200 J, lost as it falls.
+18::What is the kinetic energy of a 3 kg object at rest?::0 J::9 J::18 J::27 J::A::Kinetic energy = (1/2)mv² = (1/2) × 3 × 0² = 0 J.
+19::Work done by a conservative force depends on::Path taken::Initial and final positions::Time::Speed::B::Conservative forces (e.g., gravity) do work depending only on initial and final positions.
+20::Which force is an example of a conservative force?::Friction::Gravity::Tension::Drag::B::Gravity is a conservative force; work done is path-independent.
+21::The work done by friction is::Positive::Negative::Zero::Infinite::B::Friction opposes motion, so work done by friction is negative.
+22::What is the power output if a machine does 500 J of work in 5 s?::100 W::250 W::500 W::1000 W::A::Power = work/time = 500/5 = 100 W.
+23::The potential energy of an object at ground level is::Maximum::Minimum::Zero::Infinite::C::PE = mgh; at h = 0, potential energy is zero.
+24::What is the kinetic energy of a 5 kg object moving at 2 m/s?::10 J::20 J::25 J::50 J::A::KE = (1/2)mv² = (1/2) × 5 × 2² = 10 J.
+25::Which of the following is a non-conservative force?::Gravity::Spring force::Friction::Electrostatic force::C::Friction is non-conservative; work done depends on the path.
+26::What is the work done by a 20 N force moving an object 3 m parallel to the force?::60 J::40 J::20 J::0 J::A::W = Fd cosθ = 20 × 3 × cos0° = 60 J.
+27::The rate of doing work is called::Energy::Power::Force::Momentum::B::Power is the rate of doing work, P = W/t.
+28::What is the potential energy of a 2 kg object at 20 m height (g = 10 m/s²)?::200 J::400 J::600 J::800 J::B::PE = mgh = 2 × 10 × 20 = 400 J.
+29::If a body’s kinetic energy doubles, its velocity::Doubles::Increases by √2::Quadruples::Halves::B::KE ∝ v², so if KE doubles, v increases by √2.
+30::The work done by gravity on a freely falling object is::Zero::Positive::Negative::Infinite::B::Gravity does positive work as it acts in the direction of motion.
+31::What is the unit of energy in terms of base units?::kg·m/s²::kg·m²/s²::kg·m/s::kg·m²/s::B::Energy (joule) = kg·m²/s², derived from force × distance.
+32::If a 10 N force moves an object 4 m at 30°, what is the work done?::34.64 J::40 J::20 J::0 J::A::W = Fd cosθ = 10 × 4 × cos30° = 10 × 4 × 0.866 = 34.64 J.
+33::The total mechanical energy of a system is the sum of::Kinetic and potential energy::Work and power::Force and energy::Momentum and energy::A::Mechanical energy = kinetic energy + potential energy.
+34::What is the power if 1000 J of work is done in 2 s?::500 W::1000 W::2000 W::250 W::A::Power = work/time = 1000/2 = 500 W.
+35::The work done by a force is zero if::Force is zero::Displacement is zero::Angle is 90°::All of these::D::Work is zero if F = 0, d = 0, or θ = 90° (cos90° = 0).
+36::What is the kinetic energy of a 1 kg object moving at 5 m/s?::12.5 J::25 J::50 J::100 J::A::KE = (1/2)mv² = (1/2) × 1 × 5² = 12.5 J.
+37::Which of the following is a unit of power?::Joule::Newton::Watt::Pascal::C::Watt is the unit of power, equal to J/s.
+38::The potential energy of a spring is given by::mgh::(1/2)kx²::(1/2)mv²::Fd::B::Spring potential energy = (1/2)kx², where k is the spring constant and x is the extension.
+39::If work done is negative, the angle between force and displacement is::0°::90°::180°::45°::C::Negative work occurs when θ = 180°, as cos180° = -1.
+40::What is the work done by a 5 N force moving an object 10 m vertically against gravity?::50 J::-50 J::0 J::25 J::B::Work by force against gravity is negative:: W = Fd cos180° = 5 × 10 × (-1) = -50 J.
+41::The energy stored in a stretched spring is::Kinetic::Potential::Thermal::Chemical::B::The energy in a stretched spring is elastic potential energy, (1/2)kx².
+42::What is the power output of a machine lifting a 50 kg object 10 m in 5 s (g = 10 m/s²)?::1000 W::500 W::2000 W::250 W::A::Work = mgh = 50 × 10 × 10 = 5000 J. Power = W/t = 5000/5 = 1000 W.
+43::If an object’s velocity triples, its kinetic energy increases by::3 times::6 times::9 times::12 times::C::KE ∝ v², so if v triples, KE increases by 3² = 9 times.
+44::The work done by a centripetal force is::Positive::Negative::Zero::Infinite::C::Centripetal force is perpendicular to displacement, so W = Fd cos90° = 0.
+45::What is the potential energy of a 3 kg object at 15 m height (g = 10 m/s²)?::225 J::450 J::675 J::900 J::B::PE = mgh = 3 × 10 × 15 = 450 J.
+46::Which quantity has the same unit as energy?::Force::Power::Work::Momentum::C::Work and energy both have the unit joule (kg·m²/s²).
+47::The work done by a force of 8 N over 6 m at 45° is::48 J::33.94 J::24 J::0 J::B::W = Fd cosθ = 8 × 6 × cos45° = 8 × 6 × 0.707 = 33.94 J.
+48::The loss of potential energy of a falling object equals the gain in::Kinetic energy::Thermal energy::Chemical energy::Nuclear energy::A::By conservation of energy, loss in PE equals gain in KE for a freely falling object.
+49::What is the power if a force does 300 J of work in 3 s?::100 W::300 W::600 W::900 W::A::Power = work/time = 300/3 = 100 W.
+50::The dimension of kinetic energy is the same as that of::Force::Momentum::Work::Power::C::Kinetic energy and work both have dimensions [ML²T⁻²].

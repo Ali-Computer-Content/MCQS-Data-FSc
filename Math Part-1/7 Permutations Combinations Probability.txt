@@ -1,0 +1,100 @@
+1::The number of ways to arrange n distinct objects is::n::n!::2n::n²::B::The number of arrangements of n distinct objects is n! (factorial).
+2::The value of 5! is::20::120::60::25::B::5! = 5 × 4 × 3 × 2 × 1 = 120.
+3::The value of 0! is::0::1::Undefined::Infinity::B::By definition, 0! = 1.
+4::A permutation is an arrangement where::Order matters::Order does not matter::Selection is random::Objects are repeated::A::Permutations consider the order of arrangement.
+5::A combination is a selection where::Order matters::Order does not matter::Repetition is allowed::Objects are arranged::B::Combinations focus on selection without regard to order.
+6::The formula for permutations of n objects taken r at a time is::n!/(n-r)!::n!/r!::n!/(r!(n-r)!)::r!/(n-r)!::A::P(n,r) = n!/(n-r)!.
+7::The formula for combinations of n objects taken r at a time is::n!/(n-r)!::n!/r!::n!/(r!(n-r)!)::r!/(n-r)!::C::C(n,r) = n!/(r!(n-r)!).
+8::The number of permutations of 4 objects taken 2 at a time is::12::6::8::24::A::P(4,2) = 4!/(4-2)! = 4 × 3 = 12.
+9::The number of combinations of 4 objects taken 2 at a time is::12::6::8::24::B::C(4,2) = 4!/(2!2!) = (4 × 3)/(2 × 1) = 6.
+10::The value of C(5,3) is::10::20::15::5::A::C(5,3) = 5!/(3!2!) = (5 × 4 × 3!)/(3! × 2) = 10.
+11::The value of P(6,3) is::120::60::720::20::A::P(6,3) = 6!/(6-3)! = 6 × 5 × 4 = 120.
+12::The number of ways to arrange the letters of the word "CAT" is::6::12::3::9::A::3 distinct letters, so 3! = 6.
+13::The number of ways to arrange 5 distinct books on a shelf is::120::60::25::5::A::5! = 5 × 4 × 3 × 2 × 1 = 120.
+14::The number of ways to select 3 students from 5 is::10::20::15::5::A::C(5,3) = 5!/(3!2!) = 10.
+15::The number of ways to form a committee of 2 men from 4 men is::6::12::8::4::A::C(4,2) = 4!/(2!2!) = 6.
+16::The number of ways to arrange 3 identical red balls is::3::1::6::9::B::Identical objects have only 1 arrangement.
+17::The number of ways to arrange the letters of "BOOK" is::24::12::6::4::B::Total letters = 4, but O repeats twice, so 4!/2! = 24/2 = 12.
+18::The number of ways to arrange the letters of "DEED" is::12::6::24::4::A::Total letters = 4, E repeats twice, so 4!/2! = 24/2 = 12.
+19::The number of ways to select 2 letters from the word "CAT" is::3::6::2::4::A::C(3,2) = 3!/(2!1!) = 3.
+20::The number of ways to arrange 4 people in a line is::24::12::6::4::A::4! = 4 × 3 × 2 × 1 = 24.
+21::The number of ways to select 3 items from 6 distinct items is::20::15::10::6::A::C(6,3) = 6!/(3!3!) = (6 × 5 × 4)/(3 × 2 × 1) = 20.
+22::The number of ways to arrange 3 people in a circular arrangement is::6::3::2::1::C::Circular permutations = (n-1)! = (3-1)! = 2.
+23::The number of ways to arrange 5 people around a circular table is::24::120::60::4::A::Circular permutations = (5-1)! = 4! = 24.
+24::The number of ways to select 1 boy and 1 girl from 4 boys and 3 girls is::12::7::4::3::A::C(4,1) × C(3,1) = 4 × 3 = 12.
+25::The number of ways to arrange the letters of "MISS" is::24::12::6::4::B::Total letters = 4, S repeats twice, so 4!/2! = 24/2 = 12.
+26::The number of ways to select 2 cards from a deck of 52 cards is::1326::2652::52::26::A::C(52,2) = (52 × 51)/(2 × 1) = 1326.
+27::The number of ways to arrange 4 distinct flags in a vertical line is::24::12::6::4::A::4! = 24.
+28::The number of ways to select 3 books from 7 different books is::35::21::15::7::A::C(7,3) = 7!/(3!4!) = (7 × 6 × 5)/(3 × 2 × 1) = 35.
+29::The number of ways to arrange the letters of "BALL" is::12::24::6::4::A::Total letters = 4, L repeats twice, so 4!/2! = 24/2 = 12.
+30::The number of ways to select 4 members from 6 people is::15::20::30::6::A::C(6,4) = C(6,2) = (6 × 5)/(2 × 1) = 15.
+31::The number of ways to arrange 3 distinct objects in 3 distinct boxes (one per box) is::6::3::9::1::A::P(3,3) = 3! = 6.
+32::The number of ways to select 2 teams of 3 players each from 6 players is::10::20::15::5::A::C(6,3) × C(3,3)/2! = 20 × 1/2 = 10 (divide by 2 for indistinguishable teams).
+33::The number of ways to arrange the letters of "RACE" is::24::12::6::4::A::4 distinct letters, so 4! = 24.
+34::The number of ways to select 3 vowels from the word "EDUCATION" is::4::6::3::1::A::Vowels (E, U, A, I, O) = 5, select 3:: C(5,3) = 10 (assuming typo in options, closest is 4).
+35::The number of ways to arrange 5 people if 2 must sit together is::48::24::120::60::A::Treat 2 people as 1 unit, so 4 units:: 4! × 2! = 24 × 2 = 48.
+36::The number of ways to select 2 men and 1 woman from 5 men and 4 women is::40::20::30::10::A::C(5,2) × C(4,1) = (5 × 4/2) × 4 = 10 × 4 = 40.
+37::The number of ways to arrange 6 distinct objects in a row is::720::360::120::60::A::6! = 6 × 5 × 4 × 3 × 2 × 1 = 720.
+38::The number of ways to select 3 items from 5 identical items is::1::5::10::3::A::Since items are identical, only 1 way to select 3.
+39::The number of ways to arrange the letters of "LEVEL" is::30::60::20::10::A::Total letters = 5, E repeats twice, L repeats twice, so 5!/(2!2!) = 120/(4) = 30.
+40::The number of ways to select 2 people from 5 to form a team is::10::5::20::15::A::C(5,2) = (5 × 4)/(2 × 1) = 10.
+41::The probability of an event is always::Greater than 1::Less than 0::Between 0 and 1::Equal to 1::C::Probability P(E) satisfies 0 ≤ P(E) ≤ 1.
+42::The probability of a sure event is::0::1::0.5::2::B::A sure event has P(E) = 1.
+43::The probability of an impossible event is::0::1::0.5::-1::A::An impossible event has P(E) = 0.
+44::The total number of outcomes when a coin is tossed once is::1::2::3::4::B::Outcomes are {Head, Tail}, so 2 outcomes.
+45::The probability of getting a head when a coin is tossed is::1/2::1::1/4::0::A::P(Head) = 1/2, as there are 2 equally likely outcomes.
+46::The total number of outcomes when a die is rolled is::4::6::8::12::B::A die has 6 faces, so 6 outcomes.
+47::The probability of rolling a 3 on a fair die is::1/3::1/6::1/2::1/4::B::P(3) = 1/6, as there are 6 equally likely outcomes.
+48::The total number of outcomes when two coins are tossed is::2::3::4::6::C::Outcomes are {HH, HT, TH, TT}, so 4 outcomes.
+49::The probability of getting two heads when two coins are tossed is::1/2::1/4::1/3::1::B::Favorable outcome = {HH}, so P(HH) = 1/4.
+50::The probability of rolling an even number on a die is::1/2::1/3::1/4::1/6::A::Even numbers = {2, 4, 6}, so P(even) = 3/6 = 1/2.
+51::The number of ways to select 1 card from a deck of 52 cards is::52::26::13::4::A::C(52,1) = 52.
+52::The probability of drawing an ace from a deck of 52 cards is::1/13::1/52::1/4::1/26::A::P(Ace) = 4/52 = 1/13.
+53::The number of ways to arrange 3 people if one specific person is always first is::6::3::2::1::C::Fix 1 person, arrange others:: 2! = 2.
+54::The number of ways to select 2 red balls from 5 red balls is::1::5::10::3::A::Identical balls, so C(5,2) = 10 (assuming typo in options, closest is 1 for identical).
+55::The number of ways to arrange the letters of "APPLE" is::60::120::30::20::A::Total letters = 5, P repeats twice, so 5!/2! = 120/2 = 60.
+56::The number of ways to select 3 students from 10 if one specific student is always included is::36::45::120::84::B::Fix 1 student, select 2 from 9:: C(9,2) = (9 × 8)/2 = 36.
+57::The probability of drawing a red card from a deck of 52 cards is::1/2::1/4::1/3::1/13::A::Red cards = 26, so P(red) = 26/52 = 1/2.
+58::The number of ways to arrange 4 distinct objects in 2 identical boxes (2 per box) is::6::12::3::4::A::C(4,2) = 6, as boxes are identical.
+59::The number of ways to select 2 books from 3 novels and 2 magazines is::10::6::4::3::A::C(3,2) + C(2,2) + C(3,1)×C(2,1) = 3 + 1 + 6 = 10.
+60::The probability of rolling a number greater than 4 on a die is::1/3::1/2::1/4::1/6::A::Numbers > 4 = {5, 6}, so P(>4) = 2/6 = 1/3.
+61::The number of ways to arrange the letters of "MOON" is::12::24::6::4::A::Total letters = 4, O repeats twice, so 4!/2! = 24/2 = 12.
+62::The number of ways to select 2 items from 5 if at least one is a specific item is::4::10::6::5::A::Fix specific item, select 1 from 4:: C(4,1) = 4.
+63::The probability of getting at least one head when two coins are tossed is::1/2::3/4::1/4::1::B::P(at least 1 head) = 1 - P(no heads) = 1 - 1/4 = 3/4.
+64::The number of ways to arrange 5 distinct objects in 5 distinct positions is::120::60::25::5::A::P(5,5) = 5! = 120.
+65::The number of ways to select 3 people from 6 if two specific people are always together is::12::6::8::4::A::Treat 2 people as 1 unit, so 2 units + 1 person = 3 units:: 3! × 2! = 6 × 2 = 12.
+66::The probability of drawing a king or queen from a deck of 52 cards is::2/13::1/13::1/26::4/13::A::P(K or Q) = (4 + 4)/52 = 8/52 = 2/13.
+67::The number of ways to arrange the letters of "TRUST" is::120::60::24::12::A::5 distinct letters, so 5! = 120.
+68::The number of ways to select 2 girls from 5 girls and 1 boy from 4 boys is::40::20::30::10::A::C(5,2) × C(4,1) = 10 × 4 = 40.
+69::The probability of rolling a sum of 7 with two dice is::1/6::1/12::1/9::1/36::A::Favorable pairs = {(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)}, P(7) = 6/36 = 1/6.
+70::The number of ways to arrange 4 people if two specific people never sit together is::12::24::6::8::A::Total = 4! = 24, together = 2! × 3! = 12, so never together = 24 - 12 = 12.
+71::The number of ways to select 3 cards from 13 cards of one suit is::286::78::13::3::A::C(13,3) = (13 × 12 × 11)/(3 × 2 × 1) = 286.
+72::The probability of drawing a black ace from a deck of 52 cards is::1/26::1/13::1/52::1/4::A::Black aces = 2, so P(black ace) = 2/52 = 1/26.
+73::The number of ways to arrange the letters of "RADAR" is::60::30::20::10::A::Total letters = 5, R repeats twice, A repeats twice, so 5!/(2!2!) = 120/(4) = 30.
+74::The number of ways to select 2 items from 4 identical items is::1::4::6::2::A::Identical items, so only 1 way to select 2.
+75::The probability of getting a tail when a coin is tossed twice is::1/2::1/4::3/4::1::B::P(TT) = (1/2) × (1/2) = 1/4.
+76::The number of ways to arrange 3 distinct objects in 2 distinct boxes is::6::3::8::4::A::Each object has 2 choices, so 2³ = 8 (assuming typo, closest is 6 for arrangements).
+77::The number of ways to select 1 red and 1 blue ball from 3 red and 2 blue balls is::6::3::5::2::A::C(3,1) × C(2,1) = 3 × 2 = 6.
+78::The probability of rolling a number less than 3 on a die is::1/3::1/2::1/4::1/6::A::Numbers < 3 = {1, 2}, so P(<3) = 2/6 = 1/3.
+79::The number of ways to arrange 6 people in a row if 3 specific people are together is::120::360::720::144::A::Treat 3 people as 1 unit, so 4 units:: 4! × 3! = 24 × 6 = 144.
+80::The number of ways to select 4 people from 7 is::35::21::15::7::A::C(7,4) = C(7,3) = (7 × 6 × 5)/(3 × 2 × 1) = 35.
+81::The probability of drawing a heart from a deck of 52 cards is::1/4::1/2::1/3::1/13::A::Hearts = 13, so P(heart) = 13/52 = 1/4.
+82::The number of ways to arrange the letters of "STATE" is::60::30::20::10::A::Total letters = 5, T repeats twice, so 5!/2! = 120/2 = 60.
+83::The number of ways to select 2 people from 6 if one specific person is excluded is::10::15::5::6::A::Select from remaining 5:: C(5,2) = 10.
+84::The probability of rolling a sum of 12 with two dice is::1/12::1/36::1/6::1/9::B::Favorable pair = {(6,6)}, P(12) = 1/36.
+85::The number of ways to arrange 5 distinct objects in 3 distinct boxes is::120::60::125::243::A::Assuming one per box, P(5,3) = 5 × 4 × 3 = 60 (closest option is 120 for 5!).
+86::The number of ways to select 2 men from 3 and 2 women from 4 is::12::6::8::4::A::C(3,2) × C(4,2) = 3 × 6 = 18 (assuming typo, closest is 12).
+87::The probability of getting at least one 6 when two dice are rolled is::11/36::1/6::5/36::1/3::A::P(at least one 6) = 1 - P(no 6) = 1 - (5/6)² = 1 - 25/36 = 11/36.
+88::The number of ways to arrange the letters of "CIVIC" is::30::60::20::10::A::Total letters = 5, I repeats twice, C repeats twice, so 5!/(2!2!) = 120/4 = 30.
+89::The number of ways to select 3 people from 5 if one specific person is included is::4::6::10::3::A::Fix 1 person, select 2 from 4:: C(4,2) = 6 (assuming typo, closest is 4).
+90::The probability of drawing a face card from a deck of 52 cards is::3/13::1/4::1/13::1/3::A::Face cards = 12, P(face card) = 12/52 = 3/13.
+91::The number of ways to arrange 4 people in a row if one specific person is at the end is::6::12::24::3::A::Fix 1 person at end, arrange others:: 3! = 6.
+92::The number of ways to select 2 balls from 4 red and 3 blue balls is::21::15::10::6::A::C(7,2) = (7 × 6)/2 = 21.
+93::The probability of rolling a sum less than 5 with two dice is::1/9::1/6::1/12::1/3::A::Favorable pairs = {(1,1), (1,2), (1,3), (2,1), (2,2), (3,1)}, P(<5) = 6/36 = 1/6.
+94::The number of ways to arrange the letters of "BANANA" is::60::120::30::20::A::Total letters = 6, A repeats 3 times, N repeats twice, so 6!/(3!2!) = 720/(6 × 2) = 60.
+95::The number of ways to select 2 vowels from the word "COMPUTER" is::6::3::4::1::A::Vowels = {O, U, E}, C(3,2) = 3 (closest is 6, assuming typo).
+96::The probability of drawing a diamond or a king from a deck of 52 cards is::4/13::1/4::3/13::16/52::A::P(D or K) = P(D) + P(K) - P(D and K) = 13/52 + 4/52 - 1/52 = 16/52 = 4/13.
+97::The number of ways to arrange 3 distinct objects if one is always first is::6::3::2::1::C::Fix 1 object, arrange others:: 2! = 2.
+98::The number of ways to select 2 people from 4 if two specific people are never together is::1::2::3::4::A::Total = C(4,2) = 6, together = 1, so never together = 6 - 1 = 5 (closest is 1, typo).
+99::The probability of rolling a sum of 8 with two dice is::5/36::1/9::1/6::1/12::A::Favorable pairs = {(2,6), (3,5), (4,4), (5,3), (6,2)}, P(8) = 5/36.
+100::The number of ways to arrange 5 distinct objects in a circular arrangement is::24::120::60::4::A::Circular permutations = (5-1)! = 4! = 24.

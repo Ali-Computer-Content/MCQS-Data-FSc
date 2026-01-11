@@ -1,0 +1,50 @@
+1::A wave is a disturbance that transfers::Mass::Energy::Matter::Momentum::B::Waves transfer energy through a medium or space without transferring matter.
+2::The distance between two consecutive crests or troughs is called::Wavelength::Amplitude::Frequency::Period::A::Wavelength (λ) is the distance between two consecutive points in phase, e.g., crests.
+3::The maximum displacement of a particle from its mean position is::Period::Frequency::Amplitude::Wavelength::C::Amplitude is the maximum displacement from the equilibrium position.
+4::The number of waves passing a point per unit time is::Period::Frequency::Wavelength::Wave speed::B::Frequency (f) is the number of complete waves passing a point per second, measured in hertz (Hz).
+5::The time taken for one complete wave to pass a point is::Wavelength::Amplitude::Period::Frequency::C::Period (T) is the time for one complete wave cycle, measured in seconds.
+6::The relationship between frequency (f) and period (T) is::f = T::f = 1/T::f = T²::f = 1/T²::B::Frequency and period are inverses:: f = 1/T or T = 1/f.
+7::The speed of a wave is given by::v = fλ::v = f/λ::v = λ/f::v = f²λ::A::Wave speed v = frequency (f) × wavelength (λ), derived from v = distance/time.
+8::The SI unit of wavelength is::Meter::Second::Hertz::Newton::A::Wavelength is a length, measured in meters (m).
+9::Transverse waves have particle motion::Parallel to wave direction::Perpendicular to wave direction::Circular::Random::B::In transverse waves, particles vibrate perpendicular to the direction of wave propagation.
+10::Longitudinal waves have particle motion::Perpendicular to wave direction::Parallel to wave direction::Circular::No motion::B::In longitudinal waves, particles vibrate parallel to the direction of wave travel.
+11::Sound waves are::Transverse::Longitudinal::Electromagnetic::Surface waves::B::Sound waves are longitudinal, involving compressions and rarefactions in the medium.
+12::The regions of high pressure in a longitudinal wave are called::Compressions::Rarefactions::Crests::Troughs::A::Compressions are areas of high pressure where particles are close together.
+13::The speed of sound in air at 20°C is approximately::300 m/s::330 m/s::340 m/s::350 m/s::C::The speed of sound in air at 20°C is about 340 m/s.
+14::The phenomenon of waves bending around obstacles is called::Reflection::Refraction::Diffraction::Interference::C::Diffraction occurs when waves spread out after passing through an opening or around an obstacle.
+15::The superposition of two waves to form a resultant wave is called::Diffraction::Interference::Reflection::Refraction::B::Interference is the combination of two or more waves to produce a new wave pattern.
+16::When two waves meet crest-to-crest, the result is::Constructive interference::Destructive interference::Diffraction::Refraction::A::Constructive interference occurs when crests align, increasing amplitude.
+17::When a crest meets a trough, the result is::Constructive interference::Destructive interference::Standing wave::Polarized wave::B::Destructive interference occurs when a crest and trough cancel each other, reducing amplitude.
+18::A wave that appears to be stationary is called a::Traveling wave::Standing wave::Longitudinal wave::Electromagnetic wave::B::Standing waves form fixed nodes and antinodes due to interference of two identical waves traveling in opposite directions.
+19::The points of zero amplitude in a standing wave are called::Antinodes::Nodes::Crests::Troughs::B::Nodes are points of zero displacement in a standing wave.
+20::The points of maximum amplitude in a standing wave are called::Nodes::Antinodes::Crests::Troughs::B::Antinodes are points of maximum displacement in a standing wave.
+21::The wavelength of a standing wave on a string fixed at both ends for the fundamental mode is::2L::L::L/2::4L::A::For the fundamental mode, the wavelength λ = 2L, where L is the length of the string.
+22::The frequency of the fundamental mode of a string fixed at both ends is::v/2L::v/L::2v/L::v/4L::A::Fundamental frequency f = v/2L, where v is wave speed and L is string length.
+23::The speed of a wave on a string depends on::Tension and mass per unit length::Amplitude and frequency::Wavelength and period::Frequency and wavelength::A::Wave speed v = √(T/μ), where T is tension and μ is mass per unit length.
+24::The law of reflection states that::Angle of incidence equals angle of reflection::Angle of incidence equals angle of refraction::Angle of incidence is twice the angle of reflection::A::The angle of incidence equals the angle of reflection for waves reflecting off a surface.
+25::The bending of waves when passing from one medium to another is called::Reflection::Refraction::Diffraction::Interference::B::Refraction occurs due to a change in wave speed when entering a different medium.
+26::The speed of sound increases with::Decreasing temperature::Increasing temperature::Decreasing pressure::Increasing density::B::The speed of sound in air increases with temperature, approximately as v ≈ 331 + 0.6T°C.
+27::The Doppler effect is the change in::Amplitude::Wavelength::Frequency::Speed::C:: due to relative motion::The Doppler effect is the apparent change in frequency due to relative motion between source and observer.
+28::When a source moves toward an observer, the observed frequency::Increases::Decreases::Remains the same::Becomes zero::A::As the source approaches, the waves compress, increasing the observed frequency.
+29::The formula for the Doppler effect (source moving toward observer) is::f' = f(v/(v - v_s))::f' = f(v/(v + v_s))::f' = f(v - v_s)/v::f' = f(v + v_s)/v::A::f' = f(v/(v - v_s)), where f' is observed frequency, v is wave speed, and v_s is source speed.
+30::The intensity of a wave is proportional to the square of its::Frequency::Wavelength::Amplitude::Speed::C::Intensity I ∝ A², where A is the amplitude of the wave.
+31::The SI unit of intensity is::W/m²::N/m²::J/s::kg/m²::A::Wave intensity is measured in watts per square meter (W/m²).
+32::The frequency of a wave with a period of 0.02 s is::20 Hz::50 Hz::0.02 Hz::5 Hz::B::Frequency f = 1/T = 1/0.02 = 50 Hz.
+33::The wavelength of a wave with speed 300 m/s and frequency 50 Hz is::0.167 m::6 m::15000 m::300 m::B::Wavelength λ = v/f = 300/50 = 6 m.
+34::Progressive waves are waves that::Do not move::Transfer energy::Have no amplitude::Remain stationary::B::Progressive (traveling) waves transfer energy through the medium or space.
+35::The phase difference between two points separated by one wavelength is::0 rad::π rad::2π rad::π/2 rad::C::A separation of one wavelength corresponds to a phase difference of 2π radians.
+36::The speed of sound is highest in::Solids::Liquids::Gases::Vacuum::A::Sound travels fastest in solids due to their high density and elasticity.
+37::The condition for constructive interference is that path difference is::λ/2::λ::3λ/2::All integer multiples of λ::D::Constructive interference occurs when the path difference is nλ (n = 0, 1, 2, ...).
+38::The condition for destructive interference is that path difference is::(2n+1)λ/2::nλ::λ/2::2nλ::A::Destructive interference occurs when the path difference is (2n+1)λ/2 (n = 0, 1, 2, ...).
+39::The fundamental frequency of a standing wave on a string depends on::Length of string::Tension::Mass per unit length::All of these::D::Fundamental frequency f = (1/2L)√(T/μ), depending on length, tension, and mass per unit length.
+40::The wavelength of the second harmonic on a string fixed at both ends is::L::2L::L/2::4L::A::For the second harmonic, λ = L, where L is the length of the string.
+41::The frequency of the nth harmonic of a string fixed at both ends is::nv/2L::nv/L::v/2nL::v/nL::A::The nth harmonic frequency is f_n = nv/2L, where n is the harmonic number.
+42::The speed of a wave on a string with tension 100 N and mass per unit length 0.01 kg/m is::10 m/s::100 m/s::1000 m/s::50 m/s::B::v = √(T/μ) = √(100/0.01) = √10000 = 100 m/s.
+43::The phenomenon responsible for the spreading of waves into the shadow region is::Reflection::Refraction::Diffraction::Interference::C::Diffraction allows waves to bend around obstacles and spread into shadow regions.
+44::The intensity of sound decreases with distance due to::Absorption::Spreading over larger are::aReflection::Refraction::B::Intensity decreases as I ∝ 1/r², due to the wave spreading over a larger area.
+45::The frequency heard by a stationary observer when a source moves away is::Increased::Decreased::Unchanged::Zero::B::When the source moves away, the observed frequency decreases:: f' = f(v/(v + v_s)).
+46::The wavelength of sound with frequency 200 Hz and speed 340 m/s is::0.59 m::1.7 m::680 m::0.85 m::B::λ = v/f = 340/200 = 1.7 m.
+47::The distance between a node and the adjacent antinode in a standing wave is::λ::λ/2::λ/4::2λ::C::The distance from a node to an antinode is one-quarter of the wavelength (λ/4).
+48::The speed of transverse waves depends on::Medium’s properties::Amplitude::Frequency::Wavelength::A::Wave speed depends on the medium’s properties (e.g., tension and mass per unit length for strings).
+49::The Doppler effect applies to::Sound waves only::Light waves only::Both sound and light waves::Electromagnetic waves only::C::The Doppler effect is observed in both sound (e.g., siren pitch) and light (e.g., redshift).
+50::The frequency of a wave traveling at 400 m/s with wavelength 2 m is::100 Hz::200 Hz::400 Hz::800 Hz::B::Frequency f = v/λ = 400/2 = 200 Hz.

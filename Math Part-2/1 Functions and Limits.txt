@@ -1,0 +1,100 @@
+1::A function is a rule that assigns::Each element of domain to exactly one element of range::Multiple elements of domain to one range element::One domain element to multiple range elements::No relation between domain and range::A::A function maps each domain element to a unique range element.
+2::The domain of f(x) = x² is::(-∞, ∞)::[0, ∞)::[-1, 1]::(0, ∞)::A::x² is defined for all real numbers.
+3::The range of f(x) = x² is::[0, ∞)::(-∞, ∞)::[1, ∞)::(-∞, 0]::A::x² ≥ 0 for all real x.
+4::The function f(x) = 1/x is undefined at::x = 0::x = 1::x = -1::All real x::A::1/x has a vertical asymptote at x = 0.
+5::A function f is one-to-one if::Each x maps to a unique y::Each y maps to a unique x::f(x) = f(y) implies x = y::Both A and C::C::One-to-one means f(x) = f(y) implies x = y.
+6::The function f(x) = sin(x) is::One-to-one::Many-to-one::Onto::Both A and C::B::sin(x) repeats values (e.g., sin(0) = sin(2π)).
+7::The inverse of f(x) = 2x + 3 is::f⁻¹(x) = (x-3)/2::f⁻¹(x) = 2x - 3::f⁻¹(x) = (x+3)/2::f⁻¹(x) = x/2::A::Solve y = 2x + 3 for x:: x = (y-3)/2.
+8::A function has an inverse if it is::One-to-one and onto::One-to-one only::Onto only::Neither A nor B::A::Inverse requires bijectivity (one-to-one and onto).
+9::The composition f(g(x)) requires::Range of g ⊆ Domain of f::Domain of g ⊆ Range of f::Domain of f ⊆ Range of g::None of these::A::g(x) must produce values in f's domain.
+10::If f(x) = x + 1 and g(x) = x², then f(g(2)) is::5::3::4::6::A::g(2) = 4, f(4) = 4 + 1 = 5.
+11::A function f is even if::f(-x) = f(x)::f(-x) = -f(x)::f(x) = f(x²)::f(x) = x::A::Even functions are symmetric about the y-axis.
+12::The function f(x) = x² is::Even::Odd::Neither::Both::A::f(-x) = (-x)² = x² = f(x).
+13::The function f(x) = x³ is::Odd::Even::Neither::Both::A::f(-x) = (-x)³ = -x³ = -f(x).
+14::The domain of f(x) = √x is::[0, ∞)::(-∞, ∞)::(0, ∞)::[-1, 1]::A::√x is defined for x ≥ 0.
+15::The range of f(x) = √x is::[0, ∞)::(-∞, ∞)::(0, ∞)::[-1, 1]::A::√x ≥ 0 for all x ≥ 0.
+16::The limit of a function f(x) as x approaches a is L if::f(x) gets arbitrarily close to L as x gets close to ::af(a) = L::f(x) = L for all x::f(x) is continuous at ::aA::Limit describes behavior as x approaches a.
+17::The limit lim(x→2) (x² - 4)/(x - 2) is::4::2::0::Undefined::A::Factorize:: (x² - 4)/(x - 2) = (x + 2)(x - 2)/(x - 2) = x + 2, so lim(x→2) (x + 2) = 4.
+18::The limit lim(x→0) sin(x)/x is::1::0::∞::-1::A::Standard limit:: lim(x→0) sin(x)/x = 1.
+19::The limit lim(x→0) (1 - cos(x))/x is::0::1::∞::-1::A::Use lim(x→0) (1 - cos(x))/x² = 1/2, so (1 - cos(x))/x = x/2 → 0.
+20::The limit lim(x→3) (x² - 9)/(x - 3) is::6::3::0::Undefined::A::Factorize:: (x² - 9)/(x - 3) = (x + 3)(x - 3)/(x - 3) = x + 3, so lim(x→3) (x + 3) = 6.
+21::The function f(x) = |x| is::Continuous everywhere::Discontinuous at x = 0::Differentiable everywhere::None of these::A::|x| is continuous but not differentiable at x = 0.
+22::The limit lim(x→∞) 1/x is::0::1::∞::-1::A::As x grows large, 1/x approaches 0.
+23::The limit lim(x→0) x² sin(1/x) is::0::1::∞::Undefined::A::|x² sin(1/x)| ≤ x², and lim(x→0) x² = 0, so limit is 0 by squeeze theorem.
+24::The domain of f(x) = ln(x) is::(0, ∞)::(-∞, ∞)::[0, ∞)::[-1, 1]::A::ln(x) is defined for x > 0.
+25::The range of f(x) = ln(x) is::(-∞, ∞)::[0, ∞)::(-∞, 0)::[1, ∞]::A::ln(x) takes all real values.
+26::The function f(x) = e^x is::Increasing::Decreasing::Constant::Neither::A::e^x has a positive derivative, so it is increasing.
+27::The limit lim(x→0) (e^x - 1)/x is::1::0::∞::e::A::Standard limit:: lim(x→0) (e^x - 1)/x = 1.
+28::The limit lim(x→∞) (2x + 3)/(x + 1) is::2::1::0::∞::A::Divide by x:: (2 + 3/x)/(1 + 1/x) → 2/1 = 2.
+29::The function f(x) = 1/(x-1) has a vertical asymptote at::x = 1::x = 0::x = -1::None::A::Denominator is zero at x = 1.
+30::The limit lim(x→1) (x² - 1)/(x - 1) is::2::1::0::Undefined::A::Factorize:: (x² - 1)/(x - 1) = (x + 1)(x - 1)/(x - 1) = x + 1, so lim(x→1) (x + 1) = 2.
+31::A function f is continuous at x = a if::lim(x→a) f(x) = f(a)::lim(x→a) f(x) exists::f(a) is defined::All of these::D::Continuity requires limit existence, f(a) defined, and equality.
+32::The function f(x) = [x] (greatest integer function) is::Continuous everywhere::Discontinuous at integers::Continuous at integers::None::B::[x] has jumps at integer points.
+33::The limit lim(x→0) x/x is::1::0::∞::Undefined::A::x/x = 1 for x ≠ 0, so limit is 1.
+34::The limit lim(x→∞) x/(x + 1) is::1::0::∞::-1::A::Divide by x:: x/(x + 1) = 1/(1 + 1/x) → 1/1 = 1.
+35::The domain of f(x) = 1/√(x-2) is::(2, ∞)::(-∞, ∞)::[2, ∞)::(-∞, 2]::A::√(x-2) requires x - 2 > 0, so x > 2.
+36::The range of f(x) = 1/√(x-2) is::(0, ∞)::(-∞, ∞)::[0, ∞)::(-∞, 0]::A::1/√(x-2) > 0 for x > 2.
+37::The limit lim(x→0) (tan(x)/x) is::1::0::∞::-1::A::Standard limit:: lim(x→0) tan(x)/x = 1.
+38::The function f(x) = x³ - x is::Odd::Even::Neither::Both::A::f(-x) = (-x)³ - (-x) = -x³ + x = -f(x).
+39::The limit lim(x→2) (x³ - 8)/(x - 2) is::12::8::4::Undefined::A::Factorize:: x³ - 8 = (x - 2)(x² + 2x + 4), so lim(x→2) (x² + 2x + 4) = 12.
+40::The limit lim(x→∞) (3x² + 2)/(x² + 1) is::3::2::1::0::A::Divide by x²:: (3 + 2/x²)/(1 + 1/x²) → 3/1 = 3.
+41::The function f(x) = cos(x) is::Even::Odd::Neither::Both::A::cos(-x) = cos(x).
+42::The limit lim(x→0) (1 - cos(x))/x² is::1/2::1::0::∞::A::Standard limit:: lim(x→0) (1 - cos(x))/x² = 1/2.
+43::The limit lim(x→1) (x² - x)/(x - 1) is::1::0::2::Undefined::A::Factorize:: (x² - x)/(x - 1) = x(x - 1)/(x - 1) = x, so lim(x→1) x = 1.
+44::The domain of f(x) = arcsin(x) is::[-1, 1]::(-∞, ∞)::[0, 1]::(0, ∞)::A::arcsin(x) is defined for x ∈ [-1, 1].
+45::The range of f(x) = arcsin(x) is::[-π/2, π/2]::[0, π]::[-1, 1]::(0, π/2)::A::Principal values of arcsin(x) are in [-π/2, π/2].
+46::The limit lim(x→0) x sin(1/x) is::0::1::∞::Undefined::A::|x sin(1/x)| ≤ |x|, and lim(x→0) |x| = 0, so limit is 0.
+47::The function f(x) = e^(2x) is::Increasing::Decreasing::Constant::Neither::A::Derivative of e^(2x) is 2e^(2x) > 0.
+48::The limit lim(x→∞) (x + 1)/(x² + 1) is::0::1::∞::-1::A::Divide by x²:: (1/x + 1/x²)/(1 + 1/x²) → 0/1 = 0.
+49::The limit lim(x→0) (x² + x)/(x) is::1::0::2::Undefined::A::(x² + x)/x = x + 1, so lim(x→0) (x + 1) = 1.
+50::The function f(x) = x/(x + 1) has a horizontal asymptote at::y = 1::y = 0::y = -1::None::A::lim(x→∞) x/(x + 1) = 1.
+51::The limit lim(x→0) (sin(2x)/x) is::2::1::0::∞::A::sin(2x)/x = 2(sin(2x)/(2x)), lim(x→0) sin(2x)/(2x) = 1, so limit is 2.
+52::The domain of f(x) = 1/(x² - 4) is::(-∞, -2) ∪ (-2, 2) ∪ (2, ∞)::(-∞, ∞)::[-2, 2]::(-2, 2)::A::Denominator x² - 4 = 0 at x = ±2.
+53::The range of f(x) = 1/(x² - 4) is::(0, ∞)::(-∞, 0) ∪ (0, ∞)::(-∞, ∞)::[0, ∞]::B::1/(x² - 4) takes positive and negative values but not 0.
+54::The limit lim(x→0) (e^(2x) - 1)/(2x) is::1::2::0::∞::A::lim(x→0) (e^(2x) - 1)/(2x) = lim(u→0) (e^u - 1)/u = 1 (u = 2x).
+55::The function f(x) = |x - 1| is::Continuous everywhere::Discontinuous at x = 1::Differentiable everywhere::None::A::|x - 1| is continuous but not differentiable at x = 1.
+56::The limit lim(x→∞) (5x + 2)/(2x + 3) is::5/2::2/5::1::0::A::Divide by x:: (5 + 2/x)/(2 + 3/x) → 5/2.
+57::The function f(x) = tan(x) is undefined at::x = π/2 + kπ::x = kπ::x = π/4::x = 0::A::tan(x) has vertical asymptotes at x = π/2 + kπ.
+58::The limit lim(x→0) (1 + x)^(1/x) is::e::1::0::∞::A::Standard limit:: lim(x→0) (1 + x)^(1/x) = e.
+59::The limit lim(x→1) (x³ - 1)/(x - 1) is::3::1::0::Undefined::A::Factorize:: x³ - 1 = (x - 1)(x² + x + 1), so lim(x→1) (x² + x + 1) = 3.
+60::The function f(x) = 1/(x - 2)² is::Positive for all x ≠ 2::Negative for all x ≠ 2::Zero at x = 2::Both A and C::A::(x - 2)² > 0, so 1/(x - 2)² > 0.
+61::The limit lim(x→∞) (x² - x)/(x² + 1) is::1::0::∞::-1::A::Divide by x²:: (1 - 1/x)/(1 + 1/x²) → 1/1 = 1.
+62::The domain of f(x) = arctan(x) is::(-∞, ∞)::[-1, 1]::(0, ∞)::[-π/2, π/2]::A::arctan(x) is defined for all real x.
+63::The range of f(x) = arctan(x) is::(-π/2, π/2)::[-π/2, π/2]::[0, π]::(-∞, ∞)::A::Principal values of arctan(x) are in (-π/2, π/2).
+64::The limit lim(x→0) (sin(x²)/x²) is::1::0::∞::-1::A::lim(x→0) sin(x²)/x² = lim(u→0) sin(u)/u = 1 (u = x²).
+65::The function f(x) = x² + 2x + 1 is::Always positive::Always negative::Zero at x = -1::Both A and C::D::(x + 1)² ≥ 0, zero at x = -1.
+66::The limit lim(x→0) (tan(2x)/2x) is::1::2::0::∞::A::tan(2x)/(2x) = (tan(2x)/(2x)), lim(x→0) tan(2x)/(2x) = 1.
+67::The limit lim(x→∞) (3x + 1)/(x² + 1) is::0::1::3::∞::A::Divide by x²:: (3/x + 1/x²)/(1 + 1/x²) → 0/1 = 0.
+68::The function f(x) = ln(x + 1) has domain::(-1, ∞)::(-∞, ∞)::[0, ∞)::(-∞, 0]::A::ln(x + 1) requires x + 1 > 0, so x > -1.
+69::The limit lim(x→0) (e^(3x) - 1)/(3x) is::1::3::0::∞::A::lim(x→0) (e^(3x) - 1)/(3x) = lim(u→0) (e^u - 1)/u = 1 (u = 3x).
+70::The function f(x) = x/(x² + 1) is::Odd::Even::Neither::Both::A::f(-x) = -x/(x² + 1) = -f(x).
+71::The limit lim(x→2) (x² - x - 2)/(x - 2) is::3::2::1::Undefined::A::Factorize:: (x - 2)(x + 1)/(x - 2) = x + 1, so lim(x→2) (x + 1) = 3.
+72::The limit lim(x→∞) (x + 2)/(x - 1) is::1::0::∞::-1::A::Divide by x:: (1 + 2/x)/(1 - 1/x) → 1/1 = 1.
+73::The function f(x) = sin(x)/x is undefined at::x = 0::x = π::x = π/2::All x::A::Denominator is zero at x = 0.
+74::The limit lim(x→0) (1 - cos(2x))/x² is::2::1::0::∞::A::lim(x→0) (1 - cos(2x))/x² = 2·lim(x→0) (1 - cos(2x))/(2x)² = 2·(1/2) = 1.
+75::The domain of f(x) = 1/√(x² - 1) is::(-∞, -1) ∪ (1, ∞)::(-∞, ∞)::[-1, 1]::(-1, 1)::A::x² - 1 > 0 implies |x| > 1.
+76::The range of f(x) = 1/√(x² - 1) is::(0, ∞)::(-∞, ∞)::[0, ∞)::(-∞, 0]::A::1/√(x² - 1) > 0.
+77::The limit lim(x→0) (sin(3x)/3x) is::1::3::0::∞::A::lim(x→0) sin(3x)/(3x) = lim(u→0) sin(u)/u = 1 (u = 3x).
+78::The function f(x) = x² - 2x + 1 is::Zero at x = 1::Positive for all x::Negative for all x::None::A::(x - 1)² = 0 at x = 1.
+79::The limit lim(x→∞) (2x² + 3x)/(x² + 2) is::2::1::0::∞::A::Divide by x²:: (2 + 3/x)/(1 + 2/x²) → 2/1 = 2.
+80::The function f(x) = e^(-x) is::Decreasing::Increasing::Constant::Neither::A::Derivative of e^(-x) is -e^(-x) < 0.
+81::The limit lim(x→0) (x + sin(x))/(2x) is::1::1/2::0::∞::A::(x + sin(x))/(2x) = 1/2 + sin(x)/(2x), lim(x→0) = 1/2 + 1/2 = 1.
+82::The domain of f(x) = arccos(x) is::[-1, 1]::(-∞, ∞)::[0, 1]::(0, ∞)::A::arccos(x) is defined for x ∈ [-1, 1].
+83::The range of f(x) = arccos(x) is::[0, π]::[-π/2, π/2]::(-∞, ∞)::[-1, 1]::A::Principal values of arccos(x) are in [0, π].
+84::The limit lim(x→0) (tan(x) - x)/x³ is::1/3::1/2::0::∞::A::Standard limit:: lim(x→0) (tan(x) - x)/x³ = 1/3.
+85::The function f(x) = x/(x - 1) has a vertical asymptote at::x = 1::x = 0::x = -1::None::A::Denominator is zero at x = 1.
+86::The limit lim(x→∞) (x³ + x)/(x² + 1) is::∞::0::1::2::A::Divide by x²:: (x + 1/x)/(1 + 1/x²) → ∞.
+87::The function f(x) = ln(x² + 1) is::Even::Odd::Neither::Both::A::f(-x) = ln((-x)² + 1) = ln(x² + 1) = f(x).
+88::The limit lim(x→0) (e^x + e^(-x) - 2)/x² is::1::2::0::∞::A::lim(x→0) (cosh(x) - 1)/(x²/2) = 1.
+89::The limit lim(x→1) (x⁴ - 1)/(x - 1) is::4::1::0::Undefined::A::Factorize:: x⁴ - 1 = (x - 1)(x³ + x² + x + 1), so lim(x→1) (x³ + x² + x + 1) = 4.
+90::The function f(x) = 1/(x + 2) has domain::(-∞, -2) ∪ (-2, ∞)::(-∞, ∞)::[-2, ∞)::(-2, ∞)::A::Denominator is zero at x = -2.
+91::The limit lim(x→0) (sin(x) - x)/x³ is::-1/6::1/6::0::∞::A::Standard limit:: lim(x→0) (sin(x) - x)/x³ = -1/6.
+92::The function f(x) = x²/(x² + 1) is::Even::Odd::Neither::Both::A::f(-x) = (-x)²/((-x)² + 1) = x²/(x² + 1) = f(x).
+93::The limit lim(x→∞) (x - 1)/(x + 1) is::1::0::∞::-1::A::Divide by x:: (1 - 1/x)/(1 + 1/x) → 1/1 = 1.
+94::The domain of f(x) = √(x² - 4) is::(-∞, -2] ∪ [2, ∞)::(-∞, ∞)::[-2, 2]::(-2, 2)::A::x² - 4 ≥ 0 implies |x| ≥ 2.
+95::The range of f(x) = √(x² - 4) is::[0, ∞)::(-∞, ∞)::(0, ∞)::[-2, 2]::A::√(x² - 4) ≥ 0.
+96::The limit lim(x→0) (1 + 2x)^(1/x) is::e²::e::1::∞::A::lim(x→0) (1 + 2x)^(1/x) = e^(lim(x→0) ln(1 + 2x)/x) = e².
+97::The function f(x) = sin²(x) is::Even::Odd::Neither::Both::A::sin²(-x) = (sin(-x))² = (-sin(x))² = sin²(x).
+98::The limit lim(x→3) (x² - 2x - 3)/(x - 3) is::4::3::2::Undefined::A::Factorize:: (x - 3)(x + 1)/(x - 3) = x + 1, so lim(x→3) (x + 1) = 4.
+99::The function f(x) = x³ + 1 is::One-to-one::Many-to-one::Neither::Both::A::f'(x) = 3x² ≥ 0, strictly increasing, so one-to-one.
+100::The limit lim(x→0) (x² cos(1/x)) is::0::1::∞::Undefined::A::|x² cos(1/x)| ≤ x², and lim(x→0) x² = 0, so limit is 0.

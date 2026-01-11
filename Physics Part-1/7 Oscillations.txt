@@ -1,0 +1,50 @@
+1::What is the motion called when an object repeats its path at regular intervals?::Circular::Linear::Oscillatory::Translational::C::Oscillatory motion involves repeating a path at regular intervals, like a pendulum.
+2::The SI unit of frequency is::Radian::Hertz::Newton::Joule::B::Hertz (Hz) is the SI unit of frequency, equal to one cycle per second.
+3::What is the time taken to complete one oscillation called?::Amplitude::Frequency::Time period::Phase::C::Time period (T) is the time for one complete oscillation.
+4::The maximum displacement from the mean position in oscillatory motion is::Frequency::Amplitude::Period::Wavelength::B::Amplitude is the maximum displacement from the equilibrium position.
+5::What is the frequency of a pendulum with a time period of 2 s?::0.5 Hz::1 Hz::2 Hz::4 Hz::A::Frequency = 1/T = 1/2 = 0.5 Hz.
+6::The dimension of frequency is::[T⁻¹]::[LT⁻¹]::[T]::[L⁻¹]::A::Frequency = cycles/time, so dimension is [T⁻¹].
+7::What is the angular frequency of a system with frequency 5 Hz?::5π rad/s::10π rad/s::15π rad/s::20π rad/s::B::Angular frequency ω = 2πf = 2π × 5 = 10π rad/s.
+8::Which type of motion is exhibited by a simple pendulum?::Linear::Rotational::Simple harmonic::Translational::C::A simple pendulum exhibits simple harmonic motion (SHM) for small angles.
+9::The restoring force in SHM is proportional to::Velocity::Acceleration::Displacement::Time::C::In SHM, the restoring force F = -kx, proportional to displacement.
+10::The time period of a simple pendulum depends on::Mass::Amplitude::Length::Acceleration due to gravity::C::T = 2π√(L/g), so it depends on length (L) and g, not mass or amplitude.
+11::What is the time period of a pendulum with length 1 m (g = 10 m/s²)?::1 s::2 s::3 s::4 s::B::T = 2π√(L/g) = 2π√(1/10) ≈ 2 s (using π ≈ 3.14).
+12::The SI unit of spring constant is::N/m::N·m::kg/s²::kg·m/s²::A::Spring constant k has units N/m, as F = -kx.
+13::In SHM, the acceleration is maximum at::Mean position::Extreme position::Midway::Equilibrium::B::Acceleration a = -ω²x is maximum at the extreme position where x is maximum.
+14::The total energy in SHM is::Constant::Increasing::Decreasing::Zero::A::Total energy (KE + PE) in SHM is conserved and remains constant.
+15::The kinetic energy in SHM is maximum at::Extreme position::Mean position::Halfway::All positions::B::Kinetic energy is maximum at the mean position where velocity is maximum.
+16::What is the potential energy of a spring in SHM?::(1/2)mv²::(1/2)kx²::mgh::(1/2)kA²::B::Potential energy of a spring in SHM is (1/2)kx², where x is displacement.
+17::The frequency of a mass-spring system depends on::Mass::Spring constant::Both::Neither::C::Frequency f = (1/2π)√(k/m), depends on both mass (m) and spring constant (k).
+18::What is the phase difference between displacement and velocity in SHM?::0°::90°::180°::270°::B::Velocity leads displacement by 90° in SHM, as v = -ωA sin(ωt).
+19::The time period of a mass spring system is::T = 2π√(m/k)::T = 2π√(k/m)::T = π√(m/k)::T = π√(k/m)::A::T = 2π√(m/k), derived from the equation of motion for a mass-spring system.
+20::What is the restoring force in a simple pendulum?::mg::mg sinθ::mg cosθ::mω²::B::The restoring force is mg sinθ, acting opposite to displacement for small angles.
+21::The velocity in SHM is maximum when displacement is::Maximum::Minimum::Halfway::Constant::B::Velocity v = ω√(A² - x²) is maximum at x = 0 (mean position).
+22::What is the unit of angular frequency?::Hz::rad/s::N/m::m/s::B::Angular frequency ω has units rad/s, as ω = 2πf.
+23::The total energy of a simple harmonic oscillator is proportional to::Amplitude::Square of amplitude::Frequency::Mass::B::Total energy = (1/2)kA², proportional to the square of amplitude.
+24::What is the time period of a pendulum if its length is quadrupled?::Doubles::Halves::Quadruples::√2 times::A::T ∝ √L, so if L increases by 4, T increases by √4 = 2 times.
+25::Which of the following is an example of damped oscillations?::Simple pendulum::Mass spring system::Swinging pendulum in air::Tuning fork::C::A pendulum in air experiences damping due to air resistance.
+26::The frequency of a simple pendulum is::f = (1/2π)√(g/L)::f = (1/2π)√(L/g)::f = 2π√(g/L)::f = 2π√(L/g)::A::Frequency f = 1/T = (1/2π)√(g/L), derived from T = 2π√(L/g).
+27::In SHM, the potential energy is minimum at::Extreme position::Mean position::Midway::All positions::B::PE = (1/2)kx² is minimum at x = 0 (mean position).
+28::What is the angular frequency of a mass spring system with k = 100 N/m and m = 0.25 kg?::10 rad/s::20 rad/s::30 rad/s::40 rad/s::B::ω = √(k/m) = √(100/0.25) = √400 = 20 rad/s.
+29::The motion of a simple pendulum is SHM if the angle is::Large::Small::90°::180°::B::SHM approximation holds for small angles (θ < 15°) where sinθ ≈ θ.
+30::What is the restoring force in a mass spring system?::mg::kx::mω²::kA::B::Restoring force F = -kx, proportional to displacement in a spring system.
+31::The time period of a simple pendulum is independent of::Length::Gravity::Mass::All of these::C::T = 2π√(L/g) is independent of the mass of the bob.
+32::What is the maximum acceleration in SHM?::ωA::ω²A::A/ω::A/ω²::B::Acceleration a = -ω²x, maximum at x = A, so a_max = ω²A.
+33::The energy of a simple harmonic oscillator is::Kinetic only::Potential only::Both kinetic and potential::None::C::Total energy is the sum of kinetic and potential energy, constant in SHM.
+34::What is the frequency if the time period is 0.5 s?::1 Hz::2 Hz::3 Hz::4 Hz::B::Frequency f = 1/T = 1/0.5 = 2 Hz.
+35::Damped oscillations have::Constant amplitude::Increasing amplitude::Decreasing amplitude::Zero amplitude::C::Damped oscillations lose energy, causing amplitude to decrease over time.
+36::The phase of an oscillator describes::Amplitude::Frequency::Time period::Position and direction::D::Phase describes the oscillator’s position and direction in its cycle.
+37::What is the time period of a mass spring system with m = 0.5 kg and k = 200 N/m?::1 s::2 s::0.5 s::0.314 s::D::T = 2π√(m/k) = 2π√(0.5/200) = 2π√0.0025 ≈ 0.314 s.
+38::The restoring force in SHM is::Directly proportional to velocity::Inversely proportional to displacement::Opposite to displacement::Constant::C::Restoring force F = -kx is opposite to displacement.
+39::What is the potential energy at the extreme position in SHM?::Zero::Maximum::Half of total energy::Constant::B::PE = (1/2)kx² is maximum at x = A, where KE is zero.
+40::The frequency of a pendulum with length 0.25 m (g = 10 m/s²) is::1 Hz::0.5 Hz::2 Hz::0.25 Hz::A::T = 2π√(L/g) = 2π√(0.25/10) ≈ 1 s, so f = 1/T = 1 Hz.
+41::In SHM, velocity is zero at::Mean position::Extreme position::Midway::All positions::B::Velocity v = ω√(A² - x²) is zero at x = ±A (extreme positions).
+42::What is the total energy of a spring system with k = 50 N/m and amplitude 0.2 m?::0.5 J::1 J::2 J::4 J::B::Total energy = (1/2)kA² = (1/2) × 50 × (0.2)² = 1 J.
+43::The motion of a mass spring system is SHM if the extension is::Large::Small::Infinite::Zero::B::SHM occurs for small extensions where Hooke’s law (F = -kx) applies.
+44::What is the phase difference between velocity and acceleration in SHM?::0°::90°::180°::270°::B::Acceleration leads velocity by 90°, as a = -ω²x and v = -ωA sin(ωt).
+45::The time period of a pendulum increases if::Length decreases::Gravity increases::Mass increases::Length increases::D::T ∝ √L, so increasing length increases the time period.
+46::What is the kinetic energy at the mean position in SHM?::Zero::Maximum::Half of total energy::Constant::B::KE = (1/2)mv² is maximum at the mean position where v is maximum.
+47::The unit of the spring constant is equivalent to::kg/s²::kg·m/s²::N/m::N·m::C::Spring constant k = F/x, so units are N/m.
+48::What is the angular frequency if the time period is 2 s?::π rad/s::2π rad/s::0.5π rad/s::4π rad/s::A::ω = 2π/T = 2π/2 = π rad/s.
+49::Resonance occurs when the driving frequency equals::Natural frequency::Double the frequency::Half the frequency::Zero::A::Resonance occurs when the driving frequency matches the system’s natural frequency.
+50::The amplitude of damped oscillations::Increases::Decreases::Remains constant::Becomes infinite::B::Damped oscillations lose energy, causing amplitude to decrease.

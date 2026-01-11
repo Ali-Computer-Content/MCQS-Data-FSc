@@ -1,0 +1,50 @@
+1::Physical optics deals with the::Particle nature of light::Wave nature of light::Quantum nature of light::Electromagnetic nature of light::B::Physical optics studies light as a wave, focusing on phenomena like interference and diffraction.
+2::The phenomenon of bending of light around obstacles is called::Reflection::Refraction::Diffraction::Polarization::C::Diffraction is the bending of light waves around edges or through apertures.
+3::The superposition of two or more waves to form a resultant wave is called::Interference::Diffraction::Polarization::Dispersion::A::Interference occurs when waves combine, producing regions of increased or decreased amplitude.
+4::When two waves superimpose to produce maximum amplitude, it is called::Destructive interference::Constructive interference::Polarization::Diffraction::B::Constructive interference occurs when crests or troughs align, increasing amplitude.
+5::When two waves superimpose to cancel each other, it is called::Constructive interference::Destructive interference::Diffraction::Polarization::B::Destructive interference occurs when a crest meets a trough, reducing amplitude.
+6::The condition for constructive interference is that the path difference is::An odd multiple of λ/2::An even multiple of λ/2::Equal to λ/2::An integral multiple of λ::D::Path difference = nλ (n = 0, 1, 2, ...) for constructive interference.
+7::The condition for destructive interference is that the path difference is::An integral multiple of λ::An odd multiple of λ/2::An even multiple of λ/2::Equal to λ::B::Path difference = (2n+1)λ/2 (n = 0, 1, 2, ...) for destructive interference.
+8::The SI unit of wavelength is::Hertz::Meter::Second::Radian::B::Wavelength (λ) is measured in meters (m).
+9::Young’s double-slit experiment demonstrates::Diffraction::Interference::Polarization::Dispersion::B::Young’s experiment shows interference patterns due to the superposition of light waves.
+10::In Young’s double-slit experiment, the fringe spacing is given by::λD/d::λd/D::D/λd::d/λD::A::Fringe spacing (β) = λD/d, where λ is wavelength, D is screen distance, and d is slit separation.
+11::The bright fringes in Young’s double-slit experiment occur when the path difference is::nλ::(2n+1)λ/2::λ/2::3λ/2::A::Bright fringes occur at path differences of nλ (n = 0, 1, 2, ...).
+12::The dark fringes in Young’s double-slit experiment occur when the path difference is::nλ::(2n+1)λ/2::λ/2::2λ::B::Dark fringes occur at path differences of (2n+1)λ/2 (n = 0, 1, 2, ...).
+13::The distance between two consecutive bright or dark fringes is called::Wavelength::Fringe spacing::Path difference::Slit separation::B::Fringe spacing is the distance between adjacent fringes in an interference pattern.
+14::The phenomenon of light waves spreading out after passing through a narrow slit is called::Interference::Diffraction::Polarization::Refraction::C::Diffraction causes light to spread after passing through a narrow aperture.
+15::The diffraction pattern produced by a single slit shows::A central bright fringe with secondary minim::aA central dark fringe::Uniform brightness::No pattern::A::A single slit produces a central bright maximum with alternating dark minima.
+16::The condition for the first minimum in single-slit diffraction is::a sin θ = λ::a sin θ = λ/2::a sin θ = 2λ::a sin θ = nλ::A::The first minimum occurs when a sin θ = λ, where a is slit width and θ is angle.
+17::The width of the central maximum in single-slit diffraction is::Inversely proportional to slit width::Directly proportional to slit width::Independent of slit width::Equal to slit width::A::Narrower slits (smaller a) produce wider central maxima (β ∝ λ/a).
+18::The phenomenon of restricting light waves to one plane of vibration is called::Interference::Diffraction::Polarization::Dispersion::C::Polarization confines light’s electric field oscillations to one plane.
+19::Polarized light can be produced by::Reflection::Refraction::Diffraction::Interference::A::Light becomes polarized upon reflection at Brewster’s angle.
+20::The angle at which reflected light is completely polarized is called::Critical angle::Brewster’s angle::Angle of incidence::Angle of refraction::B::Brewster’s angle (tan θB = n2/n1) produces fully polarized reflected light.
+21::The device used to produce polarized light is called::Prism::Polarizer::Grating::Lens::B::A polarizer, like Polaroid, filters light to allow one plane of vibration.
+22::The intensity of light after passing through a polarizer follows::Malus’s law::Snell’s law::Beer’s law::Lambert’s law::A::Malus’s law states I = I0 cos² θ, where θ is the angle between polarizer axes.
+23::The optical instrument used to study interference patterns is::Microscope::Telescope::Interferometer::Spectrometer::C::Interferometers, like Michelson’s, analyze interference patterns.
+24::The wavelength of light can be determined using::A polarizer::A diffraction grating::A prism::A lens::B::Diffraction gratings produce spectra, allowing wavelength measurement via nλ = d sin θ.
+25::The condition for bright fringes in a diffraction grating is::d sin θ = nλ::d sin θ = (2n+1)λ/2::d cos θ = nλ::d sin θ = λ/n::A::Bright fringes occur when d sin θ = nλ (n = 0, 1, 2, ...), where d is grating spacing.
+26::The number of lines per unit length in a diffraction grating is called::Grating constant::Slit width::Fringe spacing::Resolving power::A::Grating constant is the number of lines per meter (N = 1/d).
+27::The resolving power of a diffraction grating is given by::nN::n/N::N/n::n²N::A::Resolving power = nN, where n is the order and N is the total number of lines.
+28::The colors in a soap bubble are due to::Diffraction::Interference::Polarization::Dispersion::B::Thin film interference causes colors in soap bubbles due to path differences.
+29::The condition for constructive interference in thin films is::2t = nλ::2t = (2n+1)λ/2::t = nλ::t = λ/2::A::For constructive interference in reflected light (with phase change), 2t = nλ (t is film thickness).
+30::The condition for destructive interference in thin films is::2t = nλ::2t = (2n+1)λ/2::t = nλ::t = λ::B::For destructive interference in reflected light, 2t = (2n+1)λ/2.
+31::The colors in an oil film on water are due to::Diffraction::Interference::Polarization::Refraction::B::Interference in thin films causes the colorful patterns in oil slicks.
+32::The device used to measure the wavelength of light accurately is::Polarizer::Spectrometer::Interferometer::Microscope::B::A spectrometer with a diffraction grating measures light wavelengths.
+33::The fringe pattern in Young’s double-slit experiment is::Circular::Elliptical::Linear::Parabolic::C::The fringes are linear (straight lines) parallel to the slits.
+34::The intensity of light in interference patterns depends on::Wavelength::Amplitude::Frequency::Speed::B::Intensity is proportional to the square of the wave amplitude.
+35::The speed of light in a vacuum is::3 × 10⁸ m/s::3 × 10⁶ m/s::3 × 10¹⁰ m/s::3 × 10⁷ m/s::A::The speed of light in a vacuum is 3 × 10⁸ m/s.
+36::The phenomenon of light splitting into colors is called::Interference::Diffraction::Dispersion::Polarization::C::Dispersion occurs when light separates into colors due to wavelength-dependent refraction.
+37::The wavefront is a surface where all points have::Same amplitude::Same phase::Same wavelength::Same frequency::B::A wavefront connects points of the same phase in a wave.
+38::Huygens’ principle states that every point on a wavefront acts as a source of::Primary waves::Secondary waves::Stationary waves::Polarized waves::B::Huygens’ principle explains wave propagation via secondary wavelets.
+39::The diffraction of light is more pronounced when the slit width is::Much larger than wavelength::Much smaller than wavelength::Equal to wavelength::Independent of wavelength::C::Diffraction is significant when slit width is comparable to the wavelength.
+40::The polarization of light proves that light is::A longitudinal wave::A transverse wave::A mechanical wave::A sound wave::B::Polarization occurs only in transverse waves, confirming light’s transverse nature.
+41::The angle of incidence at which refraction angle is 90° is called::Brewster’s angle::Critical angle::Angle of deviation::Angle of polarization::B::The critical angle occurs when the refracted ray is at 90° to the normal.
+42::The instrument used to observe polarized light is::Spectrometer::Polarimeter::Interferometer::Telescope::B::A polarimeter analyzes the properties of polarized light.
+43::The width of fringes in Young’s double-slit experiment increases if::Slit separation increases::Screen distance decreases::Wavelength decreases::Slit width increases::C::Fringe spacing (β = λD/d) increases with longer wavelength (λ).
+44::The diffraction grating produces::A single bright spot::Multiple spectr::aUniform light::Polarized light::B::A diffraction grating disperses light into multiple spectra based on wavelength.
+45::The resolving power of an optical instrument is its ability to::Magnify objects::Separate close objects::Polarize light::Disperse light::B::Resolving power measures the ability to distinguish two closely spaced objects.
+46::The colors in a thin film are due to::Absorption::Reflection::Interference::Diffraction::C::Interference between reflected waves from the film’s surfaces causes colors.
+47::The wavelength of red light is approximately::400 nm::550 nm::700 nm::1000 nm::C::Red light has a wavelength around 620–700 nm.
+48::The phenomenon of light waves reinforcing or canceling each other is called::Diffraction::Polarization::Interference::Dispersion::C::Interference results in reinforcement (constructive) or cancellation (destructive).
+49::The unit of frequency of light is::Meter::Hertz::Radian::Newton::B::Frequency is measured in Hertz (Hz), or cycles per second.
+50::The interference pattern is observed only if the light sources are::Incoherent::Coherent::Polarized::Dispersed::B::Coherent sources (same frequency and phase) are required for a stable interference pattern.

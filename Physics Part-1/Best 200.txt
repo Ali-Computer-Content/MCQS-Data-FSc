@@ -1,0 +1,200 @@
+1::What is the SI unit of force?::Newton::Joule::Watt::Pascal::A::Force is measured in Newton (kg·m/s²) in the SI system.
+2::Which quantity is a vector?::Mass::Speed::Velocity::Time::C::Velocity has both magnitude and direction, making it a vector.
+3::What is the dimensional formula of work?::[ML²T⁻²]::[MLT⁻²]::[ML²T⁻¹]::[MT⁻²]::A::Work = force × distance, so [MLT⁻²][L] = [ML²T⁻²].
+4::What is the precision of a vernier caliper with least count 0.01 cm?::0.01 cm::0.1 cm::0.001 cm::1 cm::A::Precision is equal to the least count, which is 0.01 cm.
+5::Which is a base quantity in SI units?::Length::Force::Work::Energy::A::Length is a base quantity; force, work, and energy are derived.
+6::What is the unit of impulse?::N·s::J::kg·m/s²::W::A::Impulse = force × time, so unit is N·s (or kg·m/s).
+7::A body moves with constant speed in a circle. What is its acceleration?::Zero::Constant::Changing direction::Constant magnitude::C::In uniform circular motion, acceleration (centripetal) changes direction.
+8::What is the slope of a velocity-time graph?::Displacement::Acceleration::Speed::Distance::B::Slope of v-t graph = Δv/Δt = acceleration.
+9::Which law states that action and reaction are equal and opposite?::Newton’s 1st::Newton’s 2nd::Newton’s 3rd::Law of gravitation::C::Newton’s 3rd law describes action-reaction pairs.
+10::What is the work done by a force perpendicular to displacement?::Maximum::Minimum::Zero::Infinite::C::Work = F·d·cosθ; if θ = 90°, cos90° = 0, so work = 0.
+11::What is the SI unit of power?::Watt::Joule::Newton::Pascal::A::Power = work/time, measured in Watt (J/s).
+12::What is the range of a projectile at 45° angle?::Maximum::Minimum::Zero::Half::A::Range is maximum at θ = 45° for a given initial velocity.
+13::What is the value of g at Earth’s surface?::9.8 m/s²::8.9 m/s²::10 m/s²::9.2 m/s²::A::Acceleration due to gravity is approximately 9.8 m/s².
+14::What is the unit of angular velocity?::rad/s::m/s::rad/s²::m/s²::A::Angular velocity = θ/t, measured in rad/s.
+15::What is the moment of inertia of a point mass m at distance r from axis?::mr²::mr::m/r::m/r²::A::Moment of inertia for a point mass is I = mr².
+16::What is the relation between linear and angular velocity?::v = rω::v = ω/r::v = r/ω::v = ω²r::A::Linear velocity v = rω, where r is radius and ω is angular velocity.
+17::What is the frequency of a wave with period 0.2 s?::5 Hz::2 Hz::0.5 Hz::10 Hz::A::Frequency f = 1/T = 1/0.2 = 5 Hz.
+18::What is the speed of sound in air at 20°C?::343 m/s::331 m/s::300 m/s::350 m/s::A::Speed of sound at 20°C is approximately 343 m/s.
+19::What is the unit of specific heat capacity?::J/kg·K::J/kg::J/K::J·kg/K::A::Specific heat = heat/mass·ΔT, so unit is J/kg·K.
+20::What is the efficiency of a Carnot engine operating between 400 K and 300 K?::25%::50%::75%::100%::A::Efficiency = 1 - (T₂/T₁) = 1 - (300/400) = 0.25 or 25%.
+21::What is the error in a measurement if actual value is 10 cm and measured is 10.2 cm?::0.2 cm::0.02 cm::2 cm::0.002 cm::A::Error = |measured - actual| = |10.2 - 10| = 0.2 cm.
+22::What is the scalar product of two perpendicular vectors?::Zero::Maximum::Minimum::Infinite::A::A·B = AB cosθ; if θ = 90°, cos90° = 0, so A·B = 0.
+23::What is the unit of momentum?::kg·m/s::N·s::J::kg·m/s²::A::Momentum = mass × velocity, so unit is kg·m/s.
+24::A body falls freely under gravity. What is its acceleration?::9.8 m/s²::Zero::Variable::Constant but not 9.8::A::In free fall, acceleration is g = 9.8 m/s².
+25::What is the time period of a simple pendulum of length 1 m (g = 9.8 m/s²)?::2 s::1 s::4 s::0.5 s::A::T = 2π√(L/g) = 2π√(1/9.8) ≈ 2 s.
+26::What is the kinetic energy of a 2 kg object moving at 3 m/s?::9 J::18 J::6 J::12 J::A::KE = ½mv² = ½(2)(3²) = 9 J.
+27::What is the torque if force is 10 N at 0.5 m from pivot and angle is 90°?::5 N·m::10 N·m::2.5 N·m::20 N·m::A::Torque = F·r·sinθ = 10·0.5·sin90° = 5 N·m.
+28::What is the wavelength of a wave with speed 300 m/s and frequency 600 Hz?::0.5 m::2 m::1 m::0.25 m::A::v = fλ, so λ = v/f = 300/600 = 0.5 m.
+29::What is the first law of thermodynamics?::ΔU = Q - W::Q = W::ΔU = Q + W::W = Q + U::A::First law:: ΔU = Q - W, where ΔU is internal energy change.
+30::What is the unit of pressure?::Pascal::Newton::Joule::Watt::A::Pressure = force/area, measured in Pascal (N/m²).
+31::What is the resultant of two equal forces at 90° to each other?::√2F::2F::F::F/√2::A::Resultant = √(F² + F²) = √2F.
+32::What is the acceleration of a 5 kg object under 20 N force?::4 m/s²::2 m/s²::10 m/s²::5 m/s²::A::F = ma, so a = F/m = 20/5 = 4 m/s².
+33::What is the potential energy of a 1 kg object at 10 m height (g = 10 m/s²)?::100 J::50 J::200 J::25 J::A::PE = mgh = 1·10·10 = 100 J.
+34::What is the angular acceleration if torque is 10 N·m and I = 2 kg·m²?::5 rad/s²::2 rad/s²::10 rad/s²::20 rad/s²::A::τ = Iα, so α = τ/I = 10/2 = 5 rad/s².
+35::What is the frequency of a wave with wavelength 2 m and speed 400 m/s?::200 Hz::100 Hz::400 Hz::50 Hz::A::v = fλ, so f = v/λ = 400/2 = 200 Hz.
+36::What is the work done in moving a 2 C charge through 10 V potential difference?::20 J::10 J::5 J::40 J::A::Work = qV = 2·10 = 20 J.
+37::What is the escape velocity from Earth’s surface (R = 6.4×10⁶ m, g = 9.8 m/s²)?::11.2 km/s::7.9 km/s::9.8 km/s::15 km/s::A::vₑ = √(2gR) = √(2·9.8·6.4×10⁶) ≈ 11.2×10³ m/s = 11.2 km/s.
+38::What is the unit of coefficient of friction?::No unit::Newton::Pascal::Joule::A::Coefficient of friction is a dimensionless ratio.
+39::What is the maximum height of a projectile launched at 30° with 20 m/s?::5 m::10 m::15 m::20 m::A::H = (v²sin²θ)/2g = (20²·sin²30°)/(2·9.8) = 5 m.
+40::What is the centripetal force on a 1 kg object moving at 2 m/s in a 0.5 m radius circle?::8 N::4 N::16 N::2 N::A::F = mv²/r = 1·(2²)/0.5 = 8 N.
+41::What is the significant figures in 0.00780?::3::4::2::5::A::Leading zeros are not significant; 7, 8, 0 are, so 3 significant figures.
+42::What is the dot product of vectors A = 3i and B = 4j?::12::0::7::16::B::A·B = 3·4·cos90° = 0, as vectors are perpendicular.
+43::What is the time of flight of a projectile launched at 45° with 10 m/s?::1.4 s::2 s::0.7 s::4 s::A::T = (2v·sinθ)/g = (2·10·sin45°)/9.8 ≈ 1.4 s.
+44::What is the power if 100 J of work is done in 5 s?::20 W::25 W::50 W::10 W::A::Power = work/time = 100/5 = 20 W.
+45::What is the angular momentum of a 2 kg object rotating at 4 rad/s with I = 3 kg·m²?::12 kg·m²/s::8 kg·m²/s::24 kg·m²/s::6 kg·m²/s::A::L = Iω = 3·4 = 12 kg·m²/s.
+46::What is the wavelength of sound with frequency 500 Hz and speed 340 m/s?::0.68 m::1.47 m::2 m::0.5 m::A::λ = v/f = 340/500 = 0.68 m.
+47::What is the heat required to raise 2 kg of water from 20°C to 30°C (c = 4186 J/kg·K)?::83620 J::41860 J::167240 J::20930 J::A::Q = mcΔT = 2·4186·10 = 83620 J.
+48::What is the tension in a string supporting a 0.5 kg object in equilibrium?::4.9 N::9.8 N::2.45 N::0 N::A::T = mg = 0.5·9.8 = 4.9 N.
+49::What is the kinetic energy of a 0.1 kg ball thrown at 10 m/s?::5 J::10 J::50 J::100 J::A::KE = ½mv² = ½(0.1)(10²) = 5 J.
+50::What is the period of a wave with frequency 10 Hz?::0.1 s::1 s::10 s::0.01 s::A::T = 1/f = 1/10 = 0.1 s.
+51::What is the vector sum of two forces 3 N and 4 N at 90°?::5 N::7 N::1 N::12 N::A::Resultant = √(3² + 4²) = √25 = 5 N.
+52::What is the acceleration of a 10 kg object pushed with 50 N force against 10 N friction?::4 m/s²::5 m/s²::3 m/s²::6 m/s²::A::Net force = 50 - 10 = 40 N; a = F/m = 40/10 = 4 m/s².
+53::What is the work done lifting a 2 kg object 5 m (g = 10 m/s²)?::100 J::50 J::20 J::200 J::A::Work = mgh = 2·10·5 = 100 J.
+54::What is the angular velocity of a wheel rotating at 120 rpm?::4π rad/s::2π rad/s::12.6 rad/s::6.3 rad/s::C::ω = 2πf = 2π·(120/60) = 12.6 rad/s.
+55::What is the speed of a wave with wavelength 0.4 m and frequency 250 Hz?::100 m/s::50 m/s::200 m/s::25 m/s::A::v = fλ = 250·0.4 = 100 m/s.
+56::What is the internal energy change if 200 J heat is added and 100 J work is done?::100 J::300 J::200 J::0 J::A::ΔU = Q - W = 200 - 100 = 100 J.
+57::What is the range of a projectile launched at 30° with 40 m/s?::80 m::120 m::160 m::40 m::A::R = (v²sin2θ)/g = (40²·sin60°)/9.8 ≈ 80 m.
+58::What is the coefficient of friction if frictional force is 20 N and normal force is 100 N?::0.2::0.4::0.1::0.5::A::μ = F/N = 20/100 = 0.2.
+59::What is the potential energy of a spring stretched 0.1 m (k = 200 N/m)?::1 J::2 J::0.5 J::4 J::A::PE = ½kx² = ½(200)(0.1²) = 1 J.
+60::What is the frequency of a pendulum 0.5 m long (g = 9.8 m/s²)?::0.71 Hz::1.41 Hz::2 Hz::0.5 Hz::B::T = 2π√(L/g) ≈ 1.4 s; f = 1/T ≈ 1.41 Hz.
+61::What is the percentage error if measured value is 50 cm and actual is 48 cm?::4%::2%::8%::1%::A::Error = |50 - 48| = 2; % error = (2/48)·100 ≈ 4%.
+62::What is the cross product of two parallel vectors?::Zero::Maximum::Minimum::Infinite::A::A×B = AB sinθ; if θ = 0°, sin0° = 0, so A×B = 0.
+63::What is the velocity of a body after 2 s if initial velocity is 10 m/s and a = 5 m/s²?::20 m/s::15 m/s::25 m/s::30 m/s::A::v = u + at = 10 + 5·2 = 20 m/s.
+64::What is the power of an engine lifting 100 kg 10 m in 5 s (g = 10 m/s²)?::2000 W::1000 W::500 W::4000 W::A::Work = mgh = 100·10·10 = 10000 J; P = W/t = 10000/5 = 2000 W.
+65::What is the moment of inertia of a solid sphere about its diameter (M = 2 kg, R = 0.5 m)?::0.2 kg·m²::0.4 kg·m²::0.1 kg·m²::0.8 kg·m²::A::I = (2/5)MR² = (2/5)(2)(0.5²) = 0.2 kg·m².
+66::What is the wavelength of a wave with speed 200 m/s and period 0.02 s?::4 m::2 m::8 m::1 m::A::f = 1/T = 1/0.02 = 50 Hz; λ = v/f = 200/50 = 4 m.
+67::What is the heat absorbed by 1 kg of ice to melt at 0°C (L = 336000 J/kg)?::336000 J::168000 J::672000 J::0 J::A::Q = mL = 1·336000 = 336000 J.
+68::What is the frictional force if μ = 0.3 and normal force is 50 N?::15 N::30 N::10 N::20 N::A::F = μN = 0.3·50 = 15 N.
+69::What is the maximum velocity of a body in SHM with amplitude 0.05 m and f = 2 Hz?::0.63 m/s::1.26 m/s::0.31 m/s::2.52 m/s::A::v_max = 2πfA = 2π·2·0.05 ≈ 0.63 m/s.
+70::What is the angular displacement of a wheel rotating at 10 rad/s for 2 s?::20 rad::10 rad::40 rad::5 rad::A::θ = ωt = 10·2 = 20 rad.
+71::What is the significant figures in 123.40?::5::4::3::6::A::All digits, including trailing zero after decimal, are significant; 5 figures.
+72::What is the resultant force of two forces 6 N and 8 N at 90°?::10 N::14 N::2 N::48 N::A::Resultant = √(6² + 8²) = √100 = 10 N.
+73::What is the displacement of a body moving at 5 m/s for 10 s?::50 m::25 m::100 m::10 m::A::s = vt = 5·10 = 50 m.
+74::What is the work done by gravity on a 2 kg object falling 10 m?::200 J::100 J::50 J::400 J::A::Work = mgh = 2·10·10 = 200 J.
+75::What is the torque on a 1 m rod with 5 N force at 60° to the rod?::4.33 N·m::5 N·m::2.5 N·m::10 N·m::A::τ = Fr sinθ = 5·1·sin60° = 5·(√3/2) ≈ 4.33 N·m.
+76::What is the frequency of a wave with speed 150 m/s and wavelength 3 m?::50 Hz::25 Hz::75 Hz::100 Hz::A::f = v/λ = 150/3 = 50 Hz.
+77::What is the heat required to raise 0.5 kg of aluminum from 20°C to 50°C (c = 900 J/kg·K)?::13500 J::6750 J::27000 J::4500 J::A::Q = mcΔT = 0.5·900·30 = 13500 J.
+78::What is the normal force on a 10 kg object on a horizontal surface (g = 10 m/s²)?::100 N::50 N::200 N::0 N::A::N = mg = 10·10 = 100 N.
+79::What is the potential energy of a 0.2 kg ball at 5 m height (g = 10 m/s²)?::10 J::5 J::20 J::2 J::A::PE = mgh = 0.2·10·5 = 10 J.
+80::What is the time period of a spring with k = 100 N/m and m = 0.25 kg?::1 s::0.5 s::2 s::0.314 s::A::T = 2π√(m/k) = 2π√(0.25/100) ≈ 1 s.
+81::What is the absolute error if measured value is 12.5 cm and actual is 12.3 cm?::0.2 cm::0.1 cm::0.3 cm::0.4 cm::A::Error = |12.5 - 12.3| = 0.2 cm.
+82::What is the magnitude of vector A = 3i + 4j?::5::7::3::4::A::|A| = √(3² + 4²) = √25 = 5.
+83::What is the final velocity of a body dropped from rest after 3 s (g = 10 m/s²)?::30 m/s::20 m/s::10 m/s::40 m/s::A::v = u + gt = 0 + 10·3 = 30 m/s.
+84::What is the power if a 50 kg object is lifted 4 m in 2 s (g = 10 m/s²)?::1000 W::500 W::2000 W::250 W::A::Work = mgh = 50·10·4 = 2000 J; P = W/t = 2000/2 = 1000 W.
+85::What is the moment of inertia of a thin rod of mass 1 kg and length 2 m about its end?::1.33 kg·m²::0.67 kg·m²::2 kg·m²::0.5 kg·m²::A::I = (1/3)ML² = (1/3)(1)(2²) = 1.33 kg·m².
+86::What is the wavelength of a wave with frequency 1000 Hz and speed 340 m/s?::0.34 m::3.4 m::0.034 m::34 m::A::λ = v/f = 340/1000 = 0.34 m.
+87::What is the heat required to vaporize 0.1 kg of water at 100°C (L = 2260000 J/kg)?::226000 J::113000 J::452000 J::22600 J::A::Q = mL = 0.1·2260000 = 226000 J.
+88::What is the frictional force if μ = 0.4 and normal force is 200 N?::80 N::40 N::100 N::160 N::A::F = μN = 0.4·200 = 80 N.
+89::What is the amplitude of a wave if maximum displacement is 0.02 m?::0.02 m::0.04 m::0.01 m::0.08 m::A::Amplitude is the maximum displacement, so 0.02 m.
+90::What is the angular velocity of Earth’s rotation?::7.27×10⁻⁵ rad/s::1.45×10⁻⁴ rad/s::3.64×10⁻⁵ rad/s::2.91×10⁻⁵ rad/s::A::ω = 2π/T = 2π/(24·3600) ≈ 7.27×10⁻⁵ rad/s.
+91::What is the number of significant figures in 0.0500?::3::2::4::1::A::Trailing zeros after decimal are significant; 5, 0, 0 give 3 figures.
+92::What is the angle between two forces of 5 N each with resultant 5 N?::120°::90°::60°::0°::A::Using R² = P² + Q² + 2PQ cosθ, 5² = 5² + 5² + 2·5·5·cosθ, cosθ = -0.5, θ = 120°.
+93::What is the distance covered by a body moving at 20 m/s for 5 s?::100 m::50 m::200 m::25 m::A::s = vt = 20·5 = 100 m.
+94::What is the work done by a 10 N force over 2 m at 30° to displacement?::17.3 J::10 J::20 J::5 J::A::W = F·d·cosθ = 10·2·cos30° = 10·2·(√3/2) ≈ 17.3 J.
+95::What is the torque if force is 20 N at 0.3 m from pivot and angle is 90°?::6 N·m::10 N·m::4 N·m::8 N·m::A::τ = Fr sinθ = 20·0.3·sin90° = 6 N·m.
+96::What is the speed of a wave with frequency 50 Hz and wavelength 0.2 m?::10 m/s::5 m/s::20 m/s::2 m/s::A::v = fλ = 50·0.2 = 10 m/s.
+97::What is the heat required to raise 1 kg of copper from 25°C to 75°C (c = 390 J/kg·K)?::19500 J::39000 J::9750 J::7800 J::A::Q = mcΔT = 1·390·50 = 19500 J.
+98::What is the normal force on a 5 kg object on a 30° incline (g = 10 m/s²)?::43.3 N::50 N::25 N::86.6 N::A::N = mg cosθ = 5·10·cos30° = 50·(√3/2) ≈ 43.3 N.
+99::What is the kinetic energy of a 0.5 kg object moving at 4 m/s?::4 J::8 J::2 J::16 J::A::KE = ½mv² = ½(0.5)(4²) = 4 J.
+100::What is the time period of a wave with frequency 200 Hz?::0.005 s::0.01 s::0.002 s::0.05 s::A::T = 1/f = 1/200 = 0.005 s.
+101::What is the resultant of two forces 10 N and 10 N at 60°?::17.3 N::20 N::10 N::5 N::A::R = √(10² + 10² + 2·10·10·cos60°) = √300 ≈ 17.3 N.
+102::What is the acceleration of a 2 kg object under 12 N force with 4 N friction?::4 m/s²::6 m/s²::2 m/s²::8 m/s²::A::Net force = 12 - 4 = 8 N; a = F/m = 8/2 = 4 m/s².
+103::What is the potential energy of a 3 kg object at 4 m height (g = 10 m/s²)?::120 J::60 J::240 J::30 J::A::PE = mgh = 3·10·4 = 120 J.
+104::What is the angular acceleration if torque is 8 N·m and I = 4 kg·m²?::2 rad/s²::4 rad/s²::1 rad/s²::8 rad/s²::A::α = τ/I = 8/4 = 2 rad/s².
+105::What is the frequency of a wave with wavelength 0.5 m and speed 100 m/s?::200 Hz::100 Hz::50 Hz::400 Hz::A::f = v/λ = 100/0.5 = 200 Hz.
+106::What is the work done moving a 5 C charge through 20 V?::100 J::50 J::25 J::200 J::A::W = qV = 5·20 = 100 J.
+107::What is the maximum height of a projectile launched at 60° with 20 m/s?::15 m::10 m::5 m::20 m::A::H = (v²sin²θ)/2g = (20²·sin²60°)/(2·9.8) ≈ 15 m.
+108::What is the coefficient of friction if frictional force is 30 N and normal force is 150 N?::0.2::0.3::0.1::0.4::A::μ = F/N = 30/150 = 0.2.
+109::What is the potential energy of a spring compressed 0.2 m (k = 50 N/m)?::1 J::2 J::0.5 J::4 J::A::PE = ½kx² = ½(50)(0.2²) = 1 J.
+110::What is the period of a pendulum 2 m long (g = 9.8 m/s²)?::2.8 s::1.4 s::4 s::0.7 s::A::T = 2π√(L/g) = 2π√(2/9.8) ≈ 2.8 s.
+111::What is the percentage error if measured value is 100 g and actual is 98 g?::2%::1%::4%::5%::A::Error = |100 - 98| = 2; % error = (2/98)·100 ≈ 2%.
+112::What is the dot product of vectors A = 2i + 3j and B = 4i - 2j?::2::8::14::-2::A::A·B = (2·4) + (3·(-2)) = 8 - 6 = 2.
+113::What is the velocity after 4 s if initial velocity is 5 m/s and a = 3 m/s²?::17 m/s::12 m/s::20 m/s::8 m/s::A::v = u + at = 5 + 3·4 = 17 m/s.
+114::What is the power if 500 J of work is done in 10 s?::50 W::25 W::100 W::10 W::A::P = W/t = 500/10 = 50 W.
+115::What is the angular momentum if I = 5 kg·m² and ω = 2 rad/s?::10 kg·m²/s::20 kg·m²/s::5 kg·m²/s::15 kg·m²/s::A::L = Iω = 5·2 = 10 kg·m²/s.
+116::What is the wavelength of sound with frequency 200 Hz and speed 340 m/s?::1.7 m::0.85 m::3.4 m::0.34 m::A::λ = v/f = 340/200 = 1.7 m.
+117::What is the heat required to melt 0.2 kg of ice at 0°C (L = 336000 J/kg)?::67200 J::33600 J::134400 J::16800 J::A::Q = mL = 0.2·336000 = 67200 J.
+118::What is the tension in a string supporting a 1 kg object accelerating upward at 2 m/s²?::11.8 N::9.8 N::7.8 N::13.8 N::A::T = m(g + a) = 1·(9.8 + 2) = 11.8 N.
+119::What is the kinetic energy of a 4 kg object moving at 5 m/s?::50 J::25 J::100 J::12.5 J::A::KE = ½mv² = ½(4)(5²) = 50 J.
+120::What is the frequency of a wave with period 0.01 s?::100 Hz::50 Hz::200 Hz::10 Hz::A::f = 1/T = 1/0.01 = 100 Hz.
+121::What is the resultant of two forces 12 N and 5 N at 90°?::13 N::17 N::7 N::10 N::A::R = √(12² + 5²) = √169 = 13 N.
+122::What is the acceleration of a 3 kg object under 15 N force with 3 N friction?::4 m/s²::5 m/s²::3 m/s²::6 m/s²::A::Net force = 15 - 3 = 12 N; a = F/m = 12/3 = 4 m/s².
+123::What is the potential energy of a 0.5 kg object at 8 m height (g = 10 m/s²)?::40 J::20 J::80 J::10 J::A::PE = mgh = 0.5·10·8 = 40 J.
+124::What is the angular velocity of a wheel rotating at 60 rpm?::6.28 rad/s::3.14 rad/s::12.56 rad/s::1.57 rad/s::A::ω = 2πf = 2π·(60/60) = 6.28 rad/s.
+125::What is the speed of a wave with wavelength 0.1 m and frequency 500 Hz?::50 m/s::100 m/s::25 m/s::200 m/s::A::v = fλ = 500·0.1 = 50 m/s.
+126::What is the internal energy change if 300 J heat is added and 200 J work is done?::100 J::500 J::200 J::0 J::A::ΔU = Q - W = 300 - 200 = 100 J.
+127::What is the range of a projectile launched at 60° with 30 m/s?::79.5 m::90 m::60 m::120 m::A::R = (v²sin2θ)/g = (30²·sin120°)/9.8 ≈ 79.5 m.
+128::What is the coefficient of friction if frictional force is 25 N and normal force is 100 N?::0.25::0.5::0.1::0.2::A::μ = F/N = 25/100 = 0.25.
+129::What is the potential energy of a spring stretched 0.3 m (k = 100 N/m)?::4.5 J::9 J::2.25 J::18 J::A::PE = ½kx² = ½(100)(0.3²) = 4.5 J.
+130::What is the frequency of a pendulum 1 m long (g = 9.8 m/s²)?::0.5 Hz::1 Hz::2 Hz::0.25 Hz::A::T = 2π√(L/g) ≈ 2 s; f = 1/T = 0.5 Hz.
+131::What is the absolute error if measured value is 20.4 cm and actual is 20.0 cm?::0.4 cm::0.2 cm::0.8 cm::0.1 cm::A::Error = |20.4 - 20.0| = 0.4 cm.
+132::What is the magnitude of vector A = 5i - 12j?::13::17::10::8::A::|A| = √(5² + (-12)²) = √169 = 13.
+133::What is the final velocity of a body dropped from rest after 5 s (g = 10 m/s²)?::50 m/s::40 m/s::30 m/s::60 m/s::A::v = u + gt = 0 + 10·5 = 50 m/s.
+134::What is the power if a 20 kg object is lifted 5 m in 4 s (g = 10 m/s²)?::250 W::500 W::1000 W::125 W::A::Work = mgh = 20·10·5 = 1000 J; P = W/t = 1000/4 = 250 W.
+135::What is the moment of inertia of a disk of mass 2 kg and radius 0.4 m about its axis?::0.16 kg·m²::0.32 kg·m²::0.08 kg·m²::0.64 kg·m²::A::I = (1/2)MR² = (1/2)(2)(0.4²) = 0.16 kg·m².
+136::What is the wavelength of a wave with frequency 400 Hz and speed 320 m/s?::0.8 m::1.6 m::0.4 m::2 m::A::λ = v/f = 320/400 = 0.8 m.
+137::What is the heat required to vaporize 0.5 kg of water at 100°C (L = 2260000 J/kg)?::1130000 J::565000 J::2260000 J::282500 J::A::Q = mL = 0.5·2260000 = 1130000 J.
+138::What is the tension in a string supporting a 0.2 kg object accelerating downward at 3 m/s²?::1.4 N::2 N::1.8 N::0.8 N::A::T = m(g - a) = 0.2·(9.8 - 3) = 1.4 N.
+139::What is the kinetic energy of a 3 kg object moving at 6 m/s?::54 J::27 J::108 J::18 J::A::KE = ½mv² = ½(3)(6²) = 54 J.
+140::What is the period of a wave with frequency 25 Hz?::0.04 s::0.02 s::0.08 s::0.01 s::A::T = 1/f = 1/25 = 0.04 s.
+141::What is the resultant of two forces 8 N and 6 N at 120°?::7 N::10 N::2 N::14 N::A::R = √(8² + 6² + 2·8·6·cos120°) = √(8²6² + 6²- 2·8·6·6·(-0.5)) = √49 = 7 N.
+142::What is the acceleration of a 6 kg object under 30 N force with 6 N friction?::4 m/s²::5 m/s² = m/s::3² m/s²::6 m/s²::A::²Net m/s² force = m/s²·30 = - m/s² 6 =  = 24/s² N; a = = F/m = 24/6 = 4 m/s².
+143::What is the potential energy of a 4 kg object at 3 m (g = 10 m/s²)?::120 J::60 J::90 J::240 J::A::PE = mgh = 4·10 ·10·3·3 = 120 J.
+144::What is the angular acceleration if torque is 12 N·m and I = 3 kg·m²?::4 rad/s²::3 rad/s²::6 rad/s²::2 rad/s²::A::α = τ/I = 12/3 = 4 rad/s².
+145::What is the frequency of a wave with wavelength 2 m and speed 500 m/s m/s?::250 Hz::125 Hz::500 Hz::1000 Hz::A::f = v/λ = 500 Hz/2 = 250 Hz.
+146::What is the work done moving a 3 C charge through 15 V?::45 V? J::30 J::60 J::15 J::A::W = qV = 3·15 = 45 J.
+147::What is the maximum height of a projectile launched at 30° with 30 m/s?::11.25 m/s? m::15 m::7.5 m::20 m::A::mH = (v²sin²θ)/2²sin²/2g = (30²·g = sin²30·sin²)/(30°)/(2·9.2)/(2·2) = (900·0.25)/(19.6) ≈ 11.25 m.
+148::What is the coefficient of friction if frictional force is 40 N and normal force is 200 N?::0.2::0.4::0.1::0.5::A::μ = F/N = 40/200 = 0.2.
+149::What is the potential energy of a spring compressed 0.4 m (k = 25 N/m)?::2 J::4 J::1 J::8 J::A::PE = ½kx² = ½(25)(0.4²) = 2 J.
+150::What is the period of a pendulum 0.25 m long (g = 9.8 m/s²)?::1 s::0.5 s::2 s::1.4 s::A::T = 2π√(L/g) = 2π√(0.25/9.8) ≈ 1 s.
+151::What is the percentage error if measured value is 75 cm and actual is 72 cm?::4%::3%::5%::2%::A::Error = |75 - 72| = 3; % error = (3/72)·100 ≈ 4%.
+152::What is the cross product of vectors A = 2i and B = 3j?::6k::0::6i::6j::A::A×B = 2·3·sin90°·k = 6k, as i×j = k.
+153::What is the velocity after 3 s if initial velocity is 8 m/s and a = 4 m/s²?::20 m/s::12 m/s::16 m/s::24 m/s::A::v = u + at = 8 + 4·3 = 20 m/s.
+154::What is the power if 200 J of work is done in 4 s?::50 W::25 W::100 W::10 W::A::P = W/t = 200/4 = 50 W.
+155::What is the angular momentum if I = 2 kg·m² and ω = 5 rad/s?::10 kg·m²/s::20 kg·m²/s::5 kg·m²/s::15 kg·m²/s::A::L = Iω = 2·5 = 10 kg·m²/s.
+156::What is the wavelength of sound with frequency 100 Hz and speed 340 m/s?::3.4 m::1.7 m::0.34 m::6.8 m::A::λ = v/f = 340/100 = 3.4 m.
+157::What is the heat required to melt 0.3 kg of ice at 0°C (L = 336000 J/kg)?::100800 J::50400 J::201600 J::33600 J::A::Q = mL = 0.3·336000 = 100800 J.
+158::What is the tension in a string supporting a 0.4 kg object in equilibrium?::3.92 N::7.84 N::1.96 N::0 N::A::T = mg = 0.4·9.8 = 3.92 N.
+159::What is the kinetic energy of a 1 kg object moving at 8 m/s?::32 J::64 J::16 J::128 J::A::KE = ½mv² = ½(1)(8²) = 32 J.
+160::What is the frequency of a wave with period 0.05 s?::20 Hz::10 Hz::50 Hz::5 Hz::A::f = 1/T = 1/0.05 = 20 Hz.
+161::What is the resultant of two forces 3 N and 3 N at 60°?::5.2 N::6 N::3 N::2 N::A::R = √(3² + 3² + 2·3·3·cos60°) = √27 ≈ 5.2 N.
+162::What is the acceleration of a 4 kg object under 20 N force with 4 N friction?::4 m/s²::5 m/s²::3 m/s²::6 m/s²::A::Net force = 20 - 4 = 16 N; a = F/m = 16/4 = 4 m/s².
+163::What is the potential energy of a 2 kg object at 6 m height (g = 10 m/s²)?::120 J::60 J::240 J::30 J::A::PE = mgh = 2·10·6 = 120 J.
+164::What is the angular velocity of a wheel rotating at 180 rpm?::18.85 rad/s::9.42 rad/s::37.7 rad/s::4.71 rad/s::A::ω = 2πf = 2π·(180/60) = 18.85 rad/s.
+165::What is the speed of a wave with wavelength 0.25 m and frequency 400 Hz?::100 m/s::50 m/s::200 m/s::25 m/s::A::v = fλ = 400·0.25 = 100 m/s.
+166::What is the internal energy change if 400 J heat is added and 300 J work is done?::100 J::700 J::200 J::0 J::A::ΔU = Q - W = 400 - 300 = 100 J.
+167::What is the range of a projectile launched at 45° with 20 m/s?::40 m::80 m::20 m::60 m::A::R = (v²sin2θ)/g = (20²·sin90°)/9.8 ≈ 40 m.
+168::What is the coefficient of friction if frictional force is 50 N and normal force is 250 N?::0.2::0.4::0.1::0.5::A::μ = F/N = 50/250 = 0.2.
+169::What is the potential energy of a spring stretched 0.05 m (k = 400 N/m)?::0.5 J::1 J::0.25 J::2 J::A::PE = ½kx² = ½(400)(0.05²) = 0.5 J.
+170::What is the period of a pendulum 0.4 m long (g = 9.8 m/s²)?::1.27 s::0.63 s::2.54 s::0.31 s::A::T = 2π√(L/g) = 2π√(0.4/9.8) ≈ 1.27 s.
+171::What is the percentage error if measured value is 25 cm and actual is 24 cm?::4%::2%::1%::5%::A::Error = |25 - 24| = 1; % error = (1/24)·100 ≈ 4%.
+172::What is the dot product of vectors A = 5i + 2j and B = 3i + 4j?::23::15::19::27::A::A·B = (5·3) + (2·4) = 15 + 8 = 23.
+173::What is the velocity after 5 s if initial velocity is 10 m/s and a = 2 m/s²?::20 m/s::15 m/s::25 m/s::30 m/s::A::v = u + at = 10 + 2·5 = 20 m/s.
+174::What is the power if 300 J of work is done in 6 s?::50 W::25 W::100 W::10 W::A::P = W/t = 300/6 = 50 W.
+175::What is the angular momentum if I = 4 kg·m² and ω = 3 rad/s?::12 kg·m²/s::16 kg·m²/s::8 kg·m²/s::24 kg·m²/s::A::L = Iω = 4·3 = 12 kg·m²/s.
+176::What is the wavelength of sound with frequency 250 Hz and speed 340 m/s?::1.36 m::0.68 m::2.72 m::0.34 m::A::λ = v/f = 340/250 = 1.36 m.
+177::What is the heat required to melt 0.4 kg of ice at 0°C (L = 336000 J/kg)?::134400 J::67200 J::268800 J::33600 J::A::Q = mL = 0.4·336000 = 134400 J.
+178::What is the tension in a string supporting a 0.3 kg object accelerating upward at 4 m/s²?::4.14 N::2.94 N::5.34 N::1.74 N::A::T = m(g + a) = 0.3·(9.8 + 4) = 4.14 N.
+179::What is the kinetic energy of a 2 kg object moving at 10 m/s?::100 J::50 J::200 J::25 J::A::KE = ½mv² = ½(2)(10²) = 100 J.
+180::What is the frequency of a wave with period 0.02 s?::50 Hz::25 Hz::100 Hz::10 Hz::A::f = 1/T = 1/0.02 = 50 Hz.
+181::What is the resultant of two forces 4 N and 4 N at 0°?::8 N::4 N::0 N::2 N::A::R = √(4² + 4² + 2·4·4·cos0°) = 8 N.
+182::What is the acceleration of a 5 kg object under 25 N force with 5 N friction?::4 m/s²::5 m/s²::3 m/s²::6 m/s²::A::Net force = 25 - 5 = 20 N; a = F/m = 20/5 = 4 m/s².
+183::What is the potential energy of a 1 kg object at 12 m height (g = 10 m/s²)?::120 J::60 J::240 J::30 J::A::PE = mgh = 1·10·12 = 120 J.
+184::What is the angular velocity of a wheel rotating at 90 rpm?::9.42 rad/s::4.71 rad/s::18.85 rad/s::2.36 rad/s::A::ω = 2πf = 2π·(90/60) = 9.42 rad/s.
+185::What is the speed of a wave with wavelength 0.5 m and frequency 200 Hz?::100 m/s::50 m/s::200 m/s::25 m/s::A::v = fλ = 200·0.5 = 100 m/s.
+186::What is the internal energy change if 500 J heat is added and 400 J work is done?::100 J::900 J::200 J::0 J::A::ΔU = Q - W = 500 - 400 = 100 J.
+187::What is the range of a projectile launched at 30° with 50 m/s?::125 m::250 m::62.5 m::500 m::A::R = (v²sin2θ)/g = (50²·sin60°)/9.8 ≈ 125 m.
+188::What is the coefficient of friction if frictional force is 60 N and normal force is 300 N?::0.2::0.4::0.1::0.5::A::μ = F/N = 60/300 = 0.2.
+189::What is the potential energy of a spring compressed 0.1 m (k = 1000 N/m)?::5 J::10 J::2.5 J::20 J::A::PE = ½kx² = ½(1000)(0.1²) = 5 J.
+190::What is the period of a pendulum 1.5 m long (g = 9.8 m/s²)?::2.45 s::1.22 s::4.9 s::0.61 s::A::T = 2π√(L/g) = 2π√(1.5/9.8) ≈ 2.45 s.
+191::What is the percentage error if measured value is 40 cm and actual is 38 cm?::5%::3%::2%::4%::A::Error = |40 - 38| = 2; % error = (2/38)·100 ≈ 5%.
+192::What is the cross product of vectors A = 4i and B = 5j?::20k::0::20i::20j::A::A×B = 4·5·sin90°·k = 20k, as i×j = k.
+193::What is the velocity after 6 s if initial velocity is 12 m/s and a = 3 m/s²?::30 m/s::18 m/s::24 m/s::36 m/s::A::v = u + at = 12 + 3·6 = 30 m/s.
+194::What is the power if 400 J of work is done in 8 s?::50 W::25 W::100 W::10 W::A::P = W/t = 400/8 = 50 W.
+195::What is the angular momentum if I = 3 kg·m² and ω = 4 rad/s?::12 kg·m²/s::16 kg·m²/s::8 kg·m²/s::24 kg·m²/s::A::L = Iω = 3·4 = 12 kg·m²/s.
+196::What is the wavelength of sound with frequency 500 Hz and speed 340 m/s?::0.68 m::1.36 m::0.34 m::2.72 m::A::λ = v/f = 340/500 = 0.68 m.
+197::What is the heat required to melt 0.1 kg of ice at 0°C (L = 336000 J/kg)?::33600 J::67200 J::16800 J::134400 J::A::Q = mL = 0.1·336000 = 33600 J.
+198::What is the tension in a string supporting a 0.5 kg object accelerating downward at 2 m/s²?::3.9 N::4.9 N::2.9 N::5.9 N::A::T = m(g - a) = 0.5·(9.8 - 2) = 3.9 N.
+199::What is the kinetic energy of a 5 kg object moving at 2 m/s?::10 J::20 J::5 J::40 J::A::KE = ½mv² = ½(5)(2²) = 10 J.
+200::What is the frequency of a wave with period 0.004 s?::250 Hz::125 Hz::500 Hz::100 Hz::A::f = 1/T = 1/0.004 = 250 Hz.

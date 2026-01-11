@@ -1,0 +1,50 @@
+1::Fluid dynamics is the study of::Solids at rest::Fluids at rest and in motion::Gases only::Liquids only::B::Fluid dynamics deals with the behavior of fluids (liquids and gases) at rest and in motion.
+2::A fluid is a substance that::Has a fixed shape::Cannot flow::Can flow and take the shape of its container::Has a fixed volume::C::Fluids (liquids and gases) flow and conform to the shape of their container.
+3::The SI unit of viscosity is::Newton::Pascal-second::kg/m³::m/s::B::Viscosity is measured in Pascal-seconds (Pa·s) or kg/(m·s).
+4::Viscosity is the property of a fluid that::Resists flow::Enhances flow::Increases density::Decreases pressure::A::Viscosity measures a fluid’s resistance to flow due to internal friction.
+5::The flow of a fluid in which layers slide smoothly over each other is called::Turbulent flow::Laminar flow::Viscous flow::Compressible flow::B::Laminar flow is smooth and streamlined, with layers moving parallel to each other.
+6::Turbulent flow is characterized by::Smooth streamlines::Irregular and chaotic motion::Constant velocity::Low viscosity::B::Turbulent flow involves chaotic motion with eddies and swirls.
+7::The equation of continuity is based on the conservation of::Energy::Momentum::Mass::Force::C::The equation of continuity (A₁v₁ = A₂v₂) reflects conservation of mass for incompressible fluids.
+8::For an incompressible fluid, the product of cross-sectional area and velocity is::Constant::Increasing::Decreasing::Zero::A::A₁v₁ = A₂v₂, ensuring constant mass flow rate in the equation of continuity.
+9::Bernoulli’s equation is based on the conservation of::Mass::Momentum::Energy::Force::C::Bernoulli’s equation relates pressure, velocity, and height, conserving mechanical energy.
+10::Bernoulli’s equation is applicable to::Compressible fluids::Viscous fluids::Incompressible, non-viscous fluids::Turbulent fluids::C::Bernoulli’s equation assumes incompressible, non-viscous, and steady flow.
+11::The SI unit of pressure is::Newton::Pascal::Joule::Watt::B::Pressure is measured in Pascals (Pa), where 1 Pa = 1 N/m².
+12::According to Bernoulli’s principle, where fluid velocity is high, pressure is::High::Low::Constant::Zero::B::Bernoulli’s principle states that pressure decreases as fluid velocity increases.
+13::The formula for Bernoulli’s equation is::P + ρgh + ½ρv² = constant::P + ρgh = constant::½ρv² = constant::P + ρv = constant::A::Bernoulli’s equation includes pressure (P), potential energy (ρgh), and kinetic energy (½ρv²) terms.
+14::The speed of efflux of a fluid from a hole in a container is given by::v = √(gh)::v = √(2gh)::v = √(g/h)::v = √(2g/h)::B::Torricelli’s theorem states that the speed of efflux is v = √(2gh), where h is the depth.
+15::The venturi meter measures::Fluid density::Fluid velocity::Fluid pressure::Fluid viscosity::B::The venturi meter uses Bernoulli’s principle to measure fluid flow velocity.
+16::The drag force on an object moving through a fluid depends on::Velocity::Viscosity::Shape of the object::All of these::D::Drag force depends on velocity, viscosity, shape, and size of the object.
+17::The terminal velocity of an object falling through a fluid is reached when::Drag force equals weight::Acceleration is maximum::Velocity is zero::Pressure is maximum::A::Terminal velocity occurs when drag force balances the weight, resulting in zero acceleration.
+18::The SI unit of density is::kg/m::kg/m²::kg/m³::g/cm³::C::Density is mass per unit volume, measured in kg/m³.
+19::The density of water is approximately::1000 kg/m³::500 kg/m³::2000 kg/m³::100 kg/m³::A::The density of water is 1000 kg/m³ at standard conditions.
+20::The coefficient of viscosity of a fluid depends on::Pressure::Temperature::Density::Volume::B::Viscosity typically decreases with increasing temperature for liquids.
+21::The flow of blood in arteries is mostly::Turbulent::Laminar::Compressible::Viscous::B::Blood flow in arteries is generally laminar under normal conditions.
+22::The pressure difference in a venturi meter is measured using::A thermometer::A manometer::A barometer::A hydrometer::B::A manometer measures the pressure difference to calculate flow rate.
+23::The equation of continuity is expressed as::A₁v₁ = A₂v₂::P₁v₁ = P₂v₂::A₁/P₁ = A₂/P₂::v₁/v₂ = A₁/A₂::A::A₁v₁ = A₂v₂ ensures constant mass flow rate for incompressible fluids.
+24::The unit of dynamic viscosity is::N/m²::Pa·s::kg/m::m/s²::B::Dynamic viscosity is measured in Pascal-seconds (Pa·s).
+25::The force that causes fluid to rise in a capillary tube is::Viscous force::Surface tension::Gravitational force::Frictional force::B::Surface tension causes capillary action due to cohesive and adhesive forces.
+26::The speed of fluid increases when the cross-sectional area of a pipe::Increases::Decreases::Remains constant::Becomes zero::B::From the equation of continuity, velocity increases as area decreases.
+27::The pressure in a fluid at rest is::Higher at the top::Higher at the bottom::Constant throughout::Zero::B::Pressure increases with depth due to the weight of the fluid (P = ρgh).
+28::The Stoke’s law describes the drag force on ::aLarge object::Small spherical object::Cylindrical object::Irregular object::B::Stoke’s law (F = 6πηrv) applies to small spherical objects in viscous fluids.
+29::The unit of kinematic viscosity is::m²/s::Pa·s::kg/m³::N/m²::A::Kinematic viscosity (ν = η/ρ) is measured in m²/s.
+30::The application of Bernoulli’s principle is seen in::A falling object::An airplane wing::A stationary fluid::A compressed gas::B::The lift on an airplane wing results from pressure differences due to Bernoulli’s principle.
+31::The pressure exerted by a fluid at a depth h is given by::P = ρg/h::P = ρgh::P = ρg::P = gh/ρ::B::Pressure at depth h is P = ρgh, where ρ is density and g is gravitational acceleration.
+32::The flow rate of a fluid is defined as::Volume per unit time::Mass per unit time::Velocity per unit are::aPressure per unit volume::A::Flow rate is the volume of fluid passing a point per unit time (m³/s).
+33::The Reynolds number determines whether flow is::Laminar or turbulent::Fast or slow::Viscous or non-viscous::Compressible or incompressible::A::Reynolds number (Re = ρvD/η) predicts laminar (low Re) or turbulent (high Re) flow.
+34::A high Reynolds number indicates::Laminar flow::Turbulent flow::No flow::Constant flow::B::A high Reynolds number (>2000) indicates turbulent flow.
+35::The viscosity of gases::Increases with temperature::Decreases with temperature::Remains constant with temperature::Is zero::A::Gas viscosity increases with temperature due to increased molecular collisions.
+36::The speed of efflux depends on::Viscosity::Density::Depth of the hole::Temperature::C::Torricelli’s theorem (v = √(2gh)) shows speed depends on depth (h).
+37::The pressure inside a soap bubble is::Equal to atmospheric pressure::Less than atmospheric pressure::Greater than atmospheric pressure::Zero::C::Pressure inside a soap bubble is higher due to surface tension (ΔP = 4σ/r).
+38::The drag force is proportional to::Velocity::Velocity squared::Mass::Density::B::For high speeds, drag force is proportional to v² (F = ½ρCAv²).
+39::The venturi effect causes::Increase in pressure::Decrease in velocity::Increase in velocity::Decrease in density::C::The venturi effect states that velocity increases in a constricted pipe section.
+40::The equation P₁ + ρgh₁ + ½ρv₁² = P₂ + ρgh₂ + ½ρv₂² is::Equation of continuity::Bernoulli’s equation::Torricelli’s theorem::Stoke’s law::B::This is Bernoulli’s equation, conserving energy in fluid flow.
+41::The unit of flow rate is::m/s::m²/s::m³/s::kg/s::C::Flow rate is volume per unit time, measured in m³/s.
+42::The force responsible for the shape of liquid drops is::Viscosity::Surface tension::Gravity::Friction::B::Surface tension minimizes surface area, giving liquid drops a spherical shape.
+43::The pressure difference across a curved surface is given by::ΔP = σ/r::ΔP = 2σ/r::ΔP = σr::ΔP = 4σ/r::B::For a liquid drop, ΔP = 2σ/r; for a soap bubble, ΔP = 4σ/r.
+44::The fluid used in hydraulic brakes is::Water::Oil::Air::Alcohol::B::Oil is used in hydraulic brakes due to its incompressibility and high viscosity.
+45::The principle used in a hydraulic lift is::Bernoulli’s principle::Pascal’s principle::Archimedes’ principle::Torricelli’s theorem::B::Pascal’s principle states that pressure in a confined fluid is transmitted equally.
+46::The terminal velocity of a spherical object depends on::Radius::Viscosity::Density of fluid::All of these::D::Terminal velocity (v = 2r²(ρ–σ)g/9η) depends on radius, viscosity, and densities.
+47::The flow of a fluid is streamline if::Velocity is high::Viscosity is high::Density is high::Reynolds number is low::D::Low Reynolds number (<2000) indicates streamline (laminar) flow.
+48::The pressure at a point in a fluid depends on::Temperature::Viscosity::Depth::Velocity::C::Pressure in a fluid at rest depends on depth (P = ρgh).
+49::The application of fluid dynamics in carburetors is based on::Equation of continuity::Bernoulli’s principle::Stoke’s law::Pascal’s principle::B::Carburetors use Bernoulli’s principle to mix air and fuel due to pressure differences.
+50::The speed of fluid flow is measured using::Barometer::Manometer::Venturi meter::Hydrometer::C::The venturi meter measures fluid flow speed using pressure differences.

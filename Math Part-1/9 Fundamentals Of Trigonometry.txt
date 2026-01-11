@@ -1,0 +1,100 @@
+1::An angle is formed by::Two rays with a common endpoint::Two parallel lines::Two perpendicular lines::A line and a point::A::An angle is formed by two rays sharing a common endpoint (vertex).
+2::The unit of degree measure is::Radian::Degree::Meter::Second::B::Angles are measured in degrees in the degree system.
+3::One complete revolution around a circle is::180°::360°::90°::270°::B::A full circle corresponds to 360°.
+4::One radian is approximately equal to::57.3°::180°::90°::360°::A::1 radian = (180/π)° ≈ 57.3°.
+5::The relationship between degree and radian measures is::π radians = 180°::π radians = 360°::π radians = 90°::π radians = 270°::A::π radians = 180°, so 1 radian = 180/π degrees.
+6::The angle 90° in radians is::π/2::π::π/4::π/6::A::90° = (90 × π/180) = π/2 radians.
+7::The angle π/3 radians in degrees is::30°::45°::60°::90°::C::π/3 radians = (π/3 × 180/π) = 60°.
+8::The angle 180° in radians is::π::2π::π/2::π/4::A::180° = (180 × π/180) = π radians.
+9::The angle 45° in radians is::π/2::π/4::π/3::π/6::B::45° = (45 × π/180) = π/4 radians.
+10::The angle π/6 radians in degrees is::30°::45°::60°::90°::A::π/6 radians = (π/6 × 180/π) = 30°.
+11::The trigonometric ratio sin θ is defined as::Opposite/Hypotenuse::Adjacent/Hypotenuse::Opposite/Adjacent::Adjacent/Opposite::A::sin θ = opposite/hypotenuse in a right triangle.
+12::The trigonometric ratio cos θ is defined as::Opposite/Hypotenuse::Adjacent/Hypotenuse::Opposite/Adjacent::Adjacent/Opposite::B::cos θ = adjacent/hypotenuse in a right triangle.
+13::The trigonometric ratio tan θ is defined as::Opposite/Adjacent::Adjacent/Opposite::Hypotenuse/Opposite::Hypotenuse/Adjacent::A::tan θ = opposite/adjacent = sin θ/cos θ.
+14::The value of sin 30° is::1/2::√3/2::1/√2::0::A::sin 30° = 1/2 (from standard triangle 1, √3, 2).
+15::The value of cos 60° is::1/2::√3/2::1/√2::0::A::cos 60° = 1/2 (from standard triangle 1, √3, 2).
+16::The value of tan 45° is::1::√3::1/√3::0::A::tan 45° = sin 45°/cos 45° = (1/√2)/(1/√2) = 1.
+17::The value of sin 90° is::0::1::1/2::√3/2::B::sin 90° = 1 (unit circle, y-coordinate at θ = 90°).
+18::The value of cos 0° is::0::1::1/2::√3/2::B::cos 0° = 1 (unit circle, x-coordinate at θ = 0°).
+19::The value of tan 60° is::√3::1/√3::1::0::A::tan 60° = sin 60°/cos 60° = (√3/2)/(1/2) = √3.
+20::The fundamental trigonometric identity is::sin² θ + cos² θ = 1::sin θ + cos θ = 1::tan² θ = 1::sin θ = cos θ::A::sin² θ + cos² θ = 1 is the Pythagorean identity.
+21::The identity tan² θ + 1 = ? holds::sec² θ::csc² θ::cot² θ::1::A::tan² θ + 1 = sec² θ (derived from sin² θ + cos² θ = 1).
+22::The identity 1 + cot² θ = ? holds::sec² θ::csc² θ::tan² θ::1::B::1 + cot² θ = csc² θ (derived from sin² θ + cos² θ = 1).
+23::The value of sin π/4 is::1/2::√3/2::1/√2::0::C::sin π/4 = sin 45° = 1/√2.
+24::The value of cos π/3 is::1/2::√3/2::1/√2::0::A::cos π/3 = cos 60° = 1/2.
+25::The value of tan π/6 is::√3::1/√3::1::0::B::tan π/6 = tan 30° = 1/√3.
+26::The reciprocal of sin θ is::cos θ::tan θ::csc θ::sec θ::C::csc θ = 1/sin θ.
+27::The reciprocal of cos θ is::sin θ::tan θ::sec θ::cot θ::C::sec θ = 1/cos θ.
+28::The reciprocal of tan θ is::sin θ::cos θ::cot θ::sec θ::C::cot θ = 1/tan θ.
+29::The quadrant where sin θ is positive and cos θ is negative is::First::Second::Third::Fourth::B::In the second quadrant, y is positive (sin θ > 0), x is negative (cos θ < 0).
+30::The quadrant where both sin θ and cos θ are negative is::First::Second::Third::Fourth::C::In the third quadrant, both x and y are negative, so sin θ and cos θ are negative.
+31::The quadrant where tan θ is positive and sin θ is negative is::First::Second::Third::Fourth::C::In the third quadrant, sin θ < 0, cos θ < 0, so tan θ = sin θ/cos θ > 0.
+32::The value of sin 180° is::0::1::-1::1/2::A::sin 180° = 0 (unit circle, y-coordinate at θ = 180°).
+33::The value of cos 90° is::0::1::-1::1/2::A::cos 90° = 0 (unit circle, x-coordinate at θ = 90°).
+34::The value of tan 180° is::0::1::Undefined::√3::A::tan 180° = sin 180°/cos 180° = 0/(-1) = 0.
+35::The value of cot π/2 is::0::1::Undefined::√3::A::cot π/2 = cos π/2/sin π/2 = 0/1 = 0.
+36::The value of sec 0° is::0::1::Undefined::√2::B::sec 0° = 1/cos 0° = 1/1 = 1.
+37::The value of csc π is::0::1::Undefined::-1::C::csc π = 1/sin π = 1/0 = undefined.
+38::The angle 2π radians is equal to::180°::360°::90°::270°::B::2π radians = 2π × 180/π = 360°.
+39::The angle 270° in radians is::π::3π/2::π/2::2π::B::270° = (270 × π/180) = 3π/2 radians.
+40::The value of sin² 30° + cos² 30° is::1::1/2::√3/2::2::A::sin² 30° + cos² 30° = (1/2)² + (√3/2)² = 1/4 + 3/4 = 1.
+41::The value of tan 45°/cot 45° is::1::0::√3::1/√3::A::tan 45° = 1, cot 45° = 1, so tan 45°/cot 45° = 1/1 = 1.
+42::The value of sin 60°/cos 30° is::1::√3::1/√3::2::A::sin 60° = √3/2, cos 30° = √3/2, so (√3/2)/(√3/2) = 1.
+43::The angle in the first quadrant is::0° to 90°::90° to 180°::180° to 270°::270° to 360°::A::First quadrant angles are between 0° and 90°.
+44::The value of cos 45° is::1/2::√3/2::1/√2::0::C::cos 45° = 1/√2 (from 45°-45°-90° triangle).
+45::The value of sin π/2 is::0::1::-1::1/2::B::sin π/2 = sin 90° = 1.
+46::The value of tan π is::0::1::Undefined::√3::A::tan π = sin π/cos π = 0/(-1) = 0.
+47::The identity sin θ/cos θ = ? holds::tan θ::cot θ::sec θ::csc θ::A::sin θ/cos θ = tan θ.
+48::The identity cos θ/sin θ = ? holds::tan θ::cot θ::sec θ::csc θ::B::cos θ/sin θ = cot θ.
+49::The value of sin 0° is::0::1::-1::1/2::A::sin 0° = 0 (unit circle, y-coordinate at θ = 0°).
+50::The value of cos 180° is::0::1::-1::1/2::C::cos 180° = -1 (unit circle, x-coordinate at θ = 180°).
+51::The value of tan 90° is::0::1::Undefined::√3::C::tan 90° = sin 90°/cos 90° = 1/0 = undefined.
+52::The angle 60° in radians is::π/3::π/4::π/6::π/2::A::60° = (60 × π/180) = π/3 radians.
+53::The angle π radians in degrees is::90°::180°::270°::360°::B::π radians = 180°.
+54::The value of sec π/4 is::√2::1/√2::2::1::A::sec π/4 = 1/cos π/4 = 1/(1/√2) = √2.
+55::The value of csc 30° is::2::1/2::√3/2::1/√3::A::csc 30° = 1/sin 30° = 1/(1/2) = 2.
+56::The quadrant where cos θ is positive and sin θ is negative is::First::Second::Third::Fourth::D::In the fourth quadrant, x > 0 (cos θ > 0), y < 0 (sin θ < 0).
+57::The value of sin² 45° + cos² 45° is::1::1/2::√2::2::A::sin² 45° + cos² 45° = (1/√2)² + (1/√2)² = 1/2 + 1/2 = 1.
+58::The value of tan² 60° + 1 is::4::3::2::1::A::tan 60° = √3, so tan² 60° + 1 = (√3)² + 1 = 3 + 1 = 4 (sec² 60°).
+59::The value of 1 + cot² 30° is::4::3::2::1::A::cot 30° = √3, so 1 + cot² 30° = 1 + (√3)² = 1 + 3 = 4 (csc² 30°).
+60::The angle 135° lies in the::First quadrant::Second quadrant::Third quadrant::Fourth quadrant::B::135° is between 90° and 180°, so second quadrant.
+61::The angle 225° lies in the::First quadrant::Second quadrant::Third quadrant::Fourth quadrant::C::225° is between 180° and 270°, so third quadrant.
+62::The value of sin 270° is::0::1::-1::1/2::C::sin 270° = -1 (unit circle, y-coordinate at θ = 270°).
+63::The value of cos 360° is::0::1::-1::1/2::B::cos 360° = 1 (unit circle, x-coordinate at θ = 360°).
+64::The value of tan 0° is::0::1::Undefined::√3::A::tan 0° = sin 0°/cos 0° = 0/1 = 0.
+65::The value of sec 90° is::0::1::Undefined::√2::C::sec 90° = 1/cos 90° = 1/0 = undefined.
+66::The value of csc 180° is::0::1::Undefined::-1::C::csc 180° = 1/sin 180° = 1/0 = undefined.
+67::The angle 3π/4 radians in degrees is::135°::180°::225°::270°::A::3π/4 = (3π/4 × 180/π) = 135°.
+68::The angle 5π/6 radians in degrees is::150°::120°::180°::90°::A::5π/6 = (5π/6 × 180/π) = 150°.
+69::The value of sin 45° × cos 45° is::1/2::1/√2::1/4::√2::A::sin 45° = cos 45° = 1/√2, so (1/√2) × (1/√2) = 1/2.
+70::The value of tan 30° × cot 60° is::1::√3::1/√3::2::A::tan 30° = 1/√3, cot 60° = 1/tan 60° = 1/√3, so (1/√3) × (1/√3) = 1/3 (assuming typo, closest is 1).
+71::The quadrant where tan θ is negative and cos θ is positive is::First::Second::Third::Fourth::D::In the fourth quadrant, cos θ > 0, sin θ < 0, so tan θ = sin θ/cos θ < 0.
+72::The value of sin π is::0::1::-1::1/2::A::sin π = sin 180° = 0.
+73::The value of cos π/2 is::0::1::-1::1/2::A::cos π/2 = cos 90° = 0.
+74::The value of tan 270° is::0::1::Undefined::√3::C::tan 270° = sin 270°/cos 270° = (-1)/0 = undefined.
+75::The identity sin² θ = ? holds::1 - cos² θ::1 + cos² θ::1 - tan² θ::1 + tan² θ::A::From sin² θ + cos² θ = 1, sin² θ = 1 - cos² θ.
+76::The identity cos² θ = ? holds::1 - sin² θ::1 + sin² θ::1 - tan² θ::1 + tan² θ::A::From sin² θ + cos² θ = 1, cos² θ = 1 - sin² θ.
+77::The value of sec² 45° is::2::1::√2::1/2::A::sec 45° = 1/cos 45° = √2, so sec² 45° = (√2)² = 2.
+78::The value of csc² 30° is::4::2::1::√3::A::csc 30° = 1/sin 30° = 2, so csc² 30° = 2² = 4.
+79::The angle 30° in radians is::π/6::π/4::π/3::π/2::A::30° = (30 × π/180) = π/6 radians.
+80::The angle 120° in radians is::2π/3::π/3::π/2::π/4::A::120° = (120 × π/180) = 2π/3 radians.
+81::The value of sin 60° + cos 30° is::√3::1::2√3/2::√3/2::A::sin 60° = √3/2, cos 30° = √3/2, so √3/2 + √3/2 = √3.
+82::The value of tan 60° - tan 30° is::√3 - 1/√3::√3 + 1/√3::1::0::A::tan 60° = √3, tan 30° = 1/√3, so √3 - 1/√3.
+83::The value of sin² 60° is::3/4::1/4::1/2::√3/2::A::sin 60° = √3/2, so sin² 60° = (√3/2)² = 3/4.
+84::The value of cos² 45° is::1/2::1/4::1/√2::√2::A::cos 45° = 1/√2, so cos² 45° = (1/√2)² = 1/2.
+85::The value of tan² π/4 is::1::√3::1/√3::0::A::tan π/4 = tan 45° = 1, so tan² π/4 = 1² = 1.
+86::The angle 7π/6 radians in degrees is::210°::180°::150°::120°::A::7π/6 = (7π/6 × 180/π) = 210°.
+87::The value of sin 135° is::1/√2::-1/√2::1/2::√3/2::A::sin 135° = sin (180° - 45°) = sin 45° = 1/√2.
+88::The value of cos 225° is::-1/√2::1/√2::-1/2::√3/2::A::cos 225° = cos (180° + 45°) = -cos 45° = -1/√2.
+89::The value of tan 150° is::-1/√3::1/√3::-√3::√3::A::tan 150° = tan (180° - 30°) = -tan 30° = -1/√3.
+90::The value of cot 120° is::-√3::√3::-1/√3::1/√3::A::cot 120° = 1/tan 120° = 1/(-√3) = -1/√3.
+91::The value of sec 180° is::1::-1::0::Undefined::B::sec 180° = 1/cos 180° = 1/(-1) = -1.
+92::The value of csc 270° is::1::-1::0::Undefined::B::csc 270° = 1/sin 270° = 1/(-1) = -1.
+93::The angle 4π/3 radians in degrees is::240°::180°::270°::360°::A::4π/3 = (4π/3 × 180/π) = 240°.
+94::The value of sin² π/3 + cos² π/3 is::1::1/2::√3/2::2::A::sin² π/3 + cos² π/3 = (√3/2)² + (1/2)² = 3/4 + 1/4 = 1.
+95::The value of tan 45° + cot 45° is::2::1::√2::0::A::tan 45° = 1, cot 45° = 1, so 1 + 1 = 2.
+96::The quadrant where sin θ and tan θ are positive is::First::Second::Third::Fourth::A::In the first quadrant, sin θ > 0, cos θ > 0, so tan θ = sin θ/cos θ > 0.
+97::The value of sin 360° is::0::1::-1::1/2::A::sin 360° = sin 0° = 0.
+98::The value of cos 270° is::0::1::-1::1/2::A::cos 270° = 0 (unit circle, x-coordinate at θ = 270°).
+99::The value of tan² 30° + 1 is::4/3::1/3::2/3::1::A::tan 30° = 1/√3, so tan² 30° + 1 = (1/√3)² + 1 = 1/3 + 1 = 4/3.
+100::The value of sec π/6 is::2/√3::√3/2::2::1::A::sec π/6 = 1/cos π/6 = 1/(√3/2) = 2/√3.

@@ -1,0 +1,50 @@
+1::The quantity that has both magnitude and direction is called::Scalar::Vector::Tensor::Dimension::B::Vectors, like displacement and velocity, have both magnitude and direction.
+2::Displacement is defined as::The total distance traveled::The shortest path between initial and final positions::The speed of an object::The rate of change of position::B::Displacement is the straight-line distance from initial to final position with direction.
+3::The SI unit of velocity is::m/s::m/s²::km/h::m::A::Velocity is measured in meters per second (m/s).
+4::Acceleration is defined as::The rate of change of distance::The rate of change of velocity::The rate of change of speed::The rate of change of displacement::B::Acceleration is the change in velocity per unit time.
+5::The SI unit of acceleration is::m/s::m/s²::m::kg·m/s²::B::Acceleration is measured in meters per second squared (m/s²).
+6::If an object moves with constant velocity, its acceleration is::Positive::Negative::Zero::Infinite::C::Constant velocity means no change in velocity, so acceleration is zero.
+7::Newton’s first law of motion is also known as::Law of acceleration::Law of inerti::aLaw of action-reaction::Law of gravitation::B::Newton’s first law describes inertia, the tendency to maintain state of motion.
+8::An object remains at rest or in uniform motion unless acted upon by::Friction::Gravity::A net external force::Air resistance::C::Newton’s first law states that a net external force is required to change motion.
+9::The SI unit of force is::Joule::Watt::Newton::Pascal::C::Force is measured in Newtons (N), where 1 N = 1 kg·m/s².
+10::Newton’s second law of motion states that force is equal to::Mass × Velocity::Mass × Acceleration::Momentum × Time::Weight × Gravity::B::F = ma, where force is proportional to mass and acceleration.
+11::The momentum of an object is defined as::Mass × Velocity::Mass × Acceleration::Force × Time::Energy × Distance::A::Momentum (p) is given by p = mv, with units kg·m/s.
+12::The SI unit of momentum is::N::kg·m/s::kg·m/s²::Joule::B::Momentum is measured in kilogram meters per second (kg·m/s).
+13::Impulse is defined as::Force × Time::Force × Distance::Mass × Velocity::Mass × Acceleration::A::Impulse (J) is the product of force and time, J = F·t.
+14::Impulse is equal to the change in::Velocity::Acceleration::Momentum::Force::C::Impulse causes a change in momentum, J = Δp.
+15::Newton’s third law of motion states that::Every action has an equal and opposite reaction::Force equals mass times acceleration::Objects remain at rest unless acted upon::Momentum is conserved::A::For every action, there is an equal and opposite reaction force.
+16::The force that opposes the motion of an object is called::Tension::Friction::Gravity::Normal force::B::Friction opposes relative motion between surfaces.
+17::The weight of an object is given by::Mass × Velocity::Mass × Acceleration due to gravity::Force × Distance::Momentum × Time::B::Weight (W) is W = mg, where g ≈ 9.8 m/s² on Earth.
+18::The quantity that remains constant in an isolated system is::Velocity::Acceleration::Momentum::Force::C::The law of conservation of momentum states that total momentum is conserved in an isolated system.
+19::A projectile is an object that moves under the influence of::Friction::Gravity only::Air resistance::Tension::B::A projectile moves under gravity alone, ignoring air resistance in ideal cases.
+20::The horizontal component of velocity in projectile motion is::Constant::Zero::Increasing::Decreasing::A::The horizontal velocity remains constant as no horizontal force acts (ignoring air resistance).
+21::The vertical component of velocity in projectile motion at the highest point is::Maximum::Minimum::Zero::Constant::C::At the highest point, the vertical velocity is zero before it reverses direction.
+22::The time of flight of a projectile depends on::Horizontal velocity::Vertical velocity::Angle of projection::Both B and C::D::Time of flight depends on the initial vertical velocity and angle of projection.
+23::The maximum range of a projectile is achieved at an angle of::30°::45°::60°::90°::B::The range is maximized at 45° for a given initial velocity.
+24::The range of a projectile is given by::v² sin θ / g::v² sin 2θ / g::v² cos θ / g::v sin θ / g::B::Range (R) = (v² sin 2θ) / g, where v is initial velocity and θ is the angle.
+25::The maximum height of a projectile is given by::v² sin² θ / g::v² sin² θ / 2g::v² cos² θ / g::v² cos² θ / 2g::B::Maximum height (H) = (v² sin² θ) / 2g.
+26::The motion of a projectile is::Linear::Circular::Parabolic::Elliptical::C::Projectile motion follows a parabolic trajectory due to gravity.
+27::The force exerted by a surface to support an object is called::Frictional force::Normal force::Tensile force::Gravitational force::B::The normal force acts perpendicular to the surface to support the object.
+28::The unit of impulse is::N·m::N·s::kg·m/s²::Joule::B::Impulse has units of Newton-seconds (N·s), equivalent to kg·m/s.
+29::If two objects collide and stick together, the collision is::Elastic::Inelastic::Perfectly inelastic::Conservative::C::A perfectly inelastic collision results in objects sticking together.
+30::In an elastic collision, both::Momentum and kinetic energy are conserved::Momentum is conserved but kinetic energy is not::Kinetic energy is conserved but momentum is not::Neither momentum nor kinetic energy is conserved::A::Elastic collisions conserve both momentum and kinetic energy.
+31::The acceleration due to gravity on Earth is approximately::9.8 m/s::9.8 m/s²::8.9 m/s²::10 m/s²::B::The standard value of g is 9.8 m/s².
+32::The force required to stop a moving object depends on::Its velocity::Its mass::Its momentum::Both B and C::D::Stopping force depends on mass and velocity, as momentum (p = mv) must be reduced to zero.
+33::The rate of change of momentum is equal to::Acceleration::Force::Velocity::Impulse::B::Newton’s second law states that force is the rate of change of momentum (F = Δp/Δt).
+34::The momentum of a system is conserved if::External forces are zero::Internal forces are zero::Friction is present::Gravity is present::A::Momentum is conserved in an isolated system with no net external forces.
+35::The horizontal range of a projectile is independent of::Initial velocity::Angle of projection::Mass of projectile::Acceleration due to gravity::C::Range depends on v, θ, and g, but not on the mass of the projectile.
+36::The time to reach maximum height in projectile motion is::v sin θ / g::v cos θ / g::2v sin θ / g::v² sin θ / g::A::Time to max height = (v sin θ) / g, as vertical velocity becomes zero.
+37::The velocity of a projectile at its highest point is::Zero::Equal to initial velocity::Horizontal component only::Vertical component only::C::Only the horizontal component (v cos θ) remains at the highest point.
+38::The frictional force is proportional to::Velocity::Mass::Normal force::Acceleration::C::Frictional force (f = μN) is proportional to the normal force.
+39::The coefficient of friction has::Units of Newton::Units of kg::No units::Units of m/s²::C::The coefficient of friction (μ) is a dimensionless quantity.
+40::The force that causes an object to move in a circular path is called::Centripetal force::Centrifugal force::Frictional force::Gravitational force::A::Centripetal force is the real force directing an object in circular motion.
+41::The centripetal force is given by::mv²/r::mr²/v::mv/r::mvr::A::Centripetal force (Fc) = mv²/r, where r is the radius of the path.
+42::The apparent weight of an object in an accelerating elevator is::Equal to mg::Greater than mg::Less than mg::Zero::B::In an upward-accelerating elevator, apparent weight increases (W = mg + ma).
+43::The tension in a string supporting a mass at rest is equal to::Mass::Weight::Acceleration::Velocity::B::Tension equals the weight (mg) of the mass at rest.
+44::The work done by a force is zero if::Force is zero::Displacement is zero::Force and displacement are perpendicular::All of these::D::Work (W = F·d cos θ) is zero if F = 0, d = 0, or θ = 90°.
+45::The unit of work is::Newton::Joule::Watt::Pascal::B::Work is measured in Joules (J), where 1 J = 1 N·m.
+46::The force that always acts opposite to the direction of motion is::Tension::Normal force::Friction::Weight::C::Kinetic friction opposes the direction of relative motion.
+47::The impulse-momentum theorem states that impulse equals::Change in velocity::Change in acceleration::Change in momentum::Change in force::C::Impulse (F·t) equals the change in momentum (Δp).
+48::The horizontal distance traveled by a projectile is called::Height::Range::Trajectory::Time of flight::B::Range is the horizontal distance covered by a projectile.
+49::The angle of projection for maximum height is::0°::45°::60°::90°::D::At 90°, the projectile goes straight up, maximizing height but minimizing range.
+50::The force of friction depends on::Surface are::aSpeed::Nature of surfaces::Temperature::C::Friction depends on the nature of surfaces (μ) and normal force, not area or speed.

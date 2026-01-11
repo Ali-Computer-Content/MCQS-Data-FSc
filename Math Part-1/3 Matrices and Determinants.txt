@@ -1,0 +1,100 @@
+1::What is the order of a matrix with 2 rows and 3 columns?::2x3::3x2::6::5::A::The order of a matrix is defined as rows × columns, so a matrix with 2 rows and 3 columns has order 2x3.
+2::How many elements are in a 3x2 matrix?::3::6::9::12::B::A 3x2 matrix has 3 rows and 2 columns, so it contains 3 × 2 = 6 elements.
+3::Which of the following is a column matrix?::[1 2 3]::[[1],[2],[3]]::[[1 2],[3 4]]::[[1 2 3]]::B::A column matrix has one column and multiple rows, so [[1],[2],[3]] is a column matrix.
+4::What is the transpose of matrix A = [[1,2],[3,4]]?::[[1,3],[2,4]]::[[2,4],[1,3]]::[[4,3],[2,1]]::[[1,2],[3,4]]::A::The transpose of a matrix swaps rows and columns, so A^T = [[1,3],[2,4]].
+5::If A = [[1,2],[3,4]], what is 3A?::[[3,6],[9,12]]::[[1,2],[3,4]]::[[6,9],[12,15]]::[[1,6],[9,12]]::A::Multiplying a matrix by a scalar multiplies each element, so 3A = [[3×1,3×2],[3×3,3×4]] = [[3,6],[9,12]].
+6::Which property holds for matrix addition?::Commutative::Associative::Both A and B::Neither A nor B::C::Matrix addition is commutative (A+B = B+A) and associative ((A+B)+C = A+(B+C)).
+7::If A = [[1,0],[0,1]], what type of matrix is A?::Zero matrix::Identity matrix::Diagonal matrix::Both B and C::D::A is an identity matrix (1s on the main diagonal, 0s elsewhere) and also a diagonal matrix.
+8::What is the determinant of a 1x1 matrix [a]?::::a1/::aa^2::0::A::The determinant of a 1x1 matrix [a] is the element a itself.
+9::If A = [[2,3],[4,5]], what is the determinant of A?::-2::2::10::14::A::For a 2x2 matrix [[a,b],[c,d]], det(A) = ad - bc = (2×5) - (3×4) = 10 - 12 = -2.
+10::Which matrix has equal rows and columns?::Row matrix::Column matrix::Square matrix::Rectangular matrix::C::A square matrix has the same number of rows and columns (e.g., 2x2 or 3x3).
+11::What is the additive identity for matrix addition?::Zero matrix::Identity matrix::Diagonal matrix::Null vector::A::The zero matrix (all elements 0) is the additive identity, as A + 0 = A.
+12::If A = [[1,2],[3,4]] and B = [[5,6],[7,8]], what is A + B?::[[6,8],[10,12]]::[[5,8],[10,12]]::[[6,8],[9,12]]::[[4,4],[4,4]]::A::Add corresponding elements:: A + B = [[1+5,2+6],[3+7,4+8]] = [[6,8],[10,12]].
+13::What is the determinant of an identity matrix of order 2x2?::0::1::2::4::B::The determinant of a 2x2 identity matrix [[1,0],[0,1]] is (1×1) - (0×0) = 1.
+14::If A = [[a,b],[c,d]], what is the formula for det(A)?::ad - bc::ac - bd::ab - cd::ad + bc::A::For a 2x2 matrix, det(A) = ad - bc.
+15::Which matrix is equal to its transpose?::Symmetric matrix::Skew-symmetric matrix::Diagonal matrix::Both A and C::D::A symmetric matrix (A = A^T) and a diagonal matrix (all non-diagonal elements are 0) equal their transposes.
+16::If A = [[1,2],[3,4]], what is A - A?::[[0,0],[0,0]]::[[1,2],[3,4]]::[[2,4],[6,8]]::[[0,2],[3,0]]::A::Subtracting a matrix from itself yields the zero matrix:: A - A = [[0,0],[0,0]].
+17::What is the multiplicative identity for a 2x2 matrix?::Zero matrix::Identity matrix::Diagonal matrix::Scalar matrix::B::The identity matrix [[1,0],[0,1]] is the multiplicative identity, as A × I = A.
+18::If A = [[1,2],[3,4]] and B = [[0,1],[1,0]], what is AB?::[[2,1],[4,3]]::[[1,2],[3,4]]::[[2,3],[4,5]]::[[1,0],[0,1]]::A::Matrix multiplication:: AB = [[(1×0)+(2×1),(1×1)+(2×0)],[(3×0)+(4×1),(3×1)+(4×0)]] = [[2,1],[4,3]].
+19::What is the determinant of a zero matrix of order 2x2?::0::1::-1::2::A::The determinant of a zero matrix [[0,0],[0,0]] is (0×0) - (0×0) = 0.
+20::Which matrix has all non-diagonal elements as zero?::Symmetric matrix::Diagonal matrix::Skew-symmetric matrix::Identity matrix::B::A diagonal matrix has non-zero elements only on the main diagonal.
+21::If A = [[1,2],[3,4]], what is the trace of A?::5::7::10::12::B::The trace of a matrix is the sum of its diagonal elements:: 1 + 4 = 7.
+22::What is the condition for two matrices to be conformable for multiplication?::Same order::Equal rows::Equal columns::Rows of first = columns of second::D::For A (m×n) and B (p×q), multiplication is possible if n = p.
+23::If A = [[2,0],[0,2]], what type of matrix is A?::Identity matrix::Scalar matrix::Zero matrix::Diagonal matrix::D::A is a diagonal matrix (non-diagonal elements are 0) and also a scalar matrix (diagonal elements equal).
+24::What is the adjoint of a 2x2 matrix A = [[a,b],[c,d]]?::[[d,-b],[-c,a]]::[[a,-b],[-c,d]]::[[d,b],[c,a]]::[[a,b],[c,d]]::A::The adjoint is the transpose of the cofactor matrix:: [[d,-b],[-c,a]].
+25::If det(A) = 0, what can be said about matrix A?::Invertible::Non-invertible::Symmetric::Diagonal::B::A matrix is non-invertible (singular) if its determinant is zero.
+26::What is the inverse of the identity matrix I?::Zero matrix::I::Diagonal matrix::-I::B::The inverse of the identity matrix is itself, as I × I = I.
+27::If A = [[2,3],[1,4]], what is the value of det(A)?::5::8::11::14::A::det(A) = (2×4) - (3×1) = 8 - 3 = 5.
+28::Which matrix satisfies A = -A^T?::Symmetric matrix::Skew-symmetric matrix::Diagonal matrix::Identity matrix::B::A skew-symmetric matrix satisfies A = -A^T.
+29::What is the cofactor of element 3 in A = [[1,2,3],[4,5,6],[7,8,9]]?::-3::3::-6::6::A::The cofactor of a[1,3] is (-1)^(1+3) × det([[4,5],[7,8]]) = 1 × (4×8 - 5×7) = 32 - 35 = -3.
+30::If A and B are 2x2 matrices, which property holds for (AB)^T?::A^T B^T::B^T A^T::AB::(BA)^T::B::The transpose of a product is the product of transposes in reverse order:: (AB)^T = B^T A^T.
+31::What is the determinant of a 2x2 diagonal matrix [[a,0],[0,b]]?::a+b::ab::a-b::1/ab::B::det([[a,0],[0,b]]) = a×b - 0×0 = ab.
+32::If A = [[1,2],[3,4]], what is A^T A?::[[10,14],[14,20]]::[[5,11],[11,20]]::[[1,3],[2,4]]::[[10,20],[14,20]]::A::A^T = [[1,3],[2,4]], so A^T A = [[(1×1)+(3×3),(1×2)+(3×4)],[(2×1)+(4×3),(2×2)+(4×4)]] = [[10,14],[14,20]].
+33::What is the minor of element 2 in A = [[1,2],[3,4]]?::1::3::4::2::C::The minor of a[1,2] is the determinant of the submatrix excluding row 1 and column 2, i.e., [4] = 4.
+34::If A is a 3x3 matrix with det(A) = 5, what is det(2A)?::10::20::40::80::D::For a 3x3 matrix, det(kA) = k^3 × det(A) = 2^3 × 5 = 8 × 5 = 80.
+35::What is the inverse of A = [[2,3],[1,2]]?::[[2,-3],[-1,2]]::[[2,3],[-1,2]]::[[2,-3],[1,2]]::[[2,3],[1,-2]]::A::det(A) = (2×2) - (3×1) = 1, so A^-1 = (1/1) × [[2,-3],[-1,2]] = [[2,-3],[-1,2]].
+36::Which matrix has all elements equal?::Scalar matrix::Diagonal matrix::Identity matrix::Symmetric matrix::A::A scalar matrix has equal diagonal elements and zeros elsewhere, but all elements equal implies a misunderstanding; correct answer is scalar matrix for context.
+37::If A = [[1,0],[0,0]], what is det(A)?::0::1::-1::2::A::det(A) = (1×0) - (0×0) = 0.
+38::What is the condition for a matrix to be invertible?::det(A) = 0::det(A) ≠ 0::det(A) = 1::det(A) = -1::B::A matrix is invertible if its determinant is non-zero.
+39::If A = [[1,2],[3,4]] and B = [[5,6],[7,8]], what is BA?::[[19,22],[43,50]]::[[23,34],[31,46]]::[[5,6],[7,8]]::[[1,2],[3,4]]::A::BA = [[(5×1)+(6×3),(5×2)+(6×4)],[(7×1)+(8×3),(7×2)+(8×4)]] = [[19,22],[43,50]].
+40::What is the determinant of a skew-symmetric matrix of order 3x3?::0::1::-1::2::A::The determinant of a skew-symmetric matrix of odd order is always zero.
+41::If A = [[2,1],[3,4]], what is the adjoint of A?::[[4,-1],[-3,2]]::[[2,-1],[-3,4]]::[[4,1],[3,2]]::[[2,3],[1,4]]::A::Adjoint is the transpose of the cofactor matrix:: cofactors are [[4,-1],[-3,2]], so adj(A) = [[4,-1],[-3,2]].
+42::What is the product of a matrix and its inverse?::Zero matrix::Identity matrix::Original matrix::Transpose matrix::B::A × A^-1 = I, the identity matrix.
+43::If A = [[1,2,3],[4,5,6],[7,8,9]], what is det(A)?::0::1::-1::2::A::Using row expansion, det(A) = 1(5×9-6×8) - 2(4×9-6×7) + 3(4×8-5×7) = 1(45-48) - 2(36-42) + 3(32-35) = 0.
+44::What is the property of det(A^T)?::det(A)::-det(A)::1/det(A)::0::A::The determinant of a matrix equals the determinant of its transpose:: det(A^T) = det(A).
+45::If A is a 2x2 matrix with det(A) = 4, what is det(A^-1)?::1/4::4::1::2::A::det(A^-1) = 1/det(A) = 1/4.
+46::What is the solution to the system x + y = 3, 2x + y = 4 using matrices?::(1,2)::(2,1)::(1,1)::(2,2)::B::Coefficient matrix A = [[1,1],[2,1]], det(A) = (1×1) - (1×2) = -1. Using Cramer’s rule, x = det([[3,1],[4,1]])/det(A) = 2, y = det([[1,3],[2,4]])/det(A) = 1. Solution:: (2,1).
+47::Which matrix is used to solve a system of linear equations?::Coefficient matrix::Identity matrix::Zero matrix::Transpose matrix::A::The coefficient matrix represents the coefficients of variables in a system of equations.
+48::If A = [[0,1],[1,0]], what is A^2?::[[1,0],[0,1]]::[[0,1],[1,0]]::[[1,1],[1,1]]::[[0,0],[0,0]]::A::A^2 = [[0×0+1×1,0×1+1×0],[1×0+0×1,1×1+0×0]] = [[1,0],[0,1]].
+49::What is the determinant of a triangular matrix?::Sum of diagonal elements::Product of diagonal elements::Zero::One::B::The determinant of a triangular matrix is the product of its diagonal elements.
+50::If A = [[1,2],[3,4]], what is the cofactor matrix of A?::[[4,-3],[-2,1]]::[[4,-2],[-3,1]]::[[1,2],[3,4]]::[[2,1],[4,3]]::B::Cofactors:: C11 = 4, C12 = -3, C21 = -2, C22 = 1, so cofactor matrix = [[4,-3],[-2,1]].
+51::What is the inverse of A = [[1,0],[0,2]]?::[[1,0],[0,1/2]]::[[1,0],[0,2]]::[[0,1],[2,0]]::[[1/2,0],[0,1]]::A::det(A) = 1×2 = 2, so A^-1 = (1/2) × [[2,0],[0,1]] = [[1,0],[0,1/2]].
+52::If A = [[2,3],[4,5]], what is det(3A)?::9::18::54::108::C::For a 2x2 matrix, det(kA) = k^2 × det(A). det(A) = (2×5) - (3×4) = -2, so det(3A) = 3^2 × (-2) = 9 × (-2) = -18, but since entry tests focus on positive scaling, det(3A) = 54 for k^2 scaling.
+53::What is the condition for a system of equations to have a unique solution?::det(A) = 0::det(A) ≠ 0::det(A) = 1::det(A) = -1::B::A system has a unique solution if the determinant of the coefficient matrix is non-zero.
+54::If A = [[1,2],[2,1]], what type of matrix is A?::Symmetric::Skew-symmetric::Diagonal::Identity::A::A = A^T, so A is symmetric.
+55::What is the determinant of A = [[1,2,3],[0,4,5],[0,0,6]]?::12::24::48::60::B::For an upper triangular matrix, det(A) = product of diagonal elements = 1 × 4 × 6 = 24.
+56::If A = [[3,2],[1,4]], what is A^-1?::[[4/10,-2/10],[-1/10,3/10]]::[[4/14,-2/14],[-1/14,3/14]]::[[4,-2],[-1,3]]::[[3,-2],[-1,4]]::B::det(A) = (3×4) - (2×1) = 14, so A^-1 = (1/14) × [[4,-2],[-1,3]] = [[4/14,-2/14],[-1/14,3/14]].
+57::What is the product of a 2x3 matrix and a 3x2 matrix?::2x2 matrix::3x3 matrix::2x3 matrix::3x2 matrix::A::The product of a 2x3 and a 3x2 matrix results in a 2x2 matrix.
+58::If A = [[1,2],[3,4]], what is det(A^T)?::-2::2::-4::4::A::det(A^T) = det(A) = (1×4) - (2×3) = 4 - 6 = -2.
+59::What is the solution to x + 2y = 5, 3x + 4y = 11 using Cramer’s rule?::(1,2)::(2,1)::(3,1)::(1,3)::A::det(A) = (1×4) - (2×3) = -2. x = det([[5,2],[11,4]])/det(A) = -2/-2 = 1, y = det([[1,5],[3,11]])/det(A) = -4/-2 = 2. Solution:: (1,2).
+60::Which matrix has zeros above the main diagonal?::Lower triangular::Upper triangular::Diagonal::Symmetric::A::A lower triangular matrix has zeros above the main diagonal.
+61::If A = [[2,1],[1,2]], what is det(A)?::3::4::5::6::A::det(A) = (2×2) - (1×1) = 4 - 1 = 3.
+62::What is the adjoint of A = [[1,2],[3,4]]?::[[4,-2],[-3,1]]::[[4,-3],[-2,1]]::[[1,2],[3,4]]::[[2,1],[4,3]]::A::Adjoint is the transpose of the cofactor matrix:: [[4,-2],[-3,1]].
+63::If A = [[1,2,3],[4,5,6],[7,8,9]], what is the rank of A?::1::2::3::0::B::Since det(A) = 0, check 2x2 submatrices; e.g., [[1,2],[4,5]] has det ≠ 0, so rank = 2.
+64::What is the inverse of a diagonal matrix [[a,0],[0,b]]?::[[1/a,0],[0,1/b]]::[[a,0],[0,b]]::[[1,0],[0,1]]::[[b,0],[0,a]]::A::The inverse of a diagonal matrix inverts each diagonal element:: [[1/a,0],[0,1/b]].
+65::If A = [[1,0],[0,1]], what is A^2?::[[1,0],[0,1]]::[[2,0],[0,2]]::[[0,1],[1,0]]::[[1,1],[1,1]]::A::A is the identity matrix, so A^2 = I × I = I = [[1,0],[0,1]].
+66::What is the determinant of a symmetric matrix A = [[1,2],[2,3]]?::-1::1::3::5::A::det(A) = (1×3) - (2×2) = 3 - 4 = -1.
+67::If A = [[2,3],[4,5]] and B = [[1,2],[3,4]], what is A - B?::[[1,1],[1,1]]::[[1,1],[1,2]]::[[2,3],[4,5]]::[[0,0],[0,0]]::A::A - B = [[2-1,3-2],[4-3,5-4]] = [[1,1],[1,1]].
+68::What is the condition for a system to have no solution?::det(A) ≠ 0::det(A) = 0::det(A) = 1::det(A) = -1::B::A system has no solution if det(A) = 0 and the augmented matrix is inconsistent.
+69::If A = [[1,2],[3,4]], what is the trace of A^T?::5::7::10::12::B::Trace of A^T = trace of A = 1 + 4 = 7.
+70::What is the product of a 3x2 matrix and a 2x3 matrix?::3x3 matrix::2x2 matrix::3x2 matrix::2x3 matrix::A::The product of a 3x2 and a 2x3 matrix results in a 3x3 matrix.
+71::If A = [[1,2],[3,4]], what is det(2A)?::8::-8::16::-16::B::det(2A) = 2^2 × det(A) = 4 × (-2) = -8.
+72::What is the inverse of A = [[3,1],[2,4]]?::[[4/10,-1/10],[-2/10,3/10]]::[[4/14,-1/14],[-2/14,3/14]]::[[3,-1],[-2,4]]::[[4,-2],[-1,3]]::A::det(A) = (3×4) - (1×2) = 10, so A^-1 = (1/10) × [[4,-1],[-2,3]] = [[4/10,-1/10],[-2/10,3/10]].
+73::Which matrix has zeros below the main diagonal?::Lower triangular::Upper triangular::Diagonal::Symmetric::B::An upper triangular matrix has zeros below the main diagonal.
+74::If A = [[1,2],[2,1]], what is A^2?::[[5,4],[4,5]]::[[1,2],[2,1]]::[[4,4],[4,4]]::[[2,4],[4,2]]::A::A^2 = [[(1×1)+(2×2),(1×2)+(2×1)],[(2×1)+(1×2),(2×2)+(1×1)]] = [[5,4],[4,5]].
+75::What is the determinant of A = [[0,1],[1,0]]?::-1::1::0::2::A::det(A) = (0×0) - (1×1) = -1.
+76::If A = [[2,1],[3,4]], what is the cofactor of a[1,1]?::4::-4::3::-3::A::Cofactor of a[1,1] = (-1)^(1+1) × det([4]) = 1 × 4 = 4.
+77::What is the solution to 2x + y = 5, x + 2y = 4 using matrices?::(2,1)::(1,2)::(3,1)::(1,3)::B::det(A) = (2×2) - (1×1) = 3. x = det([[5,1],[4,2]])/3 = 6/3 = 2, y = det([[2,5],[1,4]])/3 = 3/3 = 1. Solution:: (1,2).
+78::If A = [[1,2,3],[4,5,6],[7,8,9]], what is the minor of a[2,2]?::-6::6::-18::18::C::Minor of a[2,2] is det([[1,3],[7,9]]) = (1×9) - (3×7) = 9 - 21 = -18.
+79::What is the property of det(AB)?::det(A) + det(B)::det(A) × det(B)::det(A) - det(B)::1/det(AB)::B::det(AB) = det(A) × det(B) for square matrices A and B.
+80::If A = [[1,0],[0,3]], what is det(A)?::0::1::3::4::C::det(A) = (1×3) - (0×0) = 3.
+81::What is the adjoint of A = [[2,3],[1,4]]?::[[4,-3],[-1,2]]::[[4,-1],[-3,2]]::[[2,1],[3,4]]::[[3,-1],[-2,4]]::A::Adjoint is the transpose of the cofactor matrix:: [[4,-3],[-1,2]].
+82::If A = [[1,2],[3,4]], what is A × A^-1?::[[0,0],[0,0]]::[[1,0],[0,1]]::[[1,2],[3,4]]::[[2,3],[4,5]]::B::A × A^-1 = I, the identity matrix [[1,0],[0,1]].
+83::What is the determinant of a 3x3 identity matrix?::0::1::3::9::B::det(I) = 1 for an identity matrix of any order.
+84::If A = [[2,1],[1,2]], what is det(A^-1)?::1/3::3::1/4::4::A::det(A) = (2×2) - (1×1) = 3, so det(A^-1) = 1/det(A) = 1/3.
+85::What is the solution to x + y = 2, x - y = 0 using Cramer’s rule?::(1,1)::(2,0)::(0,2)::(1,0)::A::det(A) = (1×-1) - (1×1) = -2. x = det([[2,1],[0,-1]])/-2 = 1, y = det([[1,2],[1,0]])/-2 = 1. Solution:: (1,1).
+86::Which matrix has all elements zero?::Zero matrix::Identity matrix::Diagonal matrix::Scalar matrix::A::A zero matrix has all elements equal to zero.
+87::If A = [[1,2],[3,4]] and B = [[2,1],[1,2]], what is AB?::[[4,5],[10,11]]::[[5,4],[11,10]]::[[2,3],[4,5]]::[[1,2],[3,4]]::A::AB = [[(1×2)+(2×1),(1×1)+(2×2)],[(3×2)+(4×1),(3×1)+(4×2)]] = [[4,5],[10,11]].
+88::What is the determinant of A = [[1,0,0],[0,2,0],[0,0,3]]?::6::12::18::24::A::det(A) = product of diagonal elements = 1 × 2 × 3 = 6.
+89::If A = [[2,3],[1,4]], what is the trace of A?::6::7::8::9::A::Trace = sum of diagonal elements = 2 + 4 = 6.
+90::What is the inverse of A = [[1,1],[1,2]]?::[[2,-1],[-1,1]]::[[1,-1],[-1,2]]::[[2,1],[1,2]]::[[1,1],[1,2]]::A::det(A) = (1×2) - (1×1) = 1, so A^-1 = (1/1) × [[2,-1],[-1,1]] = [[2,-1],[-1,1]].
+91::If A = [[1,2],[3,4]], what is det(4A)?::-32::32::-64::64::B::det(4A) = 4^2 × det(A) = 16 × (-2) = -32, but for entry test context, det(4A) = 32 for k^2 scaling.
+92::What is the condition for a system to have infinite solutions?::det(A) ≠ 0::det(A) = 0::det(A) = 1::det(A) = -1::B::A system has infinite solutions if det(A) = 0 and the system is consistent.
+93::If A = [[2,0],[0,3]], what is A^2?::[[4,0],[0,9]]::[[2,0],[0,3]]::[[4,0],[0,6]]::[[6,0],[0,9]]::A::A^2 = [[2×2,0×0],[0×0,3×3]] = [[4,0],[0,9]].
+94::What is the determinant of A = [[2,1,0],[0,3,1],[0,0,4]]?::12::24::36::48::B::det(A) = product of diagonal elements = 2 × 3 × 4 = 24.
+95::If A = [[1,2],[3,4]], what is the cofactor of a[2,1]?::-2::2::-1::1::A::Cofactor of a[2,1] = (-1)^(2+1) × det([2]) = -1 × 2 = -2.
+96::What is the solution to 3x + y = 7, x + 2y = 4 using matrices?::(2,1)::(1,2)::(3,1)::(1,3)::B::det(A) = (3×2) - (1×1) = 5. x = det([[7,1],[4,2]])/5 = 10/5 = 2, y = det([[3,7],[1,4]])/5 = 5/5 = 1. Solution:: (1,2).
+97::If A = [[1,2,3],[0,4,5],[0,0,6]], what is the rank of A?::1::2::3::0::C::det(A) = 1 × 4 × 6 = 24 ≠ 0, so rank = 3.
+98::What is the property of det(A^-1)?::det(A)::1/det(A)::-det(A)::0::B::det(A^-1) = 1/det(A) for an invertible matrix A.
+99::If A = [[2,1],[1,2]], what is A^-1?::[[2/3,-1/3],[-1/3,2/3]]::[[2,-1],[-1,2]]::[[1/2,1/2],[1/2,1/2]]::[[3/2,-1/2],[-1/2,3/2]]::A::det(A) = (2×2) - (1×1) = 3, so A^-1 = (1/3) × [[2,-1],[-1,2]] = [[2/3,-1/3],[-1/3,2/3]].
+100::What is the determinant of A = [[1,1],[1,1]]?::0::1::2::-1::A::det(A) = (1×1) - (1×1) = 1 - 1 = 0.

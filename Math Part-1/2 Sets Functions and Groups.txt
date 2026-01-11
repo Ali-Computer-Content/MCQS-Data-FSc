@@ -1,0 +1,100 @@
+1::A set is a collection of::Well-defined objects::Random objects::Undefined objects::Repeated objects::A::A set is a well-defined collection of distinct objects called elements.
+2::If A = {1, 2, 3}, the number of elements in set A is::2::3::4::5::B::The set A has 3 elements:: 1, 2, 3.
+3::The set with no elements is called::Empty set::Finite set::Infinite set::Universal set::A::The empty set, denoted ∅, contains no elements.
+4::The set {1, 2, 3, …} is an example of::Finite set::Empty set::Infinite set::Singleton set::C::The set of natural numbers is infinite as it has no end.
+5::A set with exactly one element is called::Empty set::Singleton set::Finite set::Infinite set::B::A singleton set, e.g., {a}, contains exactly one element.
+6::The symbol ∈ represents::Belongs to::Does not belong to::Subset::Union::A::a ∈ A means element a belongs to set A.
+7::If A = {a, b, c}, which is a subset of A?::{a, b}::{a, d}::{b, c, d}::{d, e}::A::{a, b} is a subset of A as all its elements are in A.
+8::The universal set is denoted by::U::∅::∈::⊆::A::The universal set U contains all elements under consideration in a context.
+9::The union of sets A and B is denoted by::A ∩ B::A ∪ B::A - B::A × B::B::A ∪ B contains all elements in A, B, or both.
+10::The intersection of sets A and B is denoted by::A ∪ B::A ∩ B::A - B::A × B::B::A ∩ B contains elements common to both A and B.
+11::If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B is::{3}::{1, 2, 3, 4, 5}::{1, 2}::{4, 5}::A::A ∩ B = {3}, the common element.
+12::If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B is::{1, 2, 3}::{3}::{1, 2, 3, 4, 5}::{4, 5}::C::A ∪ B = {1, 2, 3, 4, 5}, all elements in A or B.
+13::The difference A - B contains elements in::A but not in B::B but not in A::Both A and B::Neither A nor B::A::A - B = {x | x ∈ A and x ∉ B}.
+14::If A = {1, 2, 3} and B = {2, 3, 4}, then A - B is::{1}::{4}::{2, 3}::{1, 4}::A::A - B = {1}, as 1 is in A but not in B.
+15::The complement of set A is denoted by::A'::A ∪ U::A ∩ U::A - U::A::A' contains all elements in the universal set U not in A.
+16::If U = {1, 2, 3, 4, 5} and A = {1, 2}, then A' is::{3, 4, 5}::{1, 2}::{1, 2, 3, 4, 5}::∅::A::A' = U - A = {3, 4, 5}.
+17::The Cartesian product A × B is a set of::Ordered pairs::Unordered pairs::Common elements::All elements::A::A × B = {(a, b) | a ∈ A, b ∈ B}, a set of ordered pairs.
+18::If A = {1, 2} and B = {a, b}, the number of elements in A × B is::2::4::6::8::B::|A × B| = |A| × |B| = 2 × 2 = 4.
+19::A relation from set A to set B is a::Subset of A × B::Subset of A ∪ B::Subset of A ∩ B::Subset of A - B::A::A relation R is a subset of A × B.
+20::A function f from A to B assigns::Exactly one element of B to each element of A::Many elements of B to each element of A::No elements of B to elements of A::Elements of A to many elements of B::A::A function f:: A → B maps each a ∈ A to exactly one b ∈ B.
+21::The set A in f:: A → B is called::Codomain::Domain::Range::Image::B::The domain is the set of all input elements for the function.
+22::The set B in f:: A → B is called::Domain::Codomain::Range::Image::B::The codomain is the set of all possible output elements.
+23::The set of all output values of a function is called::Domain::Codomain::Range::Pre-image::C::The range is {f(a) | a ∈ A}, a subset of the codomain.
+24::A function is one-to-one (injective) if::Different elements map to different elements::Every element in B is mapped::All elements in A map to one element in B::Some elements in A are unmapped::A::f is injective if f(a1) = f(a2) implies a1 = a2.
+25::A function is onto (surjective) if::Every element in B is an image::Different elements map to different elements::Some elements in B are not mapped::All elements in A map to one element::A::f is surjective if the range equals the codomain.
+26::A function that is both one-to-one and onto is called::Bijective::Injective::Surjective::Constant::A::A bijective function is both injective and surjective.
+27::If f:: A → B is bijective, then f has::An inverse::No inverse::A constant value::Multiple inverses::A::A bijective function has a unique inverse f⁻¹:: B → A.
+28::The function f(x) = 2x is::Injective::Surjective::Bijective::Neither injective nor surjective::A::f(x) = 2x is injective (distinct x give distinct 2x) but not surjective over real numbers.
+29::The function f(x) = x² from R to R is::Injective::Surjective::Bijective::Neither injective nor surjective::D::f(x) = x² is neither injective (e.g., f(1) = f(-1)) nor surjective (no negative outputs).
+30::The identity function maps every element to::Itself::Zero::One::Another element::A::The identity function f(a) = a maps each element to itself.
+31::The composition of functions f and g is denoted by::f + g::f - g::f ∘ g::f / g::C::(f ∘ g)(x) = f(g(x)), applying g first, then f.
+32::If f(x) = x + 1 and g(x) = x², then (f ∘ g)(x) is::x² + 1::x²::x + 1::(x + 1)²::A::(f ∘ g)(x) = f(g(x)) = f(x²) = x² + 1.
+33::A binary operation on a set S is a function from::S to S::S × S to S::S to S × S::S × S to S × S::B::A binary operation takes two elements from S and produces one element in S.
+34::A set S with a binary operation is a group if it satisfies::Closure, associativity, identity, inverse::Closure only::Associativity only::Identity only::A::A group requires closure, associativity, an identity element, and inverses for all elements.
+35::The operation * on a set S is closed if::a * b ∈ S for all a, b ∈ S::a * b ∉ S::a * b = 0::a * b = 1::A::Closure means the result of the operation remains in the set.
+36::The operation * is associative if::(a * b) * c = a * (b * c)::a * b = b * ::aa * a = ::aa * b = 0::A::Associativity ensures grouping of operations does not affect the result.
+37::An identity element e for operation * satisfies::a * e = e * a = ::aa * e = 0::a * e = 1::a * e = e::A::The identity element leaves other elements unchanged under the operation.
+38::The inverse of an element a in a group satisfies::a * a⁻¹ = e::a * a⁻¹ = 0::a * a⁻¹ = ::aa * a⁻¹ = 1::A::The inverse a⁻¹, with identity e, satisfies a * a⁻¹ = a⁻¹ * a = e.
+39::The set of integers under addition is a::Group::Not a group::Semigroup::Monoid::A::Integers under addition satisfy closure, associativity, identity (0), and inverses (-a).
+40::The set of integers under multiplication is::Not a group::Group::Semigroup::Monoid::A::Integers under multiplication lack inverses for all elements (e.g., 2 has no inverse in Z).
+41::The identity element for addition in the set of real numbers is::0::1::-1::∞::A::For addition, a + 0 = a, so 0 is the identity.
+42::The identity element for multiplication in the set of real numbers is::0::1::-1::∞::B::For multiplication, a × 1 = a, so 1 is the identity.
+43::The inverse of 5 under addition in the set of integers is::5::-5::1/5::0::B::-5 + 5 = 0, so -5 is the inverse of 5.
+44::The inverse of 2 under multiplication in the set of non-zero rational numbers is::2::-2::1/2::0::C::2 × (1/2) = 1, so 1/2 is the inverse of 2.
+45::A group is abelian if the operation is::Associative::Commutative::Non-commutative::Distributive::B::An abelian group satisfies a * b = b * a for all a, b.
+46::The set of real numbers under addition is::Abelian group::Non-abelian group::Not a group::Semigroup::A::Real numbers under addition are commutative, making it an abelian group.
+47::The power set of a set A under union is::Not a group::Group::Abelian group::Semigroup::A::The power set under union lacks inverses, so it is not a group.
+48::The number of subsets of a set with 3 elements is::3::6::8::9::C::For a set with n elements, the number of subsets is 2^n = 2^3 = 8.
+49::If A = {1, 2} and B = {3, 4}, then A × B is::{(1, 3), (1, 4), (2, 3), (2, 4)}::{(1, 2), (3, 4)}::{(1, 3), (2, 4)}::{(3, 1), (4, 1), (3, 2), (4, 2)}::A::A × B = {(1, 3), (1, 4), (2, 3), (2, 4)}.
+50::The relation R = {(1, 1), (2, 2), (3, 3)} on A = {1, 2, 3} is::Reflexive::Symmetric::Transitive::All of these::D::R is reflexive (aRa), symmetric (aRb implies bRa), and transitive (aRb, bRc implies aRc).
+51::A relation R on A is reflexive if::(a, a) ∈ R for all a ∈ A::aRb implies bR::aaRb, bRc implies aRc::aRb implies a = b::A::Reflexive means every element is related to itself.
+52::A relation R is symmetric if::aRb implies bR::a(a, a) ∈ R::aRb, bRc implies aRc::aRb implies a = b::A::Symmetric means if a is related to b, then b is related to a.
+53::A relation R is transitive if::aRb, bRc implies aRc::aRb implies bR::a(a, a) ∈ R::aRb implies a = b::A::Transitive means if a is related to b and b to c, then a is related to c.
+54::An equivalence relation is::Reflexive, symmetric, transitive::Reflexive only::Symmetric only::Transitive only::A::An equivalence relation must satisfy all three properties.
+55::The relation “is equal to” on the set of real numbers is::Equivalence relation::Not reflexive::Not symmetric::Not transitive::A::Equality is reflexive (a = a), symmetric (a = b implies b = a), and transitive.
+56::The function f(x) = x + 3 is::Injective::Surjective::Bijective::Neither injective nor surjective::C::f(x) = x + 3 is bijective over real numbers (one-to-one and onto).
+57::The range of f(x) = x² from R to R is::All real numbers::Non-negative real numbers::Positive real numbers::Negative real numbers::B::The range is {y | y ≥ 0}, as x² is always non-negative.
+58::The domain of f(x) = 1/(x - 2) is::All real numbers::All real numbers except 2::All real numbers except 0::Positive real numbers::B::The function is undefined at x = 2, so the domain is R - {2}.
+59::The function f(x) = sin(x) is::Injective::Surjective::Bijective::Neither injective nor surjective::D::sin(x) is neither injective (e.g., sin(0) = sin(2π)) nor surjective over R to R.
+60::The inverse of f(x) = 2x + 1 is::f⁻¹(x) = (x - 1)/2::f⁻¹(x) = 2x - 1::f⁻¹(x) = x/2 + 1::f⁻¹(x) = (x + 1)/2::A::Solve y = 2x + 1 for x:: x = (y - 1)/2, so f⁻¹(x) = (x - 1)/2.
+61::The set of even integers under addition is::Group::Not a group::Semigroup::Monoid::A::Even integers are closed, associative, have identity (0), and inverses (-a).
+62::The set of odd integers under addition is::Not a group::Group::Semigroup::Monoid::A::Odd integers are not closed (odd + odd = even), so not a group.
+63::The operation * defined as a * b = a + b - ab is::Associative::Not associative::Commutative::Both A and C::D::It is commutative (a * b = b * a) and associative (check (a * b) * c = a * (b * c)).
+64::The identity element for a * b = a + b - ab is::0::1::-1::2::A::a * 0 = a + 0 - a·0 = a, so 0 is the identity.
+65::The inverse of a under a * b = a + b - ab is::a/(a - 1)::a/(1 - a)::1/(1 - a)::1/(a - 1)::C::Solve a * b = 0:: a + b - ab = 0, b(1 - a) = -a, b = a/(a - 1) = 1/(1 - a).
+66::The set {0, 1} under multiplication modulo 2 is::Group::Not a group::Semigroup::Monoid::A::It is closed, associative, has identity (1), and inverses (1⁻¹ = 1, 0⁻¹ = 0).
+67::The number of proper subsets of a set with 4 elements is::15::16::14::8::C::Total subsets = 2^4 = 16; proper subsets = 16 - 1 (exclude the set itself) = 15.
+68::If A ⊆ B and B ⊆ A, then::A = B::A ≠ B::A ∪ B = ∅::A ∩ B = ∅::A::If A ⊆ B and B ⊆ A, then A = B (antisymmetry of subsets).
+69::De Morgan’s law states (A ∪ B)' is equal to::A' ∪ B'::A' ∩ B'::A ∪ B::A ∩ B::B::(A ∪ B)' = A' ∩ B', by De Morgan’s law.
+70::De Morgan’s law states (A ∩ B)' is equal to::A' ∪ B'::A' ∩ B'::A ∪ B::A ∩ B::A::(A ∩ B)' = A' ∪ B', by De Morgan’s law.
+71::If U = {1, 2, 3, 4} and A = {1, 3}, then (A')' is::{1, 3}::{2, 4}::{1, 2, 3, 4}::∅::A::(A')' = A, as complement of complement returns the original set.
+72::The function f(x) = |x| is::Injective::Surjective::Bijective::Neither injective nor surjective::D::f(x) = |x| is neither injective (f(1) = f(-1)) nor surjective (no negative outputs).
+73::The relation R = {(a, b) | a = b} on a set A is::Equivalence relation::Not reflexive::Not symmetric::Not transitive::A::R is reflexive (a = a), symmetric (a = b implies b = a), and transitive.
+74::The number of relations on a set with 2 elements is::2::4::8::16::D::A relation on {a, b} is a subset of {a, b} × {a, b}, with 2^4 = 16 subsets.
+75::The number of functions from a set with 2 elements to a set with 3 elements is::6::9::8::12::A::Number of functions = |B|^|A| = 3^2 = 9.
+76::The number of injective functions from {1, 2} to {1, 2, 3} is::6::3::9::2::A::For injective functions, choose 2 elements from 3:: P(3,2) = 3 × 2 = 6.
+77::The number of surjective functions from {1, 2, 3} to {1, 2} is::6::3::9::2::A::Surjective functions ensure both elements in codomain are hit; calculate via inclusion-exclusion:: 2^3 - 2 = 6.
+78::The set of non-zero real numbers under multiplication is::Abelian group::Non-abelian group::Not a group::Semigroup::A::It is closed, associative, has identity (1), inverses (1/a), and commutative.
+79::The function f(x) = e^x is::Bijective::Injective::Surjective::Neither injective nor surjective::B::f(x) = e^x is injective (distinct x give distinct e^x) but not surjective (no negative outputs).
+80::The relation “is parallel to” on the set of lines in a plane is::Equivalence relation::Not reflexive::Not symmetric::Not transitive::A::It is reflexive (line is parallel to itself), symmetric, and transitive.
+81::The set {1, -1} under multiplication is::Group::Not a group::Semigroup::Monoid::A::It is closed (1 × 1 = 1, -1 × -1 = 1), associative, has identity (1), and inverses.
+82::The set of positive integers under addition is::Not a group::Group::Semigroup::Monoid::A::Positive integers lack inverses (no negative numbers), so not a group.
+83::The function f(x) = x³ is::Bijective::Injective::Surjective::Both injective and surjective::D::f(x) = x³ is bijective over real numbers (one-to-one and onto).
+84::The range of f(x) = 1/x from R - {0} to R is::All real numbers::All real numbers except 0::Positive real numbers::Negative real numbers::B::The range is R - {0}, as 1/x never equals 0.
+85::The relation “is perpendicular to” on the set of lines is::Not an equivalence relation::Reflexive::Transitive::Symmetric::A::It is symmetric but not reflexive (a line is not perpendicular to itself) nor transitive.
+86::The set of rational numbers under addition is::Abelian group::Non-abelian group::Not a group::Semigroup::A::Rational numbers are closed, associative, have identity (0), inverses, and are commutative.
+87::The function f(x) = cos(x) is::Injective::Surjective::Bijective::Neither injective nor surjective::D::cos(x) is neither injective (e.g., cos(0) = cos(2π)) nor surjective (range is [-1, 1]).
+88::The number of elements in the power set of {a, b, c, d} is::8::16::32::64::B::|P(A)| = 2^4 = 16 for a set with 4 elements.
+89::The set {0} under addition is::Group::Not a group::Semigroup::Monoid::A::{0} is closed (0 + 0 = 0), associative, has identity (0), and inverse (0).
+90::The operation a * b = max(a, b) on real numbers is::Not associative::Associative::Commutative::Both B and C::D::It is commutative (max(a, b) = max(b, a)) and associative (max(a, max(b, c)) = max(max(a, b), c)).
+91::The identity for a * b = max(a, b) on real numbers is::0::-∞::∞::No identity::B::-∞ is the identity, as max(a, -∞) = a.
+92::The set of negative integers under addition is::Not a group::Group::Semigroup::Monoid::A::Negative integers are not closed (e.g., -1 + (-1) = -2) and lack identity.
+93::The function f(x) = 3x - 2 is::Bijective::Injective::Surjective::Both injective and surjective::D::f(x) = 3x - 2 is bijective over real numbers (one-to-one and onto).
+94::The relation “is a multiple of” on natural numbers is::Reflexive::Symmetric::Transitive::Equivalence relation::C::It is reflexive (a is a multiple of a) and transitive but not symmetric.
+95::The set of complex numbers under addition is::Abelian group::Non-abelian group::Not a group::Semigroup::A::Complex numbers are closed, associative, have identity (0), inverses, and commutative.
+96::The function f(x) = ln(x) has domain::All real numbers::Positive real numbers::Negative real numbers::Non-zero real numbers::B::ln(x) is defined only for x > 0.
+97::The range of f(x) = ln(x) is::All real numbers::Positive real numbers::Negative real numbers::Non-zero real numbers::A::The range of ln(x) is all real numbers, as ln(x) can take any value.
+98::The set {1, i, -1, -i} under multiplication is::Group::Not a group::Semigroup::Monoid::A::It is closed, associative, has identity (1), and inverses (e.g., i⁻¹ = -i).
+99::The function f(x) = x + 1/x from R - {0} to R is::Injective::Surjective::Bijective::Neither injective nor surjective::D::It is neither injective (e.g., f(1) = f(-1)) nor surjective (range excludes some values).
+100::The relation “has the same remainder when divided by 5” on integers is::Equivalence relation::Not reflexive::Not symmetric::Not transitive::A::It is reflexive, symmetric, and transitive, partitioning integers into residue classes.

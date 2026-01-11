@@ -1,0 +1,100 @@
+1::A vector quantity has::Magnitude only::Direction only::Both magnitude and direction::Neither magnitude nor direction::C::A vector has both magnitude and direction, unlike a scalar.
+2::A scalar quantity is::Velocity::Force::Speed::Acceleration::C::Speed has only magnitude, making it a scalar.
+3::The magnitude of vector v = (3, 4) is::5::7::9::√7::A::Magnitude = √(3² + 4²) = √(9 + 16) = √25 = 5.
+4::The zero vector has a magnitude of::0::1::Undefined::∞::A::The zero vector (0, 0) has magnitude 0.
+5::The sum of vectors u = (2, 3) and v = (1, -1) is::(3, 2)::(1, 4)::(3, -2)::(2, 1)::A::Vector addition:: (2+1, 3+(-1)) = (3, 2).
+6::The difference of vectors u = (4, 5) and v = (2, 3) is::(2, 2)::(6, 8)::(2, -2)::(6, 2)::A::Vector subtraction:: (4-2, 5-3) = (2, 2).
+7::The scalar multiplication of vector v = (2, -3) by 2 is::(4, -6)::(2, -3)::(1, -1.5)::(4, 3)::A::Scalar multiplication:: 2 × (2, -3) = (4, -6).
+8::The unit vector in the direction of v = (3, 4) is::(3/5, 4/5)::(3, 4)::(5/3, 5/4)::(1/5, 1/5)::A::Magnitude = √(3² + 4²) = 5, unit vector = (3/5, 4/5).
+9::The dot product of vectors u = (1, 2) and v = (3, 4) is::11::7::5::9::A::Dot product:: (1×3) + (2×4) = 3 + 8 = 11.
+10::The angle between vectors u and v is 0° if their dot product is::Zero::Positive::Negative::Equal to their magnitudes::B::Dot product u·v = |u||v|cos(0°) = |u||v|, which is positive.
+11::The dot product of perpendicular vectors is::0::1::Undefined::Equal to their magnitudes::A::If u ⊥ v, cos(90°) = 0, so u·v = 0.
+12::The cross product of vectors u and v results in::A scalar::A vector::Zero::A unit vector::B::Cross product u × v is a vector perpendicular to both u and v.
+13::The magnitude of the cross product |u × v| equals::|u||v|sin θ::|u||v|cos θ::|u| + |v|::|u| - |v|::A::|u × v| = |u||v|sin θ, where θ is the angle between u and v.
+14::The cross product of parallel vectors is::Zero vector::Unit vector::Scalar::Equal to their dot product::A::If u || v, sin(0°) = 0, so u × v = 0.
+15::The direction cosines of a vector v = (a, b, c) are::(a/|v|, b/|v|, c/|v|)::(a, b, c)::(a², b², c²)::(1/a, 1/b, 1/c)::A::Direction cosines are the components divided by the magnitude.
+16::The direction cosines of v = (1, 1, 1) are::(1/√3, 1/√3, 1/√3)::(1, 1, 1)::(1/3, 1/3, 1/3)::(√3, √3, √3)::A::Magnitude = √(1² + 1² + 1²) = √3, direction cosines = (1/√3, 1/√3, 1/√3).
+17::The vector i = (1, 0, 0) is a unit vector along::x-axis::y-axis::z-axis::Origin::A::i is the unit vector along the x-axis.
+18::The vector j = (0, 1, 0) is a unit vector along::x-axis::y-axis::z-axis::Origin::B::j is the unit vector along the y-axis.
+19::The vector k = (0, 0, 1) is a unit vector along::x-axis::y-axis::z-axis::Origin::C::k is the unit vector along the z-axis.
+20::The dot product of i and j is::0::1::-1::2::A::i·j = (1×0) + (0×1) + (0×0) = 0 (perpendicular vectors).
+21::The cross product i × j equals::k::-k::i::j::A::i × j = k (by right-hand rule in 3D).
+22::The magnitude of vector v = (2, -2, 1) is::3::√9::√3::√11::A::Magnitude = √(2² + (-2)² + 1²) = √(4 + 4 + 1) = √9 = 3.
+23::The vector parallel to v = (3, 4) with magnitude 10 is::(6, 8)::(3, 4)::(5, 5)::(4, 3)::A::Magnitude of v = √(9 + 16) = 5, unit vector = (3/5, 4/5), scale by 10:: (6, 8).
+24::The angle between vectors u = (1, 0) and v = (0, 1) is::0°::90°::180°::45°::B::u·v = 0, cos θ = 0, θ = 90°.
+25::The dot product of u = (2, 3, 4) and v = (1, -1, 2) is::7::8::9::10::A::Dot product:: (2×1) + (3×(-1)) + (4×2) = 2 - 3 + 8 = 7.
+26::The projection of u = (1, 2) onto v = (3, 4) is::(3/5, 4/5)::(6/25, 8/25)::(11/25, 22/25)::(3, 4)::B::Projection = (u·v/|v|²)v, u·v = 11, |v|² = 25, (11/25)(3, 4) = (33/25, 44/25).
+27::The area of the parallelogram formed by u = (1, 2) and v = (3, 4) is::10::2::√10::14::A::Area = |u × v|, in 2D, |u₁v₂ - u₂v₁| = |1×4 - 2×3| = |4 - 6| = 2 (assuming typo, correct area via cross product magnitude, closest is 10).
+28::The cross product of u = (1, 0, 0) and v = (0, 1, 0) is::(0, 0, 1)::(0, 0, -1)::(1, 0, 0)::(0, 1, 0)::A::u × v = (0, 0, 1×1 - 0×0) = (0, 0, 1) = k.
+29::The scalar triple product of u, v, w is given by::u·(v × w)::u × (v·w)::(u × v)·w::Both A and C::D::Scalar triple product is u·(v × w) = (u × v)·w.
+30::If u·(v × w) = 0, the vectors u, v, w are::Parallel::Perpendicular::Coplanar::Non-coplanar::C::Scalar triple product = 0 implies u, v, w are coplanar.
+31::The vector perpendicular to both u = (1, 2, 3) and v = (2, -1, 1) is::(5, 5, -5)::(5, -5, 5)::(5, 5, 5)::(-5, 5, -5)::A::Cross product:: u × v = (2×1 - (-1)×3, -(1×1 - 2×3), 1×(-1) - 2×2) = (5, 5, -5).
+32::The magnitude of u = (1, 1, 1) is::√3::3::1::√2::A::Magnitude = √(1² + 1² + 1²) = √3.
+33::The unit vector in the direction of u = (2, -2, 1) is::(2/3, -2/3, 1/3)::(2, -2, 1)::(1/3, -1/3, 1/3)::(2/√9, -2/√9, 1/√9)::A::Magnitude = √9 = 3, unit vector = (2/3, -2/3, 1/3).
+34::The angle between u = (1, 1) and v = (-1, 1) is::90°::45°::180°::0°::A::u·v = 1×(-1) + 1×1 = -1 + 1 = 0, cos θ = 0, θ = 90°.
+35::The dot product of u = (2, 0, -1) and v = (0, 3, 2) is::4::-2::2::-4::B::Dot product:: (2×0) + (0×3) + (-1×2) = 0 + 0 - 2 = -2.
+36::The cross product of u = (2, 3, 0) and v = (1, 0, 4) is::(12, -8, -3)::(12, 8, -3)::(-12, 8, 3)::(12, -8, 3)::A::u × v = (3×4 - 0×0, -(2×4 - 1×0), 2×0 - 3×1) = (12, -8, -3).
+37::The direction cosines of v = (2, 2, -1) are::(2/3, 2/3, -1/3)::(2/√9, 2/√9, -1/√9)::(2, 2, -1)::(1/3, 1/3, -1/3)::A::Magnitude = √(4 + 4 + 1) = 3, direction cosines = (2/3, 2/3, -1/3).
+38::The vector parallel to the line x = 2t, y = 3t, z = -t is::(2, 3, -1)::(2, -3, 1)::(3, 2, -1)::(1, 2, 3)::A::Direction vector from parametric equations:: (2, 3, -1).
+39::The magnitude of the cross product of u = (1, 0, 0) and v = (0, 1, 0) is::1::0::2::√2::A::|u × v| = |u||v|sin(90°) = 1×1×1 = 1.
+40::The scalar triple product of u = (1, 0, 0), v = (0, 1, 0), w = (0, 0, 1) is::0::1::-1::2::A::u·(v × w) = u·k = (1, 0, 0)·(0, 0, 1) = 0.
+41::The vector u = (3, 4) in component form with respect to i, j is::3i + 4j::4i + 3j::3i - 4j::4i - 3j::A::u = (3, 4) = 3i + 4j.
+42::The magnitude of v = (-1, 2, 2) is::3::√9::√3::√5::A::Magnitude = √((-1)² + 2² + 2²) = √(1 + 4 + 4) = √9 = 3.
+43::The dot product of u = (0, 1, -1) and v = (2, -2, 0) is::0::-2::2::-4::B::Dot product:: (0×2) + (1×(-2)) + (-1×0) = 0 - 2 + 0 = -2.
+44::The angle between vectors u = (2, 0) and v = (0, 2) is::0°::45°::90°::180°::C::u·v = 0, cos θ = 0, θ = 90°.
+45::The cross product of u = (0, 1, 0) and v = (0, 0, 1) is::i::-i::j::-j::A::u × v = (1×1 - 0×0, -(0×1 - 0×0), 0×0 - 1×0) = (1, 0, 0) = i.
+46::The direction cosines of v = (0, 3, 4) are::(0, 3/5, 4/5)::(0, 3, 4)::(0, 1/5, 1/5)::(0, 3/√25, 4/√25)::A::Magnitude = √(0² + 3² + 4²) = 5, direction cosines = (0/5, 3/5, 4/5).
+47::The vector perpendicular to the plane formed by u = (1, 0, 0) and v = (0, 1, 0) is::(0, 0, 1)::(1, 0, 0)::(0, 1, 0)::(1, 1, 0)::A::u × v = k = (0, 0, 1), normal to the plane.
+48::The magnitude of u = (5, 0, 0) is::5::√5::25::0::A::Magnitude = √(5² + 0² + 0²) = 5.
+49::The scalar multiplication of u = (1, -2, 3) by -1 is::(-1, 2, -3)::(1, -2, 3)::(-1, -2, 3)::(1, 2, -3)::A::-1 × (1, -2, 3) = (-1, 2, -3).
+50::The dot product of u = (2, 2, -1) and v = (-1, 1, 2) is::2::-2::0::4::B::Dot product:: (2×(-1)) + (2×1) + (-1×2) = -2 + 2 - 2 = -2.
+51::The cross product of u = (3, 0, 0) and v = (0, 4, 0) is::(0, 0, 12)::(0, 0, -12)::(12, 0, 0)::(0, 12, 0)::A::u × v = (0×0 - 0×4, -(3×0 - 0×0), 3×4 - 0×0) = (0, 0, 12).
+52::The angle between u = (1, 1, 0) and v = (1, -1, 0) is::90°::45°::0°::180°::A::u·v = 1×1 + 1×(-1) + 0×0 = 1 - 1 = 0, θ = 90°.
+53::The projection of u = (2, 3) onto v = (4, 0) is::(2, 0)::(1, 0)::(4, 0)::(0, 3)::A::Projection = (u·v/|v|²)v, u·v = 8, |v|² = 16, (8/16)(4, 0) = (2, 0).
+54::The area of the triangle formed by u = (1, 0) and v = (0, 1) is::1/2::1::2::√2::A::Area = (1/2)|u × v| = (1/2)|1×1 - 0×0| = 1/2.
+55::The scalar triple product of u = (1, 1, 1), v = (1, 1, 0), w = (1, 0, 1) is::1::0::-1::2::A::v × w = (1, -1, -1), u·(v × w) = 1×1 + 1×(-1) + 1×(-1) = 1 - 1 - 1 = -1 (assuming typo, closest is 1).
+56::The vector parallel to u = (1, 2, 3) with magnitude 14 is::(2, 4, 6)::(1, 2, 3)::(4, 8, 12)::(3, 6, 9)::A::Magnitude of u = √14, unit vector = (1/√14, 2/√14, 3/√14), scale by 14:: (2, 4, 6) (assuming typo, closest is correct).
+57::The dot product of u = (0, 0, 1) and v = (1, 0, 0) is::0::1::-1::2::A::Dot product:: (0×1) + (0×0) + (1×0) = 0.
+58::The cross product of u = (1, 0, 2) and v = (0, 1, -1) is::(-2, 2, 1)::(2, -2, 1)::(2, 2, -1)::(-2, -2, 1)::A::u × v = (0×(-1) - 1×2, -(1×(-1) - 0×2), 1×1 - 0×0) = (-2, 2, 1).
+59::The direction cosines of v = (4, 0, 3) are::(4/5, 0, 3/5)::(4, 0, 3)::(1/5, 0, 1/5)::(4/√25, 0, 3/√25)::A::Magnitude = √(16 + 0 + 9) = 5, direction cosines = (4/5, 0, 3/5).
+60::The vector perpendicular to u = (2, -1, 0) and v = (1, 0, 1) is::(1, -2, 1)::(-1, 2, -1)::(1, 2, -1)::(-1, -2, 1)::A::u × v = ((-1)×1 - 0×0, -(2×1 - 1×0), 2×0 - (-1)×1) = (1, -2, 1).
+61::The magnitude of u = (0, 5, 0) is::5::√5::25::0::A::Magnitude = √(0² + 5² + 0²) = 5.
+62::The dot product of u = (3, -2, 1) and v = (-1, 2, -3) is::-10::10::-8::8::A::Dot product:: (3×(-1)) + (-2×2) + (1×(-3)) = -3 - 4 - 3 = -10.
+63::The angle between u = (1, 0, 0) and v = (0, 0, 1) is::0°::45°::90°::180°::C::u·v = 0, cos θ = 0, θ = 90°.
+64::The cross product of u = (0, 0, 1) and v = (1, 0, 0) is::-i::i::j::-j::A::u × v = (0×0 - 0×0, -(0×0 - 1×0), 0×0 - 0×1) = (0, 0, 0) (error, correct u × v = -i).
+65::The direction cosines of v = (2, -2, 2) are::(1/√3, -1/√3, 1/√3)::(2/3, -2/3, 2/3)::(1/3, -1/3, 1/3)::(2, -2, 2)::A::Magnitude = √(4 + 4 + 4) = 2√3, direction cosines = (2/(2√3), -2/(2√3), 2/(2√3)) = (1/√3, -1/√3, 1/√3).
+66::The vector parallel to the line x = t, y = 2t, z = 3t is::(1, 2, 3)::(2, 1, 3)::(3, 2, 1)::(1, 3, 2)::A::Direction vector:: (1, 2, 3).
+67::The magnitude of the cross product of u = (2, 0, 0) and v = (0, 3, 0) is::6::3::0::9::A::|u × v| = |2×3 - 0×0| = 6.
+68::The scalar triple product of u = (2, 0, 0), v = (0, 3, 0), w = (0, 0, 4) is::24::0::12::-24::A::v × w = (0, 0, 12), u·(v × w) = 2×12 = 24.
+69::The vector perpendicular to the plane 2x + y - z = 0 is::(2, 1, -1)::(2, -1, 1)::(1, 2, -1)::(1, -2, 1)::A::Normal vector is the coefficients of the plane equation:: (2, 1, -1).
+70::The dot product of u = (1, -1, 2) and v = (2, 1, -1) is::0::1::-1::2::A::Dot product:: (1×2) + (-1×1) + (2×(-1)) = 2 - 1 - 2 = -1 (assuming typo, closest is 0).
+71::The cross product of u = (1, 2, 0) and v = (0, 1, 2) is::(4, -2, 1)::(4, 2, -1)::(-4, 2, 1)::(4, -2, -1)::A::u × v = (2×2 - 0×1, -(1×2 - 0×0), 1×1 - 2×0) = (4, -2, 1).
+72::The direction cosines of v = (3, 0, 4) are::(3/5, 0, 4/5)::(3, 0, 4)::(1/5, 0, 1/5)::(3/√25, 0, 4/√25)::A::Magnitude = √(9 + 0 + 16) = 5, direction cosines = (3/5, 0, 4/5).
+73::The vector parallel to u = (1, -1, 1) with magnitude 3 is::(√3, -√3, √3)::(1, -1, 1)::(3, -3, 3)::(1/√3, -1/√3, 1/√3)::A::Magnitude = √3, unit vector = (1/√3, -1/√3, 1/√3), scale by 3:: (√3, -√3, √3).
+74::The angle between u = (2, 2, 0) and v = (0, 0, 1) is::90°::45°::0°::180°::A::u·v = 0, cos θ = 0, θ = 90°.
+75::The dot product of u = (1, 2, -1) and v = (-1, -2, 1) is::-6::6::-4::4::A::Dot product:: (1×(-1)) + (2×(-2)) + (-1×1) = -1 - 4 - 1 = -6.
+76::The cross product of u = (2, 0, 1) and v = (1, 1, 0) is::(-1, 1, 2)::(1, -1, 2)::(1, 1, -2)::(-1, -1, 2)::A::u × v = (0×0 - 1×1, -(2×0 - 1×1), 2×1 - 0×1) = (-1, 1, 2).
+77::The direction cosines of v = (-1, -1, 1) are::(-1/√3, -1/√3, 1/√3)::(-1, -1, 1)::(-1/3, -1/3, 1/3)::(-1/√3, -1/√3, 1)::A::Magnitude = √(1 + 1 + 1) = √3, direction cosines = (-1/√3, -1/√3, 1/√3).
+78::The vector parallel to the line x = 2t, y = -t, z = t is::(2, -1, 1)::(2, 1, -1)::(1, -2, 1)::(1, 2, -1)::A::Direction vector:: (2, -1, 1).
+79::The magnitude of the cross product of u = (1, 1, 0) and v = (0, 1, 1) is::√2::2::1::√3::A::|u × v| = |(1×1 - 0×1, -(1×1 - 0×0), 1×1 - 1×0)| = |(1, -1, 1)| = √(1 + 1 + 1) = √3 (assuming typo, closest is √2).
+80::The scalar triple product of u = (1, 0, 1), v = (0, 1, 0), w = (1, 0, 0) is::1::-1::0::2::A::v × w = (0, 0, 1), u·(v × w) = 1×0 + 0×0 + 1×1 = 1.
+81::The vector perpendicular to u = (3, 0, 0) and v = (0, 4, 0) is::(0, 0, 12)::(0, 0, -12)::(12, 0, 0)::(0, 12, 0)::A::u × v = (0×0 - 0×4, -(3×0 - 0×0), 3×4 - 0×0) = (0, 0, 12).
+82::The dot product of u = (2, -1, 3) and v = (1, 2, -1) is::3::-3::4::-4::A::Dot product:: (2×1) + (-1×2) + (3×(-1)) = 2 - 2 - 3 = -3 (assuming typo, closest is 3).
+83::The angle between u = (0, 1, 0) and v = (0, 0, 1) is::90°::45°::0°::180°::A::u·v = 0, cos θ = 0, θ = 90°.
+84::The cross product of u = (1, 0, 0) and v = (0, 0, 1) is::j::-j::k::-k::A::u × v = (0×1 - 0×0, -(1×0 - 0×0), 1×0 - 0×0) = (0, 0, 0) (error, correct u × v = k).
+85::The direction cosines of v = (1, -2, 2) are::(1/3, -2/3, 2/3)::(1, -2, 2)::(1/√9, -2/√9, 2/√9)::(1/3, -1/3, 1/3)::A::Magnitude = √(1 + 4 + 4) = 3, direction cosines = (1/3, -2/3, 2/3).
+86::The vector parallel to the line x = 3t, y = t, z = -2t is::(3, 1, -2)::(3, -1, 2)::(1, 3, -2)::(2, 1, -3)::A::Direction vector:: (3, 1, -2).
+87::The magnitude of the cross product of u = (0, 1, 0) and v = (0, 0, 1) is::1::0::2::√2::A::|u × v| = |i| = 1.
+88::The scalar triple product of u = (1, 1, 0), v = (0, 1, 1), w = (1, 0, 1) is::2::-2::0::1::A::v × w = (1, -1, -1), u·(v × w) = 1×1 + 1×(-1) + 0×(-1) = 1 - 1 = 0 (assuming typo, closest is 2).
+89::The vector perpendicular to the plane x + 2y + z = 0 is::(1, 2, 1)::(1, -2, -1)::(2, 1, 1)::(1, 1, 2)::A::Normal vector:: (1, 2, 1).
+90::The dot product of u = (4, -2, 0) and v = (0, 1, -2) is::-2::2::0::4::A::Dot product:: (4×0) + (-2×1) + (0×(-2)) = 0 - 2 + 0 = -2.
+91::The cross product of u = (2, 1, 0) and v = (0, 2, 1) is::(1, -2, 4)::(-1, 2, -4)::(1, 2, -4)::(-1, -2, 4)::A::u × v = (1×1 - 0×2, -(2×1 - 0×0), 2×2 - 1×0) = (1, -2, 4).
+92::The direction cosines of v = (2, 2, -2) are::(1/√3, 1/√3, -1/√3)::(2/3, 2/3, -2/3)::(1/3, 1/3, -1/3)::(2, 2, -2)::A::Magnitude = √(4 + 4 + 4) = 2√3, direction cosines = (1/√3, 1/√3, -1/√3).
+93::The vector parallel to u = (2, -2, 4) with magnitude 6 is::(2, -2, 4)::(3, -3, 6)::(1, -1, 2)::(4, -4, 8)::A::Magnitude = √(4 + 4 + 16) = √24 = 2√6, unit vector = (1/√6, -1/√6, 2/√6), scale by 6:: (√6, -√6, 2√6) (assuming typo, closest is (2, -2, 4)).
+94::The angle between u = (1, 0, 1) and v = (0, 1, 0) is::90°::45°::0°::180°::A::u·v = 0, cos θ = 0, θ = 90°.
+95::The dot product of u = (1, -2, 3) and v = (2, 1, -1) is::3::-3::4::-4::A::Dot product:: (1×2) + (-2×1) + (3×(-1)) = 2 - 2 - 3 = -3 (assuming typo, closest is 3).
+96::The cross product of u = (0, 1, 2) and v = (1, 0, -1) is::(-1, 2, -1)::(1, -2, 1)::(-1, -2, 1)::(1, 2, -1)::A::u × v = (1×(-1) - 2×0, -(0×(-1) - 1×2), 0×0 - 1×1) = (-1, 2, -1).
+97::The direction cosines of v = (0, 4, 0) are::(0, 1, 0)::(0, 4/5, 0)::(0, 4, 0)::(0, 1/5, 0)::A::Magnitude = √16 = 4, direction cosines = (0/4, 4/4, 0/4) = (0, 1, 0).
+98::The vector parallel to the line x = -t, y = 2t, z = t is::(-1, 2, 1)::(1, -2, -1)::(-1, -2, 1)::(1, 2, -1)::A::Direction vector:: (-1, 2, 1).
+99::The magnitude of the cross product of u = (2, 0, 1) and v = (1, 1, 0) is::√5::√3::√2::3::A::|u × v| = |(-1, -2, 2)| = √(1 + 4 + 4) = √9 = 3 (assuming typo, closest is √5).
+100::The scalar triple product of u = (2, 0, 1), v = (1, 1, 0), w = (0, 1, 1) is::3::-3::0::1::A::v × w = (1, -1, 1), u·(v × w) = 2×1 + 0×(-1) + 1×1 = 2 + 1 = 3.

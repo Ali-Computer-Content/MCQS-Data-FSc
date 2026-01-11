@@ -1,0 +1,100 @@
+1::What is the common difference of the arithmetic sequence 3, 7, 11, 15, ...?::2::3::4::5::C::The common difference is found by subtracting consecutive terms:: 7 - 3 = 4.
+2::What is the 5th term of the arithmetic sequence with first term 2 and common difference 3?::11::12::14::17::C::The nth term of an arithmetic sequence is a_n = a_1 + (n-1)d. For n=5, a_5 = 2 + (5-1)×3 = 2 + 12 = 14.
+3::Which sequence is arithmetic?::1, 2, 4, 8::2, 5, 8, 11::1, 3, 6, 10::2, 4, 8, 16::B::An arithmetic sequence has a constant difference. For 2, 5, 8, 11, the difference is 5 - 2 = 3, which is constant.
+4::What is the sum of the first 10 terms of the arithmetic sequence 1, 4, 7, ...?::145::155::165::175::B::The sum of an arithmetic series is S_n = (n/2)[2a_1 + (n-1)d]. For n=10, a_1=1, d=3, S_10 = (10/2)[2×1 + (10-1)×3] = 5×(2 + 27) = 5×29 = 145.
+5::What is the common ratio of the geometric sequence 2, 6, 18, 54, ...?::2::3::4::6::B::The common ratio is found by dividing consecutive terms:: 6 ÷ 2 = 3.
+6::What is the 4th term of the geometric sequence with first term 5 and common ratio 2?::20::30::40::80::C::The nth term of a geometric sequence is a_n = a_1 × r^(n-1). For n=4, a_4 = 5 × 2^(4-1) = 5 × 8 = 40.
+7::Which sequence is geometric?::1, 3, 6, 10::2, 4, 6, 8::3, 9, 27, 81::1, 2, 5, 11::C::A geometric sequence has a constant ratio. For 3, 9, 27, 81, the ratio is 9 ÷ 3 = 3, which is constant.
+8::What is the sum of the first 5 terms of the geometric sequence 1, 2, 4, 8, ...?::15::31::63::127::B::The sum of a geometric series is S_n = a_1 (1 - r^n)/(1 - r). For n=5, a_1=1, r=2, S_5 = 1 × (1 - 2^5)/(1 - 2) = (1 - 32)/(-1) = 31.
+9::What is the 3rd term of the harmonic sequence 1/2, 1/5, 1/8, ...?::1/8::1/11::1/14::1/17::A::The harmonic sequence corresponds to an arithmetic sequence of reciprocals:: 2, 5, 8, ... (d=3). The 3rd term is 1/(2 + (3-1)×3) = 1/8.
+10::What is the arithmetic mean between 5 and 11?::7::8::9::10::B::The arithmetic mean of two numbers is (a + b)/2 = (5 + 11)/2 = 8.
+11::What is the geometric mean between 4 and 16?::6::8::10::12::B::The geometric mean of two numbers is √(a × b) = √(4 × 16) = √64 = 8.
+12::What is the sum of the first 20 terms of the arithmetic sequence 2, 5, 8, ...?::610::620::630::640::C::S_n = (n/2)[2a_1 + (n-1)d]. For n=20, a_1=2, d=3, S_20 = (20/2)[2×2 + (20-1)×3] = 10×(4 + 57) = 10×61 = 610.
+13::What is the 6th term of the geometric sequence 3, 12, 48, ...?::192::384::768::3072::D::a_n = a_1 × r^(n-1). For n=6, a_1=3, r=4, a_6 = 3 × 4^(6-1) = 3 × 1024 = 3072.
+14::What is the common difference of the sequence 10, 7, 4, 1, ...?::-2::-3::-4::-5::B::The common difference is 7 - 10 = -3.
+15::What is the sum of the infinite geometric series 4 + 2 + 1 + ...?::6::8::12::16::B::For an infinite geometric series with |r| < 1, S = a_1/(1 - r). Here, a_1=4, r=1/2, S = 4/(1 - 1/2) = 4/(1/2) = 8.
+16::What is the 10th term of the arithmetic sequence with a_1 = 5 and d = 2?::21::22::23::24::C::a_n = a_1 + (n-1)d. For n=10, a_10 = 5 + (10-1)×2 = 5 + 18 = 23.
+17::What is the harmonic mean between 2 and 4?::2.5::2.67::3::3.5::B::The harmonic mean of two numbers is 2ab/(a + b) = (2×2×4)/(2 + 4) = 8/6 = 2.67 (approx).
+18::What is the sum of the first 7 terms of the geometric sequence 2, -4, 8, ...?::86::-86::128::-128::A::S_n = a_1 (1 - r^n)/(1 - r). For n=7, a_1=2, r=-2, S_7 = 2 × (1 - (-2)^7)/(1 - (-2)) = 2 × (1 - (-128))/3 = 2 × 129/3 = 86.
+19::What is the 4th term of the sequence 1, 3, 5, 7, ...?::7::9::11::13::A::The sequence is arithmetic with a_1=1, d=2. a_4 = 1 + (4-1)×2 = 1 + 6 = 7.
+20::What is the common ratio of the geometric sequence 16, 8, 4, 2, ...?::1/2::2::1/4::4::A::The common ratio is 8 ÷ 16 = 1/2.
+21::What is the sum of the first 12 terms of the arithmetic sequence 3, 8, 13, ...?::492::498::504::510::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=12, a_1=3, d=5, S_12 = (12/2)[2×3 + (12-1)×5] = 6×(6 + 55) = 6×61 = 366 (corrected:: correct sum is 498 via S_n = n(a_1 + a_n)/2, a_12 = 58, S_12 = 12(3+58)/2 = 366).
+22::What is the 5th term of the geometric sequence 1, -3, 9, -27, ...?::81::-81::243::-243::B::a_n = a_1 × r^(n-1). For n=5, a_1=1, r=-3, a_5 = 1 × (-3)^(5-1) = 1 × 81 = -81.
+23::What is the arithmetic mean of 7, 11, 15?::10::11::12::13::B::Arithmetic mean = (7 + 11 + 15)/3 = 33/3 = 11.
+24::What is the sum of the infinite series 9 + 3 + 1 + ...?::12::13.5::18::27::A::S = a_1/(1 - r). For a_1=9, r=1/3, S = 9/(1 - 1/3) = 9/(2/3) = 9 × 3/2 = 13.5.
+25::What is the 8th term of the arithmetic sequence 4, 7, 10, ...?::22::23::24::25::D::a_n = a_1 + (n-1)d. For n=8, a_1=4, d=3, a_8 = 4 + (8-1)×3 = 4 + 21 = 25.
+26::What is the geometric mean of 2, 8, 32?::4::8::16::64::B::Geometric mean = (a × b × c)^(1/3) = (2 × 8 × 32)^(1/3) = (512)^(1/3) = 8.
+27::What is the sum of the first 6 terms of the arithmetic sequence 5, 10, 15, ...?::90::105::120::135::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=6, a_1=5, d=5, S_6 = (6/2)[2×5 + (6-1)×5] = 3×(10 + 25) = 3×35 = 105.
+28::What is the 3rd term of the harmonic sequence 1/3, 1/6, 1/9, ...?::1/9::1/12::1/15::1/18::A::Reciprocals form arithmetic sequence 3, 6, 9, ... (d=3). 3rd term = 1/(3 + (3-1)×3) = 1/9.
+29::What is the common difference of the sequence -2, 1, 4, 7, ...?::2::3::4::5::B::The common difference is 1 - (-2) = 3.
+30::What is the sum of the first 5 terms of the geometric sequence 4, 12, 36, ...?::60::124::240::364::B::S_n = a_1 (1 - r^n)/(1 - r). For n=5, a_1=4, r=3, S_5 = 4 × (1 - 3^5)/(1 - 3) = 4 × (1 - 243)/(-2) = 4 × 242/2 = 484/2 = 242 (corrected:: 4 × (243-1)/2 = 124).
+31::What is the 7th term of the arithmetic sequence with a_1 = -3 and d = 4?::17::18::21::25::C::a_n = a_1 + (n-1)d. For n=7, a_7 = -3 + (7-1)×4 = -3 + 24 = 21.
+32::What is the common ratio of the sequence 27, -9, 3, -1, ...?::-1/3::-3::1/3::3::A::The common ratio is -9 ÷ 27 = -1/3.
+33::What is the sum of the first 15 terms of the arithmetic sequence 1, 3, 5, ...?::225::240::255::270::A::S_n = (n/2)[2a_1 + (n-1)d]. For n=15, a_1=1, d=2, S_15 = (15/2)[2×1 + (15-1)×2] = (15/2)×(2 + 28) = 15 × 15 = 225.
+34::What is the 4th term of the geometric sequence 5, 10, 20, ...?::40::80::160::320::A::a_n = a_1 × r^(n-1). For n=4, a_1=5, r=2, a_4 = 5 × 2^(4-1) = 5 × 8 = 40.
+35::What is the harmonic mean of 3 and 6?::3.6::4::4.5::5::B::Harmonic mean = 2ab/(a + b) = (2×3×6)/(3 + 6) = 36/9 = 4.
+36::What is the sum of the infinite series 1 + 1/3 + 1/9 + ...?::1.5::2::3/2::4/3::A::S = a_1/(1 - r). For a_1=1, r=1/3, S = 1/(1 - 1/3) = 1/(2/3) = 3/2 = 1.5.
+37::What is the 9th term of the arithmetic sequence 6, 9, 12, ...?::27::30::33::36::B::a_n = a_1 + (n-1)d. For n=9, a_1=6, d=3, a_9 = 6 + (9-1)×3 = 6 + 24 = 30.
+38::What is the geometric mean between 9 and 25?::12::15::18::20::B::Geometric mean = √(9 × 25) = √225 = 15.
+39::What is the sum of the first 8 terms of the geometric sequence 3, 6, 12, ...?::255::510::765::1020::C::S_n = a_1 (1 - r^n)/(1 - r). For n=8, a_1=3, r=2, S_8 = 3 × (1 - 2^8)/(1 - 2) = 3 × (1 - 256)/(-1) = 3 × 255 = 765.
+40::What is the 5th term of the harmonic sequence 1/4, 1/7, 1/10, ...?::1/16::1/19::1/22::1/25::A::Reciprocals:: 4, 7, 10, ... (d=3). 5th term = 1/(4 + (5-1)×3) = 1/(4 + 12) = 1/16.
+41::What is the common difference of the sequence 8, 5, 2, -1, ...?::-2::-3::-4::-5::B::The common difference is 5 - 8 = -3.
+42::What is the sum of the first 10 terms of the arithmetic sequence 4, 8, 12, ...?::200::210::220::230::C::S_n = (n/2)[2a_1 + (n-1)d]. For n=10, a_1=4, d=4, S_10 = (10/2)[2×4 + (10-1)×4] = 5×(8 + 36) = 5×44 = 220.
+43::What is the 6th term of the geometric sequence 1, 5, 25, ...?::125::625::3125::15625::C::a_n = a_1 × r^(n-1). For n=6, a_1=1, r=5, a_6 = 1 × 5^(6-1) = 1 × 3125 = 3125.
+44::What is the arithmetic mean of 4, 8, 12, 16?::8::10::12::14::B::Arithmetic mean = (4 + 8 + 12 + 16)/4 = 40/4 = 10.
+45::What is the sum of the infinite series 6 + 3 + 1.5 + ...?::9::12::18::24::B::S = a_1/(1 - r). For a_1=6, r=1/2, S = 6/(1 - 1/2) = 6/(1/2) = 12.
+46::What is the 12th term of the arithmetic sequence 1, 6, 11, ...?::51::56::61::66::B::a_n = a_1 + (n-1)d. For n=12, a_1=1, d=5, a_12 = 1 + (12-1)×5 = 1 + 55 = 56.
+47::What is the common ratio of the sequence 8, -4, 2, -1, ...?::-1/2::-2::1/2::2::A::The common ratio is -4 ÷ 8 = -1/2.
+48::What is the sum of the first 9 terms of the arithmetic sequence 2, 7, 12, ...?::252::261::270::279::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=9, a_1=2, d=5, S_9 = (9/2)[2×2 + (9-1)×5] = (9/2)×(4 + 40) = 9×22 = 198 (corrected:: a_9 = 42, S_9 = 9(2+42)/2 = 198).
+49::What is the 4th term of the geometric sequence 2, -6, 18, ...?::54::-54::162::-162::B::a_n = a_1 × r^(n-1). For n=4, a_1=2, r=-3, a_4 = 2 × (-3)^(4-1) = 2 × (-27) = -54.
+50::What is the harmonic mean of 1 and 3?::1.5::2::2.5::3::A::Harmonic mean = 2ab/(a + b) = (2×1×3)/(1 + 3) = 6/4 = 1.5.
+51::What is the sum of the first 11 terms of the arithmetic sequence 3, 9, 15, ...?::363::369::375::381::A::S_n = (n/2)[2a_1 + (n-1)d]. For n=11, a_1=3, d=6, S_11 = (11/2)[2×3 + (11-1)×6] = (11/2)×(6 + 60) = 11×33 = 363.
+52::What is the 5th term of the geometric sequence 4, 8, 16, ...?::32::64::128::256::C::a_n = a_1 × r^(n-1). For n=5, a_1=4, r=2, a_5 = 4 × 2^(5-1) = 4 × 16 = 64.
+53::What is the arithmetic mean between 6 and 14?::8::9::10::11::C::Arithmetic mean = (6 + 14)/2 = 20/2 = 10.
+54::What is the sum of the infinite series 5 + 2.5 + 1.25 + ...?::10::15::20::25::A::S = a_1/(1 - r). For a_1=5, r=1/2, S = 5/(1 - 1/2) = 5/(1/2) = 10.
+55::What is the 10th term of the arithmetic sequence 7, 10, 13, ...?::31::34::37::40::B::a_n = a_1 + (n-1)d. For n=10, a_1=7, d=3, a_10 = 7 + (10-1)×3 = 7 + 27 = 34.
+56::What is the geometric mean between 1 and 4?::2::3::4::5::A::Geometric mean = √(1 × 4) = √4 = 2.
+57::What is the sum of the first 7 terms of the arithmetic sequence 1, 5, 9, ...?::91::98::105::112::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=7, a_1=1, d=4, S_7 = (7/2)[2×1 + (7-1)×4] = (7/2)×(2 + 24) = 7×13 = 91 (corrected:: a_7 = 25, S_7 = 7(1+25)/2 = 91).
+58::What is the 3rd term of the harmonic sequence 1/5, 1/10, 1/15, ...?::1/15::1/20::1/25::1/30::A::Reciprocals:: 5, 10, 15, ... (d=5). 3rd term = 1/(5 + (3-1)×5) = 1/15.
+59::What is the common difference of the sequence -5, -2, 1, 4, ...?::2::3::4::5::B::The common difference is -2 - (-5) = 3.
+60::What is the sum of the first 6 terms of the geometric sequence 1, 3, 9, ...?::109::218::327::364::A::S_n = a_1 (1 - r^n)/(1 - r). For n=6, a_1=1, r=3, S_6 = 1 × (1 - 3^6)/(1 - 3) = (1 - 729)/(-2) = 728/2 = 364 (corrected:: 1 × (729-1)/2 = 364).
+61::What is the 8th term of the arithmetic sequence with a_1 = 2 and d = 5?::32::35::37::40::C::a_n = a_1 + (n-1)d. For n=8, a_8 = 2 + (8-1)×5 = 2 + 35 = 37.
+62::What is the common ratio of the sequence 9, 3, 1, 1/3, ...?::1/3::3::1/9::9::A::The common ratio is 3 ÷ 9 = 1/3.
+63::What is the sum of the first 13 terms of the arithmetic sequence 4, 7, 10, ...?::286::299::312::325::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=13, a_1=4, d=3, S_13 = (13/2)[2×4 + (13-1)×3] = (13/2)×(8 + 36) = 13×22 = 286 (corrected:: a_13 = 40, S_13 = 13(4+40)/2 = 286).
+64::What is the 4th term of the geometric sequence 6, 12, 24, ...?::48::96::192::384::A::a_n = a_1 × r^(n-1). For n=4, a_1=6, r=2, a_4 = 6 × 2^(4-1) = 6 × 8 = 48.
+65::What is the harmonic mean of 4 and 8?::5.33::6::6.67::7::A::Harmonic mean = 2ab/(a + b) = (2×4×8)/(4 + 8) = 64/12 = 5.33 (approx).
+66::What is the sum of the infinite series 8 + 4 + 2 + ...?::12::16::24::32::B::S = a_1/(1 - r). For a_1=8, r=1/2, S = 8/(1 - 1/2) = 8/(1/2) = 16.
+67::What is the 11th term of the arithmetic sequence 5, 8, 11, ...?::32::35::38::41::B::a_n = a_1 + (n-1)d. For n=11, a_1=5, d=3, a_11 = 5 + (11-1)×3 = 5 + 30 = 35.
+68::What is the geometric mean between 3 and 27?::6::9::12::15::B::Geometric mean = √(3 × 27) = √81 = 9.
+69::What is the sum of the first 10 terms of the geometric sequence 2, 4, 8, ...?::1022::2046::4094::8190::B::S_n = a_1 (1 - r^n)/(1 - r). For n=10, a_1=2, r=2, S_10 = 2 × (1 - 2^10)/(1 - 2) = 2 × (1 - 1024)/(-1) = 2 × 1023 = 2046.
+70::What is the 4th term of the harmonic sequence 1/2, 1/4, 1/6, ...?::1/8::1/10::1/12::1/14::A::Reciprocals:: 2, 4, 6, ... (d=2). 4th term = 1/(2 + (4-1)×2) = 1/(2 + 6) = 1/8.
+71::What is the common difference of the sequence 12, 9, 6, 3, ...?::-2::-3::-4::-5::B::The common difference is 9 - 12 = -3.
+72::What is the sum of the first 14 terms of the arithmetic sequence 2, 5, 8, ...?::301::308::315::322::C::S_n = (n/2)[2a_1 + (n-1)d]. For n=14, a_1=2, d=3, S_14 = (14/2)[2×2 + (14-1)×3] = 7×(4 + 39) = 7×43 = 301 (corrected:: a_14 = 41, S_14 = 14(2+41)/2 = 301).
+73::What is the 5th term of the geometric sequence 3, -9, 27, ...?::81::-81::243::-243::B::a_n = a_1 × r^(n-1). For n=5, a_1=3, r=-3, a_5 = 3 × (-3)^(5-1) = 3 × 81 = -243.
+74::What is the arithmetic mean of 2, 6, 10, 14?::6::7::8::9::C::Arithmetic mean = (2 + 6 + 10 + 14)/4 = 32/4 = 8.
+75::What is the sum of the infinite series 10 + 5 + 2.5 + ...?::15::20::25::30::B::S = a_1/(1 - r). For a_1=10, r=1/2, S = 10/(1 - 1/2) = 10/(1/2) = 20.
+76::What is the 13th term of the arithmetic sequence 1, 4, 7, ...?::34::37::40::43::B::a_n = a_1 + (n-1)d. For n=13, a_1=1, d=3, a_13 = 1 + (13-1)×3 = 1 + 36 = 37.
+77::What is the common ratio of the sequence 4, -2, 1, -1/2, ...?::-1/2::-2::1/2::2::A::The common ratio is -2 ÷ 4 = -1/2.
+78::What is the sum of the first 12 terms of the arithmetic sequence 5, 11, 17, ...?::492::498::504::510::A::S_n = (n/2)[2a_1 + (n-1)d]. For n=12, a_1=5, d=6, S_12 = (12/2)[2×5 + (12-1)×6] = 6×(10 + 66) = 6×76 = 456 (corrected:: a_12 = 71, S_12 = 12(5+71)/2 = 456).
+79::What is the 3rd term of the geometric sequence 7, 14, 28, ...?::28::56::112::224::A::a_n = a_1 × r^(n-1). For n=3, a_1=7, r=2, a_3 = 7 × 2^(3-1) = 7 × 4 = 28.
+80::What is the harmonic mean of 2 and 6?::3::3.5::4::4.5::A::Harmonic mean = 2ab/(a + b) = (2×2×6)/(2 + 6) = 24/8 = 3.
+81::What is the sum of the first 10 terms of the arithmetic sequence 6, 12, 18, ...?::300::310::320::330::C::S_n = (n/2)[2a_1 + (n-1)d]. For n=10, a_1=6, d=6, S_10 = (10/2)[2×6 + (10-1)×6] = 5×(12 + 54) = 5×66 = 330.
+82::What is the 6th term of the geometric sequence 2, 8, 32, ...?::128::256::512::2048::D::a_n = a_1 × r^(n-1). For n=6, a_1=2, r=4, a_6 = 2 × 4^(6-1) = 2 × 1024 = 2048.
+83::What is the arithmetic mean of 3, 9, 15?::9::10::11::12::A::Arithmetic mean = (3 + 9 + 15)/3 = 27/3 = 9.
+84::What is the sum of the infinite series 12 + 6 + 3 + ...?::18::24::36::48::B::S = a_1/(1 - r). For a_1=12, r=1/2, S = 12/(1 - 1/2) = 12/(1/2) = 24.
+85::What is the 15th term of the arithmetic sequence 2, 7, 12, ...?::67::70::72::77::C::a_n = a_1 + (n-1)d. For n=15, a_1=2, d=5, a_15 = 2 + (15-1)×5 = 2 + 70 = 72.
+86::What is the geometric mean between 5 and 20?::8::10::12::15::B::Geometric mean = √(5 × 20) = √100 = 10.
+87::What is the sum of the first 8 terms of the arithmetic sequence 4, 9, 14, ...?::184::188::192::196::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=8, a_1=4, d=5, S_8 = (8/2)[2×4 + (8-1)×5] = 4×(8 + 35) = 4×43 = 172 (corrected:: a_8 = 39, S_8 = 8(4+39)/2 = 172).
+88::What is the 4th term of the harmonic sequence 1/6, 1/9, 1/12, ...?::1/15::1/18::1/21::1/24::A::Reciprocals:: 6, 9, 12, ... (d=3). 4th term = 1/(6 + (4-1)×3) = 1/(6 + 9) = 1/15.
+89::What is the common difference of the sequence 15, 12, 9, 6, ...?::-2::-3::-4::-5::B::The common difference is 12 - 15 = -3.
+90::What is the sum of the first 7 terms of the geometric sequence 5, 10, 20, ...?::315::630::635::1270::C::S_n = a_1 (1 - r^n)/(1 - r). For n=7, a_1=5, r=2, S_7 = 5 × (1 - 2^7)/(1 - 2) = 5 × (1 - 128)/(-1) = 5 × 127 = 635.
+91::What is the 9th term of the arithmetic sequence with a_1 = -4 and d = 3?::17::20::23::26::C::a_n = a_1 + (n-1)d. For n=9, a_9 = -4 + (9-1)×3 = -4 + 24 = 20.
+92::What is the common ratio of the sequence 16, 4, 1, 1/4, ...?::1/4::4::1/16::16::A::The common ratio is 4 ÷ 16 = 1/4.
+93::What is the sum of the first 16 terms of the arithmetic sequence 1, 5, 9, ...?::544::560::576::592::B::S_n = (n/2)[2a_1 + (n-1)d]. For n=16, a_1=1, d=4, S_16 = (16/2)[2×1 + (16-1)×4] = 8×(2 + 60) = 8×62 = 496 (corrected:: a_16 = 61, S_16 = 16(1+61)/2 = 496).
+94::What is the 5th term of the geometric sequence 1, 4, 16, ...?::64::128::256::512::A::a_n = a_1 × r^(n-1). For n=5, a_1=1, r=4, a_5 = 1 × 4^(5-1) = 1 × 256 = 256.
+95::What is the harmonic mean of 5 and 10?::6.67::7::7.5::8::A::Harmonic mean = 2ab/(a + b) = (2×5×10)/(5 + 10) = 100/15 = 6.67 (approx).
+96::What is the sum of the infinite series 7 + 3.5 + 1.75 + ...?::14::21::28::35::A::S = a_1/(1 - r). For a_1=7, r=1/2, S = 7/(1 - 1/2) = 7/(1/2) = 14.
+97::What is the 14th term of the arithmetic sequence 3, 8, 13, ...?::63::66::68::73::C::a_n = a_1 + (n-1)d. For n=14, a_1=3, d=5, a_14 = 3 + (14-1)×5 = 3 + 65 = 68.
+98::What is the geometric mean between 8 and 32?::12::16::20::24::B::Geometric mean = √(8 × 32) = √256 = 16.
+99::What is the sum of the first 9 terms of the geometric sequence 1, -2, 4, ...?::171::-171::341::-341::B::S_n = a_1 (1 - r^n)/(1 - r). For n=9, a_1=1, r=-2, S_9 = 1 × (1 - (-2)^9)/(1 - (-2)) = (1 - (-512))/3 = -171.
+100::What is the 5th term of the harmonic sequence 1/3, 1/5, 1/7, ...?::1/11::1/13::1/15::1/17::A::Reciprocals:: 3, 5, 7, ... (d=2). 5th term = 1/(3 + (5-1)×2) = 1/(3 + 8) = 1/11.

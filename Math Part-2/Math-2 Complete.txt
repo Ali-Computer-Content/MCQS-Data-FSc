@@ -1,0 +1,200 @@
+1,The limit of (x² − 1)/(x − 1) as x approaches 1 is?,2,1,0,undefined,A
+2,The derivative of f(x) = 3x² + 2x − 1 is?,6x + 2,3x + 2,6x − 1,3x − 1,A
+3,The integral of 2x dx is?,x² + C,2x² + C,x²/2 + C,2x + C,A
+4,The slope of the tangent to the curve y = x³ at x = 2 is?,12,6,8,24,A
+5,The equation of the line tangent to y = x² at the point (1, 1) is?,y = 2x − 1,y = x − 1,y = 2x + 1,y = x + 1,A
+6,The general form of the equation of a parabola with vertex at (h, k) is?,(x − h)² = 4p(y − k),(y − k)² = 4p(x − h),x² = 4py,y² = 4px,A
+7,The magnitude of the vector v = <3, 4> is?,5,7,√7,√25,A
+8,The dot product of vectors <1, 2> and <3, 4> is?,11,7,9,5,A
+9,The focus of the parabola y² = 8x is?,(2, 0),(0, 2),(4, 0),(0, 4),A
+10,The derivative of f(x) = sin x is?,cos x,−sin x,−cos x,sin x,A
+11,The integral of cos x dx is?,sin x + C,−sin x + C,cos x + C,−cos x + C,A
+12,The limit of (sin x)/x as x approaches 0 is?,1,0,undefined,∞,A
+13,The eccentricity of a circle is?,0,1,2,undefined,A
+14,The derivative of f(x) = e^x is?,e^x,xe^x,e^(x+1),1/e^x,A
+15,The solution to the differential equation dy/dx = 2x is?,y = x² + C,y = 2x + C,y = x²/2 + C,y = 2x² + C,A
+16,The center of the ellipse 4x² + 9y² = 36 is?,(0, 0),(2, 3),(3, 2),(1, 1),A
+17,The scalar product of a vector with itself is equal to?,Its magnitude,Its square magnitude,Zero,Its direction,B
+18,The derivative of f(x) = ln x is?,1/x,x,−1/x,1/x²,A
+19,The integral of 1/x dx is?,ln |x| + C,x + C,−1/x + C,1/x² + C,A
+20,The slope of the normal to the curve y = x² − 2x at x = 1 is?,−1/2,1/2,−2,2,A
+21,The equation of a hyperbola with center at (0, 0) and foci at (±5, 0) is?,x²/16 − y²/9 = 1,x²/9 − y²/16 = 1,x²/25 − y²/9 = 1,x²/9 − y²/25 = 1,A
+22,The limit of (1 − cos x)/x² as x approaches 0 is?,1/2,1,0,undefined,A
+23,The derivative of f(x) = x³ − 3x² + 2 is?,3x² − 6x,3x² − 6x + 2,3x² − 3,6x − 3,A
+24,The integral of e^(2x) dx is?,e^(2x)/2 + C,e^(2x) + C,2e^(2x) + C,e^x + C,A
+25,The direction cosines of the vector <1, 1, 1> are?,<1/√3, 1/√3, 1/√3>,<1, 1, 1>,<1/3, 1/3, 1/3>,<√3, √3, √3>,A
+26,The second derivative of f(x) = x⁴ is?,12x²,4x³,24x,6x,A
+27,The area under the curve y = 2x from x = 0 to x = 1 is?,1,2,3,4,A
+28,The eccentricity of the parabola y² = 4x is?,1,0,2,undefined,A
+29,The derivative of f(x) = cos² x is?,−2 cos x sin x,−sin² x,2 sin x cos x,−cos² x,A
+30,The integral of sec² x dx is?,tan x + C,−tan x + C,sec x + C,−sec x + C,A
+31,The limit of (x² − 4)/(x − 2) as x approaches 2 is?,4,2,0,undefined,A
+32,The equation of the tangent to the curve y = e^x at x = 0 is?,y = x + 1,y = x − 1,y = e^x,y = x,A
+33,The cross product of vectors <1, 0, 0> and <0, 1, 0> is?,<0, 0, 1>,<0, 0, −1>,<1, 1, 0>,<0, 1, 1>,A
+34,The foci of the ellipse x²/25 + y²/16 = 1 are?,(±3, 0),(±4, 0),(±5, 0),(0, ±4),A
+35,The derivative of f(x) = 1/(x + 1) is?,−1/(x + 1)²,1/(x + 1)²,−1/(x + 1),1/(x + 1),A
+36,The integral of 3x² dx is?,x³ + C,3x³ + C,x³/3 + C,3x + C,A
+37,The slope of the tangent to the curve y = ln(x² + 1) at x = 0 is?,0,1,2,−1,A
+38,The eccentricity of a hyperbola is always?,Equal to 1,Less than 1,Greater than 1,Zero,C
+39,The derivative of f(x) = x sin x is?,sin x + x cos x,sin x − x cos x,cos x − x sin x,x sin x + cos x,A
+40,The integral of tan x dx is?,−ln |cos x| + C,ln |cos x| + C,ln |sin x| + C,−ln |sin x| + C,A
+41,The limit of (e^x − 1)/x as x approaches 0 is?,1,0,e,undefined,A
+42,The equation of the directrix of the parabola x² = −8y is?,y = 2,y = −2,y = 4,y = −4,A
+43,The angle between the vectors <2, 3> and <−3, 2> is?,90°,45°,180°,0°,A
+44,The derivative of f(x) = x² e^x is?,e^x (x² + 2x),e^x (x² − 2x),e^x (2x + 1),e^x (x² + x),A
+45,The integral of 1/(1 + x²) dx is?,tan⁻¹ x + C,sin⁻¹ x + C,ln |1 + x²| + C,1/x + C,A
+46,The vertex of the parabola y = x² − 4x + 3 is?,(2, −1),(2, 1),(−2, 1),(−2, −1),A
+47,The magnitude of the vector v = <−2, 2, −1> is?,3,√9,√5,√3,A
+48,The derivative of f(x) = sec x is?,sec x tan x,−sec x tan x,sec² x,−sec² x,A
+49,The area under the curve y = x² from x = 0 to x = 2 is?,8/3,4,2,8,A
+50,The general solution of the differential equation dy/dx = y is?,y = Ce^x,y = Ce^−x,y = C sin x,y = C cos x,A
+51,The limit of (x³ − 8)/(x − 2) as x approaches 2 is?,12,8,4,undefined,A
+52,The derivative of f(x) = 4x³ − 2x² + x is?,12x² − 4x + 1,12x² − 2x + 1,4x² − 4x + 1,12x² − 4x,A
+53,The integral of 3x dx is?,3x²/2 + C,3x² + C,x² + C,3x + C,A
+54,The slope of the tangent to the curve y = x⁴ at x = 1 is?,4,2,8,1,A
+55,The equation of the tangent to y = x³ − x at the point (1, 0) is?,y = 2x − 2,y = 2x + 2,y = x − 1,y = 3x − 3,A
+56,The vertex of the parabola x² = 12y is?,(0, 0),(3, 0),(0, 3),(12, 0),A
+57,The magnitude of the vector v = <5, −12> is?,13,17,10,15,A
+58,The dot product of vectors <2, 3> and <4, −1> is?,5,11,8,2,A
+59,The directrix of the parabola y² = −16x is?,x = 4,x = −4,x = 2,x = −2,A
+60,The derivative of f(x) = cos x is?,−sin x,sin x,−cos x,cos x,A
+61,The integral of sin x dx is?,−cos x + C,cos x + C,−sin x + C,sin x + C,A
+62,The limit of (tan x)/x as x approaches 0 is?,1,0,undefined,∞,A
+63,The eccentricity of an ellipse is always?,Less than 1,Greater than 1,Equal to 1,Zero,A
+64,The derivative of f(x) = e^(3x) is?,3e^(3x),e^(3x),3e^x,e^(3x)/3,A
+65,The solution to the differential equation dy/dx = 3x² is?,y = x³ + C,y = 3x³ + C,y = x³/3 + C,y = 3x + C,A
+66,The foci of the ellipse x²/16 + y²/9 = 1 are?,(±√7, 0),(±4, 0),(±3, 0),(0, ±√7),A
+67,The scalar product of a vector with a unit vector gives?,Its magnitude,Its component in that direction,Zero,Its direction,B
+68,The derivative of f(x) = ln(x² + 1) is?,2x/(x² + 1),1/(x² + 1),2x/x²,1/x,A
+69,The integral of 1/(x² + 4) dx is?,tan⁻¹(x/2)/2 + C,tan⁻¹(x/2) + C,ln |x² + 4| + C,1/(x² + 4) + C,A
+70,The slope of the normal to the curve y = x³ at x = 2 is?,−1/12,1/12,−12,12,A
+71,The equation of a hyperbola with center at (0, 0) and vertices at (±3, 0) is?,x²/9 − y²/16 = 1,x²/16 − y²/9 = 1,x²/9 − y²/7 = 1,x²/7 − y²/9 = 1,A
+72,The limit of (1 − cos 2x)/x² as x approaches 0 is?,2,1,0,undefined,A
+73,The derivative of f(x) = x⁴ − 2x² + 3 is?,4x³ − 4x,4x³ − 2x,4x³ − 4,2x³ − 4x,A
+74,The integral of e^(−x) dx is?,−e^(−x) + C,e^(−x) + C,−e^x + C,e^x + C,A
+75,The direction cosines of the vector <2, 2, −1> are?,<2/3, 2/3, −1/3>,<2/√9, 2/√9, −1/√9>,<2, 2, −1>,<1/3, 1/3, −1/3>,A
+76,The second derivative of f(x) = x³ is?,6x,3x²,6,3x,A
+77,The area under the curve y = 3x² from x = 0 to x = 1 is?,1,2,3,4,A
+78,The directrix of the parabola x² = 8y is?,y = −2,y = 2,y = −4,y = 4,A
+79,The derivative of f(x) = sin² x is?,2 sin x cos x,−2 sin x cos x,sin x cos x,−sin² x,A
+80,The integral of sec x tan x dx is?,sec x + C,−sec x + C,tan x + C,−tan x + C,A
+81,The limit of (x² − 9)/(x − 3) as x approaches 3 is?,6,3,0,undefined,A
+82,The equation of the tangent to the curve y = e^(2x) at x = 0 is?,y = 2x + 1,y = x + 1,y = 2x − 1,y = e^x,A
+83,The cross product of vectors <0, 1, 0> and <0, 0, 1> is?,<1, 0, 0>,<−1, 0, 0>,<0, 1, 1>,<0, 0, 0>,A
+84,The vertices of the ellipse x²/9 + y²/4 = 1 are?,(±3, 0),(±2, 0),(0, ±3),(0, ±2),A
+85,The derivative of f(x) = 1/(x − 2) is?,−1/(x − 2)²,1/(x − 2)²,−1/(x − 2),1/(x − 2),A
+86,The integral of 4x³ dx is?,x⁴ + C,4x⁴ + C,x⁴/4 + C,4x² + C,A
+87,The slope of the tangent to the curve y = ln(x) at x = 1 is?,1,0,−1,1/x,A
+88,The eccentricity of a hyperbola with foci at (±13, 0) and vertices at (±5, 0) is?,13/5,5/13,12/5,5/12,A
+89,The derivative of f(x) = x cos x is?,cos x − x sin x,cos x + x sin x,−cos x + x sin x,x cos x − sin x,A
+90,The integral of cot x dx is?,ln |sin x| + C,−ln |sin x| + C,ln |cos x| + C,−ln |cos x| + C,A
+91,The limit of (e^(2x) − 1)/(2x) as x approaches 0 is?,1,2,0,undefined,A
+92,The equation of the directrix of the parabola y² = −12x is?,x = 3,x = −3,x = 6,x = −6,A
+93,The angle between the vectors <1, 1> and <−1, 1> is?,90°,45°,135°,180°,A
+94,The derivative of f(x) = x³ e^x is?,e^x (x³ + 3x²),e^x (x³ − 3x²),e^x (3x² + x),e^x (x³ + x²),A
+95,The integral of 1/(x² + 9) dx is?,tan⁻¹(x/3)/3 + C,tan⁻¹(x/3) + C,ln |x² + 9| + C,1/(x² + 9) + C,A
+96,The vertex of the parabola y = x² − 6x + 5 is?,(3, −4),(3, 4),(−3, 4),(−3, −4),A
+97,The magnitude of the vector v = <1, −2, 2> is?,3,√9,√5,√3,A
+98,The derivative of f(x) = tan x is?,sec² x,−sec² x,sec x tan x,−sec x tan x,A
+99,The area under the curve y = x³ from x = 0 to x = 1 is?,1/4,1/3,1/2,1,A
+100,The general solution of the differential equation dy/dx = −y is?,y = Ce^−x,y = Ce^x,y = C sin x,y = C cos x,A
+101,The limit of (x^4 − 16)/(x − 2) as x approaches 2 is?,32,16,8,undefined,A
+102,The derivative of f(x) = 2x^4 − 3x^2 + x is?,8x^3 − 6x + 1,8x^3 − 3x + 1,4x^3 − 6x + 1,8x^3 − 6x,A
+103,The integral of 5x^2 dx is?,5x^3/3 + C,5x^3 + C,x^3 + C,5x^2 + C,A
+104,The slope of the tangent to the curve y = x^5 at x = 1 is?,5,10,1,2,A
+105,The equation of the tangent to y = x^2 + 2x at the point (1, 3) is?,y = 4x − 1,y = 4x + 1,y = 2x − 1,y = 2x + 1,A
+106,The focus of the parabola x^2 = −16y is?,(0, −4),(0, 4),(−4, 0),(4, 0),A
+107,The magnitude of the vector v = <−3, 4> is?,5,7,√25,√7,A
+108,The dot product of vectors <2, −1> and <3, 2> is?,4,6,8,10,A
+109,The directrix of the parabola y^2 = 12x is?,x = −3,x = 3,x = −6,x = 6,A
+110,The derivative of f(x) = tan x is?,sec^2 x,−sec^2 x,sec x tan x,−sec x tan x,A
+111,The integral of cos 2x dx is?,sin 2x/2 + C,−sin 2x/2 + C,cos 2x/2 + C,−cos 2x/2 + C,A
+112,The limit of (sin 2x)/(2x) as x approaches 0 is?,1,0,2,undefined,A
+113,The eccentricity of a parabola is?,1,0,2,undefined,A
+114,The derivative of f(x) = e^(−2x) is?,−2e^(−2x),2e^(−2x),−e^(−2x),e^(−2x),A
+115,The solution to the differential equation dy/dx = 4x^3 is?,y = x^4 + C,y = 4x^4 + C,y = x^4/4 + C,y = 4x^3 + C,A
+116,The center of the hyperbola x^2/25 − y^2/16 = 1 is?,(0, 0),(5, 4),(4, 5),(0, 4),A
+117,The vector projection of <2, 3> onto <1, 0> is?,<2, 0>,<0, 3>,<1, 0>,<2, 3>,A
+118,The derivative of f(x) = ln(2x + 1) is?,2/(2x + 1),1/(2x + 1),2x/(2x + 1),1/x,A
+119,The integral of 1/(x^2 + 1) dx is?,tan^−1 x + C,sin^−1 x + C,ln |x^2 + 1| + C,1/x + C,A
+120,The slope of the normal to the curve y = x^4 at x = 1 is?,−1/4,1/4,−4,4,A
+121,The vertices of the hyperbola x^2/16 − y^2/9 = 1 are?,(±4, 0),(±3, 0),(0, ±4),(0, ±3),A
+122,The limit of (1 − cos x)/(x^2/2) as x approaches 0 is?,1,2,0,undefined,A
+123,The derivative of f(x) = x^5 − 5x^3 is?,5x^4 − 15x^2,5x^4 − 5x^2,5x^4 − 15x,4x^4 − 15x^2,A
+124,The integral of e^(3x) dx is?,e^(3x)/3 + C,e^(3x) + C,3e^(3x) + C,e^x/3 + C,A
+125,The direction cosines of the vector <1, −1, 1> are?,<1/√3, −1/√3, 1/√3>,<1, −1, 1>,<1/3, −1/3, 1/3>,<√3, −√3, √3>,A
+126,The second derivative of f(x) = x^2 + 3x is?,2,6x,3,2x,A
+127,The area under the curve y = 4x from x = 0 to x = 2 is?,8,4,16,2,A
+128,The focus of the parabola y^2 = −8x is?,(−2, 0),(2, 0),(0, −2),(0, 2),A
+129,The derivative of f(x) = cos^2 x is?,−2 sin x cos x,2 sin x cos x,−sin^2 x,cos^2 x,A
+130,The integral of sec^2 2x dx is?,tan 2x/2 + C,tan 2x + C,sec 2x/2 + C,−tan 2x/2 + C,A
+131,The limit of (x^2 − 25)/(x − 5) as x approaches 5 is?,10,5,0,undefined,A
+132,The equation of the tangent to the curve y = e^x at x = 1 is?,y = ex,y = e(x − 1) + e,y = x + e,y = e(x + 1),A
+133,The cross product of vectors <1, 0, 1> and <0, 1, 0> is?,<−1, 0, 1>,<1, 0, −1>,<0, −1, 1>,<1, 1, 0>,A
+134,The foci of the ellipse x^2/36 + y^2/16 = 1 are?,(±4, 0),(±5, 0),(±2√5, 0),(0, ±4),A
+135,The derivative of f(x) = 1/(2x + 3) is?,−2/(2x + 3)^2,2/(2x + 3)^2,−1/(2x + 3),1/(2x + 3),A
+136,The integral of 2x^3 dx is?,x^4/2 + C,x^4 + C,2x^4 + C,2x^3 + C,A
+137,The slope of the tangent to the curve y = ln(x^2) at x = 1 is?,2,1,0,−2,A
+138,The eccentricity of a hyperbola with vertices at (±4, 0) and foci at (±5, 0) is?,5/4,4/5,3/4,5/3,A
+139,The derivative of f(x) = x^2 sin x is?,2x sin x + x^2 cos x,2x sin x − x^2 cos x,x^2 sin x + 2x cos x,sin x + 2x cos x,A
+140,The integral of cot 2x dx is?,ln |sin 2x|/2 + C,−ln |sin 2x|/2 + C,ln |cos 2x|/2 + C,−ln |cos 2x|/2 + C,A
+141,The limit of (e^(−x) − 1)/(−x) as x approaches 0 is?,1,0,−1,undefined,A
+142,The equation of the directrix of the parabola x^2 = 4y is?,y = −1,y = 1,y = −2,y = 2,A
+143,The angle between the vectors <1, 2> and <2, −1> is?,90°,45°,135°,180°,A
+144,The derivative of f(x) = x e^(−x) is?,e^(−x) (1 − x),e^(−x) (x − 1),e^(−x) (1 + x),e^(−x) (x + 1),A
+145,The integral of 1/(x^2 + 16) dx is?,tan^−1(x/4)/4 + C,tan^−1(x/4) + C,ln |x^2 + 16| + C,1/(x^2 + 16) + C,A
+146,The vertex of the parabola y = x^2 − 2x − 3 is?,(1, −4),(−1, 4),(1, 4),(−1, −4),A
+147,The magnitude of the vector v = <2, 2, −2> is?,2√3,√3,3,4,A
+148,The derivative of f(x) = cot x is?,−cosec^2 x,cosec^2 x,−cot x cosec x,cot x cosec x,A
+149,The area under the curve y = x^2 + 1 from x = 0 to x = 1 is?,4/3,2/3,5/3,1,A
+150,The general solution of the differential equation dy/dx = 2y is?,y = Ce^(2x),y = Ce^−2x,y = C sin 2x,y = C cos 2x,A
+151,The limit of (x^3 − 27)/(x − 3) as x approaches 3 is?,27,9,18,undefined,A
+152,The derivative of f(x) = 5x^3 − x^2 + 2x is?,15x^2 − 2x + 2,15x^2 − x + 2,5x^2 − 2x + 2,15x^2 − 2x,A
+153,The integral of 4x dx is?,2x^2 + C,4x^2 + C,x^2 + C,4x + C,A
+154,The slope of the tangent to the curve y = x^3 − 2x at x = 2 is?,10,8,12,6,A
+155,The equation of the tangent to y = x^2 − 3x + 2 at the point (2, 0) is?,y = x − 2,y = x + 2,y = 2x − 4,y = 2x + 4,A
+156,The focus of the parabola x^2 = 20y is?,(0, 5),(5, 0),(0, −5),(−5, 0),A
+157,The magnitude of the vector v = <−5, 12> is?,13,17,10,15,A
+158,The dot product of vectors <1, −2> and <3, 4> is?,−5,5,7,−3,A
+159,The directrix of the parabola y^2 = −20x is?,x = 5,x = −5,x = 10,x = −10,A
+160,The derivative of f(x) = cot x is?,−cosec^2 x,cosec^2 x,−cot x cosec x,cot x cosec x,A
+161,The integral of sin 3x dx is?,−cos 3x/3 + C,cos 3x/3 + C,−sin 3x/3 + C,sin 3x/3 + C,A
+162,The limit of (sin 3x)/(3x) as x approaches 0 is?,1,0,3,undefined,A
+163,The eccentricity of a hyperbola is always?,Greater than 1,Less than 1,Equal to 1,Zero,A
+164,The derivative of f(x) = e^(4x) is?,4e^(4x),e^(4x),4e^x,e^(4x)/4,A
+165,The solution to the differential equation dy/dx = 5x^4 is?,y = x^5 + C,y = 5x^5 + C,y = x^5/5 + C,y = 5x^4 + C,A
+166,The vertices of the ellipse x^2/25 + y^2/9 = 1 are?,(±5, 0),(±3, 0),(0, ±5),(0, ±3),A
+167,The vector projection of <3, 4> onto <1, 0> is?,<3, 0>,<0, 4>,<1, 0>,<3, 4>,A
+168,The derivative of f(x) = ln(3x + 2) is?,3/(3x + 2),1/(3x + 2),3x/(3x + 2),1/x,A
+169,The integral of 1/(x^2 + 25) dx is?,tan^−1(x/5)/5 + C,tan^−1(x/5) + C,ln |x^2 + 25| + C,1/(x^2 + 25) + C,A
+170,The slope of the normal to the curve y = x^3 − x at x = 1 is?,−1/2,1/2,−2,2,A
+171,The foci of the hyperbola x^2/9 − y^2/16 = 1 are?,(±5, 0),(±4, 0),(±3, 0),(0, ±5),A
+172,The limit of (1 − cos 3x)/(x^2) as x approaches 0 is?,9/2,3/2,1/2,undefined,A
+173,The derivative of f(x) = x^4 − 4x^2 + 3 is?,4x^3 − 8x,4x^3 − 4x,4x^3 − 8,3x^3 − 8x,A
+174,The integral of e^(−2x) dx is?,−e^(−2x)/2 + C,e^(−2x)/2 + C,−e^(−2x) + C,e^(−2x) + C,A
+175,The direction cosines of the vector <2, −2, 2> are?,<2/√12, −2/√12, 2/√12>,<1/√3, −1/√3, 1/√3>,<2, −2, 2>,<1/3, −1/3, 1/3>,A
+176,The second derivative of f(x) = x^4 + 2x^2 is?,12x^2 + 4,4x^3 + 4x,12x^2 + 2,4x^3 + 2x,A
+177,The area under the curve y = 2x^2 from x = 0 to x = 1 is?,2/3,4/3,1/3,1,A
+178,The directrix of the parabola x^2 = −12y is?,y = 3,y = −3,y = 6,y = −6,A
+179,The derivative of f(x) = sin^2 2x is?,4 sin 2x cos 2x,2 sin 2x cos 2x,−4 sin 2x cos 2x,sin^2 2x,A
+180,The integral of sec^2 3x dx is?,tan 3x/3 + C,tan 3x + C,sec 3x/3 + C,−tan 3x/3 + C,A
+181,The limit of (x^2 − 16)/(x − 4) as x approaches 4 is?,8,4,0,undefined,A
+182,The equation of the tangent to the curve y = e^(−x) at x = 0 is?,y = −x + 1,y = x + 1,y = −x − 1,y = x − 1,A
+183,The cross product of vectors <1, 1, 0> and <0, 1, 1> is?,<1, −1, 1>,<−1, 1, 1>,<1, 1, −1>,<−1, −1, 1>,A
+184,The vertices of the ellipse x^2/16 + y^2/25 = 1 are?,(±4, 0),(±5, 0),(0, ±4),(0, ±5),A
+185,The derivative of f(x) = 1/(x − 3) is?,−1/(x − 3)^2,1/(x − 3)^2,−1/(x − 3),1/(x − 3),A
+186,The integral of 6x^5 dx is?,x^6 + C,6x^6 + C,x^6/6 + C,6x^5 + C,A
+187,The slope of the tangent to the curve y = ln(2x) at x = 1 is?,2,1,1/2,0,A
+188,The eccentricity of a hyperbola with foci at (±10, 0) and vertices at (±6, 0) is?,5/3,3/5,4/3,5/4,A
+189,The derivative of f(x) = x^2 cos x is?,2x cos x − x^2 sin x,2x cos x + x^2 sin x,x^2 cos x − 2x sin x,cos x − 2x sin x,A
+190,The integral of cot 3x dx is?,ln |sin 3x|/3 + C,−ln |sin 3x|/3 + C,ln |cos 3x|/3 + C,−ln |cos 3x|/3 + C,A
+191,The limit of (e^(3x) − 1)/(3x) as x approaches 0 is?,1,3,0,undefined,A
+192,The equation of the directrix of the parabola y^2 = 16x is?,x = −4,x = 4,x = −8,x = 8,A
+193,The angle between the vectors <2, −2> and <2, 2> is?,90°,45°,135°,180°,A
+194,The derivative of f(x) = x e^(2x) is?,e^(2x) (2x + 1),e^(2x) (x + 2),e^(2x) (x + 1),e^(2x) (2x − 1),A
+195,The integral of 1/(x^2 + 4) dx is?,tan^−1(x/2)/2 + C,tan^−1(x/2) + C,ln |x^2 + 4| + C,1/(x^2 + 4) + C,A
+196,The vertex of the parabola y = x^2 + 4x + 1 is?,(−2, −3),(2, 3),(−2, 3),(2, −3),A
+197,The magnitude of the vector v = <3, −3, 3> is?,3√3,√3,3,√27,A
+198,The derivative of f(x) = sec 2x is?,2 sec 2x tan 2x,−2 sec 2x tan 2x,sec 2x tan 2x,−sec 2x tan 2x,A
+199,The area under the curve y = x^3 + 1 from x = 0 to x = 1 is?,5/4,3/4,7/4,1,A
+200,The general solution of the differential equation dy/dx = −2y is?,y = Ce^(−2x),y = Ce^(2x),y = C sin 2x,y = C cos 2x,A

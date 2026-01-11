@@ -1,0 +1,50 @@
+1::Heat is a form of::Energy::Mass::Force::Momentum::A::Heat is a form of energy transferred due to a temperature difference.
+2::The SI unit of heat is::Joule::Calorie::Watt::Kelvin::A::Heat is measured in joules (J), the SI unit of energy.
+3::The temperature scale with absolute zero as its lowest point is::Celsius::Fahrenheit::Kelvin::Rankine::C::The Kelvin scale starts at absolute zero (0 K), equivalent to -273.15°C.
+4::The specific heat capacity of a substance is the heat required to::Raise 1 kg by 1°C::Raise 1 g by 1°C::Raise 1 kg by 1 K::Raise 1 g by 1 K::C::Specific heat capacity (c) is the heat needed to raise the temperature of 1 kg of a substance by 1 K (or 1°C).
+5::The formula for heat transfer is::Q = mcΔT::Q = mL::Q = mc/T::Q = mLΔT::A::Q = mcΔT, where Q is heat, m is mass, c is specific heat, and ΔT is temperature change.
+6::Latent heat is the heat required to::Change temperature::Change phase::Increase volume::Decrease density::B::Latent heat is absorbed or released during a phase change without a temperature change.
+7::The latent heat of fusion is associated with::Solid to liquid::Liquid to gas::Gas to liquid::Solid to gas::A::Latent heat of fusion is the heat required to change a solid to a liquid at its melting point.
+8::The latent heat of vaporization is associated with::Liquid to gas::Solid to liquid::Gas to solid::Liquid to solid::A::Latent heat of vaporization is the heat required to change a liquid to a gas at its boiling point.
+9::The first law of thermodynamics is a statement of::Conservation of energy::Conservation of momentum::Entropy increase::Heat transfer::A::The first law states that the change in internal energy (ΔU) equals heat added (Q) minus work done (W):: ΔU = Q - W.
+10::The internal energy of an ideal gas depends on::Temperature only::Pressure only::Volume only::Temperature and pressure::A::For an ideal gas, internal energy is a function of temperature only, as U = (3/2)nRT.
+11::Work done in a thermodynamic process is positive when::Gas expands::Gas is compressed::No volume change::Temperature decreases::A::Work done by a gas (W = PΔV) is positive when the gas expands (ΔV > 0).
+12::The second law of thermodynamics states that::Heat flows from hot to cold::Energy is conserved::Work equals heat::Entropy decreases::A::The second law implies that heat flows spontaneously from a hotter to a colder body.
+13::Entropy is a measure of::Temperature::Disorder::Heat::Energy::B::Entropy quantifies the degree of disorder or randomness in a system.
+14::In an isothermal process, the change in internal energy is::Zero::Positive::Negative::Infinite::A::For an ideal gas in an isothermal process (constant T), ΔU = 0, as internal energy depends only on temperature.
+15::In an adiabatic process::No heat is exchanged::Temperature remains constant::Pressure remains constant::Volume remains constant::A::In an adiabatic process, Q = 0, and changes in internal energy are due to work done.
+16::The efficiency of a Carnot engine depends on::Temperatures of reservoirs::Pressure of gas::Volume of gas::Mass of gas::A::Carnot efficiency η = 1 - (T_C/T_H), where T_C and T_H are cold and hot reservoir temperatures in Kelvin.
+17::The formula for Carnot efficiency is::1 - T_H/T_C::1 - T_C/T_H::T_H/T_C - 1::T_C/T_H - 1::B::η = 1 - T_C/T_H, where T_C and T_H are absolute temperatures of the cold and hot reservoirs.
+18::The molar specific heat at constant volume (C_v) for a monatomic ideal gas is::(3/2)R::(5/2)R::(7/2)R::R::A::For a monatomic ideal gas, C_v = (3/2)R, where R is the universal gas constant.
+19::The molar specific heat at constant pressure (C_p) is related to C_v by::C_p = C_v + R::C_p = C_v - R::C_p = C_v/R::C_p = C_v × R::A::For an ideal gas, C_p = C_v + R, derived from the first law and ideal gas law.
+20::The unit of specific heat capacity is::J/kg·K::J/kg::J/K::J/m³::A::Specific heat capacity is measured in joules per kilogram per kelvin (J/kg·K).
+21::The process in which volume remains constant is::Isochoric::Isobaric::Isothermal::Adiabatic::A::An isochoric process occurs at constant volume (ΔV = 0).
+22::The process in which pressure remains constant is::Isobaric::Isochoric::Isothermal::Adiabatic::A::An isobaric process occurs at constant pressure (ΔP = 0).
+23::In an isobaric process, work done is given by::PΔV::VΔP::QΔT::mΔT::A::Work done W = PΔV in an isobaric process, where P is pressure and ΔV is volume change.
+24::The ideal gas law is expressed as::PV = nRT::PV = mRT::P = nRT/V::V = nRT/P::A::The ideal gas law is PV = nRT, where n is moles, R is the gas constant, and T is absolute temperature.
+25::The value of the universal gas constant (R) is::8.31 J/mol·K::8.31 J/kg·K::8.31 J/K::8.31 J/m³·K::A::R = 8.31 J/mol·K, used in the ideal gas law.
+26::The temperature at which molecular motion theoretically stops is::0°C::0 K::-273°C::Both 0 K and -273°C::D::Absolute zero is 0 K, equivalent to -273.15°C, where molecular motion ceases.
+27::The heat required to change 1 kg of a solid to liquid is called::Specific heat::Latent heat of fusion::Latent heat of vaporization::Molar heat capacity::B::Latent heat of fusion is the heat needed for the solid-to-liquid phase change.
+28::The work done in an isothermal expansion of an ideal gas is::W = nRT ln(V_f/V_i)::W = PΔV::W = nRTΔT::W = QΔV::A::For isothermal expansion, W = nRT ln(V_f/V_i), derived from W = ∫P dV with P = nRT/V.
+29::The efficiency of a heat engine is::Work output/Heat input::Heat input/Work output::Work output/Heat rejected::Heat rejected/Work output::A::Efficiency η = W/Q_H, where W is work output and Q_H is heat input from the hot reservoir.
+30::In an adiabatic process, the relationship between P and V is::PV^γ = constant::PV = constant::P/V = constant::V/T = constant::A::For an adiabatic process, PV^γ = constant, where γ = C_p/C_v is the adiabatic index.
+31::The value of γ (C_p/C_v) for a diatomic gas is::1.67::1.4::1.33::1.2::B::For a diatomic gas, γ = C_p/C_v = (7/2)R/(5/2)R = 1.4.
+32::The internal energy change in an isochoric process is::ΔU = Q::ΔU = W::ΔU = Q - W::ΔU = PΔV::A::In an isochoric process (ΔV = 0), W = 0, so ΔU = Q from the first law.
+33::The heat absorbed in an isobaric process is::Q = nC_pΔT::Q = nC_vΔT::Q = nRΔT::Q = PΔV::A::For an isobaric process, Q = nC_pΔT, where C_p is the molar specific heat at constant pressure.
+34::The triple point of water occurs at::0°C and 1 atm::0.01°C and 0.006 atm::100°C and 1 atm::0 K and 0 atm::B::The triple point of water is at 0.01°C and 0.006 atm, where all three phases coexist.
+35::The entropy of a system increases in::Reversible processes::Irreversible processes::Both reversible and irreversible processes::Adiabatic processes only::C::Entropy increases in irreversible processes and can remain constant or increase in reversible processes.
+36::The Carnot cycle consists of::Two isothermal and two adiabatic processes::Two isobaric and two isochoric processes::Two isothermal and two isobaric processes::Two adiabatic and two isochoric processes::A::The Carnot cycle includes two isothermal and two adiabatic reversible processes.
+37::The heat rejected by a Carnot engine is::Q_C = Q_H - W::Q_C = Q_H + W::Q_C = W/Q_H::Q_C = Q_H/W::A::Heat rejected Q_C = Q_H - W, where Q_H is heat absorbed and W is work done.
+38::The specific heat capacity of water is approximately::4186 J/kg·K::2000 J/kg·K::1000 J/kg·K::500 J/kg·K::A::The specific heat of water is about 4186 J/kg·K (or 1 cal/g·°C).
+39::The change in internal energy in a cyclic process is::Zero::Positive::Negative::Equal to work done::A::In a cyclic process, the system returns to its initial state, so ΔU = 0.
+40::The work done in an adiabatic compression is::Positive::Negative::Zero::Infinite::B::Work done on the gas during compression is negative (W < 0), as the gas does work on the surroundings.
+41::The heat required to vaporize 1 kg of a liquid is called::Specific heat::Latent heat of fusion::Latent heat of vaporization::Molar heat capacity::C::Latent heat of vaporization is the heat needed for the liquid-to-gas phase change.
+42::The temperature of a gas in an adiabatic expansion::Increases::Decreases::Remains constant::Becomes zero::B::In an adiabatic expansion, no heat is added (Q = 0), so the gas cools as it does work.
+43::The entropy change in a reversible isothermal process is::ΔS = Q/T::ΔS = Q·T::ΔS = Q + T::ΔS = Q - T::A::For a reversible isothermal process, ΔS = Q/T, where Q is heat and T is absolute temperature.
+44::The maximum efficiency of a heat engine operating between 600 K and 300 K is::25%::50%::75%::100%::B::η = 1 - T_C/T_H = 1 - 300/600 = 0.5 or 50%.
+45::The work done by an ideal gas in an isochoric process is::Zero::Positive::Negative::Equal to heat added::A::In an isochoric process, ΔV = 0, so W = PΔV = 0.
+46::The latent heat of fusion of ice is approximately::334 kJ/kg::2260 kJ/kg::4186 kJ/kg::1000 kJ/kg::A::The latent heat of fusion of ice is about 334 kJ/kg (or 80 cal/g).
+47::The heat absorbed in an isothermal expansion of an ideal gas is::Zero::Equal to work done::Equal to internal energy::Infinite::B::For an isothermal process (ΔU = 0), Q = W, so heat absorbed equals work done.
+48::The temperature conversion from Celsius to Kelvin is::K = °C + 273::K = °C - 273::K = °C × 273::K = °C/273::A::T(K) = T(°C) + 273.15 (approximately 273).
+49::The second law of thermodynamics implies that::All heat can be converted to work::Some heat must be rejected::Work cannot produce heat::Entropy is conserved::B::The second law states that some heat must be rejected to a cold reservoir, limiting efficiency.
+50::The internal energy of a system increases when::Heat is added and work is done on it::Heat is rejected and work is done by it::No heat is added and work is done by it::Heat is added and no work is done::A::ΔU = Q - W; internal energy increases when heat is added (Q > 0) and work is done on the system (W < 0).

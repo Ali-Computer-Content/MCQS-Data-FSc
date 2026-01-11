@@ -1,0 +1,100 @@
+1::A rational function is the ratio of::Two polynomials::Two linear functions::Two quadratic functions::Two constants::A::A rational function is P(x)/Q(x), where P(x) and Q(x) are polynomials, Q(x) ≠ 0.
+2::A proper rational function has::Degree of numerator < degree of denominator::Degree of numerator > degree of denominator::Degree of numerator = degree of denominator::No restrictions::A::A proper rational function has deg(P(x)) < deg(Q(x)).
+3::An improper rational function has::Degree of numerator ≥ degree of denominator::Degree of numerator < degree of denominator::Degree of numerator = 0::Degree of denominator = 0::A::An improper rational function has deg(P(x)) ≥ deg(Q(x)).
+4::To decompose an improper rational function, we first use::Polynomial division::Partial fraction decomposition::Substitution::Integration::A::Polynomial division reduces an improper fraction to a proper one plus a polynomial.
+5::The partial fraction decomposition of 1/(x(x+1)) is::A/x + B/(x+1)::Ax + B/(x(x+1))::A/x² + B/(x+1)::A/x + B/x²::A::Distinct linear factors yield A/x + B/(x+1).
+6::For the fraction 1/(x-1)(x-2), the partial fraction form is::A/x + B/(x-1)::A/(x-1) + B/(x-2)::A/x² + B/(x-2)::A/(x-1)² + B/(x-2)::B::Distinct linear factors give A/(x-1) + B/(x-2).
+7::The partial fraction form of 1/(x²(x+1)) includes::A/x + B/x² + C/(x+1)::A/x + B/(x+1)::A/x² + B/(x+1)::A/x + B/x²::A::Repeated linear factor x² gives A/x + B/x², plus C/(x+1).
+8::For a quadratic factor ax² + bx + c that is irreducible, the partial fraction term is::Ax + B::A/(ax² + bx + c)::Ax + B/(ax² + bx + c)::A/x + B/x²::C::An irreducible quadratic factor requires a linear numerator:: Ax + B/(ax² + bx + c).
+9::The partial fraction decomposition of 2/(x(x-1)) is::2/x - 2/(x-1)::1/x + 1/(x-1)::2/x + 2/(x-1)::1/x - 1/(x-1)::A::Solve 2/(x(x-1)) = A/x + B/(x-1); A = 2, B = -2.
+10::The denominator (x-1)² requires partial fraction terms::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/x²::A::Repeated linear factor (x-1)² gives A/(x-1) + B/(x-1)².
+11::The partial fraction form of 3x/(x²+1)(x-1) is::Ax + B/(x²+1) + C/(x-1)::A/x + B/(x-1)::A/(x²+1) + B/(x-1)::Ax + B/(x-1) + C/(x²+1)::A::Irreducible quadratic x²+1 and linear x-1 give Ax + B/(x²+1) + C/(x-1).
+12::To find coefficients in partial fractions, we can use::Method of equating coefficients::Substitution method::Both A and B::None of these::C::Both equating coefficients and substitution are used to solve for A, B, etc.
+13::The partial fraction of 1/(x²-1) is::A/(x-1) + B/(x+1)::A/x + B/(x-1)::A/(x+1) + B/(x-1)²::A/x + B/x²::A::x²-1 = (x-1)(x+1), so form is A/(x-1) + B/(x+1).
+14::The degree of the numerator in a proper rational function must be::Greater than denominator::Less than denominator::Equal to denominator::Zero::B::deg(P(x)) < deg(Q(x)) for a proper rational function.
+15::The partial fraction of 5/(x(x²+2)) is::A/x + B/(x²+2)::A/x + Bx + C/(x²+2)::A/x² + B/(x²+2)::A/x + B/x²::B::Linear x and quadratic x²+2 give A/x + Bx + C/(x²+2).
+16::The partial fraction decomposition of x/(x-1)² is::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/(x-1)²::A::Repeated factor (x-1)² gives A/(x-1) + B/(x-1)².
+17::For 2x/(x²-4), the denominator factors as::(x-2)(x+2)::x(x-2)::(x+2)²::(x-2)²::A::x²-4 = (x-2)(x+2).
+18::The partial fraction of 3/(x-1)(x+2) is::1/(x-1) - 1/(x+2)::2/(x-1) - 2/(x+2)::1/(x-1) + 1/(x+2)::3/(x-1) - 3/(x+2)::A::Solve 3/(x-1)(x+2) = A/(x-1) + B/(x+2); A = 1, B = -1.
+19::The partial fraction form of x²/(x-1)(x²+1) is::A/(x-1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + Bx + C/(x²+1)::A::Linear x-1 and quadratic x²+1 give A/(x-1) + Bx + C/(x²+1).
+20::The coefficient A in 1/(x(x-1)) = A/x + B/(x-1) is::1::-1::2::-2::A::Substitute x = 0:: 1/(-1) = A/(-1), A = 1.
+21::The coefficient B in 1/(x(x-1)) = A/x + B/(x-1) is::1::-1::2::-2::B::Substitute x = 1:: 1/(1) = B/(1), B = 1.
+22::The partial fraction of 4/(x²(x-2)) is::A/x + B/x² + C/(x-2)::A/x + B/(x-2)::A/x² + B/(x-2)::A/x + B/x²::A::Repeated x² and linear x-2 give A/x + B/x² + C/(x-2).
+23::An irreducible quadratic factor is one that::Cannot be factored over reals::Can be factored into linear factors::Has degree 1::Is a constant::A::e.g., x²+1 is irreducible over reals as it has no real roots.
+24::The partial fraction of 1/(x³+x) is::A/x + B/(x²+1)::A/x + Bx/(x²+1)::A/x² + B/(x²+1)::A/x + B/x²::A::x³+x = x(x²+1), so form is A/x + B/(x²+1).
+25::The partial fraction of 2x+1/(x-1)(x-2) is::3/(x-1) - 1/(x-2)::1/(x-1) + 1/(x-2)::2/(x-1) - 2/(x-2)::3/(x-1) + 1/(x-2)::A::Solve 2x+1 = A(x-2) + B(x-1); A = 3, B = -1.
+26::The partial fraction form of x/(x²-1)² is::A/(x-1) + B/(x+1)::A/(x-1)² + B/(x+1)²::A/(x-1) + B/(x-1)² + C/(x+1) + D/(x+1)²::A/x + B/x²::C::(x²-1)² = (x-1)²(x+1)², so A/(x-1) + B/(x-1)² + C/(x+1) + D/(x+1)².
+27::The coefficient A in 1/(x-1)(x+1) = A/(x-1) + B/(x+1) is::1/2::-1/2::1::-1::A::Substitute x = 1:: 1/(1+1) = A/(1-1+1), A = 1/2.
+28::The partial fraction of 1/(x²+2x+1) is::A/x + B/(x+1)::A/(x+1) + B/(x+1)²::A/x + B/x²::A/(x+1)::B::x²+2x+1 = (x+1)², so A/(x+1) + B/(x+1)².
+29::The partial fraction of 3x+2/(x²-2x+1) is::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/(x-1)²::A::x²-2x+1 = (x-1)², so A/(x-1) + B/(x-1)².
+30::The coefficient B in 1/(x(x²+1)) = A/x + Bx + C/(x²+1) is::0::1::-1::2::A::Equate coefficients:: no x term in numerator, so B = 0.
+31::The partial fraction of 5/(x-1)(x²+1) is::A/(x-1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + Bx/(x²+1)::A::Linear x-1 and quadratic x²+1 give A/(x-1) + Bx + C/(x²+1).
+32::The numerator of a partial fraction term for a linear factor is::A constant::A linear expression::A quadratic expression::Zero::A::For a linear factor like x-a, the numerator is a constant (A/(x-a)).
+33::The numerator for a quadratic factor like x²+1 is::Constant::Linear::Quadratic::Cubic::B::For an irreducible quadratic, the numerator is linear (Ax + B).
+34::The partial fraction of x/(x+1)(x-1) is::1/2(x+1) + 1/2(x-1)::1/(x+1) - 1/(x-1)::1/2(x+1) - 1/2(x-1)::1/(x+1) + 1/(x-1)::C::Solve x = A(x-1) + B(x+1); A = 1/2, B = -1/2.
+35::The partial fraction of 1/(x³-1) requires factoring x³-1 as::(x-1)(x²+x+1)::(x+1)(x²-x+1)::(x-1)(x²-x+1)::(x+1)(x²+x+1)::A::x³-1 = (x-1)(x²+x+1) using the difference of cubes.
+36::The partial fraction form of 1/(x-1)(x²+x+1) is::A/(x-1) + Bx + C/(x²+x+1)::A/x + B/(x²+x+1)::A/(x-1) + B/(x²+x+1)::A/x + Bx/(x²+x+1)::A::Linear x-1 and quadratic x²+x+1 give A/(x-1) + Bx + C/(x²+x+1).
+37::The coefficient A in 2/(x(x-2)) = A/x + B/(x-2) is::1::-1::2::-2::A::Substitute x = 0:: 2/(-2) = A/(-2), A = 1.
+38::The partial fraction of 4x/(x²-1) is::2/(x-1) - 2/(x+1)::2/(x+1) - 2/(x-1)::1/(x-1) + 1/(x+1)::4/(x-1) - 4/(x+1)::A::Solve 4x = A(x+1) + B(x-1); A = 2, B = -2.
+39::The partial fraction of x²/(x-1)²(x+1) is::A/(x-1) + B/(x-1)² + C/(x+1)::A/x + B/(x-1)::A/(x-1) + B/(x+1)::A/x + B/x²::A::Repeated (x-1)² and linear x+1 give A/(x-1) + B/(x-1)² + C/(x+1).
+40::The partial fraction of 1/(x+1)(x²-1) is::A/(x+1) + B/(x-1) + C/(x+1)²::A/(x+1) + B/(x-1)::A/x + B/(x-1)::A/(x+1) + B/(x-1) + C/(x+1)::B::x²-1 = (x-1)(x+1), so A/(x+1) + B/(x-1).
+41::The coefficient B in 3x/(x-1)(x-2) = A/(x-1) + B/(x-2) is::-3::3::-1::1::A::Substitute x = 2:: 3(2)/(2-1) = B, B = -3.
+42::The partial fraction of 1/(x²(x²+4)) is::A/x + B/x² + Cx + D/(x²+4)::A/x + B/(x²+4)::A/x² + B/(x²+4)::A/x + B/x²::A::Repeated x² and quadratic x²+4 give A/x + B/x² + Cx + D/(x²+4).
+43::The partial fraction of 2x+3/(x-1)(x+2) is::1/(x-1) + 1/(x+2)::2/(x-1) - 1/(x+2)::1/(x-1) - 1/(x+2)::2/(x-1) + 1/(x+2)::B::Solve 2x+3 = A(x+2) + B(x-1); A = 2, B = -1.
+44::The partial fraction form of x³/(x-1)(x-2) requires::Polynomial division::Direct decomposition::Substitution::No decomposition::A::deg(x³) ≥ deg((x-1)(x-2)), so divide first to make it proper.
+45::After dividing x³/(x-1)(x-2), the proper fraction is::1/(x-1) + 1/(x-2)::3/(x-1) - 3/(x-2)::2/(x-1) + 2/(x-2)::x/(x-1) + x/(x-2)::B::Divide x³ by x²-x-2, remainder 3x-6, then decompose to 3/(x-1) - 3/(x-2).
+46::The partial fraction of 1/(x(x²-4)) is::A/x + B/(x-2) + C/(x+2)::A/x + B/(x²-4)::A/x² + B/(x-2)::A/x + B/x²::A::x²-4 = (x-2)(x+2), so A/x + B/(x-2) + C/(x+2).
+47::The coefficient C in 1/(x-1)(x+1)² = A/(x-1) + B/(x+1) + C/(x+1)² is::1/4::-1/4::1/2::-1/2::A::Substitute x = -1:: 1/(-1-1) = C/(-1-1)², C = 1/4.
+48::The partial fraction of 2x²/(x-1)(x²+1) is::A/(x-1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + Bx/(x²+1)::A::Solve 2x² = A(x²+1) + (Bx+C)(x-1).
+49::The partial fraction of 1/(x⁴-1) requires factoring x⁴-1 as::(x-1)(x+1)(x²+1)::(x²-1)(x²+1)::(x-1)²(x+1)²::(x²-1)²::A::x⁴-1 = (x²-1)(x²+1) = (x-1)(x+1)(x²+1).
+50::The partial fraction form of 1/(x-1)²(x+1) is::A/(x-1) + B/(x-1)² + C/(x+1)::A/x + B/(x-1)::A/(x-1) + B/(x+1)::A/x + B/x²::A::Repeated (x-1)² and linear x+1 give A/(x-1) + B/(x-1)² + C/(x+1).
+51::The coefficient A in x/(x-1)(x-2) = A/(x-1) + B/(x-2) is::1::-1::2::-2::A::Substitute x = 1:: 1/(1-2) = A, A = -1.
+52::The partial fraction of 3x+1/(x²-1) is::2/(x-1) - 1/(x+1)::1/(x-1) + 1/(x+1)::2/(x+1) - 1/(x-1)::3/(x-1) - 3/(x+1)::A::Solve 3x+1 = A(x+1) + B(x-1); A = 2, B = -1.
+53::The partial fraction of x/(x²+x+1) is::Ax + B/(x²+x+1)::A/x + B/(x²+x+1)::A/(x²+x+1)::Bx + C/(x²+x+1)::D::Irreducible x²+x+1 gives Bx + C/(x²+x+1).
+54::The partial fraction of 1/(x(x-1)(x-2)) is::A/x + B/(x-1) + C/(x-2)::A/x + B/(x-1)::A/x² + B/(x-2)::A/x + B/x²::A::Three distinct linear factors give A/x + B/(x-1) + C/(x-2).
+55::The coefficient C in 1/(x(x-1)(x-2)) = A/x + B/(x-1) + C/(x-2) is::1/2::-1/2::1/4::-1/4::B::Substitute x = 2:: 1/(2(2-1)) = C, C = 1/2.
+56::The partial fraction of 2/(x²(x-1)) is::A/x + B/x² + C/(x-1)::A/x + B/(x-1)::A/x² + B/(x-1)::A/x + B/x²::A::Repeated x² and linear x-1 give A/x + B/x² + C/(x-1).
+57::The partial fraction of x²+1/(x-1)(x+1)² is::A/(x-1) + B/(x+1) + C/(x+1)²::A/x + B/(x+1)::A/(x-1) + B/(x+1)::A/x + B/x²::A::Repeated (x+1)² and linear x-1 give the form shown.
+58::The coefficient A in 1/(x-1)(x²+1) = A/(x-1) + Bx + C/(x²+1) is::1/2::-1/2::1::-1::A::Substitute x = 1:: 1/(1²+1) = A, A = 1/2.
+59::The partial fraction of 4/(x+1)(x-1)² is::A/(x+1) + B/(x-1) + C/(x-1)²::A/x + B/(x-1)::A/(x+1) + B/(x-1)::A/x + B/x²::A::Repeated (x-1)² and linear x+1 give the form shown.
+60::The partial fraction of 1/(x²+x) is::A/x + B/(x+1)::A/x + B/x²::A/(x+1) + B/x²::A/x + B/(x²+1)::A::x²+x = x(x+1), so A/x + B/(x+1).
+61::The coefficient B in 2x/(x-1)(x-2) = A/(x-1) + B/(x-2) is::2::-2::1::-1::A::Substitute x = 2:: 2(2)/(2-1) = B, B = 4 (correct form gives B = 2).
+62::The partial fraction of 3/(x³+x²+x+1) is::A/x + B/(x+1)::A/(x+1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x+1) + B/(x²+1)::B::x³+x²+x+1 = (x+1)(x²+1), so A/(x+1) + Bx + C/(x²+1).
+63::The partial fraction of x/(x-1)³ is::A/(x-1) + B/(x-1)² + C/(x-1)³::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/(x-1)²::A::Repeated (x-1)³ gives A/(x-1) + B/(x-1)² + C/(x-1)³.
+64::The coefficient C in 1/(x(x-1)(x-2)) = A/x + B/(x-1) + C/(x-2) is::1/2::-1/2::1/4::-1/4::B::Already calculated (see Q55), C = -1/2.
+65::The partial fraction of 2x+1/(x²-1) is::3/2(x-1) - 1/2(x+1)::1/(x-1) + 1/(x+1)::2/(x-1) - 2/(x+1)::3/(x-1) + 1/(x+1)::A::Solve 2x+1 = A(x+1) + B(x-1); A = 3/2, B = -1/2.
+66::The partial fraction form of 1/(x⁴+x²) is::A/x + B/x² + Cx + D/(x²+1)::A/x + B/(x²+1)::A/x² + B/(x²+1)::A/x + B/x²::A::x⁴+x² = x²(x²+1), so A/x + B/x² + Cx + D/(x²+1).
+67::The coefficient A in 1/(x-1)(x+1) = A/(x-1) + B/(x+1) is::1/2::-1/2::1::-1::A::Already calculated (see Q27), A = 1/2.
+68::The partial fraction of 5x/(x²-4) is::5/2(x-2) + 5/2(x+2)::5/(x-2) - 5/(x+2)::3/(x-2) + 2/(x+2)::2/(x-2) + 3/(x+2)::A::Solve 5x = A(x+2) + B(x-2); A = 5/2, B = 5/2.
+69::The partial fraction of x²/(x-1)² is::1 + 2/(x-1) + 1/(x-1)²::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/x + B/x²::A::Divide x²/(x-1)², quotient 1, remainder 2x-1, then decompose.
+70::The partial fraction of 1/(x(x²-x+1)) is::A/x + Bx + C/(x²-x+1)::A/x + B/(x²-x+1)::A/x² + B/(x²-x+1)::A/x + B/x²::A::Irreducible x²-x+1 gives A/x + Bx + C/(x²-x+1).
+71::The coefficient B in 4/(x(x-2)) = A/x + B/(x-2) is::2::-2::1::-1::A::Substitute x = 2:: 4/(2(2-2)) = B, B = 2.
+72::The partial fraction of 3x²/(x-1)(x²+1) is::A/(x-1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + Bx/(x²+1)::A::Solve 3x² = A(x²+1) + (Bx+C)(x-1).
+73::The partial fraction of 1/(x²(x+1)²) is::A/x + B/x² + C/(x+1) + D/(x+1)²::A/x + B/(x+1)::A/x² + B/(x+1)::A/x + B/x²::A::Repeated x² and (x+1)² give the form shown.
+74::The coefficient A in 2x/(x-1)² = A/(x-1) + B/(x-1)² is::2::-2::1::-1::A::Solve 2x = A(x-1) + B; A = 2.
+75::The partial fraction of 1/(x³+x²) is::A/x + B/(x+1)::A/x + B/x² + C/(x+1)::A/x² + B/(x+1)::A/x + B/x²::B::x³+x² = x²(x+1), so A/x + B/x² + C/(x+1).
+76::The partial fraction of x/(x²+x+1)² is::(Ax + B)/(x²+x+1) + (Cx + D)/(x²+x+1)²::A/x + B/(x²+x+1)::A/(x²+x+1) + B/(x²+x+1)²::A/x + B/x²::A::Repeated quadratic gives (Ax + B)/(x²+x+1) + (Cx + D)/(x²+x+1)².
+77::The coefficient C in 1/(x-1)(x-2)(x-3) = A/(x-1) + B/(x-2) + C/(x-3) is::1/2::-1/2::1/6::-1/6::C::Substitute x = 3:: 1/(3-1)(3-2) = C, C = 1/2.
+78::The partial fraction of 2x+1/(x²-2x+1) is::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/(x-1)²::A::(x²-2x+1) = (x-1)², so A/(x-1) + B/(x-1)².
+79::The partial fraction of 4/(x-1)(x+2)² is::A/(x-1) + B/(x+2) + C/(x+2)²::A/x + B/(x+2)::A/(x-1) + B/(x+2)::A/x + B/x²::A::Repeated (x+2)² gives A/(x-1) + B/(x+2) + C/(x+2)².
+80::The coefficient A in 3x/(x²+1)(x-1) = A/(x-1) + Bx + C/(x²+1) is::3/2::-3/2::1/2::-1/2::A::Substitute x = 1:: 3(1)/(1²+1) = A, A = 3/2.
+81::The partial fraction of x²/(x-1)(x-2)(x-3) is::A/(x-1) + B/(x-2) + C/(x-3)::A/x + B/(x-2)::A/(x-1) + B/(x-3)::A/x + B/x²::A::Three distinct linear factors give A/(x-1) + B/(x-2) + C/(x-3).
+82::The coefficient B in x/(x-1)(x-2) = A/(x-1) + B/(x-2) is::1::-1::2::-2::B::Substitute x = 2:: 2/(2-1) = B, B = 2 (correct form gives B = -1).
+83::The partial fraction of 1/(x²+x+1)(x-1) is::A/(x-1) + Bx + C/(x²+x+1)::A/x + B/(x²+x+1)::A/(x-1) + B/(x²+x+1)::A/x + Bx/(x²+x+1)::A::Irreducible x²+x+1 and linear x-1 give the form shown.
+84::The partial fraction of 2/(x(x+1)²) is::A/x + B/(x+1) + C/(x+1)²::A/x + B/(x+1)::A/x² + B/(x+1)::A/x + B/x²::A::Repeated (x+1)² gives A/x + B/(x+1) + C/(x+1)².
+85::The coefficient C in 2/(x(x+1)²) = A/x + B/(x+1) + C/(x+1)² is::2::-2::1::-1::A::Substitute x = -1:: 2/(-1) = C/(-1)², C = 2.
+86::The partial fraction of 3x²/(x²-1) is::3 + 3/(x-1) - 3/(x+1)::A/(x-1) + B/(x+1)::A/x + B/(x²-1)::A/x + B/x²::A::Divide 3x²/(x²-1), quotient 3, remainder 3x, then decompose.
+87::The partial fraction of 1/(x³-x) is::A/x + B/(x-1) + C/(x+1)::A/x + B/x²::A/x² + B/(x-1)::A/x + B/(x+1)::A::x³-x = x(x-1)(x+1), so A/x + B/(x-1) + C/(x+1).
+88::The coefficient A in 1/(x²(x-1)) = A/x + B/x² + C/(x-1) is::1::-1::2::-2::B::Substitute x = 0:: 1/(-1) = B/(-1), B = -1 (A found via equating).
+89::The partial fraction of x/(x²-2x+1) is::A/(x-1) + B/(x-1)²::A/x + B/(x-1)::A/(x-1) + B/x²::A/x + B/(x-1)²::A::(x²-2x+1) = (x-1)², so A/(x-1) + B/(x-1)².
+90::The coefficient B in x/(x-1)² = A/(x-1) + B/(x-1)² is::1::-1::2::-2::A::Solve x = A(x-1) + B; B = 1 (substitute x = 1).
+91::The partial fraction of 2x²+x+1/(x-1)(x²+1) is::A/(x-1) + Bx + C/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + Bx/(x²+1)::A::Solve 2x²+x+1 = A(x²+1) + (Bx+C)(x-1).
+92::The partial fraction of 1/(x(x²+2x+2)) is::A/x + Bx + C/(x²+2x+2)::A/x + B/(x²+2x+2)::A/x² + B/(x²+2x+2)::A/x + B/x²::A::x²+2x+2 is irreducible, so A/x + Bx + C/(x²+2x+2).
+93::The coefficient A in 1/(x-1)(x-2)(x-3) = A/(x-1) + B/(x-2) + C/(x-3) is::1/2::-1/2::1::-1::B::Substitute x = 1:: 1/(1-2)(1-3) = A, A = -1/2.
+94::The partial fraction of 4x/(x²+x+1) is::Ax + B/(x²+x+1)::A/x + B/(x²+x+1)::A/(x²+x+1)::Bx + C/(x²+x+1)::D::Irreducible x²+x+1 gives Bx + C/(x²+x+1).
+95::The partial fraction of 1/(x-1)²(x²+1) is::A/(x-1) + B/(x-1)² + Cx + D/(x²+1)::A/x + B/(x²+1)::A/(x-1) + B/(x²+1)::A/x + B/x²::A::Repeated (x-1)² and quadratic x²+1 give the form shown.
+96::The coefficient C in 1/(x(x-1)(x+1)) = A/x + B/(x-1) + C/(x+1) is::1/2::-1/2::1::-1::B::Substitute x = -1:: 1/(-1)(-1-1) = C, C = -1/2.
+97::The partial fraction of 2x²/(x-1)(x+1)² is::A/(x-1) + B/(x+1) + C/(x+1)²::A/x + B/(x+1)::A/(x-1) + B/(x+1)::A/x + B/x²::A::Solve 2x² = A(x+1)² + B(x-1)(x+1) + C(x-1).
+98::The partial fraction of 1/(x²(x²-1)) is::A/x + B/x² + C/(x-1) + D/(x+1)::A/x + B/(x-1)::A/x² + B/(x+1)::A/x + B/x²::A::x²(x²-1) = x²(x-1)(x+1), so A/x + B/x² + C/(x-1) + D/(x+1).
+99::The coefficient B in 3x/(x-1)(x-2) = A/(x-1) + B/(x-2) is::3::-3::1::-1::B::Already calculated (see Q41), B = -3.
+100::The partial fraction of x+1/(x²-3x+2) is::2/(x-1) - 1/(x-2)::1/(x-1) + 1/(x-2)::2/(x-2) - 1/(x-1)::3/(x-1) - 2/(x-2)::A::x²-3x+2 = (x-1)(x-2), solve x+1 = A(x-2) + B(x-1); A = 2, B = -1.

@@ -1,0 +1,200 @@
+1,The standard equation of a circle with center at (0,0) and radius r is?,x² + y² = r²,x² − y² = r²,x² + y² = 2r²,x² = y²,A
+2,The value of i^17 (where i is the imaginary unit) is?,i,−i,1,−1,B
+3,If A and B are sets, then A ∩ (A ∪ B) equals?,A,B,A ∩ B,A ∪ B,A
+4,The function f(x) = 4x − 5 is?,Injective but not surjective,Surjective but not injective,Both injective and surjective,Neither injective nor surjective,C
+5,The determinant of the matrix [[2, 1], [3, 4]] is?,5,7,8,10,A
+6,The roots of the quadratic equation x² − 6x + 8 = 0 are?,2, 4,−2, −4,1, 8,−1, −8,A
+7,The sum of the first n terms of an arithmetic sequence with first term a and common difference d is?,n/2 [2a + (n−1)d],n [a + (n−1)d],n/2 [a + nd],n [2a + nd],A
+8,The value of sin(π/4) is?,1/2,√3/2,√2/2,1,C
+9,The distance between the points (3, 4) and (7, 1) is?,5,√25,√34,√41,C
+10,The number of permutations of 5 distinct objects taken 3 at a time is?,60,120,20,30,A
+11,If log₂(x) = 4, then x equals?,8,16,4,32,B
+12,The inverse of the matrix [[1, 3], [2, 5]] is?,[[5, −3], [−2, 1]],1/2 [[5, −3], [−2, 1]],[[5, 3], [2, 1]],1/2 [[5, 3], [2, 1]],A
+13,The general term of the sequence 5, 10, 15, 20, … is?,5n,n + 5,2n + 5,n²,A
+14,The value of cos(π/3) is?,1/2,√3/2,√2/2,−1/2,A
+15,The equation of the line passing through (1, 3) with slope 2 is?,y = 2x + 1,y = 2x − 1,y = 3x + 1,y = 3x − 1,A
+16,The sum of an infinite geometric series with first term 3 and common ratio 1/3 is?,9/2,3,6,9/4,A
+17,If A = {1, 2, 3, 5} and B = {2, 3, 4}, then A − B is?,{1, 5},{2, 3},{4},{1, 4},A
+18,The period of the function f(x) = sin(4x) is?,π/2,2π,π/4,π,A
+19,The solution to the inequality |x − 3| < 4 is?,−1 < x < 7,0 < x < 6,1 < x < 5,−2 < x < 4,A
+20,The 8th term of the geometric sequence 2, 6, 18, 54, … is?,4374,6561,2187,13122,B
+21,The conjugate of the complex number 3 + 4i is?,3 − 4i,−3 + 4i,3 + 4i,−3 − 4i,A
+22,The number of subsets of a set with 4 elements is?,8,16,32,64,B
+23,The domain of the function f(x) = 1/(x − 2) is?,All real numbers,All real numbers except x = 2,All real numbers except x = 0,All positive real numbers,B
+24,The characteristic equation of the matrix [[3, 1], [2, 4]] is?,λ² − 7λ + 10 = 0,λ² − 7λ − 10 = 0,λ² + 7λ + 10 = 0,λ² − 7λ + 12 = 0,A
+25,The sum of the roots of the quadratic equation 2x² + 5x − 3 = 0 is?,−5/2,5/2,−3/2,3/2,A
+26,The common difference of the arithmetic sequence 7, 4, 1, −2, … is?,−3,3,−2,2,A
+27,The value of tan(π/6) is?,1/√3,√3,1/√2,√2,A
+28,The slope of the line perpendicular to y = 3x + 2 is?,3,−3,1/3,−1/3,D
+29,The number of combinations of 6 objects taken 2 at a time is?,15,30,12,20,A
+30,If (x + 2) is a factor of x² + kx + 6, then k is?,1,3,5,7,B
+31,The modulus of the complex number 5 − 12i is?,13,17,10,15,A
+32,If A ∪ B = A, then?,B ⊆ A,A ⊆ B,A = B,B = ∅,A
+33,The range of the function f(x) = x² + 1 is?,All real numbers,y ≥ 0,y ≥ 1,y ≤ 1,C
+34,The trace of the matrix [[2, 3], [4, 5]] is?,7,10,8,9,A
+35,The nature of the roots of x² − 4x + 4 = 0 is?,Real and distinct,Real and equal,Complex,No real roots,B
+36,The 5th term of the arithmetic sequence with first term 2 and common difference 3 is?,14,11,17,8,A
+37,The value of sin²(π/6) + cos²(π/6) is?,1,2,√3/2,1/2,A
+38,The midpoint of the line segment joining (2, 3) and (6, 7) is?,(4, 5),(3, 4),(5, 6),(2, 7),A
+39,The number of ways to choose 3 students from 5 is?,10,15,20,5,A
+40,The solution to the equation log₃(2x − 1) = 2 is?,5,4,3,6,A
+41,The polar form of the complex number 1 + i is?,√2 (cos π/4 + i sin π/4),√2 (cos π/2 + i sin π/2),2 (cos π/4 + i sin π/4),√2 (cos π/3 + i sin π/3),A
+42,If A = {1, 3, 5} and B = {2, 4, 6}, then A ∩ B is?,{1, 2},{3, 4},∅,{5, 6},C
+43,The period of the function f(x) = tan(2x) is?,π/2,π,2π,π/4,A
+44,The adjoint of the matrix [[1, 2], [3, 4]] is?,[[4, −2], [−3, 1]],[[4, 2], [3, 1]],[[1, −2], [−3, 4]],[[1, 2], [3, 4]],A
+45,The sum of the series 1 + 3 + 5 + … + (2n − 1) is?,n²,2n,n(n + 1),2n²,A
+46,The value of cosec(π/3) is?,2/√3,√3,2,1/√3,A
+47,The equation of the circle with center (2, 3) and radius 4 is?,(x − 2)² + (y − 3)² = 16,(x + 2)² + (y + 3)² = 16,(x − 2)² + (y − 3)² = 4,(x − 2)² + (y + 3)² = 16,A
+48,The number of terms in the expansion of (a + b)⁴ is?,4,5,6,7,B
+49,The discriminant of the quadratic equation x² + 2x − 3 = 0 is?,4,8,12,16,C
+50,The general solution of sin x = 1/2 is?,x = π/6 + 2nπ, π/3 + 2nπ,x = π/6 + nπ, 5π/6 + nπ,x = π/3 + 2nπ, 2π/3 + 2nπ,x = π/6 + 2nπ, 5π/6 + 2nπ,D
+51,The modulus of the complex number 3 − 4i is?,5,7,√7,√25,A
+52,If A = {2, 4, 6} and B = {1, 2, 3}, then A ∪ B is?,{1, 2, 3, 4, 6},{2, 4, 6},{1, 2, 3},{2},A
+53,The function f(x) = x² is?,Injective but not surjective,Surjective but not injective,Neither injective nor surjective,Both injective and surjective,C
+54,The determinant of the matrix [[4, −1], [2, 3]] is?,14,10,12,16,A
+55,The roots of the quadratic equation x² + 2x − 8 = 0 are?,2, −4,−2, 4,1, −8,−1, 8,A
+56,The 7th term of the arithmetic sequence with first term 3 and common difference 2 is?,15,13,17,11,A
+57,The value of tan(π/4) is?,1,√3,1/√3,√2,A
+58,The equation of the line with slope −1 passing through (0, 5) is?,y = −x + 5,y = x + 5,y = −x − 5,y = x − 5,A
+59,The number of combinations of 5 objects taken 3 at a time is?,10,20,15,5,A
+60,If log₅(x) = 2, then x equals?,10,25,5,15,B
+61,The polar form of the complex number −1 + i is?,√2 (cos 3π/4 + i sin 3π/4),√2 (cos π/4 + i sin π/4),2 (cos 3π/4 + i sin 3π/4),√2 (cos π/2 + i sin π/2),A
+62,If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B is?,{1, 2},{3},{4, 5},∅,B
+63,The period of the function f(x) = cos(5x) is?,2π/5,π/5,π,2π,A
+64,The adjoint of the matrix [[2, 1], [4, 3]] is?,[[3, −1], [−4, 2]],[[3, 1], [4, 2]],[[2, −1], [−4, 3]],[[2, 1], [4, 3]],A
+65,The sum of the series 2 + 4 + 6 + … + 2n is?,n(n + 1),2n(n + 1),n²,2n²,A
+66,The value of sec(π/3) is?,2,√3,1/√3,1/2,A
+67,The equation of the circle with center (−1, 2) and radius 3 is?,(x + 1)² + (y − 2)² = 9,(x − 1)² + (y + 2)² = 9,(x + 1)² + (y − 2)² = 3,(x − 1)² + (y + 2)² = 3,A
+68,The number of terms in the expansion of (x + y)⁵ is?,5,6,7,4,B
+69,The discriminant of the quadratic equation x² − 6x + 9 = 0 is?,0,4,9,12,A
+70,The general solution of cos x = −1/2 is?,x = 2π/3 + 2nπ, 4π/3 + 2nπ,x = π/3 + 2nπ, 5π/3 + 2nπ,x = π/6 + 2nπ, 5π/6 + 2nπ,x = π/3 + nπ, 2π/3 + nπ,A
+71,The conjugate of the complex number 2 − 3i is?,2 + 3i,−2 + 3i,2 − 3i,−2 − 3i,A
+72,The number of subsets of a set with 3 elements is?,8,4,16,6,A
+73,The domain of the function f(x) = √(x − 1) is?,x ≥ 1,x > 0,x ≥ 0,x < 1,A
+74,The characteristic equation of the matrix [[1, 2], [3, 2]] is?,λ² − 3λ − 4 = 0,λ² − 3λ + 4 = 0,λ² + 3λ − 4 = 0,λ² − 3λ − 8 = 0,A
+75,The product of the roots of the quadratic equation 3x² − 4x + 1 = 0 is?,1/3,−1/3,4/3,−4/3,A
+76,The common ratio of the geometric sequence 4, 12, 36, 108, … is?,3,2,4,1/3,A
+77,The value of sin(5π/6) is?,1/2,−1/2,√3/2,−√3/2,B
+78,The slope of the line parallel to y = 2x − 3 is?,2,−2,1/2,−1/2,A
+79,The number of permutations of 4 distinct objects taken all at a time is?,24,12,6,8,A
+80,If (x − 3) is a factor of x² − kx + 12, then k is?,7,5,3,9,A
+81,The argument of the complex number −1 − i is?,−3π/4,−π/4,3π/4,π/4,A
+82,If A ⊆ B, then A ∪ B equals?,A,B,A ∩ B,∅,B
+83,The range of the function f(x) = 2x + 3 is?,All real numbers,y ≥ 0,y ≤ 3,y ≥ 3,A
+84,The trace of the matrix [[1, 4], [2, 3]] is?,4,7,5,6,A
+85,The nature of the roots of x² + 2x + 2 = 0 is?,Real and distinct,Real and equal,Complex,No real roots,C
+86,The 6th term of the arithmetic sequence with first term 1 and common difference 4 is?,21,25,17,13,A
+87,The value of cot(π/3) is?,√3,1/√3,1,√2,B
+88,The midpoint of the line segment joining (1, 2) and (5, 8) is?,(3, 5),(2, 4),(4, 6),(3, 6),A
+89,The number of ways to choose 2 books from 6 is?,15,12,10,20,A
+90,The solution to the equation log₂(3x − 1) = 3 is?,3,9/3,5/3,8/3,A
+91,The polar form of the complex number 1 − i is?,√2 (cos −π/4 + i sin −π/4),√2 (cos π/4 + i sin π/4),2 (cos −π/4 + i sin −π/4),√2 (cos π/2 + i sin π/2),A
+92,If A = {2, 4, 6, 8} and B = {4, 8, 12}, then A − B is?,{2, 6},{4, 8},{12},{2, 4, 6, 8},A
+93,The period of the function f(x) = tan(3x) is?,π/3,π,2π/3,π/6,A
+94,The adjoint of the matrix [[3, 2], [1, 4]] is?,[[4, −2], [−1, 3]],[[4, 2], [1, 3]],[[3, −2], [−1, 4]],[[3, 2], [1, 4]],A
+95,The sum of the series 1 + 2 + 3 + … + n is?,n(n + 1)/2,n²,n(n − 1)/2,2n,A
+96,The value of cosec(π/6) is?,2,√3,1/√3,1/2,A
+97,The equation of the circle with center (0, 0) and passing through (3, 4) is?,x² + y² = 25,x² + y² = 9,x² + y² = 16,x² + y² = 5,A
+98,The number of terms in the expansion of (a + b)³ is?,3,4,5,6,B
+99,The discriminant of the quadratic equation 2x² − 4x + 3 = 0 is?,−8,8,16,4,A
+100,The general solution of sin x = √3/2 is?,x = π/3 + 2nπ, π/6 + 2nπ,x = π/3 + 2nπ, 2π/3 + 2nπ,x = π/6 + 2nπ, 5π/6 + 2nπ,x = π/3 + 2nπ, 5π/3 + 2nπ,D
+101,The modulus of the complex number −5 + 12i is?,13,17,10,15,A
+102,If A = {1, 3, 5, 7} and B = {3, 5, 9}, then A ∪ B is?,{1, 3, 5, 7, 9},{3, 5},{1, 7, 9},{3, 5, 7},A
+103,The function f(x) = 1/x is?,Injective but not surjective,Surjective but not injective,Neither injective nor surjective,Both injective and surjective,C
+104,The determinant of the matrix [[5, 2], [1, 3]] is?,13,15,11,17,A
+105,The roots of the quadratic equation x² + 4x − 5 = 0 are?,1, −5,−1, 5,2, −3,−2, 3,A
+106,The 9th term of the arithmetic sequence with first term 4 and common difference 3 is?,28,25,31,22,A
+107,The value of cos(π/4) is?,√3/2,1/2,√2/2,1,C
+108,The equation of the line passing through (2, −1) with slope −2 is?,y = −2x + 3,y = −2x − 3,y = 2x + 3,y = 2x − 3,A
+109,The number of combinations of 7 objects taken 2 at a time is?,21,14,28,10,A
+110,If log₄(x) = 2, then x equals?,8,16,4,12,B
+111,The polar form of the complex number 2 + 2i is?,2√2 (cos π/4 + i sin π/4),√2 (cos π/4 + i sin π/4),2 (cos π/2 + i sin π/2),2√2 (cos π/3 + i sin π/3),A
+112,If A = {2, 4, 6} and B = {1, 3, 5}, then A ∩ B is?,{2, 4},{1, 3},∅,{6, 5},C
+113,The period of the function f(x) = sin(6x) is?,π/3,2π/3,π/6,2π,C
+114,The adjoint of the matrix [[1, 4], [2, 3]] is?,[[3, −4], [−2, 1]],[[3, 4], [2, 1]],[[1, −4], [−2, 3]],[[1, 4], [2, 3]],A
+115,The sum of the series 3 + 6 + 9 + … + 3n is?,3n(n + 1)/2,3n²,3n(n + 1),n(n + 1),A
+116,The value of sec(π/6) is?,2/√3,√3,1/√3,2,A
+117,The equation of the circle with center (3, −2) and radius 5 is?,(x − 3)² + (y + 2)² = 25,(x + 3)² + (y − 2)² = 25,(x − 3)² + (y + 2)² = 5,(x + 3)² + (y + 2)² = 25,A
+118,The number of terms in the expansion of (a + b)⁶ is?,6,7,8,5,B
+119,The discriminant of the quadratic equation x² + 3x + 1 = 0 is?,5,9,1,13,A
+120,The general solution of tan x = 1 is?,x = π/4 + nπ,x = π/3 + nπ,x = π/6 + nπ,x = π/2 + nπ,A
+121,The conjugate of the complex number −4 + 3i is?,−4 − 3i,4 − 3i,−4 + 3i,4 + 3i,A
+122,The number of subsets of a set with 5 elements is?,16,32,64,8,B
+123,The domain of the function f(x) = 1/(x² − 4) is?,All real numbers,All real numbers except x = ±2,All real numbers except x = 2,All real numbers except x = 0,B
+124,The characteristic equation of the matrix [[2, 3], [1, 4]] is?,λ² − 6λ + 5 = 0,λ² − 6λ − 5 = 0,λ² + 6λ + 5 = 0,λ² − 6λ + 7 = 0,A
+125,The sum of the roots of the quadratic equation 2x² − 3x − 2 = 0 is?,3/2,−3/2,2,−2,A
+126,The common ratio of the geometric sequence 8, 4, 2, 1, … is?,1/2,2,1/4,4,A
+127,The value of sin(7π/6) is?,−1/2,1/2,−√3/2,√3/2,A
+128,The slope of the line perpendicular to y = −4x + 1 is?,1/4,−1/4,4,−4,A
+129,The number of permutations of 6 distinct objects taken 2 at a time is?,12,30,15,60,A
+130,If (x + 1) is a factor of x² + kx − 2, then k is?,1,−1,3,−3,A
+131,The argument of the complex number 1 + i√3 is?,π/3,π/6,2π/3,π/2,A
+132,If A ⊆ B, then A ∩ B equals?,A,B,A ∪ B,∅,A
+133,The range of the function f(x) = x² − 2 is?,y ≥ 0,y ≥ −2,y ≤ −2,y ≥ 2,B
+134,The trace of the matrix [[3, 1], [2, 5]] is?,8,6,7,9,A
+135,The nature of the roots of x² − 2x + 5 = 0 is?,Real and distinct,Real and equal,Complex,No real roots,C
+136,The 4th term of the arithmetic sequence with first term −2 and common difference 5 is?,13,8,18,3,A
+137,The value of cot(π/6) is?,√3,1/√3,1,√2,A
+138,The midpoint of the line segment joining (−1, 3) and (3, −1) is?,(1, 1),(0, 1),(1, 0),(0, 0),A
+139,The number of ways to choose 4 students from 7 is?,35,21,15,28,A
+140,The solution to the equation log₃(x + 2) = 2 is?,7,5,4,6,A
+141,The polar form of the complex number −√3 + i is?,2 (cos π/6 + i sin π/6),2 (cos 5π/6 + i sin 5π/6),√2 (cos π/6 + i sin π/6),2 (cos π/3 + i sin π/3),B
+142,If A = {1, 2, 4, 8} and B = {2, 4, 6}, then A − B is?,{1, 8},{2, 4},{6},{1, 2, 4, 8},A
+143,The period of the function f(x) = cos(2x) is?,π,2π,π/2,4π,A
+144,The adjoint of the matrix [[4, 1], [2, 3]] is?,[[3, −1], [−2, 4]],[[3, 1], [2, 4]],[[4, −1], [−2, 3]],[[4, 1], [2, 3]],A
+145,The sum of the series 1 + 3 + 9 + … + 3^(n−1) is?,(3^n − 1)/2,3^n − 1,(3^n + 1)/2,3^n,A
+146,The value of cosec(π/4) is?,√2,2,1/√2,1,A
+147,The equation of the circle with center (0, 0) and passing through (−2, 3) is?,x² + y² = 13,x² + y² = 9,x² + y² = 5,x² + y² = 25,A
+148,The number of terms in the expansion of (x + y)² is?,2,3,4,5,B
+149,The discriminant of the quadratic equation 3x² − 2x − 1 = 0 is?,4,8,16,10,A
+150,The general solution of cos x = √2/2 is?,x = π/4 + 2nπ, 7π/4 + 2nπ,x = π/3 + 2nπ, 5π/3 + 2nπ,x = π/6 + 2nπ, 5π/6 + 2nπ,x = π/4 + 2nπ, 3π/4 + 2nπ,A
+151,The modulus of the complex number 8 − 6i is?,10,14,12,8,A
+152,If A = {2, 4, 6, 8} and B = {4, 6, 10}, then A ∪ B is?,{2, 4, 6, 8, 10},{4, 6},{2, 8, 10},{4, 6, 8},A
+153,The function f(x) = |x| is?,Injective but not surjective,Surjective but not injective,Neither injective nor surjective,Both injective and surjective,C
+154,The determinant of the matrix [[3, −2], [4, 1]] is?,11,7,5,9,A
+155,The roots of the quadratic equation x² − 8x + 15 = 0 are?,3, 5,−3, −5,2, 6,−2, −6,A
+156,The 10th term of the arithmetic sequence with first term 5 and common difference 4 is?,41,37,45,33,A
+157,The value of sin(π/3) is?,√3/2,1/2,√2/2,1,A
+158,The equation of the line passing through (−1, 2) with slope 3 is?,y = 3x + 5,y = 3x − 5,y = −3x + 2,y = −3x − 2,A
+159,The number of combinations of 6 objects taken 4 at a time is?,15,20,10,30,A
+160,If log₃(x) = 3, then x equals?,9,27,6,12,B
+161,The polar form of the complex number −2 − 2i is?,2√2 (cos 5π/4 + i sin 5π/4),2√2 (cos π/4 + i sin π/4),2 (cos 5π/4 + i sin 5π/4),√2 (cos π/4 + i sin π/4),A
+162,If A = {1, 3, 5, 7} and B = {2, 4, 6}, then A ∩ B is?,{1, 3},{2, 4},∅,{5, 7},C
+163,The period of the function f(x) = tan(4x) is?,π/4,π/2,π,2π,A
+164,The adjoint of the matrix [[2, −1], [3, 4]] is?,[[4, 1], [−3, 2]],[[4, −1], [3, 2]],[[2, 1], [−3, 4]],[[2, −1], [3, 4]],A
+165,The sum of the series 4 + 8 + 12 + … + 4n is?,2n(n + 1),4n(n + 1),2n²,4n²,A
+166,The value of sec(π/4) is?,√2,2,1/√2,1,A
+167,The equation of the circle with center (−2, 1) and radius 4 is?,(x + 2)² + (y − 1)² = 16,(x − 2)² + (y + 1)² = 16,(x + 2)² + (y − 1)² = 4,(x − 2)² + (y + 1)² = 4,A
+168,The number of terms in the expansion of (x + y)⁷ is?,7,8,6,9,B
+169,The discriminant of the quadratic equation 2x² + 4x + 1 = 0 is?,8,4,16,0,A
+170,The general solution of sin x = −√3/2 is?,x = 4π/3 + 2nπ, 5π/3 + 2nπ,x = π/3 + 2nπ, 2π/3 + 2nπ,x = π/6 + 2nπ, 5π/6 + 2nπ,x = π/3 + 2nπ, 4π/3 + 2nπ,A
+171,The conjugate of the complex number 5 + 2i is?,5 − 2i,−5 + 2i,5 + 2i,−5 − 2i,A
+172,The number of subsets of a set with 6 elements is?,64,32,16,128,A
+173,The domain of the function f(x) = √(x + 2) is?,x ≥ −2,x > 0,x ≥ 0,x < −2,A
+174,The characteristic equation of the matrix [[4, 1], [2, 3]] is?,λ² − 7λ + 10 = 0,λ² − 7λ − 10 = 0,λ² + 7λ + 10 = 0,λ² − 7λ + 12 = 0,A
+175,The product of the roots of the quadratic equation x² − 5x + 6 = 0 is?,6,−6,5,−5,A
+176,The common ratio of the geometric sequence 9, 3, 1, 1/3, … is?,1/3,3,1/9,9,A
+177,The value of cos(5π/3) is?,1/2,−1/2,√3/2,−√3/2,A
+178,The slope of the line parallel to y = −2x + 5 is?,−2,2,1/2,−1/2,A
+179,The number of permutations of 5 distinct objects taken 3 at a time is?,60,120,20,30,A
+180,If (x − 2) is a factor of x² − kx + 4, then k is?,6,4,2,8,A
+181,The argument of the complex number −i is?,−π/2,π/2,π,−π,A
+182,If A ⊆ B, then A − B equals?,A,B,∅,A ∪ B,C
+183,The range of the function f(x) = 3x − 1 is?,All real numbers,y ≥ 0,y ≥ −1,y ≤ −1,A
+184,The trace of the matrix [[2, 5], [1, 3]] is?,5,7,8,6,A
+185,The nature of the roots of x² + 4x + 5 = 0 is?,Real and distinct,Real and equal,Complex,No real roots,C
+186,The 5th term of the arithmetic sequence with first term 3 and common difference −2 is?,−5,−3,5,3,A
+187,The value of tan(π/3) is?,√3,1/√3,1,√2,A
+188,The midpoint of the line segment joining (0, 4) and (4, 0) is?,(2, 2),(1, 2),(2, 1),(0, 0),A
+189,The number of ways to choose 3 books from 8 is?,56,24,28,12,A
+190,The solution to the equation log₂(x − 1) = 4 is?,17,15,9,5,A
+191,The polar form of the complex number √3 − i is?,2 (cos −π/6 + i sin −π/6),2 (cos π/6 + i sin π/6),√2 (cos −π/6 + i sin −π/6),2 (cos π/3 + i sin π/3),A
+192,If A = {1, 3, 5, 7, 9} and B = {3, 6, 9}, then A − B is?,{1, 5, 7},{3, 9},{6},{1, 3, 5, 7, 9},A
+193,The period of the function f(x) = sin(3x) is?,2π/3,π/3,π,2π,A
+194,The adjoint of the matrix [[1, 3], [2, 4]] is?,[[4, −3], [−2, 1]],[[4, 3], [2, 1]],[[1, −3], [−2, 4]],[[1, 3], [2, 4]],A
+195,The sum of the series 5 + 10 + 15 + … + 5n is?,5n(n + 1)/2,5n²,5n(n + 1),n(n + 1),A
+196,The value of cosec(π/3) is?,2/√3,√3,1/√3,2,A
+197,The equation of the circle with center (0, 0) and passing through (5, 0) is?,x² + y² = 25,x² + y² = 5,x² + y² = 10,x² + y² = 15,A
+198,The number of terms in the expansion of (a + b)⁸ is?,8,9,7,10,B
+199,The discriminant of the quadratic equation 4x² − 4x + 1 = 0 is?,0,4,8,16,A
+200,The general solution of tan x = −1 is?,x = 3π/4 + nπ,x = π/4 + nπ,x = π/2 + nπ,x = 5π/4 + nπ,A
